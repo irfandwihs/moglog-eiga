@@ -1,0 +1,800 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="shortcut icon"
+      href="./assets/images/logo.webp"
+      type="image/png"
+    />
+    <title>MogEi</title>
+
+    <!--
+    - custom css link
+  -->
+    <link rel="stylesheet" href="./assets/css/main.css" />
+    <link rel="stylesheet" href="./assets/css/media_query.css" />
+    <link rel="stylesheet" href="./assets/css/filter.css" />
+
+    <!--
+    - google font link
+  -->
+    <link
+      href="https://fonts.googleapis.com/css?family=Inter:100,200,300,regular,500,600,700,800,900"
+      rel="stylesheet"
+    />
+  </head>
+
+  <body>
+    <!--
+    - main container
+  -->
+    <div class="container">
+      <!--
+      - #HEADER SECTION
+    -->
+
+      <header class="">
+        <div class="navbar">
+          <!--
+          - menu button for small screen
+        -->
+          <button class="navbar-menu-btn">
+            <span class="one"></span>
+            <span class="two"></span>
+            <span class="three"></span>
+          </button>
+
+          <a href="#" class="navbar-brand">
+            <img src="./assets/images/logo.webp" alt="" />
+          </a>
+
+          <!--
+          - navbar navigation
+        -->
+
+          <nav class="">
+            <ul class="navbar-nav">
+              <li><a href="#" class="navbar-link">Home</a></li>
+            </ul>
+          </nav>
+
+          <!--
+          - search and sign-in
+        -->
+
+          <div class="navbar-actions">
+            <form action="#" class="navbar-form">
+              <input
+                type="text"
+                name="search"
+                placeholder="I'm looking for..."
+                class="navbar-form-search"
+              />
+
+              <button class="navbar-form-btn">
+                <ion-icon name="search-outline"></ion-icon>
+              </button>
+
+              <button class="navbar-form-close">
+                <ion-icon name="close-circle-outline"></ion-icon>
+              </button>
+            </form>
+
+            <!--
+            - search button for small screen
+          -->
+
+            <button class="navbar-search-btn">
+              <ion-icon name="search-outline"></ion-icon>
+            </button>
+          </div>
+        </div>
+      </header>
+
+      <!--
+      - MAIN SECTION
+    -->
+      <main>
+        <!--
+        - #MOVIES SECTION
+      -->
+        <section class="movies">
+          <!--
+          - filter bar
+        -->
+          <div class="filter-bar">
+            <div class="lok">
+              <div class="dropdown">
+                <input
+                  type="text"
+                  class="textBox"
+                  placeholder="Filter Genre"
+                  readonly
+                />
+                <div class="option" id="all">
+                  <div onclick="handleFilterByCategory('all', 'All')">All</div>
+                  <div onclick="handleFilterByCategory('action', 'Action')">
+                    Action
+                  </div>
+                  <div
+                    onclick="handleFilterByCategory('adventure', 'Adventure')"
+                  >
+                    Adventure
+                  </div>
+                  <div
+                    onclick="handleFilterByCategory('animation', 'Animation')"
+                  >
+                    Animation
+                  </div>
+                  <div
+                    onclick="handleFilterByCategory('biography', 'Biography')"
+                  >
+                    Biography
+                  </div>
+                  <div onclick="handleFilterByCategory('comedy', 'Comedy')">
+                    Comedy
+                  </div>
+                  <div onclick="handleFilterByCategory('crime', 'Crime')">
+                    Crime
+                  </div>
+                  <div onclick="handleFilterByCategory('drama', 'Drama')">
+                    Drama
+                  </div>
+                  <div
+                    onclick="handleFilterByCategory('documentary', 'Documentary')"
+                  >
+                    Documentary
+                  </div>
+                  <div onclick="handleFilterByCategory('fantasy', 'Fantasy')">
+                    Fantasy
+                  </div>
+                  <div onclick="handleFilterByCategory('horror', 'Horror')">
+                    Horror
+                  </div>
+                  <div onclick="handleFilterByCategory('romance', 'Romance')">
+                    Romance
+                  </div>
+                  <div onclick="handleFilterByCategory('sci-fi', 'Sci-Fi')">
+                    Sci-Fi
+                  </div>
+                  <div onclick="handleFilterByCategory('thriller', 'Thriller')">
+                    Thriller
+                  </div>
+                  <div onclick="handleFilterByCategory('war', 'War')">War</div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!--
+          - movies grid
+        -->
+          <div class="movies-grid">
+            <div class="all crime documentary">
+              <div class="movie-card">
+                <div class="card-head">
+                  <img
+                    src="https://iili.io/HfdE40Q.md.webp"
+                    alt=""
+                    class="card-img"
+                  />
+
+                  <div class="card-overlay">
+                    <div class="bookmark">
+                      <ion-icon name="calendar-outline"></ion-icon>
+                      <span>2022</span>
+                    </div>
+
+                    <div class="rating">
+                      <ion-icon name="star-outline"></ion-icon>
+                      <span>6.0</span>
+                    </div>
+
+                    <div class="play">
+                      <a href="./page/Ghislaine Maxwell Filthy Rich.html">
+                        <ion-icon name="glasses"></ion-icon>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="card-body">
+                  <h3 class="card-title">Ghislaine Maxwell: Filthy Rich</h3>
+
+                  <div class="card-info">
+                    <span class="genre">Crime/Documentary</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="all action adventure thriller">
+              <div class="movie-card">
+                <div class="card-head">
+                  <img
+                    src="https://iili.io/yXHVKQ.md.webp"
+                    alt=""
+                    class="card-img"
+                  />
+
+                  <div class="card-overlay">
+                    <div class="bookmark">
+                      <ion-icon name="calendar-outline"></ion-icon>
+                      <span>2022</span>
+                    </div>
+
+                    <div class="rating">
+                      <ion-icon name="star-outline"></ion-icon>
+                      <span>5.4</span>
+                    </div>
+
+                    <div class="play">
+                      <a href="./page/Gold.html">
+                        <ion-icon name="glasses"></ion-icon>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="card-body">
+                  <h3 class="card-title">Gold</h3>
+
+                  <div class="card-info">
+                    <span class="genre">Action/Adventure/Thriller</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="all documentary">
+              <div class="movie-card">
+                <div class="card-head">
+                  <img
+                    src="https://iili.io/HCPvnqJ.md.webp"
+                    alt=""
+                    class="card-img"
+                  />
+
+                  <div class="card-overlay">
+                    <div class="bookmark">
+                      <ion-icon name="calendar-outline"></ion-icon>
+                      <span>2022</span>
+                    </div>
+
+                    <div class="rating">
+                      <ion-icon name="star-outline"></ion-icon>
+                      <span>7.7</span>
+                    </div>
+
+                    <div class="play">
+                      <a href="./page/Good Night Oppy.html">
+                        <ion-icon name="glasses"></ion-icon>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="card-body">
+                  <h3 class="card-title">Good Night Oppy</h3>
+
+                  <div class="card-info">
+                    <span class="genre">Documentary</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="all crime documentary">
+              <div class="movie-card">
+                <div class="card-head">
+                  <img
+                    src="https://iili.io/HC6p2SI.md.webp"
+                    alt=""
+                    class="card-img"
+                  />
+
+                  <div class="card-overlay">
+                    <div class="bookmark">
+                      <ion-icon name="calendar-outline"></ion-icon>
+                      <span>2022</span>
+                    </div>
+
+                    <div class="rating">
+                      <ion-icon name="star-outline"></ion-icon>
+                      <span>6.2</span>
+                    </div>
+
+                    <div class="play">
+                      <a href="./page/I Am Vannesa.html">
+                        <ion-icon name="glasses"></ion-icon>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="card-body">
+                  <h3 class="card-title">I Am Vanessa Guillen</h3>
+
+                  <div class="card-info">
+                    <span class="genre">Crime/Documentary</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="all comedy romance">
+              <div class="movie-card">
+                <div class="card-head">
+                  <img
+                    src="https://iili.io/HCth6bI.md.webp"
+                    alt=""
+                    class="card-img"
+                  />
+
+                  <div class="card-overlay">
+                    <div class="bookmark">
+                      <ion-icon name="calendar-outline"></ion-icon>
+                      <span>2022</span>
+                    </div>
+
+                    <div class="rating">
+                      <ion-icon name="star-outline"></ion-icon>
+                      <span>6.8</span>
+                    </div>
+
+                    <div class="play">
+                      <a href="./page/Jaifu Story.html">
+                        <ion-icon name="glasses"></ion-icon>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="card-body">
+                  <h3 class="card-title">Jaifu Story</h3>
+
+                  <div class="card-info">
+                    <span class="genre">Comedy/Romance</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="all documentary">
+              <div class="movie-card">
+                <div class="card-head">
+                  <img
+                    src="https://iili.io/HfdXwNI.md.webp"
+                    alt=""
+                    class="card-img"
+                  />
+
+                  <div class="card-overlay">
+                    <div class="bookmark">
+                      <ion-icon name="calendar-outline"></ion-icon>
+                      <span>2022</span>
+                    </div>
+
+                    <div class="rating">
+                      <ion-icon name="star-outline"></ion-icon>
+                      <span>5.6</span>
+                    </div>
+
+                    <div class="play">
+                      <a href="./page/The Last Dolphin King.html">
+                        <ion-icon name="glasses"></ion-icon>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="card-body">
+                  <h3 class="card-title">The Last Dolphin King</h3>
+
+                  <div class="card-info">
+                    <span class="genre">Documentary</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="all crime documentary">
+              <div class="movie-card">
+                <div class="card-head">
+                  <img
+                    src="https://iili.io/HC6me87.md.webp"
+                    alt=""
+                    class="card-img"
+                  />
+
+                  <div class="card-overlay">
+                    <div class="bookmark">
+                      <ion-icon name="calendar-outline"></ion-icon>
+                      <span>2022</span>
+                    </div>
+
+                    <div class="rating">
+                      <ion-icon name="star-outline"></ion-icon>
+                      <span>7.1</span>
+                    </div>
+
+                    <div class="play">
+                      <a href="./page/The Tinder Swindler.html">
+                        <ion-icon name="glasses"></ion-icon>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="card-body">
+                  <h3 class="card-title">The Tinder Swindler</h3>
+
+                  <div class="card-info">
+                    <span class="genre">Crime/Documentary</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="all horror thriller">
+              <div class="movie-card">
+                <div class="card-head">
+                  <img
+                    src="https://iili.io/HC6pKAX.md.webp"
+                    alt=""
+                    class="card-img"
+                  />
+
+                  <div class="card-overlay">
+                    <div class="bookmark">
+                      <ion-icon name="calendar-outline"></ion-icon>
+                      <span>2021</span>
+                    </div>
+
+                    <div class="rating">
+                      <ion-icon name="star-outline"></ion-icon>
+                      <span>5.5</span>
+                    </div>
+
+                    <div class="play">
+                      <a href="./page/Superhost.html">
+                        <ion-icon name="glasses"></ion-icon>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="card-body">
+                  <h3 class="card-title">Superhost</h3>
+
+                  <div class="card-info">
+                    <span class="genre">Horror/Thriller</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="all horror">
+              <div class="movie-card">
+                <div class="card-head">
+                  <img
+                    src="https://iili.io/5eEYXt.md.webp"
+                    alt=""
+                    class="card-img"
+                  />
+
+                  <div class="card-overlay">
+                    <div class="bookmark">
+                      <ion-icon name="calendar-outline"></ion-icon>
+                      <span>2021</span>
+                    </div>
+
+                    <div class="rating">
+                      <ion-icon name="star-outline"></ion-icon>
+                      <span>6.0</span>
+                    </div>
+
+                    <div class="play">
+                      <a href="./page/The Cursed.html">
+                        <ion-icon name="glasses"></ion-icon>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="card-body">
+                  <h3 class="card-title">The Cursed</h3>
+
+                  <div class="card-info">
+                    <span class="genre">Horror</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="all comedy">
+              <div class="movie-card">
+                <div class="card-head">
+                  <img
+                    src="https://iili.io/5LpxAg.md.webp"
+                    alt=""
+                    class="card-img"
+                  />
+
+                  <div class="card-overlay">
+                    <div class="bookmark">
+                      <ion-icon name="calendar-outline"></ion-icon>
+                      <span>2020</span>
+                    </div>
+
+                    <div class="rating">
+                      <ion-icon name="star-outline"></ion-icon>
+                      <span>5.9</span>
+                    </div>
+
+                    <div class="play">
+                      <a href="./page/Not Quite Dead Yet.html">
+                        <ion-icon name="glasses"></ion-icon>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="card-body">
+                  <h3 class="card-title">Not Quite Dead Yet</h3>
+
+                  <div class="card-info">
+                    <span class="genre">Comedy</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="all comedy drama sport">
+              <div class="movie-card">
+                <div class="card-head">
+                  <img
+                    src="https://iili.io/HC6m8ue.md.webp"
+                    alt=""
+                    class="card-img"
+                  />
+
+                  <div class="card-overlay">
+                    <div class="bookmark">
+                      <ion-icon name="calendar-outline"></ion-icon>
+                      <span>2020</span>
+                    </div>
+
+                    <div class="rating">
+                      <ion-icon name="star-outline"></ion-icon>
+                      <span>6.5</span>
+                    </div>
+
+                    <div class="play">
+                      <a href="./page/Yowamushi Pedal.html">
+                        <ion-icon name="glasses"></ion-icon>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="card-body">
+                  <h3 class="card-title">Yowamushi Pedal</h3>
+
+                  <div class="card-info">
+                    <span class="genre">Comedy/Drama/Sport</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="all horror mystery thriller">
+              <div class="movie-card">
+                <div class="card-head">
+                  <img
+                    src="https://iili.io/HC6mUZb.md.webp"
+                    alt=""
+                    class="card-img"
+                  />
+
+                  <div class="card-overlay">
+                    <div class="bookmark">
+                      <ion-icon name="calendar-outline"></ion-icon>
+                      <span>2018</span>
+                    </div>
+
+                    <div class="rating">
+                      <ion-icon name="star-outline"></ion-icon>
+                      <span>4.7</span>
+                    </div>
+
+                    <div class="play">
+                      <a href="./page/Eerie.html">
+                        <ion-icon name="glasses"></ion-icon>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="card-body">
+                  <h3 class="card-title">Eerie</h3>
+
+                  <div class="card-info">
+                    <span class="genre">Horror/Mystery/Thriller</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="all drama mystery sci-fi">
+              <div class="movie-card">
+                <div class="card-head">
+                  <img
+                    src="https://iili.io/HC6mpoJ.md.webp"
+                    alt=""
+                    class="card-img"
+                  />
+
+                  <div class="card-overlay">
+                    <div class="bookmark">
+                      <ion-icon name="calendar-outline"></ion-icon>
+                      <span>2018</span>
+                    </div>
+
+                    <div class="rating">
+                      <ion-icon name="star-outline"></ion-icon>
+                      <span>6.7</span>
+                    </div>
+
+                    <div class="play">
+                      <a href="./page/Freaks.html">
+                        <ion-icon name="glasses"></ion-icon>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="card-body">
+                  <h3 class="card-title">Freaks</h3>
+
+                  <div class="card-info">
+                    <span class="genre">Drama/Mystery/Sci-Fi</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="all drama history thriller">
+              <div class="movie-card">
+                <div class="card-head">
+                  <img
+                    src="https://iili.io/HC6m66Q.md.webp"
+                    alt=""
+                    class="card-img"
+                  />
+
+                  <div class="card-overlay">
+                    <div class="bookmark">
+                      <ion-icon name="calendar-outline"></ion-icon>
+                      <span>2017</span>
+                    </div>
+
+                    <div class="rating">
+                      <ion-icon name="star-outline"></ion-icon>
+                      <span>7.3</span>
+                    </div>
+
+                    <div class="play">
+                      <a href="./page/The 12th Man.html">
+                        <ion-icon name="glasses"></ion-icon>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="card-body">
+                  <h3 class="card-title">The 12th Man</h3>
+
+                  <div class="card-info">
+                    <span class="genre">Drama/History/Thriller</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="all adventure comedy family">
+              <div class="movie-card">
+                <div class="card-head">
+                  <img
+                    src="https://iili.io/HC6m4Mx.md.webp"
+                    alt=""
+                    class="card-img"
+                  />
+
+                  <div class="card-overlay">
+                    <div class="bookmark">
+                      <ion-icon name="calendar-outline"></ion-icon>
+                      <span>2016</span>
+                    </div>
+
+                    <div class="rating">
+                      <ion-icon name="star-outline"></ion-icon>
+                      <span>7.2</span>
+                    </div>
+
+                    <div class="play">
+                      <a href="./page/Survival Family.html">
+                        <ion-icon name="glasses"></ion-icon>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="card-body">
+                  <h3 class="card-title">Survival Family</h3>
+
+                  <div class="card-info">
+                    <span class="genre">Adventure/Comedy/Family</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="all comedy drama romance">
+              <div class="movie-card">
+                <div class="card-head">
+                  <img
+                    src="https://iili.io/HC6mv99.md.webp"
+                    alt=""
+                    class="card-img"
+                  />
+
+                  <div class="card-overlay">
+                    <div class="bookmark">
+                      <ion-icon name="calendar-outline"></ion-icon>
+                      <span>2011</span>
+                    </div>
+
+                    <div class="rating">
+                      <ion-icon name="star-outline"></ion-icon>
+                      <span>7.2</span>
+                    </div>
+
+                    <div class="play">
+                      <a href="./page/Starbuck.html">
+                        <ion-icon name="glasses"></ion-icon>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="card-body">
+                  <h3 class="card-title">Starbuck</h3>
+
+                  <div class="card-info">
+                    <span class="genre">Comedy/Drama/Romance</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- <button class="load-more">LOAD MORE</button> -->
+        </section>
+
+        <!--
+        - #LIVE SECTION
+      --></main>
+
+      <!--
+      - FOOTER SECTION
+    -->
+      <footer></footer>
+    </div>
+
+    <!--
+    - custom js link
+  -->
+    <script src="./assets/js/main.js"></script>
+
+    <!--
+    - ionicon link
+  -->
+    <script
+      type="module"
+      src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"
+    ></script>
+    <script
+      nomodule
+      src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"
+    ></script>
+  </body>
+</html>
