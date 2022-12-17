@@ -4,132 +4,92 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Red Notice</title>
+
+    <!-- 
+    - favicon
+  -->
     <link
       rel="shortcut icon"
-      href="./assets/images/icon.png"
+      href="../assets/images/logo.webp"
       type="image/png"
     />
-    <title>CineFlix</title>
 
-    <!--
+    <!-- 
     - custom css link
   -->
-    <link rel="stylesheet" href="./assets/css/main.css" />
-    <link rel="stylesheet" href="./assets/css/media_query.css" />
-    <link rel="stylesheet" href="./assets/css/style.css" />
+    <link rel="stylesheet" href="../assets/css/style.css" />
 
-    <!--
+    <!-- 
     - google font link
   -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
-      href="https://fonts.googleapis.com/css?family=Inter:100,200,300,regular,500,600,700,800,900"
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap"
       rel="stylesheet"
     />
   </head>
 
-  <body>
-    <!--
-    - main container
+  <body id="#top">
+    <!-- 
+    - #HEADER
   -->
-    <div class="container">
-      <!--
-      - #HEADER SECTION
-    -->
 
-      <header class="">
-        <div class="navbar">
-          <!--
-          - menu button for small screen
-        -->
-          <button class="navbar-menu-btn">
-            <span class="one"></span>
-            <span class="two"></span>
-            <span class="three"></span>
-          </button>
+    <header class="header" data-header>
+      <div class="container">
+        <div class="overlay" data-overlay></div>
 
-          <a href="#" class="navbar-brand">
-            <img src="./assets/images/logo.png" alt="" />
-          </a>
+        <a href="../index.html" class="logo">
+          <img src="../assets/images/logo.webp" alt="logo" />
+        </a>
 
-          <!--
-          - navbar navigation
-        -->
+        <button class="menu-open-btn" data-menu-open-btn>
+          <ion-icon name="reorder-two"></ion-icon>
+        </button>
 
-          <nav class="">
-            <ul class="navbar-nav">
-              <li><a href="#" class="navbar-link">Home</a></li>
-              <li><a href="#category" class="navbar-link">Category</a></li>
-            </ul>
-          </nav>
+        <nav class="navbar" data-navbar>
+          <div class="navbar-top">
+            <a href="../index.html" class="logo">
+              <img src="../assets/images/logo.webp" alt="logo" />
+            </a>
 
-          <!--
-          - search and sign-in
-        -->
-
-          <div class="navbar-actions">
-            <form action="#" class="navbar-form">
-              <input
-                type="text"
-                name="search"
-                placeholder="I'm looking for..."
-                class="navbar-form-search"
-              />
-
-              <button class="navbar-form-btn">
-                <ion-icon name="search-outline"></ion-icon>
-              </button>
-
-              <button class="navbar-form-close">
-                <ion-icon name="close-circle-outline"></ion-icon>
-              </button>
-            </form>
-
-            <!--
-            - search button for small screen
-          -->
-
-            <button class="navbar-search-btn">
-              <ion-icon name="search-outline"></ion-icon>
+            <button class="menu-close-btn" data-menu-close-btn>
+              <ion-icon name="close-outline"></ion-icon>
             </button>
           </div>
-        </div>
-      </header>
 
-      <!--
-      - MAIN SECTION
-    -->
-      <main>
+          <ul class="navbar-list">
+            <li>
+              <a href="../index.html" class="navbar-link">Home</a>
+            </li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+
+    <main>
+      <article>
+        <!-- 
+        - #MOVIE DETAIL
+      -->
+
         <section class="movie-detail">
           <div class="container">
             <figure class="movie-detail-banner">
-              <img
-                src="./assets/images/movie-4.png"
-                alt="Free guy movie poster"
-              />
-
-              <button class="play-btn">
-                <ion-icon name="play-circle-outline"></ion-icon>
-              </button>
+              <img src="https://iili.io/5eEoqg.md.webp" alt="movie poster" />
             </figure>
 
             <div class="movie-detail-content">
-              <p class="detail-subtitle">New Episodes</p>
+              <!-- <p class="detail-subtitle">New Episodes</p> -->
 
-              <h1 class="h1 detail-title">Free <strong>Guy</strong></h1>
+              <h1 class="h1 detail-title">Red <strong>Notice</strong></h1>
 
               <div class="meta-wrapper">
-                <div class="badge-wrapper">
-                  <div class="badge badge-fill">PG 13</div>
-
-                  <div class="badge badge-outline">HD</div>
-                </div>
-
                 <div class="ganre-wrapper">
-                  <span>Action,</span>
-
-                  <span>Comedy,</span>
-
-                  <span>Thriller</span>
+                  <a href="#">Action, </a>
+                  <a href="#">Comedy, </a>
+                  <a href="#">Thriller</a>
                 </div>
 
                 <div class="date-time">
@@ -142,7 +102,11 @@
                   <div>
                     <ion-icon name="time-outline"></ion-icon>
 
-                    <time datetime="PT115M">115 min</time>
+                    <time datetime="">1h 58m</time>
+                  </div>
+                  <div>
+                    <ion-icon name="star-outline"></ion-icon>
+                    <span>6.3</span>
                   </div>
                 </div>
               </div>
@@ -154,52 +118,46 @@
               </p>
 
               <div class="details-actions">
-                <button class="share">
-                  <ion-icon name="share-social"></ion-icon>
-
-                  <span>Share</span>
-                </button>
-
-                <div class="title-wrapper">
-                  <p class="title">Prime Video</p>
-
-                  <p class="text">Streaming Channels</p>
-                </div>
-
-                <button class="btn btn-primary">
-                  <ion-icon name="play"></ion-icon>
-
-                  <span>Watch Now</span>
-                </button>
+                <iframe
+                  width="515"
+                  height="290"
+                  src="https://www.youtube.com/embed/Pj0wz7zu3Ms"
+                  title="Bstation video player"
+                  frameborder="0"
+                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                  allowfullscreen
+                  style="border-radius: 0.75rem"
+                ></iframe>
               </div>
 
-              <a
-                href="./assets/images/movie-4.png"
-                download
-                class="download-btn"
-              >
-                <span>Download</span>
+              <!-- <a href="https://bili.im/rwi8o6K" class="download-btn">
+                <span>Streaming</span>
 
-                <ion-icon name="download-outline"></ion-icon>
-              </a>
+                <ion-icon name="play-outline"></ion-icon>
+              </a> -->
             </div>
           </div>
         </section>
-      </main>
 
-      <!--
-      - FOOTER SECTION
-    -->
-      <footer></footer>
-    </div>
+        <!-- 
+        - #TV SERIES
+      --></article>
+    </main>
 
-    <!--
+    <!-- 
+    - #FOOTER
+  -->
+
+    <!-- 
+    - #GO TO TOP
+  -->
+
+    <!-- 
     - custom js link
   -->
-    <script src="./assets/js/main.js"></script>
     <script src="./assets/js/script.js"></script>
 
-    <!--
+    <!-- 
     - ionicon link
   -->
     <script
