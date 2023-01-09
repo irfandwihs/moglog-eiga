@@ -27,13 +27,8 @@ navbarFormCloseBtn.addEventListener("click", searchBarIsActive);
 
 /*==================== FILTER ====================*/
 
-function show(anything, year) {
-  if (anything == "filter-year") {
-    document.getElementById("filter-year").value = year;
-    return;
-  }
-
-  return (document.querySelector(".textBox").value = anything);
+function show(anything) {
+  document.querySelector(".textBox").value = anything;
 }
 
 let dropdown = document.querySelector(".dropdown");
@@ -41,24 +36,13 @@ dropdown.onclick = function () {
   dropdown.classList.toggle("active");
 };
 
-let dropdownYear = document.querySelector(".filter-year");
-dropdownYear.onclick = function () {
-  dropdownYear.classList.toggle("active");
-};
-
 function handleFilterByCategory(categorySelected, titleSelected) {
-  if (titleSelected == "filter-year") {
-    filterPosts(categorySelected);
-    show(titleSelected, categorySelected);
-    return;
-  }
-
   filterPosts(categorySelected);
   show(titleSelected);
 }
 
-var allCategoryPosts = document.querySelectorAll(".all");
 const categoryTitle = document.querySelectorAll(".category-title");
+const allCategoryPosts = document.querySelectorAll(".all");
 
 function filterPosts(item) {
   for (let i = 0; i < allCategoryPosts.length; i++) {
@@ -66,7 +50,6 @@ function filterPosts(item) {
       allCategoryPosts[i].style.display = "block";
     } else {
       allCategoryPosts[i].style.display = "none";
-      console.log(allCategoryPosts[i].classList);
     }
   }
 }

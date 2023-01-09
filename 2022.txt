@@ -1,15 +1,6 @@
-<div class="all animation adventure comedy"></div>
-<div class="all drama horror mystery"></div>
-<div class="all action adventure crime"></div>
-<div class="all action adventure crime"></div>
-<div class="all action adventure crime"></div>
-<div class="all action adventure crime"></div>
-<div class="all action adventure crime"></div>
-<div class="all action adventure crime"></div>
-<div class="all action adventure crime"></div>
-<div class="all action adventure crime"></div>
-<div class="all action adventure crime"></div>
-<div class="all action adventure crime"></div>
+
+
+<div class="all "></div>
 <div class="all action adventure crime"></div>
 <div class="all action adventure crime"></div>
 <div class="all action adventure crime"></div>
