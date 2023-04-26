@@ -67,22 +67,23 @@
         -->
 
           <div class="navbar-actions">
-            <form action="#" class="navbar-form">
+            <div class="navbar-form">
               <input
                 type="text"
+                id="search-input"
                 name="search"
                 placeholder="I'm looking for..."
                 class="navbar-form-search"
               />
 
-              <button class="navbar-form-btn">
+              <button class="navbar-form-btn" id="search-button">
                 <ion-icon name="search-outline"></ion-icon>
               </button>
 
-              <button class="navbar-form-close">
+              <!-- <button class="navbar-form-close">
                 <ion-icon name="close-circle-outline"></ion-icon>
-              </button>
-            </form>
+              </button> -->
+            </div>
 
             <!--
             - search button for small screen
@@ -224,6 +225,7 @@
           <!--
           - movies grid
         -->
+          <div id="search-results"></div>
           <div class="movies-grid">
             <div class="all comedy 2022" style="border-radius: 15px !important">
               <div class="movie-card">
@@ -13198,6 +13200,8 @@
     - custom js link
   -->
     <script src="./assets/js/main.js"></script>
+    <script src="cari.js"></script>
+    <script src="list.js"></script>
 
     <!--
     - ionicon link

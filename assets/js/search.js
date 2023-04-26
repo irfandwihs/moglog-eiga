@@ -12,7 +12,7 @@ inputBox.onkeyup = (e) => {
   let emptyArray = [];
   if (userData) {
     icon.onclick = () => {
-      webLink = `https://pernahnontonfilm.netflify.app/page/${userData}`;
+      webLink = `https://pernahnontonfilm.netlify.app/page/${userData}`;
       linkTag.setAttribute("href", webLink);
       linkTag.click();
     };
