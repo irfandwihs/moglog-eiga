@@ -151,7 +151,7 @@ films.forEach((film) => {
             >
           </div>
         </div>
-      </div>
+      </div><br/><br/>
         `;
   searchResults.appendChild(movieElement);
   /* row.appendChild(posterCell); */
