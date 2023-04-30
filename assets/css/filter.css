@@ -72,3 +72,23 @@
   background: #62baea;
   color: #fff;
 }
+
+#back-to-top-btn {
+  display: none; /* hide the button by default */
+  position: fixed; /* set the position to fixed */
+  bottom: 20px; /* distance from the bottom of the page */
+  right: 20px; /* distance from the right side of the page */
+  z-index: 1; /* make sure the button stays on top of other elements */
+  font-size: 18px; /* set the font size of the button */
+  border: none; /* remove the border */
+  outline: none; /* remove the outline */
+  background-color: #555; /* set the background color */
+  color: white; /* set the text color */
+  cursor: pointer; /* add a pointer cursor */
+  padding: 15px; /* add some padding */
+  border-radius: 50%; /* make the button round */
+}
+
+#back-to-top-btn:hover {
+  background-color: #666; /* change the background color on hover */
+}
