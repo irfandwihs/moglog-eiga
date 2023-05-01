@@ -403,6 +403,8 @@ nav {
   font-size: 3em;
   color: var(--white);
   text-shadow: 2px 0 2px #0007;
+  overflow: hidden !important;
+  text-overflow: ellipsis !important;
 }
 
 /*-------------------------------------*\
@@ -629,10 +631,14 @@ input ~ .checked-radio-bg {
   font-size: var(--fs-md);
   font-weight: var(--fw-5);
   margin-bottom: 5px;
+  overflow: hidden !important;
+  text-overflow: ellipsis !important;
 }
 
 .movie-card:hover .card-title {
   color: var(--light-azure);
+  overflow: hidden !important;
+  text-overflow: ellipsis !important;
 }
 
 .movie-card .card-info {
@@ -819,10 +825,14 @@ input ~ .checked-radio-bg {
 .live-card .card-title {
   font-size: var(--fs-lg);
   font-weight: var(--fw-5);
+  overflow: hidden !important;
+  text-overflow: ellipsis !important;
 }
 
 .live-card:hover .card-title {
   color: var(--light-azure);
+  overflow: hidden !important;
+  text-overflow: ellipsis !important;
 }
 
 /*-------------------------------------*\
