@@ -218,6 +218,7 @@ nav {
   margin-inline: auto;
   border-radius: 6px;
   overflow: hidden;
+  text-overflow: ellipsis;
   margin-bottom: 50px;
 }
 
@@ -351,6 +352,7 @@ nav {
   position: relative;
   height: 400px;
   overflow: hidden;
+  text-overflow: ellipsis;
   border-radius: 20px;
   cursor: pointer;
 }
@@ -513,6 +515,12 @@ input ~ .checked-radio-bg {
   grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
   gap: 30px;
   margin-bottom: 60px;
+  display: flex !important;
+  flex-wrap: wrap !important;
+  justify-content: space-around !important;
+  align-items: flex-start !important;
+  overflow: hidden !important;
+  text-overflow: ellipsis !important;
 }
 
 .movie-card {
@@ -529,7 +537,8 @@ input ~ .checked-radio-bg {
   height: 250px;
   border-radius: 15px !important;
   margin-bottom: 15px;
-  overflow: visible;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
 .movie-card:hover .card-img {
@@ -689,6 +698,7 @@ input ~ .checked-radio-bg {
   height: 150px;
   border-radius: 20px;
   overflow: hidden;
+  text-overflow: ellipsis;
   cursor: pointer;
 }
 
@@ -753,6 +763,7 @@ input ~ .checked-radio-bg {
   border-radius: 20px;
   margin-bottom: 15px;
   overflow: hidden;
+  text-overflow: ellipsis;
 }
 
 .live-card .card-head::after {

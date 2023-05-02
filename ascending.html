@@ -234,19 +234,9 @@
           <!--
           - movies grid
         -->
-          <div
-            class="movies-grid"
-            style="
-              display: flex !important;
-              flex-wrap: wrap !important;
-              justify-content: space-around !important;
-              align-items: flex-start !important;
-              overflow: hidden !important;
-              text-overflow: ellipsis !important;
-            "
-          >
+          <div class="movies-grid">
             <div
-              class="movies-grid"
+              class="movie-grid"
               style="
                 display: flex !important;
                 flex-wrap: wrap !important;
@@ -271,7 +261,9 @@
           </div>
         </section>
       </main>
-
+      <button onclick="topFunction()" id="back-to-top-btn" title="Go to top">
+        Top
+      </button>
       <footer></footer>
     </div>
 
@@ -319,8 +311,5 @@
         document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
       }
     </script>
-    <button onclick="topFunction()" id="back-to-top-btn" title="Go to top">
-      Top
-    </button>
   </body>
 </html>

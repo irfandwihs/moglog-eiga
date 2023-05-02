@@ -1,61 +1,44 @@
-function searchMovies() {
-  const searchTerm = document.getElementById("search-input").value;
-  const searchResults = document.getElementById("search-results");
-  searchResults.innerHTML = ""; // Clear previous search results
+const movies = [
+  {
+    title: "Starbuck",
+    year: 2011,
+    rating: 7.2,
+    genre: "Comedy/Drama/Romance",
+    duration: "1h 58m",
+  },
+  {
+    title: "Blue Valentine",
+    year: 2010,
+    rating: 7.3,
+    genre: "Drama/Romance",
+    duration: "1h 52m",
+  },
+];
 
-  for (let i = 0; i < movies.length; i++) {
-    const movie = movies[i];
+const tableBody = document.querySelector("#movie-table tbody");
 
-    if (movie.title.toLowerCase().includes(searchTerm.toLowerCase())) {
-      const movieElement = document.createElement("div");
-      movieElement.classList.add("movie");
-      movieElement.innerHTML = `
+movies.forEach((movie) => {
+  const row = document.createElement("tr");
 
-          <h3>${movie.title} (${movie.year})</h3>
-          <p><strong>Director:</strong> ${movie.director}</p>
-          <p><strong>Genre:</strong> ${movie.genre}</p>
-          <img src="${movie.poster}" alt="${movie.title} poster">
-          <div class="all comedy 2022" style="border-radius: 15px !important">
-              <div class="movie-card">
-                <div class="card-head">
-                  <img
-                    src="https://iili.io/psuX9f.md.webp"
-                    alt=""
-                    class="card-img"
-                  />
+  const titleCell = document.createElement("td");
+  titleCell.textContent = movie.title;
+  row.appendChild(titleCell);
 
-                  <div
-                    class="card-overlay"
-                    style="border-radius: 15px !important"
-                  >
-                    <div class="bookmark">
-                      <ion-icon name="calendar-outline"></ion-icon>
-                      <span>2022</span>
-                    </div>
+  const yearCell = document.createElement("td");
+  yearCell.textContent = movie.year;
+  row.appendChild(yearCell);
 
-                    <div class="rating">
-                      <ion-icon name="star-outline"></ion-icon>
-                      <span>7.1</span>
-                    </div>
-                  </div>
-                </div>
+  const ratingCell = document.createElement("td");
+  ratingCell.textContent = movie.rating;
+  row.appendChild(ratingCell);
 
-                <div class="card-body">
-                  <h3 class="card-title">6/45</h3>
+  const genreCell = document.createElement("td");
+  genreCell.textContent = movie.genre;
+  row.appendChild(genreCell);
 
-                  <div class="card-info">
-                    <span class="genre">Comedy</span>
-                  </div>
-                  <br />
-                  <a href="./page/6-45.html" class="btn-detail">Details</a>
-                </div>
-              </div>
-            </div>
-        `;
-      searchResults.appendChild(movieElement);
-    }
-  }
-}
+  const durationCell = document.createElement("td");
+  durationCell.textContent = movie.duration;
+  row.appendChild(durationCell);
 
-const searchButton = document.getElementById("search-button");
-searchButton.addEventListener("click", searchMovies);
+  tableBody.appendChild(row);
+});

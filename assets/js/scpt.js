@@ -89,72 +89,74 @@ movies.forEach((movie) => {
 
   movieGrid.appendChild(card);
 });
-/* function displayImage(src, width, height) {
-  var img = document.createElement("img");
-  img.src = src;
-  img.width = width;
-  img.height = height;
-  document.body.appendChild(img);
-} */
 
-films.forEach((film) => {
-  const row = document.createElement("tr");
-  /* const judulCell = document.createElement("h3");
-  judulCell.textContent = film.judul;
-  const genreCell = document.createElement("span");
-  genreCell.textContent = film.genre;
-  const tahunCell = document.createElement("span");
-  tahunCell.textContent = film.tahun;
-  const ratingCell = document.createElement("span");
-  ratingCell.textContent = film.rating; */
+//=======================================================//
+/* function showMovieDetails(movie) {
+  // Populate the HTML elements with the movie details
+  // document.getElementById("movie-title").textContent = movie.title;
+  //document.getElementById("movie-year").textContent = movie.year;
+  //document.getElementById("movie-rating").textContent = movie.rating;
+  //document.getElementById("movie-genre").textContent = movie.genre;
+  //document.getElementById("movie-duration").textContent = movie.duration;
+  //document.getElementById("movie-poster").src = movie.poster;
+  //document.getElementById("movie-synopsis").textContent = movie.synopsis;
+  //document.getElementById("movie-trailer").src = movie.embed; 
+  const movieTitle = document.getElementById("movie-title");
+  const movieYear = document.getElementById("movie-year");
+  const movieRating = document.getElementById("movie-rating");
+  const movieGenre = document.getElementById("movie-genre");
+  const moviePoster = document.getElementById("movie-poster");
+  const movieSynopsis = document.getElementById("movie-synopsis");
+  const movieDuration = document.getElementById("movie-duration");
+  const movieEmbed = document.getElementById("trailer");
+}
+ */
+/* movieTitle.textContent = movie.title;
+movieYear.textContent = movie.year;
+movieRating.textContent = movie.rating;
+movieGenre.textContent = movie.genre;
+moviePoster.src = movie.poster;
+movieSynopsis.textContent = movie.synopsis;
+movieDuration.textContent = movie.duration;
+movieEmbed.src = movie.embed; */
+// Get the movie title from the URL parameter
+/* const urlParams = new URLSearchParams(window.location.search);
+const movieTitle = urlParams.get("title"); */
 
-  /*   const posterCell = document.createElement("td");
-  posterCell.textContent = document.displayImage(
-    "https://iili.io/HvMvuHl.md.webp",
-    320,
-    250
-  ); */
+// Find the movie object with matching title
+/* const movie = movies.find((movie) => movie.title === movieTitle); */
 
-  /* row.appendChild(judulCell);
-  row.appendChild(genreCell);
-  row.appendChild(tahunCell);
-  row.appendChild(ratingCell); */
-  movieElement.classList.add("movie");
-  movieElement.innerHTML = `
-      
-        <div class="all crime drama thriller 2022">
-        <div class="movie-card">
-          <div class="card-head">
-          <img src="${movie.poster}" alt="${movie.title} poster">
+// Update the page content with movie data
+/* showMovieDetails(movie); */
 
-            <div class="card-overlay">
-              <div class="bookmark">
-                <ion-icon name="calendar-outline"></ion-icon>
-                <span>${movie.year}</span>
-              </div>
+// Show the details for the first movie initially
+/* showMovieDetails(movies[0]); */
 
-              <div class="rating">
-                <ion-icon name="star-outline"></ion-icon>
-                <span>${movie.rating}</span>
-              </div>
-            </div>
-          </div>
+// Add a click event listener to each movie link to show the corresponding details
+/* const movieLinks = document.querySelectorAll(".movie-link");
+movieLinks.forEach((link, index) => {
+  link.addEventListener("click", () => {
+    showMovieDetails(movies[index]);
+  });
+}); */
 
-          <div class="card-body">
-            <h3 class="card-title" style="overflow: hidden !important; text-overflow: ellipsis !important;">${movie.title}</h3>
+//=====================//
 
-            <div class="card-info">
-              <span class="genre"><p> ${movie.genre}</p></span>
-            </div>
-            <br /><a href="${movie.href}" class="btn-detail"
-              >Details</a
-            >
-          </div>
-        </div>
-      </div><br/><br/>
-        `;
-  searchResults.appendChild(movieElement);
-  /* row.appendChild(posterCell); */
+function showMovieDetails(title) {
+  // Find the movie in the array
+  const movie = movies.find((m) => m.title === title);
 
-  filmTable.appendChild(row);
-});
+  // Populate the HTML elements with the movie details
+  document.getElementById("movie-dtls").innerHTML = `
+    <h1>${movie.title}</h1>
+    <div>
+      <span>${movie.year}</span> |
+      <span>${movie.rating}</span> |
+      <span>${movie.genre}</span> |
+      <span>${movie.duration}</span>
+    </div>
+    <img src="${movie.poster}" alt="${movie.title}">
+    <p>${movie.synopsis}</p>
+    <iframe id="trailer" src="${movie.embed}" frameborder="0" allowfullscreen></iframe>
+  `;
+}

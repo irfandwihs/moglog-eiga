@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>${movie.title}</title>
+    <title>Supercell</title>
 
     <!-- 
     - favicon
@@ -75,133 +75,104 @@
       -->
 
         <section class="movie-detail">
-          <img
-            src="https://example.com/poster1.jpg"
-            alt="Movie 1 poster"
-            class="movie-poster"
-            data-index="0"
-          />
-          <h1 class="h1 detail-title movie-title" data-index="0">Movie 1</h1>
-
-          <img
-            src="https://example.com/poster2.jpg"
-            alt="Movie 2 poster"
-            class="movie-poster"
-            data-index="1"
-          />
-          <h1 class="h1 detail-title movie-title" data-index="1">Movie 2</h1>
-
           <div class="container">
-            <figure class="movie-detail-banner">
-              <img src="${movie.poster}" alt="${movie.title} poster" />
-            </figure>
-
-            <div class="movie-detail-content">
-              <!-- <p class="detail-subtitle">New Episodes</p> -->
-
-              <h1 class="h1 detail-title">${movie.title}</h1>
-
-              <div class="meta-wrapper">
-                <div class="ganre-wrapper">
-                  <a href="#">${movie.genre} </a>
-                </div>
-
-                <div class="date-time">
-                  <div>
-                    <ion-icon name="calendar-outline"></ion-icon>
-
-                    <time datetime="2023">${movie.year}</time>
-                  </div>
-
-                  <div>
-                    <ion-icon name="time-outline"></ion-icon>
-
-                    <time datetime="">1h 58m</time>
-                  </div>
-                  <div>
-                    <ion-icon name="star-outline"></ion-icon>
-                    <span>${movie.rating}</span>
-                  </div>
-                </div>
+            <!-- <div id="movie-dtls"></div> -->
+            <!-- <div id="movies-container"></div> -->
+            <!-- <div>
+              <h1 id="movie-title"></h1>
+              <div>
+                <span id="movie-year"></span> |
+                <span id="movie-rating"></span> |
+                <span id="movie-genre"></span>
               </div>
-
-              <p class="storyline">
-                The story of how one of the world's most popular video games
-                found its way to players around the globe. Businessman Henk
-                Rogers and Tetris inventor Alexey Pajitnov join forces in the
-                USSR, risking it all to bring Tetris to the masses.
-              </p>
-
-              <div class="details-actions">
-                <iframe
-                  width="515"
-                  height="290"
-                  src="https://www.youtube.com/embed/BLM1naCfME"
-                  title="Bstation video player"
-                  frameborder="0"
-                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                  allowfullscreen
-                  style="border-radius: 0.75rem"
-                ></iframe>
-              </div>
-            </div>
+              <img id="movie-poster" />
+              <p id="movie-synopsis"></p>
+              <iframe id="movie-trailer"></iframe>
+              <p id="movie-duration"></p>
+            </div> -->
+            <h1>Movies</h1>
+            <table id="movie-table">
+              <thead>
+                <tr>
+                  <th>Title</th>
+                  <th>Year</th>
+                  <th>Rating</th>
+                  <th>Genre</th>
+                  <th>Duration</th>
+                </tr>
+              </thead>
+              <tbody></tbody>
+            </table>
           </div>
         </section>
-      </article>
+
+        <!-- 
+        - #TV SERIES
+      --></article>
     </main>
 
-    <script>
+    <!-- 
+    - #FOOTER
+  -->
+
+    <!-- 
+    - #GO TO TOP
+  -->
+
+    <!-- 
+    - custom js link
+  -->
+    <!-- <script>
       const movies = [
         {
-          title: "Movie 1",
-          poster: "https://example.com/poster1.jpg",
-          genre: "Action",
-          year: 2023,
-          rating: 8.5,
-          storyline: "The story of Movie 1.",
-          trailer: "https://www.youtube.com/embed/trailer1",
+          title: "Starbuck",
+          year: 2011,
+          rating: 7.2,
+          genre: "Comedy/Drama/Romance",
+          duration: "1h 58m",
         },
         {
-          title: "Movie 2",
-          poster: "https://example.com/poster2.jpg",
-          genre: "Comedy",
-          year: 2022,
-          rating: 7.9,
-          storyline: "The story of Movie 2.",
-          trailer: "https://www.youtube.com/embed/trailer2",
+          title: "Blue Valentine",
+          year: 2010,
+          rating: 7.3,
+          genre: "Drama/Romance",
+          duration: "1h 52m",
         },
-        // more movie objects...
       ];
 
-      const moviePosters = document.querySelectorAll(".movie-poster");
+      const tableBody = document.querySelector("#movie-table tbody");
 
-      moviePosters.forEach((poster) => {
-        poster.addEventListener("click", (event) => {
-          const movieIndex = event.target.dataset.index;
-          displayMovieDetails(movies[movieIndex]);
-        });
+      movies.forEach((movie) => {
+        const row = document.createElement("tr");
+
+        const titleCell = document.createElement("td");
+        titleCell.textContent = movie.title;
+        row.appendChild(titleCell);
+
+        const yearCell = document.createElement("td");
+        yearCell.textContent = movie.year;
+        row.appendChild(yearCell);
+
+        const ratingCell = document.createElement("td");
+        ratingCell.textContent = movie.rating;
+        row.appendChild(ratingCell);
+
+        const genreCell = document.createElement("td");
+        genreCell.textContent = movie.genre;
+        row.appendChild(genreCell);
+
+        const durationCell = document.createElement("td");
+        durationCell.textContent = movie.duration;
+        row.appendChild(durationCell);
+
+        tableBody.appendChild(row);
       });
-
-      function displayMovieDetails(movie) {
-        const title = document.querySelector("title");
-        const poster = document.querySelector(".movie-detail-banner img");
-        const genre = document.querySelector(".ganre-wrapper a");
-        const year = document.querySelector(".date-time time:first-of-type");
-        const rating = document.querySelector(".date-time span");
-        const storyline = document.querySelector(".storyline");
-        const trailer = document.querySelector(".details-actions iframe");
-
-        title.textContent = movie.title;
-        poster.src = movie.poster;
-        poster.alt = `${movie.title} poster`;
-        genre.textContent = movie.genre;
-        year.textContent = movie.year;
-        rating.textContent = movie.rating;
-        storyline.textContent = movie.storyline;
-        trailer.src = movie.trailer;
-      }
-    </script>
-    <script src="./assets/js/script.js"></script>
+    </script> -->
+    <script src="../assets/js/script.js"></script>
+    <script src="../assets/js/main.js"></script>
+    <script src="../assets/js/dtl.js"></script>
+    <script src="../assets/js/scpt.js"></script>
+    <script src="../assets/js/cari.js"></script>
 
     <!-- 
     - ionicon link
