@@ -1,3 +1,4 @@
+//This function worked
 function searchMovies() {
   const searchTerm = document.getElementById("search-input").value;
   const searchResults = document.getElementById("search-results");
@@ -142,7 +143,7 @@ movieLinks.forEach((link, index) => {
 
 //=====================//
 
-function showMovieDetails(title) {
+/* function showMovieDetails(title) {
   // Find the movie in the array
   const movie = movies.find((m) => m.title === title);
 
@@ -159,4 +160,66 @@ function showMovieDetails(title) {
     <p>${movie.synopsis}</p>
     <iframe id="trailer" src="${movie.embed}" frameborder="0" allowfullscreen></iframe>
   `;
+} */
+
+/* function filterMovies(selectedGenre, selectedYear) {
+  const searchResults = document.getElementById("search-results");
+  searchResults.innerHTML = ""; // Clear previous search results
+
+  for (let i = 0; i < movies.length; i++) {
+    const movie = movies[i];
+
+    if (
+      (selectedGenre === "all" ||
+        movie.genre.toLowerCase() === selectedGenre.toLowerCase()) &&
+      (selectedYear === "all" || movie.year === parseInt(selectedYear))
+    ) {
+      const movieElement = document.createElement("div");
+      movieElement.classList.add("movie");
+      movieElement.innerHTML = `
+        <div class="all ${movie.genre.toLowerCase()} ${movie.year}">
+          <div class="movie-card">
+            <div class="card-head">
+              <img src="${movie.poster}" alt="${movie.title} poster">
+
+              <div class="card-overlay">
+                <div class="bookmark">
+                  <ion-icon name="calendar-outline"></ion-icon>
+                  <span>${movie.year}</span>
+                </div>
+
+                <div class="rating">
+                  <ion-icon name="star-outline"></ion-icon>
+                  <span>${movie.rating}</span>
+                </div>
+              </div>
+            </div>
+
+            <div class="card-body">
+              <h3 class="card-title">${movie.title}</h3>
+
+              <div class="card-info">
+                <span class="genre"><p> ${movie.genre}</p></span>
+              </div>
+              <br /><a href="${movie.href}" class="btn-detail">Details</a>
+            </div>
+          </div>
+        </div>
+      `;
+      searchResults.appendChild(movieElement);
+    }
+  }
 }
+
+genreDropdown.addEventListener("change", (event) => {
+  const selectedGenre = event.target.value;
+  const selectedYear = yearDropdown.value;
+  filterMovies(selectedGenre, selectedYear);
+});
+
+yearDropdown.addEventListener("change", (event) => {
+  const selectedGenre = genreDropdown.value;
+  const selectedYear = event.target.value;
+  filterMovies(selectedGenre, selectedYear);
+});
+ */
