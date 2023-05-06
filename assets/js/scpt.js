@@ -76,7 +76,7 @@ movies.forEach((movie) => {
           </div>
 
           <div class="card-body">
-            <h3 class="card-title" style="overflow: hidden !important; text-overflow: ellipsis !important;">${movie.title}</h3>
+            <h3 class="card-title">${movie.title}</h3>
 
             <div class="card-info">
               <span class="genre"><p> ${movie.genre}</p></span>
