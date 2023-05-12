@@ -1,5 +1,31 @@
 const movies = [
   {
+    title: "Assassin",
+    year: 2023,
+    rating: 3.1,
+    genre: "Action/Crime/Thriller",
+    poster:
+      "https://m.media-amazon.com/images/M/MV5BNjZhN2QxZmUtMThjMS00ZGQzLWJiNjUtNjZmMjBkMTVlNTBhXkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_.jpg",
+    href: "./page/Assasin.html",
+    embed: "https://www.youtube.com/embed/TtM7Jn2jvDs",
+    synopsis:
+      "A man dies as part of an experimental military program. A former black-ops soldier takes his place to find who killed him.",
+    duration: "1h 28m",
+  },
+  {
+    title: "Dungeons & Dragons: Honor Among Thieves",
+    year: 2023,
+    rating: 7.4,
+    genre: "Action/Adventure/Comedy",
+    poster:
+      "https://m.media-amazon.com/images/M/MV5BNmFkN2M2NzItOTY5YS00MmE2LTk3ZjctNTk2YzQ5ZmRiYzJjXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg",
+    href: "./page/Dungeon.html",
+    embed: "https://www.youtube.com/embed/IiMinixSXII",
+    synopsis:
+      "A charming thief and a band of unlikely adventurers embark on an epic quest to retrieve a lost relic, but things go dangerously awry when they run afoul of the wrong people.",
+    duration: "2h 14m",
+  },
+  {
     title: "Hunger",
     year: 2023,
     rating: 6.7,
@@ -34,6 +60,19 @@ const movies = [
     synopsis:
       "A single mother who is a renowned hired killer finds it difficult to achieve a balance between her personal and work life.",
     duration: "2h 17m",
+  },
+  {
+    title: "Missing",
+    year: 2023,
+    rating: 7.1,
+    genre: "Drama/Mystery/Thriller",
+    poster:
+      "https://m.media-amazon.com/images/M/MV5BNWExMzg3NjAtZmZmYy00MWE3LWJkNjEtOTYzYTZjYTZkMjZiXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg",
+    href: "./page/Missing.html",
+    embed: "https://www.youtube.com/embed/seBixtcx19E",
+    synopsis:
+      "After her mother goes missing, a young woman tries to find her from home, using tools available to her online.",
+    duration: "1h 51m",
   },
   {
     title: "Operation Fortune: Ruse de guerre",
@@ -483,13 +522,14 @@ const movies = [
   {
     title: "I Am Vanessa Guillen",
     year: 2022,
-    rating: 6.2,
+    rating: 6.3,
     genre: "Crime/Documentary",
     poster: "https://iili.io/HC6p2SI.md.webp",
     href: "./page/I Am Vannesa.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
-    synopsis: "The story.",
-    duration: "1h 58m",
+    embed: "https://www.youtube.com/embed/Wpii7t26aZU",
+    synopsis:
+      "Follow the tragic story of the young woman who dreamed of a military career, however after telling her mother that she was being harassed at the Fort Hood military base, Vanessa Guillen was killed by a partner.",
+    duration: "1h 35m",
   },
   {
     title: "Incantation",
@@ -498,9 +538,10 @@ const movies = [
     genre: "Horror/Mystery",
     poster: "https://iili.io/pbZKve.md.webp",
     href: "./page/Incantation.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
-    synopsis: "The story.",
-    duration: "1h 58m",
+    embed: "https://www.youtube.com/embed/HnyNZdcL_GY",
+    synopsis:
+      "Six years ago, Li Ronan was cursed after breaking a religious taboo. Now, she must protect her daughter from the consequences of her actions.",
+    duration: "1h 50m",
   },
   {
     title: "In Our Prime",
@@ -509,20 +550,22 @@ const movies = [
     genre: "Drama",
     poster: "https://iili.io/HxkWkk7.md.webp",
     href: "./page/In Our Prime.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
-    synopsis: "The story.",
-    duration: "1h 58m",
+    embed: "https://www.youtube.com/embed/EBJF_TZGWMY",
+    synopsis:
+      "Follows Ji-woo, an outcast in a prestigious private high school who meets Hak-sung, the school's security guard, and asks him to teach him math and become friends, but their friendship is at risk after an incident in school.",
+    duration: "1h 57m",
   },
   {
     title: "Jaifu Story",
     year: 2022,
-    rating: 6.8,
+    rating: 6.6,
     genre: "Comedy/Romance",
     poster: "https://iili.io/HCth6bI.md.webp",
     href: "./page/Jaifu Story.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
-    synopsis: "The story.",
-    duration: "1h 58m",
+    embed: "https://www.youtube.com/embed/ImcD_3O0PPw",
+    synopsis:
+      "An account of five couples, five stories of different overlapping life events told through the story of a young writer and a girl he meets.",
+    duration: "1h 40m",
   },
   {
     title: "Jackass Forever",
@@ -1288,6 +1331,19 @@ const movies = [
     duration: "1h 49m",
   },
   {
+    title: "Chhello Show",
+    year: 2021,
+    rating: 7.5,
+    genre: "Drama",
+    poster:
+      "https://m.media-amazon.com/images/M/MV5BYTMyYzVjYmMtN2MwYi00MTA4LWJlNjAtYWY1NDllMjdiYTI2XkEyXkFqcGdeQXVyMjE4NzUxNDA@._V1_.jpg",
+    href: "./page/Last Film.html",
+    embed: "https://www.youtube.com/embed/Uz4LkPAtdjY",
+    synopsis:
+      "Samay fights heaven and earth to find light. He wants to catch, control, cut and project that light to tell stories. Now to pursue that dream he must leave everything he loves and take a flight to find the light.",
+    duration: "1h 50m",
+  },
+  {
     title: "Ciao Alberto",
     year: 2021,
     rating: 6.9,
@@ -1401,20 +1457,22 @@ const movies = [
     genre: "Action/Adventure/Horror",
     poster: "https://iili.io/5eJtJS.md.webp",
     href: "./page/Escape Room Tournament of Champions.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
-    synopsis: "The story.",
-    duration: "1h 58m",
+    embed: "https://www.youtube.com/embed/KlfUbZJVInA",
+    synopsis:
+      "Six people unwillingly find themselves locked in another series of escape rooms, slowly uncovering what they have in common to survive. Joining forces with two of the original survivors, they soon discover they've all played the game before.",
+    duration: "1h 28m",
   },
   {
     title: "Extinct",
     year: 2021,
-    rating: 5.4,
+    rating: 5.5,
     genre: "Animation/Adventure/Comedy",
     poster: "https://iili.io/5eJD57.md.webp",
     href: "./page/Extinct.html",
     embed: "https://www.youtube.com/embed/BLM1naCfME",
-    synopsis: "The story.",
-    duration: "1h 58m",
+    synopsis:
+      "Op and Ed accidentally time-travel from the Galapagos Islands in 1835 to present-day Shanghai. They make their way through the city in confusion and make the horrifying discovery that the species to which they belong became extinct shortly after.",
+    duration: "1h 24m",
   },
   {
     title: "F9: The Fast Saga",
