@@ -143,7 +143,7 @@ const movies = [
     genre: "Animation/Adventure/Comedy",
     poster:
       "https://m.media-amazon.com/images/M/MV5BOTJhNzlmNzctNTU5Yy00N2YwLThhMjQtZDM0YjEzN2Y0ZjNhXkEyXkFqcGdeQXVyMTEwMTQ4MzU5._V1_.jpg",
-    href: "./page/Assasin.html",
+    href: "./page/Super Mario.html",
     embed: "https://www.youtube.com/embed/TtM7Jn2jvDs",
     synopsis:
       "The story of The Super Mario Bros. on their journey through the Mushroom Kingdom.",
