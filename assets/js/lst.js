@@ -1573,7 +1573,7 @@ const movies = [
     genre: "Documentary",
     poster: "https://iili.io/5eJmbe.md.webp",
     href: "./page/Fathom.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/Y-Mmnk0LZLU",
     synopsis:
       "Fathom is a visual and aural wonder of a documentary that follows researchers working to finally decode the communication of humpback whales. With Dr. Michelle Fournet, Dr. Ellen Garland.",
     duration: "1h 26m",
@@ -1585,7 +1585,7 @@ const movies = [
     genre: "Comedy/Drama",
     poster: "https://iili.io/pbrXKg.md.webp",
     href: "./page/Feathers.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/uxo2H0SM5Jw",
     synopsis:
       "A family is forced into a period of self-discovery after its authoritarian patriarch is accidentally turned into a chicken by a magician during a children's birthday party.",
     duration: "1h 52m",
@@ -1597,7 +1597,7 @@ const movies = [
     genre: "Adventure/Drama/Sci-Fi",
     poster: "https://iili.io/5eJyzu.md.webp",
     href: "./page/Finch.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/-0bYWnP3jH4",
     synopsis:
       "On a post-apocalyptic Earth, a robot, built to protect the life of his creator's beloved dog learns about life, love, friendship and what it means to be human.",
     duration: "1h 55m",
@@ -1609,7 +1609,7 @@ const movies = [
     genre: "Action/Adventure/Comedy",
     poster: "https://iili.io/5ed9Wb.md.webp",
     href: "./page/Free Guy.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/X2m-08cOAbc",
     synopsis:
       "A bank teller discovers that he's actually an NPC inside a brutal, open world video game.",
     duration: "1h 55m",
@@ -1621,7 +1621,7 @@ const movies = [
     genre: "Comedy/Crime/Drama",
     poster: "https://iili.io/5yNNaf.md.webp",
     href: "./page/Game Changer.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/5cBTWIl4DtA",
     synopsis:
       "When the city's mafia boss dies, his four aides decide to keep his death a secret and continue to run his rackets - but deception is a dangerous game.",
     duration: "1h 42m",
@@ -1633,7 +1633,7 @@ const movies = [
     genre: "Drama/Horror/Thriller",
     poster: "https://iili.io/5edHsj.md.webp",
     href: "./page/Ghost Lab.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/RN9G-g5PhJE",
     synopsis:
       "After witnessing a haunting in their hospital, two doctors become dangerously obsessed with obtaining scientific proof that ghosts exist.",
     duration: "1h 57m",
@@ -1645,7 +1645,7 @@ const movies = [
     genre: "Adventure/Comedy/Fantasy",
     poster: "https://iili.io/cZs2jt.md.webp",
     href: "./page/Ghostbusters Afterlife.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/ahZFCF--uRY",
     synopsis:
       "When a single mom and her two kids arrive in a small town, they begin to discover their connection to the original Ghostbusters and the secret legacy their grandfather left behind.",
     duration: "2h 4m",
@@ -1657,7 +1657,7 @@ const movies = [
     genre: "Crime/Thriller",
     poster: "https://iili.io/5eddqx.md.webp",
     href: "./page/Girl in the Basement.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/a7VGn_0Vsx8",
     synopsis:
       "Sarah is a teen girl who is looking forward to her 18th birthday to move away from her controlling father Don. But before she could even blow out the candles, Don imprisons her in the basement of their home.",
     duration: "1h 28m",
@@ -1669,7 +1669,7 @@ const movies = [
     genre: "Action/Sci-Fi/Thriller",
     poster: "https://iili.io/5ed20Q.md.webp",
     href: "./page/Godzilla vs. Kong.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/odM92ap8_c0",
     synopsis:
       "The epic next chapter in the cinematic Monsterverse pits two of the greatest icons in motion picture history against each other--the fearsome Godzilla and the mighty Kong--with humanity caught in the balance.",
     duration: "1h 53m",
@@ -1681,7 +1681,7 @@ const movies = [
     genre: "Comedy/Drama",
     poster: "https://iili.io/5edKdB.md.webp",
     href: "./page/Helmet.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/DgdhtcD6qrY",
     synopsis:
       "A quirky comedy from the heartland of India, it touches upon a topic that is considered embarrassing for most people in India and will showcase the same in a hilariously entertaining manner.",
     duration: "1h 44m",
@@ -1693,7 +1693,7 @@ const movies = [
     genre: "Animation/Adventure/Comedy",
     poster: "https://iili.io/cbn91e.md.webp",
     href: "./page/Hilda and the Mountain King.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/4MnjzxvsBNM",
     synopsis:
       "When Hilda wakes up in the body of a troll, she must use her wits and courage to get back home, become human again and save the city of Trolberg.",
     duration: "1h 25m",
@@ -1705,7 +1705,7 @@ const movies = [
     genre: "Action/Comedy/Crime",
     poster: "https://iili.io/78fceS.md.webp",
     href: "./page/Hitman's Wife Bodyguard.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/9C0l31YcahQ",
     synopsis:
       "The bodyguard, Michael Bryce, continues his friendship with assassin, Darius Kincaid, as they try to save Darius' wife Sonia.",
     duration: "1h 40m",
@@ -1717,7 +1717,7 @@ const movies = [
     genre: "Drama/Fantasy/Mystery",
     poster: "https://iili.io/cZiQZF.md.webp",
     href: "./page/Homunculus.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/uGs2znxT7XM",
     synopsis:
       "Truth and illusion blurs when a homeless amnesiac awakens from an experimental medical procedure with the ability to see people's innermost traumas.",
     duration: "1h 55m",
@@ -1729,7 +1729,7 @@ const movies = [
     genre: "Mystery/Thriller",
     poster: "https://iili.io/5edSrQ.md.webp",
     href: "./page/Hypnotic.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/eHsWYmnXk1o",
     synopsis:
       "A young woman seeking self-improvement enlists the help of a renowned hypnotherapist. But after a handful of intense sessions, she discovers unexpected and deadly consequences.",
     duration: "1h 28m",
@@ -4295,7 +4295,7 @@ const movies = [
     genre: "Drama/Mystery/Sci-Fi",
     poster: "https://iili.io/HC6mpoJ.md.webp",
     href: "./page/Freaks.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/I84YEXdN61k",
     synopsis:
       "A bold girl discovers a bizarre, threatening, and mysterious new world beyond her front door after she escapes her father's protective and paranoid control.",
     duration: "1h 45m",
@@ -4331,7 +4331,7 @@ const movies = [
     genre: "Horror/Thriller",
     poster: "https://iili.io/HC6pF9t.md.webp",
     href: "./page/Hex.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/HMJwhM2i9LQ",
     synopsis:
       "A couple's holiday romance is thrown into chaos as they are afflicted by a malicious force.",
     duration: "1h 25m",
@@ -4631,7 +4631,7 @@ const movies = [
     genre: "Drama/Romance",
     poster: "https://iili.io/Hx9RW5Q.md.webp",
     href: "./page/Forget Me Not.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/dPyXXCoErDw",
     synopsis:
       "This film tells the story of a high school student named Takashi (Murakami Nijiro) who falls in love at first sight with a girl along Azusa (Akari Hayami), and then they started dating. One day, Azusa made a strange confession by telling Takashi that everyone including his family will forget about him a few hours after the meeting.",
     duration: "1h 34m",
@@ -4655,7 +4655,7 @@ const movies = [
     genre: "Adventure/Comedy/Drama",
     poster: "https://iili.io/Hohk3J4.md.webp",
     href: "./page/Hector and the Search for Happiness.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/l5b-hcwrs-I",
     synopsis:
       "A psychiatrist searches the globe to find the secret of happiness.",
     duration: "1h 54m",
