@@ -1,5 +1,19 @@
 const movies = [
   {
+    title: "Acidman",
+    year: 2023,
+    rating: 5.3,
+    genre: "Drama/Sci-Fi",
+    genres: ["drama", "scifi"],
+    poster:
+      "https://m.media-amazon.com/images/M/MV5BMWUwNDFhNDctYTQxZS00Y2FmLWIyZjEtN2JjOWM4MzcxMmE4XkEyXkFqcGdeQXVyNDExMzMxNjE@._V1_.jpg",
+    href: "./page/Acidman.html",
+    embed: "https://www.youtube.com/embed/TtM7Jn2jvDs",
+    synopsis:
+      "Maggie tracks down her estranged and reclusive father Lloyd; together they attempt to make first contact.",
+    duration: "1h 27m",
+  },
+  {
     title: "Assassin",
     year: 2023,
     rating: 3.1,
