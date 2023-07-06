@@ -171,7 +171,7 @@ updateMovieGrid(movies);
 
 /*==================== FILTER ====================*/
 
-const genreDropdown = document.getElementById("genre-dropdown");
+/* const genreDropdown = document.getElementById("genre-dropdown");
 genreDropdown.addEventListener("change", (event) => {
   const selectedGenre = event.target.value;
 
@@ -231,4 +231,66 @@ function renderMovies(moviesToRender) {
 
     movieGrid.appendChild(movieCard);
   });
+} */
+
+function filterMovies() {
+  const genreSelect = document.getElementById("genre");
+  const selectedGenre = genreSelect.value;
+
+  const filteredMovies = movies.filter((movie) => {
+    if (selectedGenre === "all") {
+      return true; // Show all movies
+    } else {
+      return movie.genres.includes(selectedGenre);
+    }
+  });
+
+  displayMovies(filteredMovies);
 }
+
+function displayMovies(filteredMovies) {
+  const moviesDiv = document.getElementById("movies");
+  moviesDiv.innerHTML = "";
+
+  filteredMovies.forEach((movie) => {
+    const movieTitle = document.createElement("div");
+    movieTitle.classList.add("movie");
+    movieTitle.innerHTML = `
+      
+        <div class="all crime drama thriller 2022">
+        <div class="movie-card">
+          <div class="card-head">
+          <img src="${movie.poster}" alt="${movie.title} poster">
+
+            <div class="card-overlay">
+              <div class="bookmark">
+                <ion-icon name="calendar-outline"></ion-icon>
+                <span>${movie.year}</span>
+              </div>
+
+              <div class="rating">
+                <ion-icon name="star-outline"></ion-icon>
+                <span>${movie.rating}</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="card-body">
+            <h3 class="card-title">${movie.title}</h3>
+
+            <div class="card-info">
+              <span class="genre"><p> ${movie.genre}</p></span>
+            </div>
+            <br /><a href="${movie.href}" class="btn-detail"
+              >Details</a
+            >
+          </div>
+        </div>
+      </div>
+        `;
+    moviesDiv.appendChild(movieTitle);
+  });
+}
+
+// Initial display of all movies
+displayMovies(movies);

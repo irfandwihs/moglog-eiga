@@ -4,6 +4,7 @@ const movies = [
     year: 2023,
     rating: 3.1,
     genre: "Action/Crime/Thriller",
+    genres: ["action", "crime", "thriller"],
     poster:
       "https://m.media-amazon.com/images/M/MV5BNjZhN2QxZmUtMThjMS00ZGQzLWJiNjUtNjZmMjBkMTVlNTBhXkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_.jpg",
     href: "./page/Assasin.html",
@@ -17,6 +18,7 @@ const movies = [
     year: 2023,
     rating: 4.2,
     genre: "Action/Crime/Thriller",
+    genres: ["action", "crime", "thriller"],
     poster:
       "https://m.media-amazon.com/images/M/MV5BZDA1YzEyZDQtOGJkZC00MDhjLTlhMDUtNGEwNjUzNGE5MzVmXkEyXkFqcGdeQXVyMTIxMzA5MDI@._V1_.jpg",
     href: "./page/Breakout.html",
@@ -30,6 +32,7 @@ const movies = [
     year: 2023,
     rating: 7.4,
     genre: "Action/Adventure/Comedy",
+    genres: ["action", "adventure", "comedy"],
     poster:
       "https://m.media-amazon.com/images/M/MV5BNmFkN2M2NzItOTY5YS00MmE2LTk3ZjctNTk2YzQ5ZmRiYzJjXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg",
     href: "./page/Dungeon.html",
@@ -43,6 +46,7 @@ const movies = [
     year: 2023,
     rating: 6.7,
     genre: "Drama/Thriller",
+    genres: ["drama", "thriller"],
     poster: "https://iili.io/HvMvuHl.md.webp",
     href: "./page/Hunger.html",
     embed: "https://www.youtube.com/embed/h61PbLOmyY0",
@@ -55,6 +59,7 @@ const movies = [
     year: 2023,
     rating: 5.6,
     genre: "Drama/Thriller",
+    genres: ["drama", "thriller"],
     poster: "https://iili.io/H8IPLuI.md.webp",
     href: "./page/Inside.html",
     embed: "https://www.youtube.com/embed/DjODCllZj4w",
@@ -67,6 +72,7 @@ const movies = [
     year: 2023,
     rating: 6.6,
     genre: "Action/Thriller",
+    genres: ["action", "thriller"],
     poster: "https://iili.io/H8IivHl.md.webp",
     href: "./page/Kill Boksoon.html",
     embed: "https://www.youtube.com/embed/70e5RjgkHjU",

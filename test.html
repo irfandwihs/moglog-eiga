@@ -151,7 +151,7 @@
             <!-- <div id="search-results"></div> -->
             <br />
             <div class="lok" style="display: flex; flex-wrap: wrap">
-              <div class="dropdown">
+              <!-- <div class="dropdown">
                 <input
                   type="text"
                   class="textBox"
@@ -211,7 +211,16 @@
                   </div>
                   <div onclick="handleFilterByCategory('war', 'War')">War</div>
                 </div>
-              </div>
+              </div> -->
+              <label for="genre">Select Genre:</label>
+              <select id="genre" onchange="filterMovies()">
+                <option value="all">All Genres</option>
+                <option value="animation">Action</option>
+                <option value="animation">Animation</option>
+                <option value="adventure">Adventure</option>
+                <option value="comedy">Comedy</option>
+                <!-- Add more genre options here -->
+              </select>
 
               <!-- filter tahun  -->
               <div class="dropdown filter-year" style="margin-left: 15px">
@@ -280,6 +289,7 @@
               "
               id="search-results"
             ></div>
+            <div id="movies"></div>
             <div
               class="movie-grid"
               style="
@@ -306,6 +316,7 @@
     <script src="./assets/js/main.js"></script>
     <script src="./assets/js/lst.js"></script>
     <script src="./assets/js/scpt.js"></script>
+    <script src="./assets/js/filtergenre.js"></script>
 
     <!--
     - ionicon link

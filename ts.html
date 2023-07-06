@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link
+      rel="shortcut icon"
+      href="../assets/images/logo.webp"
+      type="image/png"
+    />
+
+    <!-- <link rel="stylesheet" href="../assets/css/style.css" /> -->
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      .grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+        grid-gap: 20px;
+      }
+
+      .card {
+        background-color: #f5f5f5;
+        padding: 20px;
+        border-radius: 5px;
+      }
+
+      .card img {
+        max-width: 100%;
+        height: auto;
+        border-radius: 5px;
+      }
+
+      .card h3 {
+        margin-top: 10px;
+        margin-bottom: 5px;
+      }
+
+      .card p {
+        margin-bottom: 10px;
+      }
+
+      .card a {
+        display: block;
+        text-align: center;
+        background-color: #333;
+        color: #fff;
+        padding: 10px;
+        border-radius: 5px;
+        text-decoration: none;
+      }
+
+      .card a:hover {
+        background-color: #555;
+      }
+    </style>
+  </head>
+  <body>
+    <label for="genre">Select Genre:</label>
+    <select id="genre" onchange="filterMovies()">
+      <option value="all">All Genres</option>
+      <option value="action">Action</option>
+      <option value="thriller">Thriller</option>
+      <option value="drama">Drama</option>
+      <option value="mystery">Mystery</option>
+      <option value="comedy">Comedy</option>
+      <!-- Add more genre options here -->
+    </select>
+
+    <div id="movies" class="grid"></div>
+    <script src="../assets/js/lst.js">
+        
+    </script>
+    <script>
+      /* const movies = [
+  {
+    title: "Kill Boksoon",
+    year: 2023,
+    rating: 6.6,
+    genre: "Action/Thriller",
+    genres: ["action", "thriller"],
+    poster: "https://iili.io/H8IivHl.md.webp",
+    href: "./page/Kill Boksoon.html",
+    embed: "https://www.youtube.com/embed/70e5RjgkHjU",
+    synopsis:
+      "A single mother who is a renowned hired killer finds it difficult to achieve a balance between her personal and work life.",
+    duration: "2h 17m",
+  },
+  {
+    title: "Missing",
+    year: 2023,
+    rating: 7.1,
+    genre: "Drama/Mystery/Thriller",
+    genres: ["drama", "mystery", "thriller"],
+    poster: "https://m.media-amazon.com/images/M/MV5BNWExMzg3NjAtZmZmYy00MWE3LWJkNjEtOTYzYTZjYTZkMjZiXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg",
+    href: "./page/Missing.html",
+    embed: "https://www.youtube.com/embed/seBixtcx19E",
+    synopsis:
+      "After her mother goes missing, a young woman tries to find her from home, using tools available to her online.",
+    duration: "1h 51m",
+  },
+  {
+    title: "Operation Fortune: Ruse de guerre",
+    year: 2023,
+    rating: 6.3,
+    genre: "Action/Comedy/Thriller",
+    genres: ["action", "comedy", "thriller"],
+    poster: "https://iili.io/H8IQTAl.md.webp",
+    href: "./page/Operation Fortune.html",
+    embed: "https://www.youtube.com/embed/WdZ-BWWQcWQ",
+    synopsis:
+      "Special agent Orson Fortune and his team of operatives recruit one of Hollywood's biggest movie stars to help them on an undercover mission when the sale of a deadly new weapons technology threatens to disrupt the world order.",
+    duration: "1h 54m",
+  },
+  // Add more movies here
+];
+ */
+      function filterMovies() {
+        const genreSelect = document.getElementById("genre");
+        const selectedGenre = genreSelect.value;
+
+        const filteredMovies = movies.filter((movie) => {
+          if (selectedGenre === "all") {
+            return true; // Show all movies
+          } else {
+            return movie.genres.includes(selectedGenre);
+          }
+        });
+
+        displayMovies(filteredMovies);
+      }
+
+      function displayMovies(filteredMovies) {
+        const moviesDiv = document.getElementById("movies");
+        moviesDiv.innerHTML = "";
+
+        filteredMovies.forEach((movie) => {
+          const movieCard = document.createElement("div");
+          movieCard.classList.add("card");
+
+          const moviePoster = document.createElement("img");
+          moviePoster.src = movie.poster;
+          moviePoster.alt = movie.title;
+          movieCard.appendChild(moviePoster);
+
+          const movieTitle = document.createElement("h3");
+          movieTitle.textContent = movie.title;
+          movieCard.appendChild(movieTitle);
+
+          const movieGenre = document.createElement("p");
+          movieGenre.textContent = "Genre: " + movie.genre;
+          movieCard.appendChild(movieGenre);
+
+          const movieRating = document.createElement("p");
+          movieRating.textContent = "Rating: " + movie.rating;
+          movieCard.appendChild(movieRating);
+
+          const movieYear = document.createElement("p");
+          movieYear.textContent = "Year: " + movie.year;
+          movieCard.appendChild(movieYear);
+
+          const movieLink = document.createElement("a");
+          movieLink.href = movie.href;
+          movieLink.textContent = "View Details";
+          movieCard.appendChild(movieLink);
+
+          moviesDiv.appendChild(movieCard);
+        });
+      }
+
+      // Initial display of all movies
+      displayMovies(movies);
+    </script>
+
+    <!--<script src="../assets/js/dtl.js"></script> -->
+    <script>
+      // Example: show movie details for index 0
+      //showMovieDetails(5);
+
+      // Example: show movie details for title
+      showMovieDetailByTitle("Unlocked");
+    </script>
+    <!-- <script
+      type="module"
+      src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"
+    ></script>
+    <script
+      nomodule
+      src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"
+    ></script> -->
+  </body>
+</html>
