@@ -8,7 +8,7 @@ const movies = [
     poster:
       "https://m.media-amazon.com/images/M/MV5BMWUwNDFhNDctYTQxZS00Y2FmLWIyZjEtN2JjOWM4MzcxMmE4XkEyXkFqcGdeQXVyNDExMzMxNjE@._V1_.jpg",
     href: "./page/Acidman.html",
-    embed: "https://www.youtube.com/embed/TtM7Jn2jvDs",
+    embed: "https://www.youtube.com/embed/7VGcHgVnOw4",
     synopsis:
       "Maggie tracks down her estranged and reclusive father Lloyd; together they attempt to make first contact.",
     duration: "1h 27m",
@@ -28,6 +28,34 @@ const movies = [
     duration: "1h 28m",
   },
   {
+    title: "BlackBerry",
+    year: 2023,
+    rating: 7.4,
+    genre: "Biography/Comedy/Drama",
+    genres: ["biography", "comedy", "drama"],
+    poster:
+      "https://m.media-amazon.com/images/M/MV5BMDNhZWU4NTQtYjk1NS00MTM1LTg3ODYtMzE0MjQ2YTI5MGM4XkEyXkFqcGdeQXVyMDc5ODIzMw@@._V1_.jpg",
+    href: "./page/Blackberry.html",
+    embed: "https://www.youtube.com/embed/cXL_HDzBQsM",
+    synopsis:
+      "The story of the meteoric rise and catastrophic demise of the world's first smartphone.",
+    duration: "2h",
+  },
+  {
+    title: "Blood & Gold",
+    year: 2023,
+    rating: 6.5,
+    genre: "Action/Drama/War",
+    genres: ["action", "drama", "war"],
+    poster:
+      "https://m.media-amazon.com/images/M/MV5BOTVlMDI5NDMtOGE1Zi00ZmEwLTg3NDQtMzgxOWNkNWE5YmE2XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg",
+    href: "./page/Blood Gold.html",
+    embed: "https://www.youtube.com/embed/eDsrUYd2VbE",
+    synopsis:
+      "At the end of World War II, a German soldier is looking for his daughter while an SS troop is looking for a Jewish treasure.",
+    duration: "1h 38m",
+  },
+  {
     title: "Breakout",
     year: 2023,
     rating: 4.2,
@@ -42,6 +70,20 @@ const movies = [
     duration: "1h 28m",
   },
   {
+    title: "Clock",
+    year: 2023,
+    rating: 5.0,
+    genre: "Horror/Thriller",
+    genres: ["horror", "thriller"],
+    poster:
+      "https://m.media-amazon.com/images/M/MV5BYzk5NTQwYTQtODkyMi00N2I2LTkyZTktZjFiNTU1YWEwNjY3XkEyXkFqcGdeQXVyMjg0NDI1MjU@._V1_.jpg",
+    href: "./page/Clock.html",
+    embed: "https://www.youtube.com/embed/dsmuf95eshk",
+    synopsis:
+      "A woman enrolls in a clinical trial to try and fix her seemingly broken biological clock after friends, family, and society pressures her to have children.",
+    duration: "1h 27m",
+  },
+  {
     title: "Dungeons & Dragons: Honor Among Thieves",
     year: 2023,
     rating: 7.4,
@@ -54,6 +96,62 @@ const movies = [
     synopsis:
       "A charming thief and a band of unlikely adventurers embark on an epic quest to retrieve a lost relic, but things go dangerously awry when they run afoul of the wrong people.",
     duration: "2h 14m",
+  },
+  {
+    title: "Evil Dead Rise",
+    year: 2023,
+    rating: 6.6,
+    genre: "Horror",
+    genres: ["horror"],
+    poster:
+      "https://m.media-amazon.com/images/M/MV5BMmZiN2VmMjktZDE5OC00ZWRmLWFlMmEtYWViMTY4NjM3ZmNkXkEyXkFqcGdeQXVyMTI2MTc2ODM3._V1_.jpg",
+    href: "./page/Evil Dead Rise.html",
+    embed: "https://www.youtube.com/embed/BqQNO7BzN08",
+    synopsis:
+      "A twisted tale of two estranged sisters whose reunion is cut short by the rise of flesh-possessing demons, thrusting them into a primal battle for survival as they face the most nightmarish version of family imaginable.",
+    duration: "1h 36m",
+  },
+  {
+    title: "Extraction 2",
+    year: 2023,
+    rating: 7.1,
+    genre: "Action/Thriller",
+    genres: ["action", "thriller"],
+    poster:
+      "https://m.media-amazon.com/images/M/MV5BZjg5MTM4N2QtN2RlMS00NzBlLTg3NDktM2ExZDNmMmExMGU3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+    href: "./page/Extraction 2.html",
+    embed: "https://www.youtube.com/embed/Y274jZs5s7s",
+    synopsis:
+      "After barely surviving his grievous wounds from his mission in Dhaka, Bangladesh, Tyler Rake is back, and his team is ready to take on their next mission.",
+    duration: "2h 2m",
+  },
+  {
+    title: "Fast X",
+    year: 2023,
+    rating: 5.9,
+    genre: "Action/Adventure/Crime",
+    genres: ["action", "adventure", "crime"],
+    poster:
+      "https://m.media-amazon.com/images/M/MV5BNzZmOTU1ZTEtYzVhNi00NzQxLWI5ZjAtNWNhNjEwY2E3YmZjXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg",
+    href: "./page/Fast X.html",
+    embed: "https://www.youtube.com/embed/eoOaKN4qCKw",
+    synopsis:
+      "Dom Toretto and his family are targeted by the vengeful son of drug kingpin Hernan Reyes.",
+    duration: "2h 21m",
+  },
+  {
+    title: "Home for Rent",
+    year: 2023,
+    rating: 7.0,
+    genre: "Horror/Mystery/Thriller",
+    genres: ["horror", "mystery", "thriller"],
+    poster:
+      "https://m.media-amazon.com/images/M/MV5BNTk3MTI5ZDUtMDBmZC00OWE0LThjYjAtZGY2OTgxMzE5NjM2XkEyXkFqcGdeQXVyMTUzOTcyODA5._V1_.jpg",
+    href: "./page/Home for Rent.html",
+    embed: "https://www.youtube.com/embed/db8puvbOhQw",
+    synopsis:
+      "A film inspired by terrifying true events. When the tenants are members of a dark cult, they terrorize the homeowner, looking for their next prey to sacrifice.",
+    duration: "2h 4m",
   },
   {
     title: "Hunger",
@@ -82,6 +180,20 @@ const movies = [
     duration: "1h 45m",
   },
   {
+    title: "John Wick: Chapter 4",
+    year: 2023,
+    rating: 7.8,
+    genre: "Action/Crime/Thriller",
+    genres: ["action", "crime", "thriller"],
+    poster:
+      "https://m.media-amazon.com/images/M/MV5BMDExZGMyOTMtMDgyYi00NGIwLWJhMTEtOTdkZGFjNmZiMTEwXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_.jpg",
+    href: "./page/John Wick Chapter 4.html",
+    embed: "https://www.youtube.com/embed/qEVUtrk8_B4",
+    synopsis:
+      "John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes.",
+    duration: "2h 49m",
+  },
+  {
     title: "Kill Boksoon",
     year: 2023,
     rating: 6.6,
@@ -93,6 +205,48 @@ const movies = [
     synopsis:
       "A single mother who is a renowned hired killer finds it difficult to achieve a balance between her personal and work life.",
     duration: "2h 17m",
+  },
+  {
+    title: "Marui Video",
+    year: 2023,
+    rating: 4.9,
+    genre: "Horror/Mystery/Thriller",
+    genres: ["horror", "mystery", "thriller"],
+    poster:
+      "https://m.media-amazon.com/images/M/MV5BYTE3NmMyZjItNmE3Ni00Zjk2LTg3ZTItOWM2MmQ3ZDJiMmJmXkEyXkFqcGdeQXVyNDUyNzkyMTE@._V1_.jpg",
+    href: "./page/Marui Video.html",
+    embed: "https://www.youtube.com/embed/Wc77WAQuNsY",
+    synopsis:
+      "The video evidence of the murder, which is especially brutal and graphic that shouldn't release to the public. A reporter who has access to the prosecutor's office hears about a cursed tape in the video archive and begins reporting on it.",
+    duration: "1h 27m",
+  },
+  {
+    title: "Mavka: The Forest Song",
+    year: 2023,
+    rating: 6.8,
+    genre: "Animation/Adventure/Comedy",
+    genres: ["animation", "adventure", "comedy"],
+    poster:
+      "https://m.media-amazon.com/images/M/MV5BNDU0Y2RkY2ItNzBiOC00ZTcxLWFhMDgtZmQ0MGFlNTc4NjQyXkEyXkFqcGdeQXVyMzA0OTQzODE@._V1_.jpg",
+    href: "./page/Mavka The Forest Song.html",
+    embed: "https://www.youtube.com/embed/GXaMT5pX12w",
+    synopsis:
+      "Mavka must choose between love and duty to protect the Heart of the Forest.",
+    duration: "1h 39m",
+  },
+  {
+    title: "Missed Connections",
+    year: 2023,
+    rating: 4.3,
+    genre: "Comedy/Romance",
+    genres: ["comedy", "romance"],
+    poster:
+      "https://m.media-amazon.com/images/M/MV5BOWJhNDgwMDAtNTAxMy00OWNlLTlkZGMtNGFiMzEwYTA3OGM1XkEyXkFqcGdeQXVyMTE5OTM1MjU3._V1_.jpg",
+    href: "./page/Missed Connections.html",
+    embed: "https://www.youtube.com/embed/Rwoe1BKrME4",
+    synopsis:
+      "After an unforgettable encounter, a hopeless romantic turns to an app to seek out a man she just met - but is he really what she's looking for?",
+    duration: "1h 47m",
   },
   {
     title: "Missing",
@@ -108,6 +262,34 @@ const movies = [
     duration: "1h 51m",
   },
   {
+    title: "My Fault",
+    year: 2023,
+    rating: 6.2,
+    genre: "Drama/Romance",
+    genres: ["drama", "romance"],
+    poster:
+      "https://m.media-amazon.com/images/M/MV5BYTRmMWQxZGEtZTZiMS00ZTRiLWIyYmMtMzNmMmRjZjYyNGUyXkEyXkFqcGdeQXVyMTUzOTcyODA5._V1_.jpg",
+    href: "./page/My Fault.html",
+    embed: "https://www.youtube.com/embed/PaB7cGBuCP0",
+    synopsis:
+      "Noah has to leave her town, boyfriend and friends behind and move into the mansion of her mother's new rich husband. There she meets Nick, her new stepbrother. They fall madly in love in secret.",
+    duration: "1h 57m",
+  },
+  {
+    title: "Nimona",
+    year: 2023,
+    rating: 7.6,
+    genre: "Animation/Action/Adventure",
+    genres: ["animation", "action", "adventure"],
+    poster:
+      "https://m.media-amazon.com/images/M/MV5BYWQ2YzJhOGItNTMyOC00YzFmLWExZjEtOGFmMDVkMDdmOGFiXkEyXkFqcGdeQXVyMTUxNTU1NzEz._V1_.jpg",
+    href: "./page/Nimona.html",
+    embed: "https://www.youtube.com/embed/f_fuHRyQbOc",
+    synopsis:
+      "When a knight in a futuristic medieval world is framed for a crime he didn't commit, the only one who can help him prove his innocence is Nimona -- a mischievous teen who happens to be a shapeshifting creature he's sworn to destroy.",
+    duration: "1h 41m",
+  },
+  {
     title: "Operation Fortune: Ruse de guerre",
     year: 2023,
     rating: 6.3,
@@ -120,6 +302,34 @@ const movies = [
     duration: "1h 54m",
   },
   {
+    title: "Rebound",
+    year: 2023,
+    rating: 6.9,
+    genre: "Drama/Sport",
+    genres: ["drama", "sport"],
+    poster:
+      "https://m.media-amazon.com/images/M/MV5BMzk4NWRjMzQtNTBhZS00MmE3LWExOTgtNTI4ZDRjNGYwNDI3XkEyXkFqcGdeQXVyNjI4NDY5ODM@._V1_.jpg",
+    href: "./page/Rebound.html",
+    embed: "https://www.youtube.com/embed/FCUq-dF0uEI",
+    synopsis:
+      "This true story retells the incredible tale of the 2012 National High School Basketball Championship, in which a new coach and six players from the weakest basketball team ran nonstop for eight days.",
+    duration: "2h 2m",
+  },
+  {
+    title: "Ride On",
+    year: 2023,
+    rating: 6.3,
+    genre: "Action/Comedy/Drama",
+    genres: ["action", "comedy", "drama"],
+    poster:
+      "https://m.media-amazon.com/images/M/MV5BMzVhZDU0MTQtNzkzOS00NjRlLWE5NGEtYWQ2YWJjZWZlYTkzXkEyXkFqcGdeQXVyMTUzMDA3Mjc2._V1_.jpg",
+    href: "./page/Ride On.html",
+    embed: "https://www.youtube.com/embed/NvjVFDMIbus",
+    synopsis:
+      "A washed-up stuntman and his stunt horse become an overnight social media sensation when their real-life fight with debt collectors goes viral.",
+    duration: "2h 6m",
+  },
+  {
     title: "Soulmate",
     year: 2023,
     rating: 7.6,
@@ -127,7 +337,7 @@ const movies = [
     poster:
       "https://m.media-amazon.com/images/M/MV5BNDY3YTZkN2MtMTFhYS00ODE5LTk1MjgtOTkwNTg2ZjBhMmJhXkEyXkFqcGdeQXVyNjI4NDY5ODM@._V1_FMjpg_UX1000_.jpg",
     href: "./page/Soulmate.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/SA_zL3XxhJY",
     synopsis:
       "'Hello, My Soulmate' is a coming-of-age story where two friends first meet at 11 years old and spend the course of 14 years remaining close and sharing experiences in both friendship and romance.",
     duration: "2h 4m",
@@ -157,6 +367,20 @@ const movies = [
     duration: "1h 58m",
   },
   {
+    title: "The Covenant",
+    year: 2023,
+    rating: 7.5,
+    genre: "Action/Thriller/War",
+    genres: ["action", "thriller", "war"],
+    poster:
+      "https://m.media-amazon.com/images/M/MV5BNmQzOWZhOTMtZTcxNC00MTdkLWEwYmUtOWVmOTFhNTdkNjRkXkEyXkFqcGdeQXVyODk2NDQ3MTA@._V1_.jpg",
+    href: "./page/The Covenant.html",
+    embed: "https://www.youtube.com/embed/02PPMPArNEQ",
+    synopsis:
+      "During the war in Afghanistan, a local interpreter risks his own life to carry an injured sergeant across miles of grueling terrain.",
+    duration: "2h 3m",
+  },
+  {
     title: "The Super Mario Bros. Movie",
     year: 2023,
     rating: 7.3,
@@ -164,7 +388,7 @@ const movies = [
     poster:
       "https://m.media-amazon.com/images/M/MV5BOTJhNzlmNzctNTU5Yy00N2YwLThhMjQtZDM0YjEzN2Y0ZjNhXkEyXkFqcGdeQXVyMTEwMTQ4MzU5._V1_.jpg",
     href: "./page/Super Mario.html",
-    embed: "https://www.youtube.com/embed/TtM7Jn2jvDs",
+    embed: "https://www.youtube.com/embed/TnGl01FkMMo",
     synopsis:
       "The story of The Super Mario Bros. on their journey through the Mushroom Kingdom.",
     duration: "1h 32m",
@@ -177,7 +401,7 @@ const movies = [
     poster:
       "https://m.media-amazon.com/images/M/MV5BOWViZWFlMzgtN2ZjYi00NjIzLWI4MjAtZTE5YWY2ZGRjN2U4XkEyXkFqcGdeQXVyMTQzNTA5MzYz._V1_.jpg",
     href: "./page/thetank.html",
-    embed: "https://www.youtube.com/embed/TtM7Jn2jvDs",
+    embed: "https://www.youtube.com/embed/23GmhsmrCIo",
     synopsis:
       "After mysteriously inheriting an abandoned coastal property, Ben and his family accidentally unleash an ancient, long-dormant creature that terrorized the entire region-including his own ancestors-for generations.",
     duration: "1h 40m",
@@ -193,6 +417,20 @@ const movies = [
     synopsis:
       "A woman's life is turned upside-down when a dangerous man gets a hold of her lost cell phone and uses it to track her every move.",
     duration: "1h 57m",
+  },
+  {
+    title: "You & Me & Me",
+    year: 2023,
+    rating: 6.7,
+    genre: "Drama/Romance",
+    genres: ["drama", "romance"],
+    poster:
+      "https://m.media-amazon.com/images/M/MV5BYjEzNTA1ZjgtYzRlMC00MTliLTkyNTAtNzAxNjdlMjI0ZWMxXkEyXkFqcGdeQXVyNzEyMTA5MTU@._V1_.jpg",
+    href: "./page/You Me Me.html",
+    embed: "https://www.youtube.com/embed/OYBMpJ5qW-w",
+    synopsis:
+      "A nostalgic, coming-of-age story of identical twin sisters who share every aspect of their lives with one another, until one day a boy walks into their lives and puts their strong bond to the test.",
+    duration: "2h 1m",
   },
   {
     title: "6/45",
@@ -350,6 +588,20 @@ const movies = [
     synopsis:
       "Thirty years after their popular television show ended, chipmunks Chip and Dale live very different lives. When a cast member from the original series mysteriously disappears, the pair must reunite to save their friend.",
     duration: "1h 37m",
+  },
+  {
+    title: "Come Out Fighting",
+    year: 2023,
+    rating: 4.6,
+    genre: "Action/Adventure/Drama",
+    genres: ["action", "adventure", "drama"],
+    poster:
+      "https://m.media-amazon.com/images/M/MV5BOTBjM2VmNDMtODBhMi00NTdjLTgyMDEtMjY3YTRlMjI4YjMwXkEyXkFqcGdeQXVyMDI4NjM1MQ@@._V1_.jpg",
+    href: "./page/Come.html",
+    embed: "https://www.youtube.com/embed/j2J0TOnD_UY",
+    synopsis:
+      "Set during World War 2, a squad of American Army soldiers are sent on a mission behind lines to locate their missing commanding officer.",
+    duration: "1h 25m",
   },
   {
     title: "Cosmic Dawn",
@@ -1245,7 +1497,7 @@ const movies = [
     genre: "Horror/Mystery/Thriller",
     poster: "https://iili.io/HHHrPlR.md.webp",
     href: "./page/X.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/Awg3cWuHfoc",
     synopsis:
       "In 1979, a group of young filmmakers set out to make an adult film in rural Texas, but when their reclusive, elderly hosts catch them in the act, the cast find themselves fighting for their lives.",
     duration: "1h 45m",
