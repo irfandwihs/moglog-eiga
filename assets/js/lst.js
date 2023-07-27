@@ -896,7 +896,7 @@ const movies = [
     genre: "Action/Adventure/Sci-Fi",
     poster: "https://iili.io/pDtGjf.md.webp",
     href: "./page/Jurassic World Dominion.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/fb5ELWi-ekk",
     synopsis:
       "Four years after the destruction of Isla Nublar, Biosyn operatives attempt to track down Maisie Lockwood, while Dr Ellie Sattler investigates a genetically engineered swarm of giant insects.",
     duration: "2h 27m",
@@ -908,7 +908,7 @@ const movies = [
     genre: "Thriller",
     poster: "https://iili.io/HoIoCBt.md.webp",
     href: "./page/Killer Design.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/bcYIegtGSHQ",
     synopsis:
       "And up-and-coming interior designer hires the young woman who saved her life as an assistant. However, she soon learns the incident was far from random and her Savior isn't a good Samaritan.",
     duration: "1h 30m",
@@ -1030,7 +1030,7 @@ const movies = [
     genre: "Action/Adventure/Sci-Fi",
     poster: "https://iili.io/ycEnAG.md.webp",
     href: "./page/Moonfall.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/ivIwdQBlS10",
     synopsis:
       "A mysterious force knocks the moon from its orbit and sends it hurtling on a collision course toward earth.",
     duration: "2h 10m",
@@ -1042,7 +1042,7 @@ const movies = [
     genre: "Comedy/Drama",
     poster: "https://iili.io/pmT0xa.md.webp",
     href: "./page/Ngeri Ngeri Sedap.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/io5YgKdEON8",
     synopsis:
       "A married couple stages their divorce in order to encourage their estranged adult children to return to their hometown.",
     duration: "1h 54m",
@@ -1054,7 +1054,7 @@ const movies = [
     genre: "Drama/Mystery/Thriller",
     poster: "https://iili.io/ycNoNt.md.webp",
     href: "./page/No Exit.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/GFvupyiNEz0",
     synopsis:
       "During a blizzard and stranded at an isolated highway rest stop in the mountains, a college student discovers a kidnapped child hidden in a car belonging to one of the people inside.",
     duration: "1h 35m",
@@ -1066,7 +1066,7 @@ const movies = [
     genre: "Drama",
     poster: "https://iili.io/HYau36Q.md.webp",
     href: "./page/Noktah Merah Perkawinan.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/1GYzfiYLa1A",
     synopsis:
       "A couple's relationship hits rock bottom after 11 years - until an intriguing young woman reawakens emotions and threatens to end their marriage.",
     duration: "1h 59m",
@@ -1078,7 +1078,7 @@ const movies = [
     genre: "Horror/Mystery/Sci-Fi",
     poster: "https://iili.io/pmlj5v.md.webp",
     href: "./page/Nope.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/HUgmq_8PlRY",
     synopsis:
       "The residents of a lonely gulch in inland California bear witness to an uncanny and chilling discovery.",
     duration: "2h 10m",
@@ -1090,7 +1090,7 @@ const movies = [
     genre: "Horror",
     poster: "https://iili.io/pbOzJl.md.webp",
     href: "./page/Old People.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/8gnxYa9M41c",
     synopsis:
       "A woman travels home with her two kids for her sister's wedding but finds herself defending her family against blood-seeking pensioners.",
     duration: "1h 41m",
@@ -1102,7 +1102,7 @@ const movies = [
     genre: "Crime/Drama/Horror",
     poster: "https://iili.io/ycXV87.md.webp",
     href: "./page/Orphan First Kill.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/_uX6of3vBu0",
     synopsis:
       "After orchestrating a brilliant escape from an Estonian psychiatric facility, Esther travels to America by impersonating the missing daughter of a wealthy family.",
     duration: "1h 39m",
@@ -1114,7 +1114,7 @@ const movies = [
     genre: "Crime/Documentary",
     poster: "https://iili.io/pmH2kB.md.webp",
     href: "./page/Our Father.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/phQxK5u8IEs",
     synopsis:
       "After a woman's at-home DNA test reveals multiple half-siblings, she discovers a shocking scheme involving donor sperm and a popular fertility doctor.",
     duration: "1h 37m",
@@ -1126,7 +1126,7 @@ const movies = [
     genre: "Animation/Action/Comedy",
     poster: "https://iili.io/yjRpMG.md.webp",
     href: "./page/Paws of Fury The Legend of Hank.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/A_hkjvjx2ek",
     synopsis:
       "Hank, a loveable dog with a head full of dreams about becoming a samurai, sets off in search of his destiny.",
     duration: "1h 38m",
@@ -1138,7 +1138,7 @@ const movies = [
     genre: "Drama/Horror/Thriller",
     poster: "https://iili.io/HHHriSp.md.webp",
     href: "./page/Pearl.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/L5PW5r3pEOg",
     synopsis:
       "In 1918, a young woman on the brink of madness pursues stardom in a desperate attempt to escape the drudgery, isolation and lovelessness of life on her parents' farm.",
     duration: "1h 43m",
@@ -1150,7 +1150,7 @@ const movies = [
     genre: "Drama/Horror/Thriller",
     poster: "https://iili.io/pLFisj.md.webp",
     href: "./page/Piggy.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/JOHNOJdRsUI",
     synopsis:
       "An overweight teen is bullied by a clique of cool girls poolside while holidaying in her village. The long walk home will change the rest of her life.",
     duration: "1h 39m",
@@ -1162,7 +1162,7 @@ const movies = [
     genre: "Adventure/Comedy/Drama",
     poster: "https://iili.io/pLAsuj.md.webp",
     href: "./page/Pinocchio.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/__si5sUp4Kc",
     synopsis:
       "A puppet is brought to life by a fairy, who assigns him to lead a virtuous life in order to become a real boy.",
     duration: "1h 45m",
@@ -1174,7 +1174,7 @@ const movies = [
     genre: "Action/Crime/Horror",
     poster: "https://iili.io/HCDGfaV.md.webp",
     href: "./page/Project Wolf Hunting.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/bl4N4s2sWhg",
     synopsis:
       "Follows dangerous criminals on a cargo ship who are transported from the Philippines to South Korea, as they unleash a sinister force after an escape attempt leads to a riot.",
     duration: "2h 2m",
@@ -1186,7 +1186,7 @@ const movies = [
     genre: "Action/Drama/Fantasy",
     poster: "https://iili.io/pDW03F.md.webp",
     href: "./page/Samaritan.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/9FKnTxSC16E",
     synopsis:
       "A young boy learns that a superhero who was thought to have died after an epic battle twenty-five years ago may in fact still be alive.",
     duration: "1h 42m",
@@ -1198,7 +1198,7 @@ const movies = [
     genre: "Action/Comedy/Crime",
     poster: "https://iili.io/HHJPMQ9.md.webp",
     href: "./page/Seoul Vibe.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/H94Vfb12Hkw",
     synopsis:
       "The drivers of the Sanggye-dong Supreme Team become mired in the slush fund investigation of a powerful person on the very day of the 1988 Seoul Olympics opening ceremony.",
     duration: "2h 18m",
@@ -1210,7 +1210,7 @@ const movies = [
     genre: "Thriller",
     poster: "https://iili.io/pbmGxs.md.webp",
     href: "./page/Shut In.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/D5RjpC7_pYU",
     synopsis:
       "When a young mother is barricaded inside a pantry by her violent ex-boyfriend, she must use ingenuity to protect her two small children from escalating danger while finding an escape.",
     duration: "1h 29m",
@@ -1222,7 +1222,7 @@ const movies = [
     genre: "Horror/Mystery/Thriller",
     poster: "https://iili.io/H9zvZiu.md.webp",
     href: "./page/Smile.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/BcDK7lkzzsU",
     synopsis:
       "After witnessing a bizarre, traumatic incident involving a patient, a psychiatrist becomes increasingly convinced she is being threatened by an uncanny entity.",
     duration: "1h 55m",
@@ -1234,7 +1234,7 @@ const movies = [
     genre: "Drama/War",
     poster: "https://iili.io/pLHCmj.md.webp",
     href: "./page/Sniper The White Raven.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/cZIhRHSXtyU",
     synopsis:
       "After suffering a tragedy at the hand of invading soldiers in Donbas, an Ukrainian physics teacher seeks revenge. He sets his sights on an elite Russian sniper whose elimination could change the tide of the conflict.",
     duration: "1h 51m",
@@ -1246,7 +1246,7 @@ const movies = [
     genre: "Action/Adventure/Comedy",
     poster: "https://iili.io/yX9x4V.md.webp",
     href: "./page/Sonic The Hedgehog 2.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/47r8FXYZWNU",
     synopsis:
       "When the manic Dr Robotnik returns to Earth with a new ally, Knuckles the Echidna, Sonic and his new friend Tails is all that stands in their way.",
     duration: "2h 2m",
@@ -1258,7 +1258,7 @@ const movies = [
     genre: "Documentary",
     poster: "https://iili.io/HodeCil.md.webp",
     href: "./page/Take Your Pill.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/StVTTgnxgEw",
     synopsis:
       "A cure for some and a curse for others, widely prescribed anti-anxiety medication is examined by patients and experts in this revealing documentary.",
     duration: "1h 19m",
@@ -1270,7 +1270,7 @@ const movies = [
     genre: "Action/Adventure/Comedy",
     poster: "https://iili.io/ycG0dX.md.webp",
     href: "./page/The Adam Project.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/IE8HIsIrq4o",
     synopsis:
       "After accidentally crash-landing in 2022, time-traveling fighter pilot Adam Reed teams up with his 12-year-old self for a mission to save the future.",
     duration: "1h 46m",
@@ -1282,7 +1282,7 @@ const movies = [
     genre: "Animation/Adventure/Comedy",
     poster: "https://iili.io/yjTtwu.md.webp",
     href: "./page/The Bad Guys.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/m8Xt0yXaDPU",
     synopsis:
       "To avoid prison, a gang of notorious animal criminals pretends to seek being rehabilitated, only for their leader to realize that he genuinely wants to change his ways.",
     duration: "1h 40m",
@@ -1294,7 +1294,7 @@ const movies = [
     genre: "Biography/Crime/Drama",
     poster: "https://iili.io/H95PR6v.md.webp",
     href: "./page/The Good Nurse.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/e0DQevX-GZs",
     synopsis:
       "An infamous caregiver is implicated in the deaths of hundreds of hospital patients.",
     duration: "2h 1m",
@@ -1306,7 +1306,7 @@ const movies = [
     genre: "Action/Thriller",
     poster: "https://iili.io/pDxOOj.md.webp",
     href: "./page/The Gray Man.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/BmllggGO4pM",
     synopsis:
       "When the CIA's most skilled operative, whose true identity is known to none, accidentally uncovers dark agency secrets, a psychopathic former colleague puts a bounty on his head, setting off a global manhunt by international assassins.",
     duration: "2h 2m",
@@ -1318,7 +1318,7 @@ const movies = [
     genre: "Adventure/Drama/War",
     poster: "https://iili.io/pDZwmJ.md.webp",
     href: "./page/The Greatest Beer Run Ever.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/NqxziDlZOIo",
     synopsis:
       "A man's story of leaving New York in 1967 to bring beer to his childhood buddies in the Army while they are fighting in Vietnam.",
     duration: "2h 6m",
@@ -1330,7 +1330,7 @@ const movies = [
     genre: "Drama/Thriller",
     poster: "https://iili.io/pstWNV.md.webp",
     href: "./page/The Immaculate Room.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/st7gTecMRMQ",
     synopsis:
       "Secrets and private demons emerge when a seemingly-perfect young couple compete- for a $5 million prize by isolating themselves in an empty white room for 50 days. No phones, no family--only the room trying to break their resolve.",
     duration: "1h 32m",
@@ -1342,7 +1342,7 @@ const movies = [
     genre: "Documentary",
     poster: "https://iili.io/HfdXwNI.md.webp",
     href: "./page/The Last Dolphin King.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/nfbJ71JQu6k",
     synopsis:
       "This documentary traces the career of renowned Spanish dolphin trainer José Luis Barbero and the events leading up to his shocking death in 2015.",
     duration: "1h 34m",
@@ -1354,7 +1354,7 @@ const movies = [
     genre: "Comedy/Crime",
     poster: "https://iili.io/HCDWw9p.md.webp",
     href: "./page/The Lost Lotteries.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/o-11JnKxHB0",
     synopsis:
       "Five down-on-their-luck strangers must band together to steal back winning lottery tickets worth millions from a wicked mafia boss.",
     duration: "1h 46m",
@@ -1366,7 +1366,7 @@ const movies = [
     genre: "Comedy/Horror/Thriller",
     poster: "https://iili.io/HagjmQe.md.webp",
     href: "./page/The Menu.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/C_uTkUGcHv4",
     synopsis:
       "A young couple travels to a remote island to eat at an exclusive restaurant where the chef has prepared a lavish menu, with some shocking surprises.",
     duration: "1h 47m",
@@ -1378,7 +1378,7 @@ const movies = [
     genre: "Crime/Drama/Mystery",
     poster: "https://iili.io/yWjvGS.md.webp",
     href: "./page/The Outfit.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/3UgJL23HxyU",
     synopsis:
       "An expert cutter must outwit a dangerous group of mobsters in order to survive a fateful night.",
     duration: "1h 45m",
@@ -1390,7 +1390,7 @@ const movies = [
     genre: "Action/Crime/Thriller",
     poster: "https://iili.io/pDfRFs.md.webp",
     href: "./page/The Roundup.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/aeZXhy6mIyE",
     synopsis:
       "Followed by Ma Seok-do, who heads to a foreign country to extradite a suspect. However, he discovers additional murder cases and learns about a killer who had committed crimes against tourists for many years.",
     duration: "1h 46m",
@@ -1402,7 +1402,7 @@ const movies = [
     genre: "Animation/Adventure/Comedy",
     poster: "https://iili.io/yjBbrF.md.webp",
     href: "./page/The Sea Beast.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/P-E-IGQCsPo",
     synopsis:
       "When a young girl stows away on the ship of a legendary sea monster hunter, they launch an epic journey into uncharted waters - and make history to boot.",
     duration: "1h 55m",
@@ -1414,7 +1414,7 @@ const movies = [
     genre: "Crime/Documentary",
     poster: "https://iili.io/HC6me87.md.webp",
     href: "./page/The Tinder Swindler.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/Ev0VEqxpKxg",
     synopsis:
       "Posing as a wealthy, jet-setting diamond mogul, he wooed women online, then conned them out of millions of dollars. Now some victims plan for payback.",
     duration: "1h 54m",
@@ -1426,7 +1426,7 @@ const movies = [
     genre: "Action/Drama",
     poster: "https://iili.io/HCiqRLB.md.webp",
     href: "./page/The Violence Action.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/kPKReMLuxUI",
     synopsis: "A young girl leads a double life as an assassin for hire.",
     duration: "1h 51m",
   },
@@ -1437,7 +1437,7 @@ const movies = [
     genre: "Action/Drama",
     poster: "https://iili.io/yWp9tf.md.webp",
     href: "./page/Top Gun Maverick.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/giXco2jaZ_4",
     synopsis:
       "After thirty years, Maverick is still pushing the envelope as a top naval aviator, but must confront ghosts of his past when he leads TOP GUN's elite graduates on a mission that demands the ultimate sacrifice from those chosen to fly it.",
     duration: "2h 10m",
@@ -1449,7 +1449,7 @@ const movies = [
     genre: "Action/Adventure/Drama",
     poster: "https://iili.io/HoClzmb.md.webp",
     href: "./page/Troll.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/AiohkY_XQYQ",
     synopsis:
       "Deep in the Dovre mountain, something gigantic wakes up after a thousand years in captivity. The creature destroys everything in its path and quickly approaches Oslo.",
     duration: "1h 41m",
@@ -1461,7 +1461,7 @@ const movies = [
     genre: "Animation/Adventure/Comedy",
     poster: "https://iili.io/yX2ZWg.md.webp",
     href: "./page/Turning Red.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/XdKzUbAiswE",
     synopsis:
       "A 13-year-old girl named Meilin turns into a giant red panda whenever she gets too excited.",
     duration: "1h 40m",
@@ -1473,7 +1473,7 @@ const movies = [
     genre: "Action/Adventure",
     poster: "https://iili.io/yXHJoJ.md.webp",
     href: "./page/Uncharted.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/eHp3MbsCbMg",
     synopsis:
       "Street-smart Nathan Drake is recruited by seasoned treasure hunter Victor Sully Sullivan to recover a fortune amassed by Ferdinand Magellan, and lost 500 years ago by the House of Moncada.",
     duration: "1h 56m",
@@ -1485,7 +1485,7 @@ const movies = [
     genre: "Drama/Horror/Thriller",
     poster: "https://iili.io/Hxu0LXa.md.webp",
     href: "./page/Watcher.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/KDc6ZLo8sjc",
     synopsis:
       "A young American woman moves with her husband to Bucharest, and begins to suspect that a stranger who watches her from the apartment building across the street may be a local serial killer decapitating women.",
     duration: "1h 36m",
@@ -2013,7 +2013,7 @@ const movies = [
     genre: "Drama",
     poster: "https://iili.io/YfUbYN.md.webp",
     href: "./page/I Was a Simple Man.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/G_ZQFU5wqgY",
     synopsis:
       "A family in Hawai'i faces the imminent death of their eldest as the ghosts of the past haunt the countryside.",
     duration: "1h 40m",
@@ -2025,7 +2025,7 @@ const movies = [
     genre: "Action/Adventure/Comedy",
     poster: "https://iili.io/5edg2V.md.webp",
     href: "./page/Jungle Cruise.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/f_HvoipFcA8",
     synopsis:
       "Based on Disneyland's theme park ride where a small riverboat takes a group of travelers through a jungle filled with dangerous animals and reptiles but with a supernatural element.",
     duration: "2h 7m",
@@ -2037,7 +2037,7 @@ const movies = [
     genre: "Action/Adventure/Crime",
     poster: "https://iili.io/5edrYB.md.webp",
     href: "./page/Kate.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/MysGjRS9jFU",
     synopsis:
       "A jaded assassin assigned to target a yakuza clan has 24 hours to find out who poisoned her and get vengeance before she dies.",
     duration: "1h 46m",
@@ -2049,7 +2049,7 @@ const movies = [
     genre: "Horror",
     poster: "https://iili.io/cbxPrF.md.webp",
     href: "./page/Know Fear.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/Z4dc5xlgqxY",
     synopsis:
       "After the possession of his wife, Donald Capel and his family activate a dangerous ritual in a book used to identify and banish demons, a ritual forcing each member of the family to communicate with the demon in their own unique way: to see it, hear it, or speak to it.",
     duration: "1h 17m",
@@ -2061,7 +2061,7 @@ const movies = [
     genre: "Drama/Fantasy/Horror",
     poster: "https://iili.io/5bjU22.md.webp",
     href: "./page/Lamb.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/hnEwJKVWjFM",
     synopsis:
       "A childless couple discovers a mysterious newborn on their farm in Iceland.",
     duration: "1h 46m",
@@ -2073,7 +2073,7 @@ const movies = [
     genre: "Drama/Horror/Mystery",
     poster: "https://iili.io/cbwkzv.md.webp",
     href: "./page/Last Night in Soho.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/AcVnFrxjPjI",
     synopsis:
       "An aspiring fashion designer is mysteriously able to enter the 1960s, where she encounters a dazzling wannabe singer. But the glamour is not all it appears to be and the dreams of the past start to crack and splinter into something darker.",
     duration: "1h 56m",
@@ -2085,7 +2085,7 @@ const movies = [
     genre: "Comedy/Romance",
     poster: "https://iili.io/cQlqzJ.md.webp",
     href: "./page/Liar x Liar.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/9L_fuf_sNNk",
     synopsis:
       "A girl plays a prank on her playboy brother by dressing up as a schoolgirl and expressing romantic intentions, only to him to fall in love with her.",
     duration: "1h 57m",
@@ -2097,7 +2097,7 @@ const movies = [
     genre: "Drama/Horror/Mystery",
     poster: "https://iili.io/cQRVef.md.webp",
     href: "./page/Lift.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/6uFSJLQA_jA",
     synopsis:
       "A usual working day turns unusual for Guru and Harini when they get trapped in their haunted office. A patterned game unlocks a mystery and a lift is their only way out.",
     duration: "2h 14m",
@@ -2109,7 +2109,7 @@ const movies = [
     genre: "Horror/Thriller",
     poster: "https://iili.io/5bj8rl.md.webp",
     href: "./page/Like Dogs.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/tlQZXJQMFRM",
     synopsis:
       "A behavioral experiment treating humans like animals goes awry when a university student manipulates the research with deadly results.",
     duration: "1h 34m",
@@ -2121,7 +2121,7 @@ const movies = [
     genre: "Animation/Adventure/Comedy",
     poster: "https://iili.io/5ed4kP.md.webp",
     href: "./page/Luca.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/mYfJxlgR2jw",
     synopsis:
       "On the Italian Riviera, an unlikely but strong friendship grows between a human being and a sea monster disguised as a human.",
     duration: "1h 35m",
@@ -2133,7 +2133,7 @@ const movies = [
     genre: "Crime/Horror/Mystery",
     poster: "https://iili.io/5e2c8B.md.webp",
     href: "./page/Malignant.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/Gczt0fhawDs",
     synopsis:
       "Madison is paralyzed by shocking visions of grisly murders, and her torment worsens as she discovers that these waking dreams are in fact terrifying realities.",
     duration: "1h 51m",
@@ -2145,7 +2145,7 @@ const movies = [
     genre: "Crime/Drama/Mystery",
     poster: "https://iili.io/HxJ1HHF.md.webp",
     href: "./page/Masquerade Night.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/i24VaMuhULw",
     synopsis:
       "An anonymous letter is delivered to the Tokyo Metropolitan Police Department. The letter states that a criminal of a murder case will appear at the countdown party Masquerade Night that will be held at Hotel Cortesia Tokyo.",
     duration: "2h 9m",
@@ -2157,7 +2157,7 @@ const movies = [
     genre: "Crime/Thriller",
     poster: "https://iili.io/5bjv14.md.webp",
     href: "./page/Midnight.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/3Ap4ww9Ap-0",
     synopsis:
       "A serial killer ruthlessly hunts down a deaf woman through the streets of South Korea after she witnesses his brutal crime.",
     duration: "1h 43m",
@@ -2169,7 +2169,7 @@ const movies = [
     genre: "Action/Comedy/Crime",
     poster: "https://iili.io/5bjkBf.md.webp",
     href: "./page/Mission Possible.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/o-Q480iFQ2s",
     synopsis:
       "A trainee Chinese spy mistakes a buffoonish private detective for her contact. Together, they seek to uncover a South Korean gun-smuggling ring.",
     duration: "1h 45m",
@@ -2181,7 +2181,7 @@ const movies = [
     genre: "Action/Adventure/Fantasy",
     poster: "https://iili.io/5e2wap.md.webp",
     href: "./page/Mohist Mechanism.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/jAtewVznSNw",
     synopsis:
       "Shen Tuo, the descendant of the Mohist Mechanism, took a bet with the warden of the Infinity Prison to save his wife Jiang Ren, a captive in the Fort of Mechanism. To win the bet, Shen Tuo, along with six teammates, has to go deep under the Fort and find the mysterious heirloom of Mozi.",
     duration: "1h 23m",
@@ -2193,7 +2193,7 @@ const movies = [
     genre: "Action/Adventure/Fantasy",
     poster: "https://iili.io/cb15Ux.md.webp",
     href: "./page/Mortal Kombat.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/NYH2sLid0Zc",
     synopsis:
       "MMA fighter Cole Young seeks out Earth's greatest champions in order to stand against the enemies of Outworld in a high stakes battle for the universe.",
     duration: "1h 50m",
@@ -2205,7 +2205,7 @@ const movies = [
     genre: "Comedy/Crime/Drama",
     poster: "https://iili.io/5e2gMG.md.webp",
     href: "./page/Naked Singularity.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/PgbZGTareX0",
     synopsis:
       "An idealistic young New York City public defender burned out by the system, on the brink of disbarment, and seeing signs of the universe collapsing all around him decides to rob a multi-million drug deal of one of his clients.",
     duration: "1h 33m",
@@ -2217,7 +2217,7 @@ const movies = [
     genre: "Drama/Horror/Mystery",
     poster: "https://iili.io/5e3RDX.md.webp",
     href: "./page/No One Gets Out Alive.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/sY2TLiK27g4",
     synopsis:
       "After being forced to take a room in a boardinghouse, an immigrant in search of the American Dream finds herself in a nightmare she can't escape.",
     duration: "1h 27m",
@@ -2229,7 +2229,7 @@ const movies = [
     genre: "Action/Adventure/Thriller",
     poster: "https://iili.io/5e3aiG.md.webp",
     href: "./page/No Time To Die.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/BIhNsAtPbPI",
     synopsis:
       "James Bond has left active service. His peace is short-lived when Felix Leiter, an old friend from the CIA, turns up asking for help, leading Bond onto the trail of a mysterious villain armed with dangerous new technology.",
     duration: "2h 43m",
@@ -2241,7 +2241,7 @@ const movies = [
     genre: "Comedy/Horror/Thriller",
     poster: "https://iili.io/5e2rPf.md.webp",
     href: "./page/Nobody Sleeps in the Woods Tonight 2.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/R_wIaGkiUBI",
     synopsis:
       "When something horrible happens to the only survivor of a bloody massacre, an insecure rookie cop must overcome his fears to stop further carnage.",
     duration: "1h 36m",
@@ -2253,7 +2253,7 @@ const movies = [
     genre: "Drama/Horror/Mystery",
     poster: "https://iili.io/5e31Ul.md.webp",
     href: "./page/Old.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/A4U2pMRV9_k",
     synopsis:
       "A vacationing family discovers that the secluded beach where they're relaxing for a few hours is somehow causing them to age rapidly, reducing their entire lives into a single day.",
     duration: "1h 48m",
@@ -2265,7 +2265,7 @@ const movies = [
     genre: "Action/Adventure/Fantasy",
     poster: "https://iili.io/5eECLF.md.webp",
     href: "./page/Outside the Wire.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/u8ZsUivELbs",
     synopsis:
       "In the near future, a drone pilot sent into a war zone finds himself paired with a top-secret android officer on a mission to stop a nuclear attack.",
     duration: "1h 54m",
@@ -2277,7 +2277,7 @@ const movies = [
     genre: "Drama/Fantasy/Sci-Fi",
     poster: "https://iili.io/5bjhmX.md.webp",
     href: "./page/Oxygen.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/8IqXgZd-P98",
     synopsis:
       "A woman wakes in a cryogenic chamber with no recollection of how she got there. As she's running out of oxygen, she must rebuild her memory to find a way out of her nightmare.",
     duration: "1h 40m",
@@ -2289,7 +2289,7 @@ const movies = [
     genre: "Adventure/Drama/Thriller",
     poster: "https://iili.io/5eEqzP.md.webp",
     href: "./page/Prey.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/HzpLBkLb4ak",
     synopsis:
       "A hiking trip into the wild turns into a desperate bid for survival for five friends on the run from a mysterious shooter.",
     duration: "1h 27m",
@@ -2301,7 +2301,7 @@ const movies = [
     genre: "Documentary/Family",
     poster: "https://iili.io/7bJpgp.md.webp",
     href: "./page/Puff Wonders of the Reef.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/g-MdiE7gfmY",
     synopsis:
       "A baby pufferfish travels through a wondrous microworld full of fantastical creatures as he searches for a home on the Great Barrier Reef.",
     duration: "1h 2m",
@@ -2313,7 +2313,7 @@ const movies = [
     genre: "Comedy/Crime",
     poster: "https://iili.io/Hx9bFm7.md.webp",
     href: "./page/Queenpins.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/v90YxH6lR_8",
     synopsis: "A pair of housewives create a $40 million coupon scam.",
     duration: "1h 50m",
   },
@@ -2324,7 +2324,7 @@ const movies = [
     genre: "Animation/Action/Adventure",
     poster: "https://iili.io/5eEx1a.md.webp",
     href: "./page/Raya and the Last Dragon.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/1VIZ89FEjYI",
     synopsis:
       "In a realm known as Kumandra, a re-imagined Earth inhabited by an ancient civilization, a warrior named Raya is determined to find the last dragon.",
     duration: "1h 47m",
@@ -2336,7 +2336,7 @@ const movies = [
     genre: "Action/Comedy/Thriller",
     poster: "https://iili.io/5eEoqg.md.webp",
     href: "./page/Red Notice.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/Pj0wz7zu3Ms",
     synopsis:
       "An Interpol agent successfully tracks down the world's most wanted art thief with help from a rival thief. But nothing is as it seems as a series of double-crosses ensues.",
     duration: "1h 58m",
@@ -2348,7 +2348,7 @@ const movies = [
     genre: "Action/Horror/Sci-Fi",
     poster: "https://iili.io/cQTD7f.md.webp",
     href: "./page/Resident Evil Welcome to Raccoon City.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/4q6UGCyHZCI",
     synopsis:
       "Set in 1998, this origin story explores the secrets of the mysterious Spencer Mansion and the ill-fated Raccoon City.",
     duration: "1h 47m",
@@ -2360,7 +2360,7 @@ const movies = [
     genre: "Animation/Adventure/Comedy",
     poster: "https://iili.io/cbIWl9.md.webp",
     href: "./page/Riverdance.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/ZN6TgXnNVGQ",
     synopsis:
       "An Irish boy named Keegan and a Spanish girl named Moya journey into the mythical world of the Megaloceros Giganteus who teach them to appreciate Riverdance as a celebration of life.",
     duration: "1h 30m",
@@ -2372,7 +2372,7 @@ const movies = [
     genre: "Animation/Adventure/Comedy",
     poster: "https://iili.io/7e6AP4.md.webp",
     href: "./page/Ron's Gone Wrong.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/8I8nMtzN05s",
     synopsis:
       "The story of Barney, an awkward middle-schooler and Ron, his new walking, talking, digitally-connected device. Ron's malfunctions set against the backdrop of the social media age launch them on a journey to learn about true friendship.",
     duration: "1h 47m",
@@ -2384,7 +2384,7 @@ const movies = [
     genre: "Animation/Comedy/Family",
     poster: "https://iili.io/7bdzk7.md.webp",
     href: "./page/Rumble.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/X07rA7UjAWk",
     synopsis:
       "In a world where monster wrestling is a global sport and monsters are superstar athletes, teenage Winnie seeks to follow in her father's footsteps by coaching a loveable underdog monster into a champion.",
     duration: "1h 35m",
@@ -2396,7 +2396,7 @@ const movies = [
     genre: "Animation/Action/Comedy",
     poster: "https://iili.io/cbqbyl.md.webp",
     href: "./page/Seal Team.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/FT6k3HoS_F8",
     synopsis:
       "Fearless seal Quinn assembles a squad of misfit recruits to stand up to ruthless sharks with razor-sharp teeth and reclaim the open sea.",
     duration: "1h 41m",
@@ -2408,7 +2408,7 @@ const movies = [
     genre: "Adventure/Documentary",
     poster: "https://iili.io/5eEzrJ.md.webp",
     href: "./page/Seaspiracy.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/1Q5CXN7soQg",
     synopsis:
       "Passionate about ocean life, a filmmaker sets out to document the harm that humans do to marine species - and uncovers alarming global corruption.",
     duration: "1h 29m",
@@ -2420,7 +2420,7 @@ const movies = [
     genre: "Animation/Adventure/Comedy",
     poster: "https://iili.io/5eETdv.md.webp",
     href: "./page/Secret Magic Control Agency.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/OESJJ2vZn9M",
     synopsis:
       "The Secret Magic Control Agency sends its two best agents, Hansel and Gretel, to fight against the witch of the Gingerbread House.",
     duration: "1h 43m",
@@ -2432,7 +2432,7 @@ const movies = [
     genre: "Action/Drama",
     poster: "https://iili.io/583Y4s.md.webp",
     href: "./page/Shark The Beginning.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/P_ClPWLHErQ",
     synopsis:
       "Cha Woo Sol, a victim of school violence who was imprisoned in a boys' prison due to an unexpected incident, meets mixed martial arts champion Jeong Do Hyeon and breaks his limit one by one in order to seek for revenge and make his bully pay.",
     duration: "1h 48m",
@@ -2444,7 +2444,7 @@ const movies = [
     genre: "Comedy/Drama",
     poster: "https://iili.io/7eiLns.md.webp",
     href: "./page/Silent Night.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/u1dOECVgqIQ",
     synopsis:
       "Nell, Simon, and their son Art are ready to welcome friends and family for what promises to be a perfect Christmas gathering. Perfect except for one thing: everyone is going to die.",
     duration: "1h 32m",
@@ -2456,7 +2456,7 @@ const movies = [
     genre: "Animation/Adventure/Comedy",
     poster: "https://iili.io/cbF6Qe.md.webp",
     href: "./page/Sing 2.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/EPZu5MA2uqI",
     synopsis:
       "Buster Moon and his friends must persuade reclusive rock star Clay Calloway to join them for the opening of a new show.",
     duration: "1h 50m",
@@ -2468,7 +2468,7 @@ const movies = [
     genre: "Action/Comedy/Drama",
     poster: "https://iili.io/5eERmN.md.webp",
     href: "./page/Sinkhole.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/SdYxrhZod_0",
     synopsis:
       "A working class family move into a new condo purchased after 11 years of hard work. They throw a housewarming party to show his co-workers when overnight a heavy downpour creates an extremely deep sinkhole that engulfs the entire building.",
     duration: "1h 57m",
@@ -2480,7 +2480,7 @@ const movies = [
     genre: "Animation/Comedy/Short",
     poster: "https://iili.io/7eiHCJ.md.webp",
     href: "./page/Snoopy Presents.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/feu3E6aSBvE",
     synopsis:
       "After finding out her grandmother won’t be visiting for Christmas, Lucy decides to cheer herself up by throwing the ultimate New Year’s Eve party. Meanwhile, Charlie Brown tries to fulfill one of his resolutions before midnight.",
     duration: "38m",
@@ -2492,7 +2492,7 @@ const movies = [
     genre: "Animation/Family",
     poster: "https://iili.io/Y3hMep.md.webp",
     href: "./page/StarBeam Beaming in the New Year.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/0VRfqCckPg8",
     synopsis:
       "Summersette's biggest baddies join forces on New Year's Eve to battle Zoey and the Beam Team. But cool cousin Zara powers up to help save the day.",
     duration: "47m",
@@ -2504,7 +2504,7 @@ const movies = [
     genre: "Drama/Horror/Mystery",
     poster: "https://iili.io/c4pkSp.md.webp",
     href: "./page/Suicide Forest Village.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/n_0msQtbiLo",
     synopsis:
       "One day a mysterious box arrived and a curse began to spread all over. The source of the box is 'Jukai Village'. The village is hidden in Jukai Forest, a suicide spot that once you enter it, you can never come out.",
     duration: "1h 57m",
@@ -2516,7 +2516,7 @@ const movies = [
     genre: "Comedy/Horror/Thriller",
     poster: "https://iili.io/HC6pKAX.md.webp",
     href: "./page/Superhost.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/k5wK0Z1ocpM",
     synopsis:
       "With their follower count dwindling, travel vloggers Teddy and Claire pivot to creating viral content around their most recent 'superhost,' Rebecca, who wants more from the duo than a great review.",
     duration: "1h 24m",
@@ -2528,10 +2528,22 @@ const movies = [
     genre: "Animation/Adventure/Comedy",
     poster: "https://iili.io/5eEAep.md.webp",
     href: "./page/The Boss Baby Family Business.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/prWBrMJOg2k",
     synopsis:
       "The Templeton brothers have become adults and drifted away from each other, but a new boss baby with a cutting-edge approach is about to bring them together again - and inspire a new family business.",
     duration: "1h 47m",
+  },
+  {
+    title: "The Conjuring: The Devil Made Me Do It",
+    year: 2021,
+    rating: 6.3,
+    genre: "Horror/Mystery/Thriller",
+    poster: "https://iili.io/5eE7II.md.webp",
+    href: "./page/The Conjuring The Devil Made Me Do It.html",
+    embed: "https://www.youtube.com/embed/h9Q4zZS2v1k",
+    synopsis:
+      "The Warrens investigate a murder that may be linked to a demonic possession.",
+    duration: "1h 52m",
   },
   {
     title: "The Feast",
@@ -2540,10 +2552,22 @@ const movies = [
     genre: "Drama/Horror/Mystery",
     poster: "https://iili.io/5yNw3G.md.webp",
     href: "./page/The Feast.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/9f36pVcXNgc",
     synopsis:
       "Filmed in Welsh, the picture follows a young woman serving privileged guests at a dinner party in a remote house in rural Wales. The assembled guests do not realize they are about to eat their last supper.",
     duration: "1h 33m",
+  },
+  {
+    title: "The Forever Purge",
+    year: 2021,
+    rating: 5.4,
+    genre: "Action/Crime/Horror",
+    poster: "https://iili.io/cb0S8Q.md.webp",
+    href: "./page/The Forever Purge.html",
+    embed: "https://www.youtube.com/embed/xOrXpK-rUaI",
+    synopsis:
+      "All the rules are broken as a sect of lawless marauders decides that the annual Purge does not stop at daybreak and instead should never end.",
+    duration: "1h 43m",
   },
   {
     title: "The King's Man",
@@ -2552,7 +2576,7 @@ const movies = [
     genre: "Action/Adventure/Thriller",
     poster: "https://iili.io/HC6mSwu.md.webp",
     href: "./page/The Kings Man.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/5zdBG-iGfes",
     synopsis:
       "In the early years of the 20th century, the Kingsman agency is formed to stand against a cabal plotting a war to wipe out millions.",
     duration: "2h 11m",
@@ -2564,7 +2588,7 @@ const movies = [
     genre: "Animation/Adventure/Comedy",
     poster: "https://iili.io/5eEG2f.md.webp",
     href: "./page/The Mitchells vs The Machines.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/_ak5dFt8Ar0",
     synopsis:
       "A quirky, dysfunctional family's road trip is upended when they find themselves in the middle of the robot apocalypse and suddenly become humanity's unlikeliest last hope.",
     duration: "1h 54m",
@@ -2576,46 +2600,10 @@ const movies = [
     genre: "Crime/Drama/Horror",
     poster: "https://iili.io/7bdx7s.md.webp",
     href: "./page/Thiên Than Ho Menh.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/FzoWWAJeFgM",
     synopsis:
       "After the shocking suicide of a young pop star, her backup singer finds herself living a parallel life. But is her success earned, or is it being aided by occult forces?",
     duration: "2h 7m",
-  },
-  {
-    title: "The Conjuring: The Devil Made Me Do It",
-    year: 2021,
-    rating: 6.3,
-    genre: "Horror/Mystery/Thriller",
-    poster: "https://iili.io/5eE7II.md.webp",
-    href: "./page/The Conjuring The Devil Made Me Do It.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
-    synopsis:
-      "The Warrens investigate a murder that may be linked to a demonic possession.",
-    duration: "1h 52m",
-  },
-  {
-    title: "The Forever Purge",
-    year: 2021,
-    rating: 5.4,
-    genre: "Action/Crime/Horror",
-    poster: "https://iili.io/cb0S8Q.md.webp",
-    href: "./page/The Forever Purge.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
-    synopsis:
-      "All the rules are broken as a sect of lawless marauders decides that the annual Purge does not stop at daybreak and instead should never end.",
-    duration: "1h 43m",
-  },
-  {
-    title: "Titane",
-    year: 2021,
-    rating: 6.5,
-    genre: "Drama/Horror/Sci-Fi",
-    poster: "https://iili.io/H9HD86Q.md.webp",
-    href: "./page/Titane.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
-    synopsis:
-      "Following a series of unexplained crimes, a father is reunited with the son who has been missing for 10 years.",
-    duration: "1h 48m",
   },
   {
     title: "The Black Phone",
@@ -2624,7 +2612,7 @@ const movies = [
     genre: "Horror/Thriller",
     poster: "https://iili.io/pDBBhN.md.webp",
     href: "./page/The Black Phone.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/3eGP6im8AZA",
     synopsis:
       "After being abducted by a child killer and locked in a soundproof basement, a 13-year-old boy starts receiving calls on a disconnected phone from the killer's previous victims.",
     duration: "1h 43m",
@@ -2636,7 +2624,7 @@ const movies = [
     genre: "Horror",
     poster: "https://iili.io/5eEYXt.md.webp",
     href: "./page/The Cursed.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/u4hoxrz7x1Q",
     synopsis:
       "A mysterious serial murder cases take place by jaechaui (dead bodies which have risen from the dead and able to talk). These bodies are manipulated by someone.",
     duration: "1h 50m",
@@ -2648,7 +2636,7 @@ const movies = [
     genre: "Action/Adventure/Comedy",
     poster: "https://iili.io/cbELYv.md.webp",
     href: "./page/The Suicide Squad.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/eg5ciqQzmK0",
     synopsis:
       "Supervillains Harley Quinn, Bloodsport, Peacemaker, and a collection of nutty cons at Belle Reve prison join the super-secret, super-shady Task Force X as they are dropped off at the remote, enemy-infused island of Corto Maltese.",
     duration: "2h 12m",
@@ -2660,7 +2648,7 @@ const movies = [
     genre: "Action/Adventure/Thriller",
     poster: "https://iili.io/5eE01s.md.webp",
     href: "./page/The Ice Road.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/-zjikObAJHk",
     synopsis:
       "After a remote diamond mine collapses in far northern Canada, a 'big-rig' ice road driver must lead an impossible rescue mission over a frozen lake to save the trapped miners.",
     duration: "1h 49m",
@@ -2672,7 +2660,7 @@ const movies = [
     genre: "Action/Adventure/Drama",
     poster: "https://iili.io/5eE1rG.md.webp",
     href: "./page/The Tomorrow War.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/QPistcpGB8o",
     synopsis:
       "A family man is drafted to fight in a future war where the fate of humanity relies on his ability to confront the past.",
     duration: "2h 18m",
@@ -2684,7 +2672,7 @@ const movies = [
     genre: "Animation/Adventure/Comedy",
     poster: "https://iili.io/5eEu7R.md.webp",
     href: "./page/The Addams Family 2.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/Kd82bSBDE84",
     synopsis:
       "The Addams get tangled up in more wacky adventures and find themselves involved in hilarious run-ins with all sorts of unsuspecting characters. Sequel to the 2019 animated film, 'The Addams Family'.",
     duration: "1h 33m",
@@ -2696,7 +2684,7 @@ const movies = [
     genre: "Drama/Horror/Mystery",
     poster: "https://iili.io/5eEaLX.md.webp",
     href: "./page/The Deep House.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/hgqjv1endGY",
     synopsis:
       "The British Ben and his American girlfriend Tina are young adventurers that like to look for isolated weird places using Ben's GoPro camera and drone to post in Ben's social media later aiming to reach a great number of followers. They decide to go to France to seek out a lake formed by a submerged town and find that the place is a touristic area full of visitors.",
     duration: "1h 25m",
@@ -2708,7 +2696,7 @@ const movies = [
     genre: "Animation/Adventure/Comedy",
     poster: "https://iili.io/5bjNXs.md.webp",
     href: "./page/The Loud House Movie.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/N52WkGK7EI8",
     synopsis:
       "With his parents and all 10 sisters in tow, Lincoln Loud heads to Scotland and learns that royalty runs in the family in this global musical journey.",
     duration: "1h 23m",
@@ -2720,10 +2708,22 @@ const movies = [
     genre: "Crime/Drama",
     poster: "https://iili.io/5eEM74.md.webp",
     href: "./page/The White Tiger.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/35jJNyFuYKQ",
     synopsis:
       "An ambitious Indian driver uses his wit and cunning to escape from poverty and rise to the top. An epic journey based on the New York Times bestseller.",
     duration: "2h 5m",
+  },
+  {
+    title: "Titane",
+    year: 2021,
+    rating: 6.5,
+    genre: "Drama/Horror/Sci-Fi",
+    poster: "https://iili.io/H9HD86Q.md.webp",
+    href: "./page/Titane.html",
+    embed: "https://www.youtube.com/embed/Q5_w2W5G9OM",
+    synopsis:
+      "Following a series of unexplained crimes, a father is reunited with the son who has been missing for 10 years.",
+    duration: "1h 48m",
   },
   {
     title: "Vivo",
@@ -2732,7 +2732,7 @@ const movies = [
     genre: "Animation/Adventure/Comedy",
     poster: "https://iili.io/5bjPIe.md.webp",
     href: "./page/Vivo.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/BOe8L69JpVI",
     synopsis:
       "Vivo, Sony Pictures Animation's first-ever musical adventure featuring all-new original songs from Lin-Manuel Miranda, will take audiences on an epic adventure to gorgeous and vibrant locations never before seen in animation.",
     duration: "1h 35m",
@@ -2744,7 +2744,7 @@ const movies = [
     genre: "Action/Crime/Thriller",
     poster: "https://iili.io/5eEVkl.md.webp",
     href: "./page/Wrath of Man.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/EFYEni2gsK0",
     synopsis:
       "A cold and mysterious character working at a cash truck company responsible for moving a lot of money around Los Angeles each week.",
     duration: "1h 59m",
@@ -2756,7 +2756,7 @@ const movies = [
     genre: "Comedy/Drama/Romance",
     poster: "https://iili.io/5eEBX1.md.webp",
     href: "./page/You're Not Normal, Either.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/V9MhWch9y9M",
     synopsis:
       "Yasuomi Ohno, a math teacher at a prep school, is single and has no girlfriend. He has trouble communicating with girls, so he begs his student, Kasumi Akimoto, who always says he is 'not normal,' to tell him how he can become normal.",
     duration: "1h 38m",
@@ -2768,7 +2768,7 @@ const movies = [
     genre: "Drama/Horror/Mystery",
     poster: "https://iili.io/cP9p1a.md.webp",
     href: "./page/The Wasteland.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/QojkL0FA0CY",
     synopsis:
       "The tranquil lives of a family isolated from the rest of society are disturbed by a terrifying creature, testing the ties that bind them together.",
     duration: "1h 32m",
@@ -2780,7 +2780,7 @@ const movies = [
     genre: "Action/Comedy/Mystery",
     poster: "https://iili.io/5bjOLG.md.webp",
     href: "./page/The Fable The Killer Who Doesn't Kill.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/EuJLIYyz2JU",
     synopsis:
       "The Fable/Akira Sato killed 5 men 4 years ago. He meets the girl injured back then in a wheelchair. She's staying with the 6th on his kill list canceled last moment. The 6th is now scamming/extorting people.",
     duration: "2h 13m",
@@ -2792,7 +2792,7 @@ const movies = [
     genre: "Horror",
     poster: "https://iili.io/5eElBn.md.webp",
     href: "./page/The Medium.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/wDtJ3M4arIc",
     synopsis:
       "A horrifying story of a shaman's inheritance in the Isan region of Thailand. What could be possessing a family member might not be the Goddess they make it out to be.",
     duration: "2h 10m",
@@ -2804,7 +2804,7 @@ const movies = [
     genre: "Drama/Horror/Mystery",
     poster: "https://iili.io/7bdCrl.md.webp",
     href: "./page/The Whole Truth.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/wNIY6wfkQxM",
     synopsis:
       "When two siblings stumble on a strange hole in the wall of their grandparents' house, horrifying incidents reveal sinister secrets about their family.",
     duration: "2h 5m",
@@ -2924,7 +2924,7 @@ const movies = [
     genre: "Comedy/Horror/Sci-Fi",
     poster: "https://iili.io/5LmQn4.md.webp",
     href: "./page/Cyst.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/bWZuxRssLUk",
     synopsis:
       "In the 1960s a nurse's last day is ruined when a doctor inadvertently creates a cyst monster that terrorizes the office.",
     duration: "1h 13m",
@@ -2936,7 +2936,7 @@ const movies = [
     genre: "Action/Adventure/Crime",
     poster: "https://iili.io/5LmZMl.md.webp",
     href: "./page/Enola Holmes.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/1d0Zf9sXlHk",
     synopsis:
       "When Enola Holmes (Sherlock's teen sister) discovers her mother is missing, she endeavors to find her, becoming a super-sleuth in her own right as she outwits her famous brother and unravels a dangerous conspiracy.",
     duration: "2h 3m",
@@ -2948,7 +2948,7 @@ const movies = [
     genre: "Biography/Crime/Mystery",
     poster: "https://iili.io/5LmtP2.md.webp",
     href: "./page/Escape from Pretoria.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/R_GFMbq4JPo",
     synopsis:
       "Based on the real-life prison break of two political captives, Escape From Pretoria is a race-against-time thriller set in the tumultuous apartheid days of South Africa.",
     duration: "1h 46m",
@@ -2960,7 +2960,7 @@ const movies = [
     genre: "Documentary/War",
     poster: "https://iili.io/5LmbFS.md.webp",
     href: "./page/Father Soldier Son.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/Xd8LZEaXszM",
     synopsis:
       "When Sgt. First Class Brian Eisch is critically wounded in Afghanistan, it sets him and his sons on a journey of love, loss, redemption and legacy.",
     duration: "1h 39m",
@@ -2972,7 +2972,7 @@ const movies = [
     genre: "Action/Drama",
     poster: "https://iili.io/5Lmmc7.md.webp",
     href: "./page/Fukushima 50.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/ppDZpNIoqnU",
     synopsis:
       "Workers at the Fukushima Daiichi facility in Japan risk their lives and stay at the nuclear power plant to prevent total destruction after the region is devastated by an earthquake and tsunami in 2011.",
     duration: "2h 2m",
@@ -2984,7 +2984,7 @@ const movies = [
     genre: "Animation/Short",
     poster: "https://iili.io/5LmpS9.md.webp",
     href: "./page/Here We Are Notes for Living on Planet Earth.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/2M3Q4-zCTHc",
     synopsis:
       "A precocious 7-year-old who, over the course of Earth Day, learns about the wonders of the planet from his parents and from a mysterious exhibit at the aptly titled Museum of Everything.",
     duration: "36m",
@@ -2996,7 +2996,7 @@ const movies = [
     genre: "Horror/Mystery",
     poster: "https://iili.io/5Lp99e.md.webp",
     href: "./page/Host.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/SNlKbqHqGcY",
     synopsis:
       "Six friends hire a medium to hold a seance via Zoom during lockdown, but they get far more than they bargained for as things quickly go wrong.",
     duration: "57m",
@@ -3008,7 +3008,7 @@ const movies = [
     genre: "Horror/Thriller",
     poster: "https://iili.io/5LpHAu.md.webp",
     href: "./page/Let It Snow.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/6U1Vl0H2tI0",
     synopsis:
       "Separated from her fiance after sneaking onto a restricted slope, Mia, a free-riding snowboarder, must survive not only against nature, but also the masked snowmobile rider in black who is out for her blood.",
     duration: "1h 27m",
@@ -3020,7 +3020,7 @@ const movies = [
     genre: "Comedy/Drama",
     poster: "https://iili.io/5LpJwb.md.webp",
     href: "./page/Limbo.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/3O--8AuuhgA",
     synopsis:
       "Omar is a promising young musician. Separated from his Syrian family, he is stuck on a remote Scottish island awaiting the fate of his asylum request.",
     duration: "1h 44m",
@@ -3032,7 +3032,7 @@ const movies = [
     genre: "Action/Adventure/Comedy",
     poster: "https://iili.io/5Lp3ox.md.webp",
     href: "./page/Love and Monsters.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/-19tBHrZwOM",
     synopsis:
       "Seven years after he survived the monster apocalypse, lovably hapless Joel leaves his cozy underground bunker behind on a quest to reunite with his ex.",
     duration: "1h 49m",
@@ -3044,7 +3044,7 @@ const movies = [
     genre: "Drama/Romance",
     poster: "https://iili.io/5LpzNa.md.webp",
     href: "./page/Love Me Love Me Not.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/jpHj2G6L2FA",
     synopsis:
       "The love affairs of four schoolkids: a romantic, a pragmatist, an airhead and a lothario.",
     duration: "2h 4m",
@@ -3056,7 +3056,7 @@ const movies = [
     genre: "Comedy/Horror/Romance",
     poster: "https://iili.io/5Lpdtj.md.webp",
     href: "./page/Low Season.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/YuUCJwBjVH8",
     synopsis:
       "A girl with a special sense and can see the ghosts broke up with her boyfriend becoming tired of the big city and decided to leave the city for a break. She heads to the faraway resort in the North alone during the so-called 'Low Season'.",
     duration: "2h 5m",
@@ -3068,7 +3068,7 @@ const movies = [
     genre: "Crime/Drama/Thriller",
     poster: "https://iili.io/5LpFMQ.md.webp",
     href: "./page/Magic Mountains.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/GDGXIekXm0o",
     synopsis:
       "A successful writer asks his ex, who left him, to climb one last time in the mountains together. Only then he can really let her go.",
     duration: "1h 21m",
@@ -3080,7 +3080,7 @@ const movies = [
     genre: "Horror",
     poster: "https://iili.io/5LpKPV.md.webp",
     href: "./page/Mangkujiwo.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/G-F_8OZcQV8",
     synopsis: "A born of Kuntilanak from a Twin Mirror with her misery.",
     duration: "1h 49m",
   },
@@ -3091,7 +3091,7 @@ const movies = [
     genre: "Animation/Action/Adventure",
     poster: "https://iili.io/5LpqKB.md.webp",
     href: "./page/Miraculous World New York United.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/K41a_JkCM1U",
     synopsis:
       "Marinette's class is headed to New York, the city of superheroes, for French American Friendship Week, but the American superheroes may find themselves in need of help while there.",
     duration: "52m",
@@ -3103,7 +3103,7 @@ const movies = [
     genre: "Crime/Drama/History",
     poster: "https://iili.io/5LpBcP.md.webp",
     href: "./page/Most Wanted.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/ZRQ7wfBaOLo",
     synopsis:
       "In 1989, a Canadian journalist investigates the circumstances surrounding the suspicious arrest of a heroin addict imprisoned in a Thai jail.",
     duration: "2h 5m",
@@ -3115,7 +3115,7 @@ const movies = [
     genre: "Action/Adventure/Drama",
     poster: "https://iili.io/5LpCS1.md.webp",
     href: "./page/Mulan.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/KK8FHdFluOQ",
     synopsis:
       "A young Chinese maiden disguises herself as a male warrior in order to save her father.",
     duration: "1h 55m",
@@ -3127,7 +3127,7 @@ const movies = [
     genre: "Drama/Fantasy/Romance",
     poster: "https://iili.io/Hx9tX8N.md.webp",
     href: "./page/My Blood Bones in a Flowing Galaxy.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/HgB31i4yZOc",
     synopsis:
       "Hamada is seemingly a regular high school, junior student. He is indeed ordinary except he has a passion for righteousness and justice. His trait comes to the fore when he notices that his junior school-mate Hari is being bullied. He does not abide by it and decides to step in and help her. His intervention is welcomed and she seems him as a white knight of sorts.",
     duration: "2h 7m",
@@ -3139,7 +3139,7 @@ const movies = [
     genre: "Drama",
     poster: "https://iili.io/58x2Tb.md.webp",
     href: "./page/Nanti Kita Cerita.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/TcHh986XvI4",
     synopsis:
       "Three siblings live in happy-looking families, but one of them changes and gets warned by his parents, prompting the rebellion of the three siblings which led to the discovery of the secrets and great trauma in their families.",
     duration: "2h 1m",
@@ -3151,7 +3151,7 @@ const movies = [
     genre: "Fantasy/Horror/Mystery",
     poster: "https://iili.io/5LpoHF.md.webp",
     href: "./page/Nobody Sleeps in the Woods Tonight.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/tzNyYx-3udQ",
     synopsis:
       "A group of technology-dependent teenagers goes to offline camp and faces a deadly danger lurking in the woods.",
     duration: "1h 42m",
@@ -3163,7 +3163,7 @@ const movies = [
     genre: "Comedy",
     poster: "https://iili.io/5LpxAg.md.webp",
     href: "./page/Not Quite Dead Yet.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/GQ254ZBpEkg",
     synopsis:
       "A pharmaceutical CEO who is pondering thefts and irregularities at his company drinks a drug that temporary suppresses his signs and gives him a deathlike state for a couple of days. Something goes wrong. His daughter, with whom he has had a rocky relationship, attempts to rescue him with help from a company employee.",
     duration: "1h 33m",
@@ -3175,7 +3175,7 @@ const movies = [
     genre: "Animation/Adventure/Comedy",
     poster: "https://iili.io/5LpIDJ.md.webp",
     href: "./page/Onward.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/gn5QmllRCn4",
     synopsis:
       "Two elven brothers embark on a quest to bring their father back for one day.",
     duration: "1h 42m",
@@ -3187,7 +3187,7 @@ const movies = [
     genre: "Animation/Adventure/Comedy",
     poster: "https://iili.io/5Lpuov.md.webp",
     href: "./page/Over the Moon.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/26DIABx44Tw",
     synopsis:
       "In this animated musical, a girl builds a rocket ship and blasts off, hoping to meet a mythical moon goddess.",
     duration: "1h 35m",
@@ -3199,7 +3199,7 @@ const movies = [
     genre: "Comedy/Drama/Family",
     poster: "https://iili.io/5LpAVR.md.webp",
     href: "./page/Pawn.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/ubKV0a-xBHg",
     synopsis:
       "A human drama about a man who would do anything for money becoming friends with a child who is then taken hostage.",
     duration: "1h 53m",
@@ -3211,7 +3211,7 @@ const movies = [
     genre: "Action/Horror/Thriller",
     poster: "https://iili.io/5LpRPp.md.webp",
     href: "./page/Peninsula.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/g_Q5fSvDak8",
     synopsis:
       "A zombie virus has in the last 4 years spread to all South Korea. 4 Koreans in Hong Kong sail through the blockade to Incheon for USD20,000,000 on a truck.",
     duration: "1h 56m",
@@ -3223,7 +3223,7 @@ const movies = [
     genre: "Drama/Horror/Mystery",
     poster: "https://iili.io/5Lp7KN.md.webp",
     href: "./page/Relic.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/XWhZDQkq0bw",
     synopsis:
       "A daughter, mother and grandmother are haunted by a manifestation of dementia that consumes their family's home.",
     duration: "1h 29m",
@@ -3235,7 +3235,7 @@ const movies = [
     genre: "Action/Comedy/Drama",
     poster: "https://iili.io/5LpYlI.md.webp",
     href: "./page/Riders of Justice.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/l09T87hEstI",
     synopsis:
       "Markus goes home to his teenage daughter, Mathilde, when his wife dies in a train crash. All appears to be a tragic accident until a mathematics geek, who was also a fellow passenger on the train, and his two colleagues show up.",
     duration: "1h 56m",
@@ -3247,7 +3247,7 @@ const movies = [
     genre: "Animation/Adventure/Comedy",
     poster: "https://iili.io/5LpaSt.md.webp",
     href: "./page/Scoob.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/GzlEnS7MmUo",
     synopsis:
       "Scooby and the gang face their most challenging mystery ever: a plot to unleash the ghost dog Cerberus upon the world. As they race to stop this dogpocalypse, the gang discovers that Scooby has an epic destiny greater than anyone imagined.",
     duration: "1h 33m",
@@ -3259,22 +3259,22 @@ const movies = [
     genre: "Comedy/Drama",
     poster: "https://iili.io/5LplHX.md.webp",
     href: "./page/Serious Men.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/naXf8R1aOik",
     synopsis:
       "Tormented with his 'under-privileged' societal status, a father capitalizes on his son's newfound fame as a boy-genius. Little does he realize that the secret he harbors will destroy the very thing he loves the most.",
     duration: "1h 54m",
   },
   {
-    title: "SF8",
+    title: "SF8 Baby It's Over Outside",
     year: 2020,
     rating: 6.4,
     genre: "Action/Comedy/Drama",
     poster: "https://iili.io/5Lp0Rn.md.webp",
     href: "./page/SF8.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/mgNY-cAZWs8",
     synopsis:
-      "SF8 revolves around people who dream of a perfect society. It tackles the themes of artificial intelligence, augmented reality, virtual reality, robots, games, fantasy, horror, superpowers and disasters.",
-    duration: "1h",
+      "A young man and woman choose romance in the face of the impending destruction of Earth by a rogue comet.",
+    duration: "45m",
   },
   {
     title: "Sonic the Hedgehog",
@@ -3283,7 +3283,7 @@ const movies = [
     genre: "Action/Adventure/Comedy",
     poster: "https://iili.io/5LpEDG.md.webp",
     href: "./page/Sonic the Hedgehog.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/szby7ZHLnkA",
     synopsis:
       "After discovering a small, blue, fast hedgehog, a small-town police officer must help him defeat an evil genius who wants to do experiments on him.",
     duration: "1h 39m",
@@ -3295,7 +3295,7 @@ const movies = [
     genre: "Animation/Adventure/Comedy",
     poster: "https://iili.io/5Lp1Ns.md.webp",
     href: "./page/Soul.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/xOsLIiBStEs",
     synopsis:
       "After landing the gig of a lifetime, a New York jazz pianist suddenly finds himself trapped in a strange land between Earth and the afterlife.",
     duration: "1h 40m",
@@ -3307,7 +3307,7 @@ const movies = [
     genre: "Animation/Adventure/Comedy",
     poster: "https://iili.io/5LpMxf.md.webp",
     href: "./page/The Croods A New Age.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/GkXeVIfbJOw",
     synopsis:
       "The prehistoric family the Croods are challenged by a rival family the Bettermans, who claim to be better and more evolved.",
     duration: "1h 35m",
@@ -3319,7 +3319,7 @@ const movies = [
     genre: "Action/Horror/Thriller",
     poster: "https://iili.io/5LpWil.md.webp",
     href: "./page/The Hunt.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/xoWmwsPU5cQ",
     synopsis:
       "Twelve strangers wake up in a clearing. They don't know where they are, or how they got there. They don't know they've been chosen - for a very specific purpose - The Hunt.",
     duration: "1h 30m",
@@ -3331,7 +3331,7 @@ const movies = [
     genre: "Drama/Horror/Mystery",
     poster: "https://iili.io/5LpVV4.md.webp",
     href: "./page/The Invisible Man.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/WO_FJdiY9dA",
     synopsis:
       "When Cecilia's abusive ex takes his own life and leaves her his fortune, she suspects his death was a hoax. As a series of coincidences turn lethal, Cecilia works to prove that she is being hunted by someone nobody can see.",
     duration: "2h 4m",
@@ -3343,7 +3343,7 @@ const movies = [
     genre: "Comedy/Drama",
     poster: "https://iili.io/5Lphf2.md.webp",
     href: "./page/The King of Staten Island.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/azkVr0VUSTA",
     synopsis:
       "Scott has been a case of arrested development since his firefighter dad died. He spends his days smoking weed and dreaming of being a tattoo artist until events force him to grapple with his grief and take his first steps forward in life.",
     duration: "2h 16m",
@@ -3355,7 +3355,7 @@ const movies = [
     genre: "Drama/Horror/Mystery",
     poster: "https://iili.io/5LpjlS.md.webp",
     href: "./page/The Maid.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/unsXtUJydac",
     synopsis:
       "A teenager Joy, work as a domestic maid and being haunted by the previous maid spirit, to discover the secret behind her death.",
     duration: "1h 42m",
@@ -3367,7 +3367,7 @@ const movies = [
     genre: "Crime/Drama/Mystery",
     poster: "https://iili.io/5LpwU7.md.webp",
     href: "./page/The Night Clerk.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/8j6wDoyiyd4",
     synopsis:
       "A voyeuristic hotel clerk becomes the subject of a murder investigation.",
     duration: "1h 30m",
@@ -3379,7 +3379,7 @@ const movies = [
     genre: "Action/Drama/History",
     poster: "https://iili.io/5LpOJ9.md.webp",
     href: "./page/The Outpost.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/f4LM9a02q9Q",
     synopsis:
       "A small team of U.S. soldiers battles against hundreds of Taliban fighters in Afghanistan.",
     duration: "2h 3m",
@@ -3391,7 +3391,7 @@ const movies = [
     genre: "Drama/Family/Fantasy",
     poster: "https://iili.io/5LpkOu.md.webp",
     href: "./page/The Secret Garden.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/gHNOXDiD9Vk",
     synopsis:
       "An orphaned girl discovers a magical garden hidden at her strict uncle's estate.",
     duration: "1h 39m",
@@ -3403,7 +3403,7 @@ const movies = [
     genre: "Action/Crime/Mystery",
     poster: "https://iili.io/5LpeRe.md.webp",
     href: "./page/The Silencing.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/xLXZl1JF85c",
     synopsis:
       "A reformed hunter living in isolation on a wildlife sanctuary becomes involved in a deadly game of cat and mouse when he and the local Sheriff set out to track a vicious killer who may have kidnapped his daughter years ago.",
     duration: "1h 33m",
@@ -3415,7 +3415,7 @@ const movies = [
     genre: "Documentary/Short/Sport",
     poster: "https://iili.io/5LpvDb.md.webp",
     href: "./page/The Speed Cubers.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/-wrTIWx_Z6k",
     synopsis:
       "Discover the special bond -- and uncommon competitive spirit -- shared by the world's Rubik's Cube-solving record breakers in this documentary.",
     duration: "39m",
@@ -3427,7 +3427,7 @@ const movies = [
     genre: "Animation/Adventure/Comedy",
     poster: "https://iili.io/5LpSxj.md.webp",
     href: "./page/The SpongeBob Movie Sponge on the Run.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/a2cowVH03Xo",
     synopsis:
       "After SpongeBob's beloved pet snail Gary is snail-napped, he and Patrick embark on an epic adventure to The Lost City of Atlantic City to bring Gary home.",
     duration: "1h 31m",
@@ -3439,7 +3439,7 @@ const movies = [
     genre: "Drama/Sport",
     poster: "https://iili.io/5LpUWx.md.webp",
     href: "./page/The Way Back.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/GhtTc7R8yBk",
     synopsis:
       "Jack Cunningham was a high school basketball phenom who walked away from the game, forfeiting his future. Years later, when he reluctantly accepts a coaching job at his alma mater, he may get one last shot at redemption.",
     duration: "1h 48m",
@@ -3451,7 +3451,7 @@ const movies = [
     genre: "Animation/Adventure/Comedy",
     poster: "https://iili.io/5LpgiQ.md.webp",
     href: "./page/The Willoughbys.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/HnG4ag3Nkes",
     synopsis:
       "Convinced they'd be better off raising themselves, the Willoughby children hatch a sneaky plan to send their selfish parents on vacation. The siblings then embark on their own high-flying adventure to find the true meaning of family.",
     duration: "1h 30m",
@@ -3463,7 +3463,7 @@ const movies = [
     genre: "Music",
     poster: "https://iili.io/5Lp4fV.md.webp",
     href: "./page/Thibaan x BNK48.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/fOqdaqINocg",
     synopsis:
       "In order to come up with new music, a girl music group has to go to live in the countryside. By putting aside their city lives, perhaps life in the countryside can prove inspirational and help the girl band to produce a fresh, new sound.",
     duration: "2h 8m",
@@ -3475,7 +3475,7 @@ const movies = [
     genre: "Comedy/Drama/Romance",
     poster: "https://iili.io/5Lp60B.md.webp",
     href: "./page/The Ex-Lover Shop.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/t0S_n0D8NSY",
     synopsis:
       "Tristan (Reza Rahadian) is the owner of the shop that buys and sells ex-lover items for people who want to move on. Suddenly, Laras (Marsha Timothy), his ex-lover, comes and makes his life turned upside down.",
     duration: "1h 38m",
@@ -3487,7 +3487,7 @@ const movies = [
     genre: "Animation/Adventure/Comedy",
     poster: "https://iili.io/5LpPUP.md.webp",
     href: "./page/Trolls 2 World Tour.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/08AExF6dETA",
     synopsis:
       "When the Queen of the Hard Rock Trolls tries to take over all the Troll kingdoms, Queen Poppy and her friends try different ways to save all the Trolls.",
     duration: "1h 31m",
@@ -3499,7 +3499,7 @@ const movies = [
     genre: "Action/Horror/Sci-Fi",
     poster: "https://iili.io/5LpsJ1.md.webp",
     href: "./page/Underwater.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/jCFWEzIVILc",
     synopsis:
       "A crew of oceanic researchers working for a deep sea drilling company try to get to safety after a mysterious earthquake devastates their deepwater research and drilling facility located at the bottom of the Mariana Trench.",
     duration: "1h 35m",
@@ -3511,7 +3511,7 @@ const movies = [
     genre: "Comedy/Drama",
     poster: "https://iili.io/5LpL5F.md.webp",
     href: "./page/Unpregnant.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/FEchWX525Es",
     synopsis:
       "A 17-year old Missouri teen named Veronica discovers she has gotten pregnant, a development that threatens to end her dreams of matriculating at an Ivy League college, and the career that will follow.",
     duration: "1h 43m",
@@ -3523,7 +3523,7 @@ const movies = [
     genre: "Animation/Adventure/Comedy",
     poster: "https://iili.io/5LpQOg.md.webp",
     href: "./page/We Bare Bears The Movie.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/0ZNsLy2IwcY",
     synopsis:
       "Grizz, Panda, and Ice Bear embark on an adventure to Canada after an agent from the Department of National Wildlife Control tries to put an end to their hi-jinx.",
     duration: "1h 9m",
@@ -3535,7 +3535,7 @@ const movies = [
     genre: "Animation/Adventure/Family",
     poster: "https://iili.io/Yv0NUX.md.webp",
     href: "./page/Wolfwalkers.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/d_Z_tybgPgg",
     synopsis:
       "A young apprentice hunter and her father journey to Ireland to help wipe out the last wolf pack. But everything changes when she befriends a free-spirited girl from a mysterious tribe rumored to transform into wolves by night.",
     duration: "1h 43m",
@@ -3547,7 +3547,7 @@ const movies = [
     genre: "Comedy/Musical/Romance",
     poster: "https://iili.io/5LpDzJ.md.webp",
     href: "./page/Wotakoi Love Is Hard for Otaku.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/2Mnxmcjsl8c",
     synopsis:
       "Two office workers, who are also fans of otaku culture, meet and develop a relationship.",
     duration: "1h 54m",
@@ -3559,7 +3559,7 @@ const movies = [
     genre: "Crime/Drama",
     poster: "https://iili.io/5LpZba.md.webp",
     href: "./page/Yakuza and the Family.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/rUzKrTx3F3k",
     synopsis:
       "Kenji Yamamoto's father died from using a stimulant drug. His life fell into desperation. Kenji then joined a crime syndicate. There, he meets the gang's boss Hiroshi Shibasaki. Hiroshi reaches out to Kenji and they developed a relationship like father and son. As time passes, Kenji has his own family.",
     duration: "2h 16m",
@@ -3679,7 +3679,7 @@ const movies = [
     genre: "Animation/Adventure/Comedy",
     poster: "https://iili.io/58z2St.md.webp",
     href: "./page/Abominable.html",
-    embed: "https://www.youtube.com/embed/BLM1naCfME",
+    embed: "https://www.youtube.com/embed/XrgVtuDRBjM",
     synopsis:
       "Three teenagers must help a Yeti return to his family while avoiding a wealthy man and a zoologist who want him for their own needs.",
     duration: "1h 37m",
