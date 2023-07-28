@@ -1,4 +1,4 @@
-"use strict";
+/* "use strict"; */
 
 // variables for navbar menu toggle
 const header = document.querySelector("header");
@@ -72,7 +72,7 @@ function filterPosts(item) {
 }
 
 //////// Test ///////
-jQuery.expr[":"].contains = function (a, i, m) {
+/* jQuery.expr[":"].contains = function (a, i, m) {
   return jQuery(a).text().toUpperCase().indexOf(m[3].toUpperCase()) >= 0;
 };
 
@@ -84,4 +84,4 @@ $("#ascending").click(function () {
         : -1;
     })
     .appendTo(".movies-grid");
-});
+}); */
