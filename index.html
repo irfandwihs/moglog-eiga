@@ -129,7 +129,7 @@
           <div class="filter-bar">
             <!-- <br /> -->
             <div class="lok" style="display: flex; flex-wrap: wrap">
-              <div class="dropdown">
+              <!-- <div class="dropdown">
                 <input
                   type="text"
                   class="textBox"
@@ -189,6 +189,26 @@
                   </div>
                   <div onclick="handleFilterByCategory('war', 'War')">War</div>
                 </div>
+              </div> -->
+              <div class="dropdown">
+                <input type="text" class="textBox" placeholder="Filter Genre" readonly />
+                <div class="option" id="all">
+                  <div data-option="all">All Genre</div>
+                  <div data-option="action">Action</div>
+                  <div data-option="adventure">Adventure</div>
+                  <div data-option="animation">Animation</div>
+                  <div data-option="biography">Biography</div>
+                  <div data-option="comedy">Comedy</div>
+                  <div data-option="crime">Crime</div>
+                  <div data-option="drama">Drama</div>
+                  <div data-option="documentary">Documentary</div>
+                  <div data-option="fantasy">Fantasy</div>
+                  <div data-option="horror">Horror</div>
+                  <div data-option="romance">Romance</div>
+                  <div data-option="sci-fi">Sci-Fi</div>
+                  <div data-option="thriller">Thriller</div>
+                  <div data-option="war">War</div>
+                </div>
               </div>
 
               <!-- filter tahun  -->
@@ -247,6 +267,7 @@
         -->
           <div class="movies-grid">
             <div
+            id="movie-grid"
               class="movie-grid"
               style="
                 display: flex !important;
@@ -258,7 +279,9 @@
               "
               id="search-results"
             ></div>
+            <div class="movie-grid" id="movie-grid"></div>
             <div
+            id="movie-grid"
               class="movie-grid"
               style="
                 display: flex !important;

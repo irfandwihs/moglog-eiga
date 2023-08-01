@@ -90,3 +90,59 @@ movies.forEach((movie) => {
 
   movieGrid.appendChild(card);
 });
+
+// Function to handle filtering by genre
+function handleFilterByCategory(selectedOption, category) {
+  let filteredMovies = movies;
+
+  if (selectedOption !== 'all') {
+    filteredMovies = movies.filter(movie => movie[category].includes(selectedOption));
+  }
+
+  displayMovies(filteredMovies);
+  movieGrid.innerHTML = "";
+  movies.forEach((movie) => {
+    const movieCard = createMovieCard(movie);
+    movieGrid.appendChild(movieCard);
+  });
+}
+
+// Event listener for the dropdown options
+const optionElements = document.querySelectorAll('.option div[data-option]');
+optionElements.forEach(option => {
+  option.addEventListener('click', () => {
+    const selectedOption = option.getAttribute('data-option');
+    handleFilterByCategory(selectedOption, 'genres');
+  });
+});
+
+// Event listener to toggle dropdown visibility
+const textBox = document.querySelector('.textBox');
+const dropdownOptions = document.querySelector('.option');
+textBox.addEventListener('click', () => {
+  dropdownOptions.style.display = dropdownOptions.style.display === 'none' ? 'block' : 'none';
+});
+
+// Hide dropdown when clicking outside
+document.addEventListener('click', event => {
+  if (!textBox.contains(event.target) && !dropdownOptions.contains(event.target)) {
+    dropdownOptions.style.display = 'none';
+  }
+});
+
+// Initial display of all movies
+handleFilterByCategory('all', 'genres');
+
+/* // Function to filter movies based on genre selection
+function handleFilterByCategory(category, categoryName) {
+  const filteredMovies =
+    category === "all"
+      ? movies
+      : movies.filter((movie) => movie.genres.includes(category));
+  displayMovies(filteredMovies);
+
+  // Update the filter text
+  const textBox = document.querySelector(".textBox");
+  textBox.value = categoryName;
+} */
+
