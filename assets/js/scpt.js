@@ -100,11 +100,6 @@ function handleFilterByCategory(selectedOption, category) {
   }
 
   displayMovies(filteredMovies);
-  movieGrid.innerHTML = "";
-  movies.forEach((movie) => {
-    const movieCard = createMovieCard(movie);
-    movieGrid.appendChild(movieCard);
-  });
 }
 
 // Event listener for the dropdown options
@@ -132,7 +127,6 @@ document.addEventListener('click', event => {
 
 // Initial display of all movies
 handleFilterByCategory('all', 'genres');
-
 /* // Function to filter movies based on genre selection
 function handleFilterByCategory(category, categoryName) {
   const filteredMovies =
