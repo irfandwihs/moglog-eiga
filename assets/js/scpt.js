@@ -91,7 +91,7 @@ movies.forEach((movie) => {
   movieGrid.appendChild(card);
 });
 
-// Function to handle filtering by genre
+/* // Function to handle filtering by genre
 function handleFilterByCategory(selectedOption, category) {
   let filteredMovies = movies;
 
@@ -126,7 +126,7 @@ document.addEventListener('click', event => {
 });
 
 // Initial display of all movies
-handleFilterByCategory('all', 'genres');
+handleFilterByCategory('all', 'genres'); */
 /* // Function to filter movies based on genre selection
 function handleFilterByCategory(category, categoryName) {
   const filteredMovies =
@@ -139,4 +139,3 @@ function handleFilterByCategory(category, categoryName) {
   const textBox = document.querySelector(".textBox");
   textBox.value = categoryName;
 } */
-

@@ -312,6 +312,19 @@ const movies = [
     duration: "1h 54m",
   },
   {
+    title: "Plane",
+    year: 2023,
+    rating: 6.5,
+    genre: "Action/Adventure/Thriller",
+    genres: ["action", "adventure", "thriller"],
+    poster: "https://iili.io/HZDBklf.md.webp",
+    href: "./page/Plane.html",
+    embed: "https://www.youtube.com/embed/M25zXBIUVr0",
+    synopsis:
+      "A pilot finds himself caught in a war zone after he's forced to land his commercial aircraft during a terrible storm.",
+    duration: "1h 47m",
+  },
+  {
     title: "Rebound",
     year: 2023,
     rating: 6.9,
@@ -559,6 +572,19 @@ const movies = [
     duration: "1h 58m",
   },
   {
+    title: "A Man Called Otto",
+    year: 2022,
+    rating: 7.5,
+    genre: "Comedy/Drama",
+    genres: ["comedy", "drama"],
+    poster: "https://iili.io/HZD9HmJ.md.webp",
+    href: "./page/Otto.html",
+    embed: "https://www.youtube.com/embed/eFYUX9l-m5I",
+    synopsis:
+      "Otto is a grump who's given up on life following the loss of his wife and wants to end it all. When a young family moves in nearby, he meets his match in quick-witted Marisol, leading to a friendship that will turn his world around.",
+    duration: "2h 6m",
+  },
+  {
     title: "All Quiet on the Western Front",
     year: 2022,
     rating: 7.8,
@@ -598,6 +624,19 @@ const movies = [
     duration: "1h 37m",
   },
   {
+    title: "Avatar: The Way of Water",
+    year: 2022,
+    rating: 7.6,
+    genre: "Action/Adventure/Fantasy",
+    genres: ["action", "adventure", "fantasy"],
+    poster: "https://iili.io/HZDH6ox.md.webp",
+    href: "./page/Avatar The Way of Water.html",
+    embed: "https://www.youtube.com/embed/d9MyW72ELq0",
+    synopsis:
+      "Jake Sully lives with his newfound family formed on the extrasolar moon Pandora. Once a familiar threat returns to finish what was previously started, Jake must work with Neytiri and the army of the Na'vi race to protect their home.",
+    duration: "3h 12m",
+  },
+  {
     title: "Bandit",
     year: 2022,
     rating: 6.4,
@@ -609,6 +648,19 @@ const movies = [
     synopsis:
       "After escaping a Michigan prison, a charming career criminal assumes a new identity in Canada and goes on to rob a record 59 banks and jewellery stores while being hunted by a police task force. Based on the story of The Flying Bandit.",
     duration: "2h 6m",
+  },
+  {
+    title: "Bar Fight!",
+    year: 2022,
+    rating: 4.8,
+    genre: "Comedy",
+    genres: ["comedy"],
+    poster: "https://iili.io/HZDMmep.md.webp",
+    href: "./page/Bar Fight.html",
+    embed: "https://www.youtube.com/embed/9b_0AYw5Mb8",
+    synopsis:
+      "Nina and Allen split everything in their lives after their break-up and must compete in a ridiculous custody battle for their prized watering hole in which lines will be drawn, sides will be chosen, and beers will be drunken.",
+    duration: "1h 24m",
   },
   {
     title: "Blind War",
@@ -674,6 +726,19 @@ const movies = [
     synopsis:
       "Five assassins aboard a swiftly-moving bullet train find out that their missions have something in common.",
     duration: "2h 7m",
+  },
+  {
+    title: "Cek Toko Sebelah 2",
+    year: 2022,
+    rating: 7.6,
+    genre: "Comedy/Drama",
+    genres: ["comedy", "drama"],
+    poster: "https://iili.io/HZDXU7f.md.webp",
+    href: "./page/Cek Toko Sebelah 2.html",
+    embed: "https://www.youtube.com/embed/lq5HdGdvVm4",
+    synopsis:
+      "In this sequel to the hit comedy drama, Erwin and Natalie must navigate a series of challenges after they decide to get married.",
+    duration: "1h 44m",
   },
   {
     title: "Chip 'n Dale: Rescue Rangers",
@@ -961,19 +1026,6 @@ const movies = [
     duration: "1h 35m",
   },
   {
-    title: "Incantation",
-    year: 2022,
-    rating: 6.2,
-    genre: "Horror/Mystery",
-    genres: ["horror", "mystery"],
-    poster: "https://iili.io/pbZKve.md.webp",
-    href: "./page/Incantation.html",
-    embed: "https://www.youtube.com/embed/HnyNZdcL_GY",
-    synopsis:
-      "Six years ago, Li Ronan was cursed after breaking a religious taboo. Now, she must protect her daughter from the consequences of her actions.",
-    duration: "1h 50m",
-  },
-  {
     title: "In Our Prime",
     year: 2022,
     rating: 6.7,
@@ -985,6 +1037,19 @@ const movies = [
     synopsis:
       "Follows Ji-woo, an outcast in a prestigious private high school who meets Hak-sung, the school's security guard, and asks him to teach him math and become friends, but their friendship is at risk after an incident in school.",
     duration: "1h 57m",
+  },
+  {
+    title: "Incantation",
+    year: 2022,
+    rating: 6.2,
+    genre: "Horror/Mystery",
+    genres: ["horror", "mystery"],
+    poster: "https://iili.io/pbZKve.md.webp",
+    href: "./page/Incantation.html",
+    embed: "https://www.youtube.com/embed/HnyNZdcL_GY",
+    synopsis:
+      "Six years ago, Li Ronan was cursed after breaking a religious taboo. Now, she must protect her daughter from the consequences of her actions.",
+    duration: "1h 50m",
   },
   {
     title: "Jaifu Story",
@@ -1064,6 +1129,19 @@ const movies = [
     duration: "1h 37m",
   },
   {
+    title: "Lara Ati",
+    year: 2022,
+    rating: 6.6,
+    genre: "Comedy/Drama",
+    genres: ["comedy", "drama"],
+    poster: "https://iili.io/HZDgErl.md.webp",
+    href: "./page/Lara Ati.html",
+    embed: "https://www.youtube.com/embed/gjm4-Vl_oT8",
+    synopsis:
+      "Unhappy in his job and unlucky in love, Joko reunites with a childhood friend and gets the spark of hope he needs to win back his ex-girlfriend.",
+    duration: "1h 56m",
+  },
+  {
     title: "Life Is Beautiful",
     year: 2022,
     rating: 6.7,
@@ -1103,6 +1181,19 @@ const movies = [
     duration: "1h 47m",
   },
   {
+    title: "Love 101",
+    year: 2022,
+    rating: 6.0,
+    genre: "Comedy/Romance",
+    genres: ["comedy", "romance"],
+    poster: "https://iili.io/HZD6F72.md.webp",
+    href: "./page/Love 101.html",
+    embed: "https://www.youtube.com/embed/QihpuY4qx1g",
+    synopsis:
+      "A romance against huge generation gap between a barely pensioned policeman Daeng and a senior high school girl. The thirty-year gap makes their relationship difficult but they will try to prove their true love together.",
+    duration: "1h 30m",
+  },
+  {
     title: "Luck",
     year: 2022,
     rating: 6.4,
@@ -1116,6 +1207,19 @@ const movies = [
     duration: "1h 45m",
   },
   {
+    title: "Lyle, Lyle, Crocodile",
+    year: 2022,
+    rating: 6.1,
+    genre: "Animation/Adventure/Comedy",
+    genres: ["animation", "adventure", "comedy"],
+    poster: "https://iili.io/HZbBpjI.md.webp",
+    href: "./page/Lyle, Lyle, Crocodile.html",
+    embed: "https://www.youtube.com/embed/s0W6O7mSlaU",
+    synopsis:
+      "Feature film based on the children's book about a crocodile that lives in New York City.",
+    duration: "1h 46m",
+  },
+  {
     title: "Mama Boy",
     year: 2022,
     rating: 6.1,
@@ -1127,6 +1231,19 @@ const movies = [
     synopsis:
       "A shy young man who finds himself attracted to a single mother, at a sex hotel.",
     duration: "1h 38m",
+  },
+  {
+    title: "M3GAN",
+    year: 2022,
+    rating: 6.4,
+    genre: "Horror/Sci-Fi/Thriller",
+    genres: ["horror", "sci-fi", "thriller"],
+    poster: "https://iili.io/HZDJjOg.md.webp",
+    href: "./page/M3GAN.html",
+    embed: "https://www.youtube.com/embed/BRb4U99OU80",
+    synopsis:
+      "A robotics engineer at a toy company builds a life-like doll that begins to take on a life of its own.",
+    duration: "1h 42m",
   },
   {
     title: "Mencuri Raden Saleh",
@@ -1166,6 +1283,19 @@ const movies = [
     synopsis:
       "A mentally ill man faces the consequences of a corrupt Indonesian politician as he is wrongly accused of murder, and all he wishes is to see his daughter again.",
     duration: "2h 25m",
+  },
+  {
+    title: "My Father's Dragon",
+    year: 2022,
+    rating: 6.5,
+    genre: "Animation/Adventure/Comedy",
+    genres: ["animation", "adventure", "comedy"],
+    poster: "https://iili.io/HZbnuVt.md.webp",
+    href: "./page/My Fathers Dragon.html",
+    embed: "https://www.youtube.com/embed/0giW36Fb69c",
+    synopsis:
+      "Elmer Elevator searches for a captive Dragon on Wild Island and finds much more than he could ever have anticipated.",
+    duration: "1h 39m",
   },
   {
     title: "Moonfall",
@@ -1298,6 +1428,19 @@ const movies = [
     duration: "1h 43m",
   },
   {
+    title: "Perfect Strangers",
+    year: 2022,
+    rating: 7.5,
+    genre: "Comedy/Drama",
+    genres: ["comedy", "drama"],
+    poster: "https://iili.io/HZbomTQ.md.webp",
+    href: "./page/Perfect Strangers.html",
+    embed: "https://www.youtube.com/embed/kl_8Nx6uFh0",
+    synopsis:
+      "Seven friends who attend a dinner and decide to play a game with their cell phones which culminate in disaster when their dark secret is revealed.",
+    duration: "2h 5m",
+  },
+  {
     title: "Piggy",
     year: 2022,
     rating: 6.2,
@@ -1324,6 +1467,32 @@ const movies = [
     duration: "1h 45m",
   },
   {
+    title: "Play Dead",
+    year: 2022,
+    rating: 5.2,
+    genre: "Horror/Thriller",
+    genres: ["horror", "thriller"],
+    poster: "https://iili.io/HZbxwwQ.md.webp",
+    href: "./page/Play Dead.html",
+    embed: "https://www.youtube.com/embed/RLJ6Nlr3TQM",
+    synopsis:
+      "Chloe fakes her own death to steal evidence from a morgue. The Coroner uses the morgue as a front for a sick and twisted business. A scary game of cat and mouse ensues as Chloe learns more about the dead than she bargains for.",
+    duration: "1h 46m",
+  },
+  {
+    title: "Prior Convictions",
+    year: 2022,
+    rating: 6.3,
+    genre: "Crime/Drama",
+    genres: ["crime", "drama"],
+    poster: "https://iili.io/HZbz70F.md.webp",
+    href: "./page/Prior Convictions.html",
+    embed: "https://www.youtube.com/embed/9Vx_MKcDJT0",
+    synopsis:
+      "Kaya has worked as a probation officer for 3 years, she finds her job rewarding. But one client, Makoto, an ex-murderer, suddenly disappears around the time that the police are investigating a series of murders committed by a mystery man.",
+    duration: "2h 13m",
+  },
+  {
     title: "Project Wolf Hunting",
     year: 2022,
     rating: 6.1,
@@ -1335,6 +1504,32 @@ const movies = [
     synopsis:
       "Follows dangerous criminals on a cargo ship who are transported from the Philippines to South Korea, as they unleash a sinister force after an escape attempt leads to a riot.",
     duration: "2h 2m",
+  },
+  {
+    title: "Re/Member",
+    year: 2022,
+    rating: 5.1,
+    genre: "Drama/Horror/Mystery",
+    genres: ["drama", "horror", "mystery"],
+    poster: "https://iili.io/HZbTkV2.md.webp",
+    href: "./page/ReMember.html",
+    embed: "https://www.youtube.com/embed/Y8yvXoyLPvM",
+    synopsis:
+      "A high school student and her friends are trapped in a time loop by a ghost and the only way to escape is to find the corpse of the ghost's previous victim.",
+    duration: "1h 42m",
+  },
+  {
+    title: "Rolling",
+    year: 2022,
+    rating: 5.9,
+    genre: "Comedy/Drama/Family",
+    genres: ["comedy", "drama", "family"],
+    poster: "https://iili.io/HZblKS2.md.webp",
+    href: "./page/Rolling.html",
+    embed: "https://www.youtube.com/embed/x21FtRUxuGA",
+    synopsis:
+      "COVID-19 is rampant in the world. Juri, a 25-year-old young girl, stops socializing and has been just staying at home. Her mother, Young-shim struggles against the hard season, still running her Kim-bob place. One day, Young-shim leaves to take care of her sick mother, and Juri takes charge of the restaurant unexpectedly.",
+    duration: "1h 15m",
   },
   {
     title: "Samaritan",
@@ -1361,6 +1556,19 @@ const movies = [
     synopsis:
       "The drivers of the Sanggye-dong Supreme Team become mired in the slush fund investigation of a powerful person on the very day of the 1988 Seoul Olympics opening ceremony.",
     duration: "2h 18m",
+  },
+  {
+    title: "Shotgun Wedding",
+    year: 2022,
+    rating: 5.5,
+    genre: "Action/Comedy/Romance",
+    genres: ["action", "comedy", "romance"],
+    poster: "https://iili.io/HZb15j1.md.webp",
+    href: "./page/Shotgun Wedding.html",
+    embed: "https://www.youtube.com/embed/qNVwRHQL8jw",
+    synopsis:
+      "Darcy and Tom gather their families for the ultimate destination wedding but when the entire wedding party is taken hostage the bride and groom must save their loved ones--if they don't kill each other first.",
+    duration: "1h 41m",
   },
   {
     title: "Shut In",
@@ -1465,6 +1673,58 @@ const movies = [
     synopsis:
       "To avoid prison, a gang of notorious animal criminals pretends to seek being rehabilitated, only for their leader to realize that he genuinely wants to change his ways.",
     duration: "1h 40m",
+  },
+  {
+    title: "The Big 4",
+    year: 2022,
+    rating: 6.1,
+    genre: "Action/Comedy/Crime",
+    genres: ["action", "comedy", "crime"],
+    poster: "https://iili.io/HZbExoX.md.webp",
+    href: "./page/The Big 4.html",
+    embed: "https://www.youtube.com/embed/yiTs7bxUc-s",
+    synopsis:
+      "Tells the story of an elite assassin that is targeted by murderous gangsters after sparing a girl's life during a massacre.",
+    duration: "2h 21m",
+  },
+  {
+    title: "The Bob's Burgers Movie",
+    year: 2022,
+    rating: 6.9,
+    genre: "Animation/Adventure/Comedy",
+    genres: ["animation", "adventure", "comedy"],
+    poster: "https://iili.io/HZbhb19.md.webp",
+    href: "./page/The Bobs Burgers Movie.html",
+    embed: "https://www.youtube.com/embed/hbGXqUumtqg",
+    synopsis:
+      "When a sinkhole in front of Bob's Burgers threatens the Belchers' plans for a successful summer, Bob and Linda try to keep their business going, while the kids attempt to save the restaurant by solving a mystery.",
+    duration: "1h 42m",
+  },
+  {
+    title: "The Fabelmans",
+    year: 2022,
+    rating: 7.6,
+    genre: "Drama",
+    genres: ["drama"],
+    poster: "https://iili.io/HZDqokN.md.webp",
+    href: "./page/The Fabelmans.html",
+    embed: "https://www.youtube.com/embed/D1G2iLSzOe8",
+    synopsis:
+      "Growing up in post-World War II era Arizona, young Sammy Fabelman aspires to become a filmmaker as he reaches adolescence, but soon discovers a shattering family secret and explores how the power of films can help him see the truth.",
+    duration: "2h 31m",
+  },
+  {
+    title: "The Goblin",
+    year: 2022,
+    rating: 6.4,
+    genre: "Action",
+    genres: ["action"],
+    poster: "https://iili.io/HZbwo67.md.webp",
+    href: "./page/The Goblin.html",
+    embed: "https://www.youtube.com/embed/egq-DZ7kEno",
+    synopsis:
+      "Doo-hyun, who goes by the name the 'Goblin', goes to prison for taking the fall for Young-min who killed their boss. Released after 10 years, Doo-hyun had been living a normal life, but Young-min goes so far as to kidnap Doo-hyun's daughter to keep his mouth shut. Enraged, Doo-hyun seeks revenge and announces the return of the real 'Goblin'.",
+    duration: "1h 28m",
   },
   {
     title: "The Good Nurse",
@@ -1597,6 +1857,19 @@ const movies = [
     duration: "1h 55m",
   },
   {
+    title: "The Soccer Football Movie",
+    year: 2022,
+    rating: 3.1,
+    genre: "Animation/Comedy/Family",
+    genres: ["animation", "comedy", "family"],
+    poster: "https://iili.io/HZbNQXR.md.webp",
+    href: "./page/The Soccer Football Movie.html",
+    embed: "https://www.youtube.com/embed/wkQoOIiNUgY",
+    synopsis:
+      "Four young soccer superfans team up to help their idols regain their abilities after a scheming evil scientist steals their talent.",
+    duration: "1h 13m",
+  },
+  {
     title: "The Tinder Swindler",
     year: 2022,
     rating: 7.1,
@@ -1620,6 +1893,19 @@ const movies = [
     embed: "https://www.youtube.com/embed/kPKReMLuxUI",
     synopsis: "A young girl leads a double life as an assassin for hire.",
     duration: "1h 51m",
+  },
+  {
+    title: "The Whale",
+    year: 2022,
+    rating: 7.7,
+    genre: "Drama",
+    genres: ["drama"],
+    poster: "https://iili.io/HZDf9xn.md.webp",
+    href: "./page/The Whale.html",
+    embed: "https://www.youtube.com/embed/nWiQodhMvz4",
+    synopsis:
+      "A reclusive, morbidly obese English teacher attempts to reconnect with his estranged teenage daughter.",
+    duration: "1h 57m",
   },
   {
     title: "Top Gun Maverick",
@@ -2362,6 +2648,19 @@ const movies = [
     duration: "1h 34m",
   },
   {
+    title: "Love, Life and Goldfish",
+    year: 2021,
+    rating: 6.7,
+    genre: "Musical/Romance",
+    genres: ["musical", "romance"],
+    poster: "https://iili.io/HZD5ic7.md.webp",
+    href: "./page/Love, Life and Goldfish.html",
+    embed: "https://www.youtube.com/embed/K6XQzTht9D4",
+    synopsis:
+      "Makoto Kashiba is an elite bank clerk and works for a big bank at its Tokyo HQ. Due to a minor mistake, he is demoted to a small branch office in a country town. He is devastated by his situation. There, he meets beautiful Yoshino Ikoma, who runs a goldfish scooping store. Makoto falls in love with her at first sight.",
+    duration: "1h 32m",
+  },
+  {
     title: "Luca",
     year: 2021,
     rating: 7.4,
@@ -2518,6 +2817,19 @@ const movies = [
     duration: "1h 48m",
   },
   {
+    title: "One for the Road",
+    year: 2021,
+    rating: 7.2,
+    genre: "Drama",
+    genres: ["drama"],
+    poster: "https://iili.io/HZD3XJS.md.webp",
+    href: "./page/One for the Road.html",
+    embed: "https://www.youtube.com/embed/MdY6N-RTrPg",
+    synopsis:
+      "Boss, a high end club owner living in New York, who receives a call from his friend in Thailand, Aood, revealing he is in the last stages of terminal cancer.",
+    duration: "2h 8m",
+  },
+  {
     title: "Outside the Wire",
     year: 2021,
     rating: 5.4,
@@ -2542,6 +2854,19 @@ const movies = [
     synopsis:
       "A woman wakes in a cryogenic chamber with no recollection of how she got there. As she's running out of oxygen, she must rebuild her memory to find a way out of her nightmare.",
     duration: "1h 40m",
+  },
+  {
+    title: "Part-Time Girlfriend",
+    year: 2021,
+    rating: 4.6,
+    genre: "Drama",
+    genres: ["drama"],
+    poster: "https://iili.io/HZDFtje.md.webp",
+    href: "./page/Part-Time Girlfriend.html",
+    embed: "https://www.youtube.com/embed/ak8LeOrukJ4",
+    synopsis:
+      "Based on true events, the story starts with Ka Chun (Chiu Sin Hang), an ordinary white-collar storms the city by leaking over 3,000 photos of part-time-girlfriends (PTGF).",
+    duration: "1h 49m",
   },
   {
     title: "Prey",
@@ -2647,6 +2972,19 @@ const movies = [
     duration: "1h 47m",
   },
   {
+    title: "Royal Jelly",
+    year: 2021,
+    rating: 2.6,
+    genre: "Horror/Thriller",
+    genres: ["horror", "thriller"],
+    poster: "https://iili.io/HZDanaI.md.webp",
+    href: "./page/Royal Jelly.html",
+    embed: "https://www.youtube.com/embed/bG0dMnCumJ8",
+    synopsis:
+      "A high school social outcast is taken under the wing of a mysterious mentor, only to be groomed as the hive's next queen.",
+    duration: "1h 33m",
+  },
+  {
     title: "Rumble",
     year: 2021,
     rating: 5.9,
@@ -2697,6 +3035,19 @@ const movies = [
     synopsis:
       "The Secret Magic Control Agency sends its two best agents, Hansel and Gretel, to fight against the witch of the Gingerbread House.",
     duration: "1h 43m",
+  },
+  {
+    title: "Seperti dendam, rindu harus dibayar tuntas",
+    year: 2021,
+    rating: 6.9,
+    genre: "Action/Comedy/Drama",
+    genres: ["action", "comedy", "drama"],
+    poster: "https://iili.io/HZD0naV.md.webp",
+    href: "./page/Seperti dendam.html",
+    embed: "https://www.youtube.com/embed/63FHKt33uJk",
+    synopsis:
+      "In a society ruled by machismo, a hibernating 'bird' becomes a serious matter. In a life of brutality, the sleeping bird is an allegory for a peaceful and serene life, even when the whole world tries desperately to rouse it.",
+    duration: "1h 54m",
   },
   {
     title: "Shark: The Beginning",
@@ -2764,6 +3115,19 @@ const movies = [
     duration: "38m",
   },
   {
+    title: "Somniphobia",
+    year: 2021,
+    rating: 7.4,
+    genre: "Short/Drama/Horror",
+    genres: ["short", "drama", "horror"],
+    poster: "https://iili.io/HZDatNn.md.webp",
+    href: "./page/Somniphobia.html",
+    embed: "https://www.youtube.com/embed/_Qy8ViAruEg",
+    synopsis:
+      "A doctor with the ability to visit people's dreams helps a young woman confront the terrifying reality of her nightmare",
+    duration: "25m",
+  },
+  {
     title: "StarBeam: Beaming in the New Year",
     year: 2021,
     rating: 5.2,
@@ -2803,6 +3167,32 @@ const movies = [
     duration: "1h 24m",
   },
   {
+    title: "The Addams Family 2",
+    year: 2021,
+    rating: 5.4,
+    genre: "Animation/Adventure/Comedy",
+    genres: ["animation", "adventure", "comedy"],
+    poster: "https://iili.io/5eEu7R.md.webp",
+    href: "./page/The Addams Family 2.html",
+    embed: "https://www.youtube.com/embed/Kd82bSBDE84",
+    synopsis:
+      "The Addams get tangled up in more wacky adventures and find themselves involved in hilarious run-ins with all sorts of unsuspecting characters. Sequel to the 2019 animated film, 'The Addams Family'.",
+    duration: "1h 33m",
+  },
+  {
+    title: "The Black Phone",
+    year: 2021,
+    rating: 6.9,
+    genre: "Horror/Thriller",
+    genres: ["horror", "thriller"],
+    poster: "https://iili.io/pDBBhN.md.webp",
+    href: "./page/The Black Phone.html",
+    embed: "https://www.youtube.com/embed/3eGP6im8AZA",
+    synopsis:
+      "After being abducted by a child killer and locked in a soundproof basement, a 13-year-old boy starts receiving calls on a disconnected phone from the killer's previous victims.",
+    duration: "1h 43m",
+  },
+  {
     title: "The Boss Baby Family Business",
     year: 2021,
     rating: 5.9,
@@ -2827,6 +3217,45 @@ const movies = [
     synopsis:
       "The Warrens investigate a murder that may be linked to a demonic possession.",
     duration: "1h 52m",
+  },
+  {
+    title: "The Cursed",
+    year: 2021,
+    rating: 5.9,
+    genre: "Horror",
+    genres: ["horror"],
+    poster: "https://iili.io/5eEYXt.md.webp",
+    href: "./page/The Cursed.html",
+    embed: "https://www.youtube.com/embed/u4hoxrz7x1Q",
+    synopsis:
+      "A mysterious serial murder cases take place by jaechaui (dead bodies which have risen from the dead and able to talk). These bodies are manipulated by someone.",
+    duration: "1h 50m",
+  },
+  {
+    title: "The Deep House",
+    year: 2021,
+    rating: 5.3,
+    genre: "Drama/Horror/Mystery",
+    genres: ["drama", "horror", "mystery"],
+    poster: "https://iili.io/5eEaLX.md.webp",
+    href: "./page/The Deep House.html",
+    embed: "https://www.youtube.com/embed/hgqjv1endGY",
+    synopsis:
+      "The British Ben and his American girlfriend Tina are young adventurers that like to look for isolated weird places using Ben's GoPro camera and drone to post in Ben's social media later aiming to reach a great number of followers. They decide to go to France to seek out a lake formed by a submerged town and find that the place is a touristic area full of visitors.",
+    duration: "1h 25m",
+  },
+  {
+    title: "The Fable: The Killer Who Doesn't Kill",
+    year: 2021,
+    rating: 6.8,
+    genre: "Action/Comedy/Mystery",
+    genres: ["action", "comedy", "mystery"],
+    poster: "https://iili.io/5bjOLG.md.webp",
+    href: "./page/The Fable The Killer Who Doesn't Kill.html",
+    embed: "https://www.youtube.com/embed/EuJLIYyz2JU",
+    synopsis:
+      "The Fable/Akira Sato killed 5 men 4 years ago. He meets the girl injured back then in a wheelchair. She's staying with the 6th on his kill list canceled last moment. The 6th is now scamming/extorting people.",
+    duration: "2h 13m",
   },
   {
     title: "The Feast",
@@ -2855,84 +3284,6 @@ const movies = [
     duration: "1h 43m",
   },
   {
-    title: "The King's Man",
-    year: 2021,
-    rating: 6.3,
-    genre: "Action/Adventure/Thriller",
-    genres: ["action", "adventure", "thriller"],
-    poster: "https://iili.io/HC6mSwu.md.webp",
-    href: "./page/The Kings Man.html",
-    embed: "https://www.youtube.com/embed/5zdBG-iGfes",
-    synopsis:
-      "In the early years of the 20th century, the Kingsman agency is formed to stand against a cabal plotting a war to wipe out millions.",
-    duration: "2h 11m",
-  },
-  {
-    title: "The Mitchells vs The Machines",
-    year: 2021,
-    rating: 7.6,
-    genre: "Animation/Adventure/Comedy",
-    genres: ["animation", "adventure", "comedy"],
-    poster: "https://iili.io/5eEG2f.md.webp",
-    href: "./page/The Mitchells vs The Machines.html",
-    embed: "https://www.youtube.com/embed/_ak5dFt8Ar0",
-    synopsis:
-      "A quirky, dysfunctional family's road trip is upended when they find themselves in the middle of the robot apocalypse and suddenly become humanity's unlikeliest last hope.",
-    duration: "1h 54m",
-  },
-  {
-    title: "Thiên Than Ho Menh",
-    year: 2021,
-    rating: 5.7,
-    genre: "Crime/Drama/Horror",
-    genres: ["crime", "drama", "horror"],
-    poster: "https://iili.io/7bdx7s.md.webp",
-    href: "./page/Thiên Than Ho Menh.html",
-    embed: "https://www.youtube.com/embed/FzoWWAJeFgM",
-    synopsis:
-      "After the shocking suicide of a young pop star, her backup singer finds herself living a parallel life. But is her success earned, or is it being aided by occult forces?",
-    duration: "2h 7m",
-  },
-  {
-    title: "The Black Phone",
-    year: 2021,
-    rating: 6.9,
-    genre: "Horror/Thriller",
-    genres: ["horror", "thriller"],
-    poster: "https://iili.io/pDBBhN.md.webp",
-    href: "./page/The Black Phone.html",
-    embed: "https://www.youtube.com/embed/3eGP6im8AZA",
-    synopsis:
-      "After being abducted by a child killer and locked in a soundproof basement, a 13-year-old boy starts receiving calls on a disconnected phone from the killer's previous victims.",
-    duration: "1h 43m",
-  },
-  {
-    title: "The Cursed",
-    year: 2021,
-    rating: 5.9,
-    genre: "Horror",
-    genres: ["horror"],
-    poster: "https://iili.io/5eEYXt.md.webp",
-    href: "./page/The Cursed.html",
-    embed: "https://www.youtube.com/embed/u4hoxrz7x1Q",
-    synopsis:
-      "A mysterious serial murder cases take place by jaechaui (dead bodies which have risen from the dead and able to talk). These bodies are manipulated by someone.",
-    duration: "1h 50m",
-  },
-  {
-    title: "The Suicide Squad",
-    year: 2021,
-    rating: 7.2,
-    genre: "Action/Adventure/Comedy",
-    genres: ["action", "adventure", "comedy"],
-    poster: "https://iili.io/cbELYv.md.webp",
-    href: "./page/The Suicide Squad.html",
-    embed: "https://www.youtube.com/embed/eg5ciqQzmK0",
-    synopsis:
-      "Supervillains Harley Quinn, Bloodsport, Peacemaker, and a collection of nutty cons at Belle Reve prison join the super-secret, super-shady Task Force X as they are dropped off at the remote, enemy-infused island of Corto Maltese.",
-    duration: "2h 12m",
-  },
-  {
     title: "The Ice Road",
     year: 2021,
     rating: 5.6,
@@ -2946,43 +3297,17 @@ const movies = [
     duration: "1h 49m",
   },
   {
-    title: "The Tomorrow War",
+    title: "The King's Man",
     year: 2021,
-    rating: 6.5,
-    genre: "Action/Adventure/Drama",
-    genres: ["action", "adventure", "drama"],
-    poster: "https://iili.io/5eE1rG.md.webp",
-    href: "./page/The Tomorrow War.html",
-    embed: "https://www.youtube.com/embed/QPistcpGB8o",
+    rating: 6.3,
+    genre: "Action/Adventure/Thriller",
+    genres: ["action", "adventure", "thriller"],
+    poster: "https://iili.io/HC6mSwu.md.webp",
+    href: "./page/The Kings Man.html",
+    embed: "https://www.youtube.com/embed/5zdBG-iGfes",
     synopsis:
-      "A family man is drafted to fight in a future war where the fate of humanity relies on his ability to confront the past.",
-    duration: "2h 18m",
-  },
-  {
-    title: "The Addams Family 2",
-    year: 2021,
-    rating: 5.4,
-    genre: "Animation/Adventure/Comedy",
-    genres: ["animation", "adventure", "comedy"],
-    poster: "https://iili.io/5eEu7R.md.webp",
-    href: "./page/The Addams Family 2.html",
-    embed: "https://www.youtube.com/embed/Kd82bSBDE84",
-    synopsis:
-      "The Addams get tangled up in more wacky adventures and find themselves involved in hilarious run-ins with all sorts of unsuspecting characters. Sequel to the 2019 animated film, 'The Addams Family'.",
-    duration: "1h 33m",
-  },
-  {
-    title: "The Deep House",
-    year: 2021,
-    rating: 5.3,
-    genre: "Drama/Horror/Mystery",
-    genres: ["drama", "horror", "mystery"],
-    poster: "https://iili.io/5eEaLX.md.webp",
-    href: "./page/The Deep House.html",
-    embed: "https://www.youtube.com/embed/hgqjv1endGY",
-    synopsis:
-      "The British Ben and his American girlfriend Tina are young adventurers that like to look for isolated weird places using Ben's GoPro camera and drone to post in Ben's social media later aiming to reach a great number of followers. They decide to go to France to seek out a lake formed by a submerged town and find that the place is a touristic area full of visitors.",
-    duration: "1h 25m",
+      "In the early years of the 20th century, the Kingsman agency is formed to stand against a cabal plotting a war to wipe out millions.",
+    duration: "2h 11m",
   },
   {
     title: "The Loud House Movie",
@@ -2998,6 +3323,71 @@ const movies = [
     duration: "1h 23m",
   },
   {
+    title: "The Medium",
+    year: 2021,
+    rating: 6.5,
+    genre: "Horror",
+    genres: ["horror"],
+    poster: "https://iili.io/5eElBn.md.webp",
+    href: "./page/The Medium.html",
+    embed: "https://www.youtube.com/embed/wDtJ3M4arIc",
+    synopsis:
+      "A horrifying story of a shaman's inheritance in the Isan region of Thailand. What could be possessing a family member might not be the Goddess they make it out to be.",
+    duration: "2h 10m",
+  },
+  {
+    title: "The Mitchells vs The Machines",
+    year: 2021,
+    rating: 7.6,
+    genre: "Animation/Adventure/Comedy",
+    genres: ["animation", "adventure", "comedy"],
+    poster: "https://iili.io/5eEG2f.md.webp",
+    href: "./page/The Mitchells vs The Machines.html",
+    embed: "https://www.youtube.com/embed/_ak5dFt8Ar0",
+    synopsis:
+      "A quirky, dysfunctional family's road trip is upended when they find themselves in the middle of the robot apocalypse and suddenly become humanity's unlikeliest last hope.",
+    duration: "1h 54m",
+  },
+  {
+    title: "The Suicide Squad",
+    year: 2021,
+    rating: 7.2,
+    genre: "Action/Adventure/Comedy",
+    genres: ["action", "adventure", "comedy"],
+    poster: "https://iili.io/cbELYv.md.webp",
+    href: "./page/The Suicide Squad.html",
+    embed: "https://www.youtube.com/embed/eg5ciqQzmK0",
+    synopsis:
+      "Supervillains Harley Quinn, Bloodsport, Peacemaker, and a collection of nutty cons at Belle Reve prison join the super-secret, super-shady Task Force X as they are dropped off at the remote, enemy-infused island of Corto Maltese.",
+    duration: "2h 12m",
+  },
+  {
+    title: "The Tomorrow War",
+    year: 2021,
+    rating: 6.5,
+    genre: "Action/Adventure/Drama",
+    genres: ["action", "adventure", "drama"],
+    poster: "https://iili.io/5eE1rG.md.webp",
+    href: "./page/The Tomorrow War.html",
+    embed: "https://www.youtube.com/embed/QPistcpGB8o",
+    synopsis:
+      "A family man is drafted to fight in a future war where the fate of humanity relies on his ability to confront the past.",
+    duration: "2h 18m",
+  },
+  {
+    title: "The Wasteland",
+    year: 2021,
+    rating: 4.6,
+    genre: "Drama/Horror/Mystery",
+    genres: ["drama", "horror", "mystery"],
+    poster: "https://iili.io/cP9p1a.md.webp",
+    href: "./page/The Wasteland.html",
+    embed: "https://www.youtube.com/embed/QojkL0FA0CY",
+    synopsis:
+      "The tranquil lives of a family isolated from the rest of society are disturbed by a terrifying creature, testing the ties that bind them together.",
+    duration: "1h 32m",
+  },
+  {
     title: "The White Tiger",
     year: 2021,
     rating: 7.1,
@@ -3009,6 +3399,32 @@ const movies = [
     synopsis:
       "An ambitious Indian driver uses his wit and cunning to escape from poverty and rise to the top. An epic journey based on the New York Times bestseller.",
     duration: "2h 5m",
+  },
+  {
+    title: "The Whole Truth",
+    year: 2021,
+    rating: 5.2,
+    genre: "Drama/Horror/Mystery",
+    genres: ["drama", "horror", "mystery"],
+    poster: "https://iili.io/7bdCrl.md.webp",
+    href: "./page/The Whole Truth.html",
+    embed: "https://www.youtube.com/embed/wNIY6wfkQxM",
+    synopsis:
+      "When two siblings stumble on a strange hole in the wall of their grandparents' house, horrifying incidents reveal sinister secrets about their family.",
+    duration: "2h 5m",
+  },
+  {
+    title: "Thiên Than Ho Menh",
+    year: 2021,
+    rating: 5.7,
+    genre: "Crime/Drama/Horror",
+    genres: ["crime", "drama", "horror"],
+    poster: "https://iili.io/7bdx7s.md.webp",
+    href: "./page/Thiên Than Ho Menh.html",
+    embed: "https://www.youtube.com/embed/FzoWWAJeFgM",
+    synopsis:
+      "After the shocking suicide of a young pop star, her backup singer finds herself living a parallel life. But is her success earned, or is it being aided by occult forces?",
+    duration: "2h 7m",
   },
   {
     title: "Titane",
@@ -3063,56 +3479,17 @@ const movies = [
     duration: "1h 38m",
   },
   {
-    title: "The Wasteland",
+    title: "Yuni",
     year: 2021,
-    rating: 4.6,
-    genre: "Drama/Horror/Mystery",
-    genres: ["drama", "horror", "mystery"],
-    poster: "https://iili.io/cP9p1a.md.webp",
-    href: "./page/The Wasteland.html",
-    embed: "https://www.youtube.com/embed/QojkL0FA0CY",
+    rating: 7.4,
+    genre: "Drama",
+    genres: ["drama"],
+    poster: "https://iili.io/HZD1KNt.md.webp",
+    href: "./page/Yuni.html",
+    embed: "https://www.youtube.com/embed/4BN63e5CnaQ",
     synopsis:
-      "The tranquil lives of a family isolated from the rest of society are disturbed by a terrifying creature, testing the ties that bind them together.",
-    duration: "1h 32m",
-  },
-  {
-    title: "The Fable: The Killer Who Doesn't Kill",
-    year: 2021,
-    rating: 6.8,
-    genre: "Action/Comedy/Mystery",
-    genres: ["action", "comedy", "mystery"],
-    poster: "https://iili.io/5bjOLG.md.webp",
-    href: "./page/The Fable The Killer Who Doesn't Kill.html",
-    embed: "https://www.youtube.com/embed/EuJLIYyz2JU",
-    synopsis:
-      "The Fable/Akira Sato killed 5 men 4 years ago. He meets the girl injured back then in a wheelchair. She's staying with the 6th on his kill list canceled last moment. The 6th is now scamming/extorting people.",
-    duration: "2h 13m",
-  },
-  {
-    title: "The Medium",
-    year: 2021,
-    rating: 6.5,
-    genre: "Horror",
-    genres: ["horror"],
-    poster: "https://iili.io/5eElBn.md.webp",
-    href: "./page/The Medium.html",
-    embed: "https://www.youtube.com/embed/wDtJ3M4arIc",
-    synopsis:
-      "A horrifying story of a shaman's inheritance in the Isan region of Thailand. What could be possessing a family member might not be the Goddess they make it out to be.",
-    duration: "2h 10m",
-  },
-  {
-    title: "The Whole Truth",
-    year: 2021,
-    rating: 5.2,
-    genre: "Drama/Horror/Mystery",
-    genres: ["drama", "horror", "mystery"],
-    poster: "https://iili.io/7bdCrl.md.webp",
-    href: "./page/The Whole Truth.html",
-    embed: "https://www.youtube.com/embed/wNIY6wfkQxM",
-    synopsis:
-      "When two siblings stumble on a strange hole in the wall of their grandparents' house, horrifying incidents reveal sinister secrets about their family.",
-    duration: "2h 5m",
+      "In her last year of secondary school, a bright Indonesian student is determined to pursue her education and resist getting married, despite the expectations of her community.",
+    duration: "1h 35m",
   },
   {
     title: "#Alive",
@@ -3271,6 +3648,19 @@ const movies = [
     duration: "1h 46m",
   },
   {
+    title: "Extraction",
+    year: 2020,
+    rating: 6.8,
+    genre: "Action/Thriller",
+    genres: ["action", "thriller"],
+    poster: "https://iili.io/HZbyss4.md.webp",
+    href: "./page/Extraction.html",
+    embed: "https://www.youtube.com/embed/L6P3nI6VnlY",
+    synopsis:
+      "Tyler Rake, a fearless black market mercenary, embarks on the most deadly extraction of his career when he's enlisted to rescue the kidnapped son of an imprisoned international crime lord.",
+    duration: "1h 56m",
+  },
+  {
     title: "Father Soldier Son",
     year: 2020,
     rating: 7.3,
@@ -3295,6 +3685,19 @@ const movies = [
     synopsis:
       "Workers at the Fukushima Daiichi facility in Japan risk their lives and stay at the nuclear power plant to prevent total destruction after the region is devastated by an earthquake and tsunami in 2011.",
     duration: "2h 2m",
+  },
+  {
+    title: "Ghosts of War",
+    year: 2020,
+    rating: 5.6,
+    genre: "Fantasy/Horror/Thriller",
+    genres: ["fantasy", "horror", "thriller"],
+    poster: "https://iili.io/HZb6mRp.md.webp",
+    href: "./page/Ghosts of War.html",
+    embed: "https://www.youtube.com/embed/3AJ4bYHNlGU",
+    synopsis:
+      "Five American soldiers assigned to hold a French Chateau near the end of World War II. This unexpected respite quickly descends into madness when they encounter a supernatural enemy more terrifying than anything seen on the battlefield.",
+    duration: "1h 34m",
   },
   {
     title: "Here We Are: Notes for Living on Planet Earth",
@@ -3621,6 +4024,19 @@ const movies = [
     duration: "45m",
   },
   {
+    title: "Spell",
+    year: 2020,
+    rating: 5.5,
+    genre: "Horror/Thriller",
+    genres: ["horror", "thriller"],
+    poster: "https://iili.io/HZm00AB.md.webp",
+    href: "./page/Spell.html",
+    embed: "https://www.youtube.com/embed/fTznGVd8nyo",
+    synopsis:
+      "A man crash lands in rural Appalachia and awakens in the attic of a traditional Hoodoo practitioner. He desperately tries to break free from her dark magic and save his family from a sinister ritual before the rise of the blood moon.",
+    duration: "1h 31m",
+  },
+  {
     title: "Sonic the Hedgehog",
     year: 2020,
     rating: 6.5,
@@ -3645,6 +4061,32 @@ const movies = [
     synopsis:
       "After landing the gig of a lifetime, a New York jazz pianist suddenly finds himself trapped in a strange land between Earth and the afterlife.",
     duration: "1h 40m",
+  },
+  {
+    title: "The Call",
+    year: 2020,
+    rating: 7.1,
+    genre: "Crime/Horror/Mystery",
+    genres: ["crime", "horror", "mystery"],
+    poster: "https://iili.io/HZbP1X1.md.webp",
+    href: "./page/The Call.html",
+    embed: "https://www.youtube.com/embed/hxkKeniT-0Q",
+    synopsis:
+      "Two people live in different times. Seo-Yeon lives in the present and Young-Sook lives in the past. One phone call connects the two, and their lives are changed irrevocably.",
+    duration: "1h 52m",
+  },
+  {
+    title: "The Calm Beyond",
+    year: 2020,
+    rating: 5.4,
+    genre: "Drama/Sci-Fi/Thriller",
+    genres: ["drama", "sci-fi", "thriller"],
+    poster: "https://iili.io/HZmGunt.md.webp",
+    href: "./page/The Calm Beyond.html",
+    embed: "https://www.youtube.com/embed/MZZHohrzgwc",
+    synopsis:
+      "A young woman lives, hidden in plain sight in a ruined Hong Kong building after a tsunami destroyed the city - A castaway on a concrete island. Her concealed existence is changed forever when a small child literally floats into her life.",
+    duration: "1h 35m",
   },
   {
     title: "The Croods : A New Age",
@@ -3712,6 +4154,19 @@ const movies = [
     duration: "1h 42m",
   },
   {
+    title: "The Meaning of Hitler",
+    year: 2020,
+    rating: 6.3,
+    genre: "Documentary",
+    genres: ["documentary"],
+    poster: "https://iili.io/HZDxQLP.md.webp",
+    href: "./page/The Meaning of Hitler.html",
+    embed: "https://www.youtube.com/embed/Uf3sk-ZBSRM",
+    synopsis:
+      "An inquiry into decades of cultural fascination with the Nazi leader, and the ramifications of such a fascination on present day politics.",
+    duration: "1h 32m",
+  },
+  {
     title: "The Night Clerk",
     year: 2020,
     rating: 5.6,
@@ -3762,6 +4217,19 @@ const movies = [
     synopsis:
       "A reformed hunter living in isolation on a wildlife sanctuary becomes involved in a deadly game of cat and mouse when he and the local Sheriff set out to track a vicious killer who may have kidnapped his daughter years ago.",
     duration: "1h 33m",
+  },
+  {
+    title: "The Social Dilemma",
+    year: 2020,
+    rating: 7.6,
+    genre: "Documentary/Drama",
+    genres: ["documentary", "drama"],
+    poster: "https://iili.io/HZmGmiX.md.webp",
+    href: "./page/The Social Dilemma.html",
+    embed: "https://www.youtube.com/embed/uaaC57tcci0",
+    synopsis:
+      "Explores the dangerous human impact of social networking, with tech experts sounding the alarm on their own creations.",
+    duration: "1h 34m",
   },
   {
     title: "The Speed Cubers",
@@ -3827,6 +4295,19 @@ const movies = [
     synopsis:
       "In order to come up with new music, a girl music group has to go to live in the countryside. By putting aside their city lives, perhaps life in the countryside can prove inspirational and help the girl band to produce a fresh, new sound.",
     duration: "2h 8m",
+  },
+  {
+    title: "Tin Can",
+    year: 2020,
+    rating: 4.0,
+    genre: "Sci-Fi",
+    genres: ["sci-fi"],
+    poster: "https://iili.io/HZm9jY7.md.webp",
+    href: "./page/Tin Can.html",
+    embed: "https://www.youtube.com/embed/7pvoCngu65U",
+    synopsis:
+      "As the world faces a deadly plague, humanity's hope for a cure lies with a scientist who awakens imprisoned in a metal chamber. She desperately works to escape her confined cell to save the last of humanity.",
+    duration: "1h 44m",
   },
   {
     title: "Toko Barang Mantan",
@@ -3946,6 +4427,32 @@ const movies = [
     duration: "1h 52m",
   },
   {
+    title: "1917",
+    year: 2019,
+    rating: 8.2,
+    genre: "Action/Drama/War",
+    genres: ["action", "drama", "war"],
+    poster: "https://iili.io/58xDNa.md.webp",
+    href: "./page/1917.html",
+    embed: "https://www.youtube.com/embed/YqNYrYUiMfg",
+    synopsis:
+      "April 6th, 1917. As an infantry battalion assembles to wage war deep in enemy territory, two soldiers are assigned to race against time and deliver a message that will stop 1,600 men from walking straight into a deadly trap.",
+    duration: "1h 59m",
+  },
+  {
+    title: "7500",
+    year: 2019,
+    rating: 6.3,
+    genre: "Action/Drama/Thriller",
+    genres: ["action", "drama", "thriller"],
+    poster: "https://iili.io/HZphesV.md.webp",
+    href: "./page/7500.html",
+    embed: "https://www.youtube.com/embed/Ml9S6qUEEv4",
+    synopsis:
+      "When terrorists try to seize control of a Berlin-Paris flight, a soft-spoken American co-pilot struggles to save the lives of the passengers and crew while forging a surprising connection with one of the hijackers.",
+    duration: "1h 33m",
+  },
+  {
     title: "0.0 Mhz",
     year: 2019,
     rating: 4.9,
@@ -3957,19 +4464,6 @@ const movies = [
     synopsis:
       "Members of a supernatural exploration club go into a haunted house.",
     duration: "1h 41m",
-  },
-  {
-    title: "6 Underground",
-    year: 2019,
-    rating: 6.1,
-    genre: "Action/Thriller",
-    genres: ["action", "thriller"],
-    poster: "https://iili.io/58xyVR.md.webp",
-    href: "./page/6 Underground.html",
-    embed: "https://www.youtube.com/embed/YLE85olJjp8",
-    synopsis:
-      "Six individuals from all around the globe, each the very best at what they do, have been chosen not only for their skill, but for a unique desire to delete their pasts to change the future.",
-    duration: "2h 8m",
   },
   {
     title: "12 Suicidal Teens",
@@ -3985,6 +4479,19 @@ const movies = [
     duration: "1h 57m",
   },
   {
+    title: "21 Bridges",
+    year: 2019,
+    rating: 6.6,
+    genre: "Action/Crime/Drama",
+    genres: ["action", "crime", "drama"],
+    poster: "https://iili.io/HZpWK11.md.webp",
+    href: "./page/21 Bridges.html",
+    embed: "https://www.youtube.com/embed/BVZDhunTrYA",
+    synopsis:
+      "An embattled NYPD detective is thrust into a citywide manhunt for a pair of cop killers after uncovering a massive and unexpected conspiracy.",
+    duration: "1h 39m",
+  },
+  {
     title: "47 Meters Down: Uncaged",
     year: 2019,
     rating: 5.0,
@@ -3998,17 +4505,17 @@ const movies = [
     duration: "1h 30m",
   },
   {
-    title: "1917",
+    title: "6 Underground",
     year: 2019,
-    rating: 8.2,
-    genre: "Action/Drama/War",
-    genres: ["action", "drama", "war"],
-    poster: "https://iili.io/58xDNa.md.webp",
-    href: "./page/1917.html",
-    embed: "https://www.youtube.com/embed/YqNYrYUiMfg",
+    rating: 6.1,
+    genre: "Action/Thriller",
+    genres: ["action", "thriller"],
+    poster: "https://iili.io/58xyVR.md.webp",
+    href: "./page/6 Underground.html",
+    embed: "https://www.youtube.com/embed/YLE85olJjp8",
     synopsis:
-      "April 6th, 1917. As an infantry battalion assembles to wage war deep in enemy territory, two soldiers are assigned to race against time and deliver a message that will stop 1,600 men from walking straight into a deadly trap.",
-    duration: "1h 59m",
+      "Six individuals from all around the globe, each the very best at what they do, have been chosen not only for their skill, but for a unique desire to delete their pasts to change the future.",
+    duration: "2h 8m",
   },
   {
     title: "A Night of Horror : Nightmare Radio",
@@ -4063,6 +4570,19 @@ const movies = [
     duration: "1h 37m",
   },
   {
+    title: "After Midnight",
+    year: 2019,
+    rating: 5.3,
+    genre: "Drama/Horror/Romance",
+    genres: ["drama", "horror", "romance"],
+    poster: "https://iili.io/HZpNoWx.md.webp",
+    href: "./page/After Midnight.html",
+    embed: "https://www.youtube.com/embed/ChgzKEVuUUI",
+    synopsis:
+      "When his girlfriend suddenly disappears, leaving a cryptic note as her only explanation, Hank's comfortable life and his sanity begin to crack. Then, from the woods surrounding his house, something terrible starts trying to break in.",
+    duration: "1h 23m",
+  },
+  {
     title: "Ashfall",
     year: 2019,
     rating: 6.2,
@@ -4074,6 +4594,19 @@ const movies = [
     synopsis:
       "Stagnant since 1903, at an elevation of 2,744 m, a volcano erupts on the mythical and majestic Baekdu Mountain.",
     duration: "2h 10m",
+  },
+  {
+    title: "Bikeman 2",
+    year: 2019,
+    rating: 6.1,
+    genre: "Comedy",
+    genres: ["comedy"],
+    poster: "https://iili.io/HZpsYVS.md.webp",
+    href: "./page/Bikeman 2.html",
+    embed: "https://www.youtube.com/embed/qtYpG02Iokc",
+    synopsis:
+      "The story of Sakkarin continues from 'Bikeman'. Sakkarin is now on his full-speed hitting on Jai but love comes with as obstacle as he has to face with challenges posted by Jai's intimidating father.",
+    duration: "1h 47m",
   },
   {
     title: "Boku no Hero Academia : Heroes Rising",
@@ -4414,6 +4947,19 @@ const movies = [
     duration: "2h 10m",
   },
   {
+    title: "Laundry Show",
+    year: 2019,
+    rating: 6.5,
+    genre: "Comedy/Drama",
+    genres: ["comedy", "drama"],
+    poster: "https://iili.io/HZp454s.md.webp",
+    href: "./page/Laundry Show.html",
+    embed: "https://www.youtube.com/embed/r65Ofz-Y6Sc",
+    synopsis:
+      "A man chooses to resign from his office to set up a laundry business and must deal with his employees, who have various ridiculous personalities.",
+    duration: "1h 37m",
+  },
+  {
     title: "Maleficent : Mistress of Evil",
     year: 2019,
     rating: 6.6,
@@ -4440,6 +4986,19 @@ const movies = [
     duration: "2h 17m",
   },
   {
+    title: "Midsommar",
+    year: 2019,
+    rating: 7.1,
+    genre: "Drama/Horror/Mystery",
+    genres: ["drama", "horror", "mystery"],
+    poster: "https://iili.io/HZpQYF9.md.webp",
+    href: "./page/Midsommar.html",
+    embed: "https://www.youtube.com/embed/1Vnghdsjmd0",
+    synopsis:
+      "A couple travels to Northern Europe to visit a rural hometown's fabled Swedish mid-summer festival. What begins as an idyllic retreat quickly devolves into an increasingly violent and bizarre competition at the hands of a pagan cult.",
+    duration: "2h 28m",
+  },
+  {
     title: "Mine 9",
     year: 2019,
     rating: 6.0,
@@ -4451,6 +5010,19 @@ const movies = [
     synopsis:
       "Two miles into the earth, nine Appalachian miners struggle to survive after a methane explosion leaves them with one hour of oxygen.",
     duration: "1h 23m",
+  },
+  {
+    title: "Minion Scouts",
+    year: 2019,
+    rating: 6.8,
+    genre: "Animation/Comedy/Short",
+    genres: ["animation", "comedy", "short"],
+    poster: "https://iili.io/HZyqcTQ.md.webp",
+    href: "./page/Minion Scouts.html",
+    embed: "https://www.youtube.com/embed/jYYY7YMgfPc",
+    synopsis:
+      "When Margo, Agnes and Edith return from Badger Scout camp, three of the Minions are entranced by the girls' merit badges. Their own attempt at scout camp results in attracting a bear, eating poison berries and eventually blowing up a dam, creating a massive flood.",
+    duration: "4m",
   },
   {
     title: "Missing Link",
@@ -4477,6 +5049,19 @@ const movies = [
     synopsis:
       "Every student is encouraged to join an extracurricular club and this one joins the university's Mystery Club.The club has a couple of veterans, but the real thing - an actual detective - is also in their midst.The club goes on an outing in the wilds of nature and on a mountain.",
     duration: "1h 59m",
+  },
+  {
+    title: "Nailed",
+    year: 2019,
+    rating: 5.7,
+    genre: "Comedy/Crime/Drama",
+    genres: ["comedy", "crime", "drama"],
+    poster: "https://iili.io/HZyBiUg.md.webp",
+    href: "./page/Nailed.html",
+    embed: "https://www.youtube.com/embed/t_4RFF7Hgrc",
+    synopsis:
+      "A couple running a failing auto shop in a rural town start drumming up business by placing things in the road to blow out tires but such success always comes with a price.",
+    duration: "1h 37m",
   },
   {
     title: "Parasite",
@@ -4583,6 +5168,19 @@ const movies = [
     duration: "1h 35m",
   },
   {
+    title: "Spies in Disguise",
+    year: 2019,
+    rating: 6.8,
+    genre: "Animation/Action/Adventure",
+    genres: ["animation", "action", "adventure"],
+    poster: "https://iili.io/HZynjyb.md.webp",
+    href: "./page/Spies in Disguise.html",
+    embed: "https://www.youtube.com/embed/A05s7OM-8Oc",
+    synopsis:
+      "When the world's best spy is turned into a pigeon, he must rely on his nerdy tech officer to save the world.",
+    duration: "1h 42m",
+  },
+  {
     title: "Spycies",
     year: 2019,
     rating: 5.5,
@@ -4661,6 +5259,19 @@ const movies = [
     duration: "1h 37m",
   },
   {
+    title: "The Bad Guys: The Movie",
+    year: 2019,
+    rating: 6.2,
+    genre: "Action/Crime/Thriller",
+    genres: ["action", "crime", "thriller"],
+    poster: "https://iili.io/HZyoVxR.md.webp",
+    href: "./page/The Bad Guys The Movie.html",
+    embed: "https://www.youtube.com/embed/W1_qsCqPrEk",
+    synopsis:
+      "A bus transporting the inmates is flipped resulting in the felons escaping. In order to round up and once again incarcerate the criminals the cops form a special task force that needs to work in haste. The chief detective forms a crack team and is rearing to go because time is of the essence. The criminals are dangerous on the loose.",
+    duration: "1h 54m",
+  },
+  {
     title: "The Blackout",
     year: 2019,
     rating: 6.1,
@@ -4724,6 +5335,19 @@ const movies = [
     synopsis:
       "A college student steals the panties of a girl he likes and gets witnessed, which sets off a chain of events that send his life and the lives of others around him out of control.",
     duration: "2h 7m",
+  },
+  {
+    title: "The Gentlemen",
+    year: 2019,
+    rating: 7.8,
+    genre: "Action/Comedy/Crime",
+    genres: ["action", "comedy", "crime"],
+    poster: "https://iili.io/HZyIxHX.md.webp",
+    href: "./page/The Gentlemen.html",
+    embed: "https://www.youtube.com/embed/Ify9S7hj480",
+    synopsis:
+      "An American expat tries to sell off his highly profitable marijuana empire in London, triggering plots, schemes, bribery and blackmail in an attempt to steal his domain out from under him.",
+    duration: "1h 53m",
   },
   {
     title: "The Great War of Archimedes",
