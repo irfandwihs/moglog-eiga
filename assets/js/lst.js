@@ -325,6 +325,19 @@ const movies = [
     duration: "1h 47m",
   },
   {
+    title: "Poisoned: The Dirty Truth About Your Food",
+    year: 2023,
+    rating: 6.6,
+    genre: "Documentary",
+    genres: ["documentary"],
+    poster: "https://iili.io/HtFeAle.md.webp",
+    href: "./page/Poisoned The Dirty Truth About Your Food.html",
+    embed: "https://www.youtube.com/embed/YZcyMgdWmPg",
+    synopsis:
+      "A call to action for the officials who have the power to mitigate the danger caused by foodborne pathogens that kill thousands of people in the U.S. every year.",
+    duration: "1h 24m",
+  },
+  {
     title: "Rebound",
     year: 2023,
     rating: 6.9,
@@ -362,6 +375,19 @@ const movies = [
     synopsis:
       "A washed-up stuntman and his stunt horse become an overnight social media sensation when their real-life fight with debt collectors goes viral.",
     duration: "2h 6m",
+  },
+  {
+    title: "River Wild",
+    year: 2023,
+    rating: 5.4,
+    genre: "Thriller",
+    genres: ["thriller"],
+    poster: "https://iili.io/Ht2NJ5l.md.webp",
+    href: "./page/River Wild.html",
+    embed: "https://www.youtube.com/embed/z_HUm8JZlVs",
+    synopsis:
+      "Follows a pair of siblings who love but distrust each other as they embark on a white-water rafting trip with a small group. One of their friends from childhood turns out to be more dangerous than he appears.",
+    duration: "1h 31m",
   },
   {
     title: "Soulmate",
@@ -1582,6 +1608,19 @@ const movies = [
     synopsis:
       "When a young mother is barricaded inside a pantry by her violent ex-boyfriend, she must use ingenuity to protect her two small children from escalating danger while finding an escape.",
     duration: "1h 29m",
+  },
+  {
+    title: "Sick",
+    year: 2022,
+    rating: 6.0,
+    genre: "Horror/Thriller",
+    genres: ["horror", "thriller"],
+    poster: "https://iili.io/Ht2MZxa.md.webp",
+    href: "./page/Sick.html",
+    embed: "https://www.youtube.com/embed/IlS90jL1EHQ",
+    synopsis:
+      "Due to the pandemic, Parker and her best friend decide to quarantine at the family lake house alone - or so they think.",
+    duration: "1h 23m",
   },
   {
     title: "Smile",
@@ -4986,6 +5025,19 @@ const movies = [
     duration: "2h 17m",
   },
   {
+    title: "Men in Black: International",
+    year: 2019,
+    rating: 5.6,
+    genre: "Action/Adventure/Comedy",
+    genres: ["action", "adventure", "comedy"],
+    poster: "https://iili.io/HtdFAyG.md.webp",
+    href: "./page/Men in Black International.html",
+    embed: "https://www.youtube.com/embed/BV-WEb2oxLk",
+    synopsis:
+      "The Men in Black have always protected the Earth from the scum of the universe. In this new adventure, they tackle their biggest threat to date: a mole in the Men in Black organization.",
+    duration: "1h 54m",
+  },
+  {
     title: "Midsommar",
     year: 2019,
     rating: 7.1,
@@ -5557,6 +5609,19 @@ const movies = [
     duration: "8m",
   },
   {
+    title: "Bikeman",
+    year: 2018,
+    rating: 6.4,
+    genre: "Comedy",
+    genres: ["comedy"],
+    poster: "https://iili.io/HtdfCgt.md.webp",
+    href: "./page/Bikeman.html",
+    embed: "https://www.youtube.com/embed/c3gZ5Chho1w",
+    synopsis:
+      "'Sakkarin' is a 25 year old guy who could not find a job as his mother wishes him to be a banker. To take care and make the family happy, he has to lie by wearing the bank uniform out of the house every morning before turns to his true self and his real job as a motorbike taxi man.",
+    duration: "1h 46m",
+  },
+  {
     title: "Bird Box",
     year: 2018,
     rating: 6.6,
@@ -5570,6 +5635,32 @@ const movies = [
     duration: "2h 4m",
   },
   {
+    title: "Blackmail",
+    year: 2018,
+    rating: 7.1,
+    genre: "Comedy/Thriller",
+    genres: ["comedy", "thriller"],
+    poster: "https://iili.io/Htdf7B2.md.webp",
+    href: "./page/Blackmail.html",
+    embed: "https://www.youtube.com/embed/FLyosbdgqmc",
+    synopsis:
+      "When Dev finds out his wife is cheating on him, he secretly blackmails his wife and her lover as a form of revenge.",
+    duration: "2h 18m",
+  },
+  {
+    title: "Bohemian Rhapsody",
+    year: 2018,
+    rating: 7.9,
+    genre: "Biography/Drama/Music",
+    genres: ["biography", "drama", "music"],
+    poster: "https://iili.io/HtdB1xj.md.webp",
+    href: "./page/Bohemian Rhapsody.html",
+    embed: "https://www.youtube.com/embed/mP0VHJYFOAU",
+    synopsis:
+      "The story of the legendary British rock band Queen and lead singer Freddie Mercury, leading up to their famous performance at Live Aid (1985).",
+    duration: "2h 14m",
+  },
+  {
     title: "Boo!",
     year: 2018,
     rating: 3.5,
@@ -5581,6 +5672,19 @@ const movies = [
     synopsis:
       "A torn suburban family refuses to heed the warning of an innocent prank left upon them which causes an unknown supernatural force to wreak havoc.",
     duration: "1h 31m",
+  },
+  {
+    title: "Cats and Peachtopia",
+    year: 2018,
+    rating: 4.8,
+    genre: "Animation/Adventure/Comedy",
+    genres: ["animation", "adventure", "comedy"],
+    poster: "https://iili.io/HtdCmZJ.md.webp",
+    href: "./page/Cats and Peachtopia.html",
+    embed: "https://www.youtube.com/embed/ISTfEFlkxzE",
+    synopsis:
+      "A cat named Blanket lives in the city with his son, Cape. One day, Cape decides to leave home and embarks on an adventure to find the legendary cat's paradise. To find his son, Blanket must overcome his fear and reconcile with his past.",
+    duration: "1h 27m",
   },
   {
     title: "Crayon Shin-chan: Burst Serving! Kung Fu Boys - Ramen Rebellion",
@@ -5607,6 +5711,32 @@ const movies = [
     synopsis:
       "This contemporary romantic comedy, based on a global bestseller, follows native New Yorker Rachel Chu to Singapore to meet her boyfriend's family.",
     duration: "2h",
+  },
+  {
+    title: "Dilan 1990",
+    year: 2018,
+    rating: 7.0,
+    genre: "Drama/Romance",
+    genres: ["drama", "romance"],
+    poster: "https://iili.io/HtdxMTF.md.webp",
+    href: "./page/Dilan 1990.html",
+    embed: "https://www.youtube.com/embed/X_b-wNkz4DU",
+    synopsis:
+      "Milea (Vanesha Prescilla) met with Dilan (Iqbaal Ramadhan) at a high school in Bandung in 1990. An unusual introduction brings Milea to know the uniqueness of Dilan who is smart, kind, and romantic in her eyes.",
+    duration: "1h 50m",
+  },
+  {
+    title: "Early Man",
+    year: 2018,
+    rating: 6.1,
+    genre: "Animation/Adventure/Comedy",
+    genres: ["animation", "adventure", "comedy"],
+    poster: "https://iili.io/HtdTYEG.md.webp",
+    href: "./page/Early Man.html",
+    embed: "https://www.youtube.com/embed/TiNkCP7unTE",
+    synopsis:
+      "Set at the dawn of time, when prehistoric creatures and woolly mammoths roamed the earth, Early Man tells the story of Dug, along with sidekick Hognob as they unite his tribe against a mighty enemy Lord Nooth and his Bronze Age City to save their home.",
+    duration: "1h 29m",
   },
   {
     title: "Eerie",
@@ -5739,6 +5869,19 @@ const movies = [
     duration: "1h 42m",
   },
   {
+    title: "Liverleaf",
+    year: 2018,
+    rating: 6.2,
+    genre: "Horror",
+    genres: ["horror"],
+    poster: "https://iili.io/HtdTs3v.md.webp",
+    href: "./page/Liverleaf.html",
+    embed: "https://www.youtube.com/embed/qb_2xq7bfAY",
+    synopsis:
+      "As if bullied by her classmates everyday is not enough, Nozaki finds her house burnt to the ground and her parents dead. Knowing that the fire is not an accident, she sneaks off to punish those responsible one by one.",
+    duration: "1h 54m",
+  },
+  {
     title: "Mid90s",
     year: 2018,
     rating: 7.3,
@@ -5791,6 +5934,19 @@ const movies = [
     duration: "1h 46m",
   },
   {
+    title: "Padman",
+    year: 2018,
+    rating: 7.9,
+    genre: "Comedy/Drama",
+    genres: ["comedy", "drama"],
+    poster: "https://iili.io/HtdAlbS.md.webp",
+    href: "./page/Padman.html",
+    embed: "https://www.youtube.com/embed/-K9ujx8vO_A",
+    synopsis:
+      "Upon realizing the extent to which women are affected by their menses, a man sets out to create a sanitary pad machine and to provide inexpensive sanitary pads to the women of rural India.",
+    duration: "2h 20m",
+  },
+  {
     title: "Racetime",
     year: 2018,
     rating: 5.5,
@@ -5802,6 +5958,19 @@ const movies = [
     synopsis:
       "A spectacular sled race through the village. Frankie-Four-Eyes and his team, including Sophie as the driver, take on the newcomers: the mysterious and conceited Zac and his athletic cousin Charly. The fantastic sled designed by Frankie disintegrates right before crossing the finish line.",
     duration: "1h 29m",
+  },
+  {
+    title: "Red Sparrow",
+    year: 2018,
+    rating: 6.6,
+    genre: "Action/Drama/Thriller",
+    genres: ["action", "drama", "thriller"],
+    poster: "https://iili.io/Htd7smQ.md.webp",
+    href: "./page/Red Sparrow.html",
+    embed: "https://www.youtube.com/embed/PmUL6wMpMWw",
+    synopsis:
+      "Ballerina Dominika Egorova is recruited to 'Sparrow School,' a Russian intelligence service where she is forced to use her body as a weapon. Her first mission, targeting a C.I.A. agent, threatens to unravel the security of both nations.",
+    duration: "2h 20m",
   },
   {
     title: "Replicas",
@@ -5828,6 +5997,19 @@ const movies = [
     synopsis:
       "The true story of a stray dog who joins his new master on the battlefields of the First World War. For his valorous actions, Sgt. Stubby is still recognized as the most decorated dog in American history.",
     duration: "1h 24m",
+  },
+  {
+    title: "Sherlock Gnomes",
+    year: 2018,
+    rating: 5.2,
+    genre: "Animation/Adventure/Comedy",
+    genres: ["animation", "adventure", "comedy"],
+    poster: "https://iili.io/HtdaRHJ.md.webp",
+    href: "./page/Sherlock Gnomes.html",
+    embed: "https://www.youtube.com/embed/comz38kRsb0",
+    synopsis:
+      "Garden gnomes, Gnomeo (James McAvoy) and Juliet (Emily Blunt), recruit renowned detective Sherlock Gnomes (Johnny Depp) to investigate the mysterious disappearance of other garden ornaments.",
+    duration: "1h 26m",
   },
   {
     title: "Smallfoot",
@@ -5986,6 +6168,32 @@ const movies = [
     duration: "1h 25m",
   },
   {
+    title: "Baywatch",
+    year: 2017,
+    rating: 5.5,
+    genre: "Action/Comedy/Crime",
+    genres: ["action", "comedy", "crime"],
+    poster: "https://iili.io/Ht2gCHg.md.webp",
+    href: "./page/Baywatch.html",
+    embed: "https://www.youtube.com/embed/eyKOgnaf0BU",
+    synopsis:
+      "Devoted lifeguard Mitch Buchannon butts heads with a brash new recruit, as they uncover a criminal plot that threatens the future of the bay.",
+    duration: "1h 56m",
+  },
+  {
+    title: "Beauty and the Beast",
+    year: 2017,
+    rating: 7.1,
+    genre: "Adventure/Family/Fantasy",
+    genres: ["adventure", "family", "fantasy"],
+    poster: "https://iili.io/Ht3mIR4.md.webp",
+    href: "./page/Beauty and the Beast.html",
+    embed: "https://www.youtube.com/embed/e3Nl_TCQXuw",
+    synopsis:
+      "A selfish Prince is cursed to become a monster for the rest of his life, unless he learns to fall in love with a beautiful young woman he keeps prisoner.",
+    duration: "2h 9m",
+  },
+  {
     title: "Cargo",
     year: 2017,
     rating: 6.3,
@@ -5999,6 +6207,19 @@ const movies = [
     duration: "1h 45m",
   },
   {
+    title: "CHIPS",
+    year: 2017,
+    rating: 6.0,
+    genre: "Action/Comedy/Crime",
+    genres: ["action", "comedy", "crime"],
+    poster: "https://iili.io/HtFfQbn.md.webp",
+    href: "./page/CHIPS.html",
+    embed: "https://www.youtube.com/embed/NErwOWW7aCE",
+    synopsis:
+      "An inexperienced rookie is teamed up with a hardened pro at the California Highway Patrol in Los Angeles; the newbie officer soon learns his partner is really an undercover Fed investigating a heist which may involve some crooked cops.",
+    duration: "1h 40m",
+  },
+  {
     title: "Dunkirk",
     year: 2017,
     rating: 7.8,
@@ -6010,6 +6231,19 @@ const movies = [
     synopsis:
       "Allied soldiers from Belgium, the British Commonwealth and Empire, and France are surrounded by the German Army and evacuated during a fierce battle in World War II.",
     duration: "1h 46m",
+  },
+  {
+    title: "Fukumen-kei Noise",
+    year: 2017,
+    rating: 6.4,
+    genre: "Comedy/Drama/Music",
+    genres: ["comedy", "drama", "music"],
+    poster: "https://iili.io/Ht3Dbaf.md.webp",
+    href: "./page/Fukumen-kei Noise.html",
+    embed: "https://www.youtube.com/embed/tx1_Vs--_Ao",
+    synopsis:
+      "A girl who loves to sing, Nino Arisugawa experiences her first heart-wrenching goodbye when her beloved childhood friend, Momo, moves away. And after Nino befriends Yuzu, a music composer, she experiences another sad parting. With music as their common ground and only outlet, how will unrequited love play out?",
+    duration: "1h 56m",
   },
   {
     title: "Get Out",

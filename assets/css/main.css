@@ -513,7 +513,7 @@ input ~ .checked-radio-bg {
 .movies-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
-  gap: 30px;
+  gap: 30px !important;
   margin-bottom: 60px;
   display: flex !important;
   flex-wrap: wrap !important;
