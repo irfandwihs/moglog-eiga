@@ -15,7 +15,7 @@ function showMovieDetailByTitle(title) {
       </head>
       <body>
         <header class="container">
-          <div class="logo"><a href="..\gpt.html" class="logo-link">Home</a></div>       
+          <div class="logo"><a href="https://pernahnontonfilm.netlify.app/gpt.html" class="logo-link">Home</a></div>       
         </header>
     
         <main class="main">
