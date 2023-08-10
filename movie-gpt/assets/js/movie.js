@@ -1948,6 +1948,21 @@ const movies = [
     duration: "1h 19m",
   },
   {
+    title: "The 355",
+    year: 2022,
+    rating: 5.6,
+    genre: "Action/Thriller",
+    genres: ["action", "thriller"],
+    country: "USA",
+    countrys: ["usa"],
+    poster: "https://iili.io/HDfgmOJ.md.webp",
+    href: "./movie-gpt/page/The 355.html",
+    embed: "https://www.youtube.com/embed/SV0s2S9reT0",
+    synopsis:
+      "When a top-secret weapon falls into mercenary hands, a wild-card C.I.A. agent joins forces with three international agents on a mission to retrieve it, while staying a step ahead of a mysterious woman who's tracking their every move.",
+    duration: "2h 2m",
+  },
+  {
     title: "The Adam Project",
     year: 2022,
     rating: 6.7,
@@ -3863,6 +3878,21 @@ const movies = [
     synopsis:
       "After a remote diamond mine collapses in far northern Canada, a 'big-rig' ice road driver must lead an impossible rescue mission over a frozen lake to save the trapped miners.",
     duration: "1h 49m",
+  },
+  {
+    title: "The Journey",
+    year: 2021,
+    rating: 6.9,
+    genre: "Animation/Action/Adventure",
+    genres: ["animation", "action", "adventure"],
+    country: "Japan",
+    countrys: ["japan"],
+    poster: "https://iili.io/HDf4y6N.md.webp",
+    href: "./movie-gpt/page/The Journey.html",
+    embed: "https://www.youtube.com/embed/EP6FKs1JsnE",
+    synopsis:
+      "An animated tale based on the history and culture of ancient Arabia.",
+    duration: "1h 50m",
   },
   {
     title: "The King's Man",
@@ -6696,6 +6726,21 @@ const movies = [
     synopsis:
       "A group of friends who meet regularly for game nights find themselves entangled in a real-life mystery when the shady brother of one of them is seemingly kidnapped by dangerous gangsters.",
     duration: "1h 40m",
+  },
+  {
+    title: "Gintama 2: Rules are Made to be Broken",
+    year: 2018,
+    rating: 6.4,
+    genre: "Action/Adventure/Comedy",
+    genres: ["action", "adventure", "comedy"],
+    country: "Japan",
+    countrys: ["japan"],
+    poster: "https://iili.io/HDfVBNn.md.webp",
+    href: "./movie-gpt/page/Gintama2.html",
+    embed: "https://www.youtube.com/embed/Xm0ZEJjUlmg",
+    synopsis:
+      "The Yorozuya gang returns to protect the country's shogun when the Shinsengumi police force finds itself in a crisis.",
+    duration: "2h 14m",
   },
   {
     title: "Green Book",
