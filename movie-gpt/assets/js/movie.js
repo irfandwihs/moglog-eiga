@@ -645,6 +645,21 @@ const movies = [
     duration: "2h 1m",
   },
   {
+    title: "Zom 100: Bucket List of the Dead",
+    year: 2023,
+    rating: 5.5,
+    genre: "Action/Comedy/Fantasy",
+    genres: ["action", "comedy", "fantasy"],
+    country: "Japan",
+    countrys: ["japan"],
+    poster: "https://iili.io/HDoYYB4.md.webp",
+    href: "./movie-gpt/page/Zom 100 Bucket List of the Dead.html",
+    embed: "https://www.youtube.com/embed/zKvLB-N2RdA",
+    synopsis:
+      "Bullied by his boss, worked around the clock, he's nothing more than a corporate drone. All it takes is a zombie outbreak for him to finally feel alive.",
+    duration: "2h 9m",
+  },
+  {
     title: "6/45",
     year: 2022,
     rating: 7.1,
@@ -945,6 +960,21 @@ const movies = [
     duration: "1h 36m",
   },
   {
+    title: "Decibel",
+    year: 2022,
+    rating: 6.2,
+    genre: "Action/Drama/Horror",
+    genres: ["action", "drama", "horror"],
+    country: "Korea",
+    countrys: ["korea"],
+    poster: "https://iili.io/HDCdvG2.md.webp",
+    href: "./movie-gpt/page/Decibel.html",
+    embed: "https://www.youtube.com/embed/UmgVsK6cQuc",
+    synopsis:
+      "The story unfolds when a bomb that responds to sound is discovered at the center of the city.",
+    duration: "1h 50m",
+  },
+  {
     title: "Do Revenge",
     year: 2022,
     rating: 6.3,
@@ -1242,6 +1272,21 @@ const movies = [
     synopsis:
       "Six years ago, Li Ronan was cursed after breaking a religious taboo. Now, she must protect her daughter from the consequences of her actions.",
     duration: "1h 50m",
+  },
+  {
+    title: "Inspector Sun and the Curse of the Black Widow",
+    year: 2022,
+    rating: 5.2,
+    genre: "Animation",
+    genres: ["animation"],
+    country: "Spanyol",
+    countrys: ["spanyol"],
+    poster: "https://iili.io/HDoEUuI.md.webp",
+    href: "./movie-gpt/page/Inspector Sun and the Curse of the Black Widow.html",
+    embed: "https://www.youtube.com/embed/2dkYR902jHM",
+    synopsis:
+      "Inspector Sun boards a seemingly normal plane for a much-needed vacation, but when an enigmatic millionaire receives a threat on his life, Sun is back on the case. Trapped in a web of lies, Sun must find the culprit before it's too late.",
+    duration: "1h 28m",
   },
   {
     title: "Jaifu Story",
@@ -1766,6 +1811,21 @@ const movies = [
     synopsis:
       "Follows dangerous criminals on a cargo ship who are transported from the Philippines to South Korea, as they unleash a sinister force after an escape attempt leads to a riot.",
     duration: "2h 2m",
+  },
+  {
+    title: "Puss in Boots: The Last Wish",
+    year: 2022,
+    rating: 7.9,
+    genre: "Animation/Adventure/Comedy",
+    genres: ["animation", "adventure", "comedy"],
+    country: "USA",
+    countrys: ["usa"],
+    poster: "https://iili.io/HDolrZu.md.webp",
+    href: "./movie-gpt/page/Puss in Boots The Last Wish.html",
+    embed: "https://www.youtube.com/embed/tHb7WlgyaUc",
+    synopsis:
+      "When Puss in Boots discovers that his passion for adventure has taken its toll and he has burned through eight of his nine lives, he launches an epic journey to restore them by finding the mythical Last Wish.",
+    duration: "1h 42m",
   },
   {
     title: "Re/Member",
@@ -3176,6 +3236,21 @@ const movies = [
     duration: "1h 51m",
   },
   {
+    title: "Marriage",
+    year: 2021,
+    rating: 7.4,
+    genre: "Drama/Romance",
+    genres: ["drama", "romance"],
+    country: "Indonesia",
+    countrys: ["indonesia"],
+    poster: "https://iili.io/HDxob6X.md.webp",
+    href: "./movie-gpt/page/Marriage.html",
+    embed: "https://www.youtube.com/embed/pELfJDP0RBA",
+    synopsis:
+      "In fact, getting married does not automatically make you happy. He married Vika. Nasty, grumpy, blind jealous, can't cook. Such is the regret of Mirza, Vika's husband, who was sued for divorce after 5 years of living together.",
+    duration: "1h 19m",
+  },
+  {
     title: "Masquerade Night",
     year: 2021,
     rating: 6.2,
@@ -3309,6 +3384,21 @@ const movies = [
     synopsis:
       "When something horrible happens to the only survivor of a bloody massacre, an insecure rookie cop must overcome his fears to stop further carnage.",
     duration: "1h 36m",
+  },
+  {
+    title: "Nussa: The Movie",
+    year: 2021,
+    rating: 7.3,
+    genre: "Animation/Adventure/Comedy",
+    genres: ["animation", "adventure", "comedy"],
+    country: "Indonesia",
+    countrys: ["indonesia"],
+    poster: "https://iili.io/HDo62hF.md.webp",
+    href: "./movie-gpt/page/Nussa The Movie.html",
+    embed: "https://www.youtube.com/embed/ACT4tV5P59M",
+    synopsis:
+      "Nussa's life changed when he met a new friend who was much more liked by his friends than himself.",
+    duration: "1h 47m",
   },
   {
     title: "Old",
@@ -6039,6 +6129,21 @@ const movies = [
     duration: "1h 28m",
   },
   {
+    title: "Pretty Boys",
+    year: 2019,
+    rating: 7.1,
+    genre: "Comedy/Drama",
+    genres: ["comedy", "drama"],
+    country: "Indonesia",
+    countrys: ["indonesia"],
+    poster: "https://iili.io/HDxo52s.md.webp",
+    href: "./movie-gpt/page/Pretty Boys.html",
+    embed: "https://www.youtube.com/embed/v2QVXESTKrk",
+    synopsis:
+      "Two best friends since childhood aspire to be famous. They run away from home and try their fortune in Jakarta. One day, when they become the paid audiences for a talk show, the audience coordinator offer them a way to their dreams.",
+    duration: "1h 40m",
+  },
+  {
     title: "Ready or Not",
     year: 2019,
     rating: 6.8,
@@ -7253,6 +7358,21 @@ const movies = [
     duration: "1h 30m",
   },
   {
+    title: "Downsizing",
+    year: 2017,
+    rating: 5.8,
+    genre: "Drama/Fantasy/Sci-Fi",
+    genres: ["drama", "fantasy", "sci-fi"],
+    country: "USA",
+    countrys: ["usa"],
+    poster: "https://iili.io/HDC2zwG.md.webp",
+    href: "./movie-gpt/page/Downsizing.html",
+    embed: "https://www.youtube.com/embed/UCrBICYM0yM",
+    synopsis:
+      "A social satire in which a man realizes he would have a better life if he were to shrink himself to five inches tall, allowing him to live in wealth and splendor.",
+    duration: "2h 15m",
+  },
+  {
     title: "Drone",
     year: 2017,
     rating: 5.4,
@@ -8303,6 +8423,21 @@ const movies = [
     duration: "2h",
   },
   {
+    title: "Tag",
+    year: 2015,
+    rating: 6.1,
+    genre: "Action/Drama/Fantasy",
+    genres: ["action", "drama", "fantasy"],
+    country: "Japan",
+    countrys: ["japan"],
+    poster: "https://iili.io/HDxMxwB.md.webp",
+    href: "./movie-gpt/page/Tag.html",
+    embed: "https://www.youtube.com/embed/HzcGkGuSs0U",
+    synopsis:
+      "A girl's life cascades into chaos as everyone around her suffers a gruesome fate while she becomes less certain of who she is and her once-once normal.",
+    duration: "1h 25m",
+  },
+  {
     title: "The Beauty Inside",
     year: 2015,
     rating: 7.3,
@@ -8601,6 +8736,21 @@ const movies = [
     synopsis:
       "Dika visited Ina's Father before her wedding day, he told about his high school experience of having Ina as his crush. He also creates a detective group with his other friends trying to be famous in his high school to get Ina's attention.",
     duration: "1h 31m",
+  },
+  {
+    title: "Need for Speed",
+    year: 2014,
+    rating: 6.4,
+    genre: "Action/Adventure/Crime",
+    genres: ["action", "adventure", "crime"],
+    country: "USA",
+    countrys: ["usa"],
+    poster: "https://iili.io/HDBUKrP.md.webp",
+    href: "./movie-gpt/page/Need for Speed.html",
+    embed: "https://www.youtube.com/embed/u3wtVI-aJuw",
+    synopsis:
+      "Fresh from prison, a street racer who was framed by a wealthy business associate joins a cross-country race with revenge in mind. His ex-partner, learning of the plan, places a massive bounty on his head as the race begins.",
+    duration: "2h 10m",
   },
   {
     title: "Pompeii",
@@ -9096,6 +9246,21 @@ const movies = [
     synopsis:
       "A young couple living in a Connecticut suburb during the mid-1950s struggle to come to terms with their personal problems while trying to raise their two children.",
     duration: "1h 59m",
+  },
+  {
+    title: "The Little Rascals",
+    year: 1994,
+    rating: 5.2,
+    genre: "Comedy/Family/Romance",
+    genres: ["comedy", "family", "romance"],
+    country: "USA",
+    countrys: ["usa"],
+    poster: "https://iili.io/HDoSrts.md.webp",
+    href: "./movie-gpt/page/The Little Rascals.html",
+    embed: "https://www.youtube.com/embed/FgyCE8VsGKM",
+    synopsis:
+      "Alfalfa is wooing Darla and his 'He-Man-Woman-Hating' friends attempt to sabotage the relationship.",
+    duration: "1h 22m",
   },
   // Add more movies as desired
 ];
