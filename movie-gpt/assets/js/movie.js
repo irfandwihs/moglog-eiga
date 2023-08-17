@@ -75,6 +75,21 @@ const movies = [
     duration: "1h 28m",
   },
   {
+    title: "Cabin Girl",
+    year: 2023,
+    rating: 4.6,
+    genre: "Horror/Thriller",
+    genres: ["horror", "thriller"],
+    country: "USA",
+    countrys: ["usa"],
+    poster: "https://iili.io/HDmeejt.md.webp",
+    href: "./movie-gpt/page/Cabin Girl.html",
+    embed: "https://www.youtube.com/embed/ENf3bIh25NI",
+    synopsis:
+      "Follows 24-year-old Ava Robbins, who moves into an isolated cabin, but what seemed as a dream come true soon turns into a living nightmare when Ava's interest in the supernatural triggers a series of weird events.",
+    duration: "1h 27m",
+  },
+  {
     title: "Call Me Chihiro",
     year: 2023,
     rating: 6.9,
@@ -315,6 +330,21 @@ const movies = [
     duration: "1h 51m",
   },
   {
+    title: "Mother, May I?",
+    year: 2023,
+    rating: 5.1,
+    genre: "Horror/Thriller",
+    genres: ["horror", "thriller"],
+    country: "USA",
+    countrys: ["usa"],
+    poster: "https://iili.io/HDaUuMQ.md.webp",
+    href: "./movie-gpt/page/Mother May I.html",
+    embed: "https://www.youtube.com/embed/1vmDCpuBj_0",
+    synopsis:
+      "When Anya starts behaving like her fiancée's recently-deceased mother, Emmett must confront his deepest traumas to free his fiancee from this bewildering possession.",
+    duration: "1h 39m",
+  },
+  {
     title: "My Fault",
     year: 2023,
     rating: 6.2,
@@ -510,6 +540,21 @@ const movies = [
     duration: "1h 58m",
   },
   {
+    title: "The Childe",
+    year: 2023,
+    rating: 7.1,
+    genre: "Action/Drama/Thriller",
+    genres: ["action", "drama", "thriller"],
+    country: "Korea",
+    countrys: ["korea"],
+    poster: "https://iili.io/HDmjget.md.webp",
+    href: "./movie-gpt/page/The Childe.html",
+    embed: "https://www.youtube.com/embed/B_uThkfbPZQ",
+    synopsis:
+      "'The Childe' will focus on a man born to a Korean father and a Filipino mother who aspires to be a boxer. He travels to the Philippines in the hopes of tracking down his father, and in the process, he gets mixed up with some bad people.",
+    duration: "1h 58m",
+  },
+  {
     title: "The Covenant",
     year: 2023,
     rating: 7.5,
@@ -538,6 +583,21 @@ const movies = [
     synopsis:
       "A champion and expert safety diver seemed destined for one another. Despite different paths taken, they meet at the pinnacle of the free-diving world, experiencing the thrilling rewards and inescapable risks of chasing dreams through the depths of the ocean.",
     duration: "1h 48m",
+  },
+  {
+    title: "The Murderer",
+    year: 2023,
+    rating: 6.2,
+    genre: "Comedy/Crime/Mystery",
+    genres: ["comedy", "crime", "mystery"],
+    country: "Thailand",
+    countrys: ["thailand"],
+    poster: "https://iili.io/HDmO5bt.md.webp",
+    href: "./movie-gpt/page/The Murderer.html",
+    embed: "https://www.youtube.com/embed/NQLGc1RTDdU",
+    synopsis:
+      "When an English man is accused of murdering his Thai in-laws, his wife is the only witness that stands between guilt and freedom.",
+    duration: "2h",
   },
   {
     title: "The Roundup: No Way Out",
@@ -601,7 +661,7 @@ const movies = [
   },
   {
     title: "Transformers: Rise of the Beasts",
-    year: 2014,
+    year: 2023,
     rating: 6.1,
     genre: "Action/Adventure/Sci-Fi",
     genres: ["action", "adventure", "sci-fi"],
@@ -5664,6 +5724,21 @@ const movies = [
     duration: "2h 32m",
   },
   {
+    title: "Friend Zone",
+    year: 2019,
+    rating: 7.2,
+    genre: "Comedy/Romance",
+    genres: ["comedy", "romance"],
+    country: "Thailand",
+    countrys: ["thailand"],
+    poster: "https://iili.io/HDmU6Ip.md.webp",
+    href: "./movie-gpt/page/Friend Zone.html",
+    embed: "https://www.youtube.com/embed/LHzwwYcrKks",
+    synopsis:
+      "Many people in this world seem to be wandering along a relationship borderlining 'friends' and 'lovers'--a borderline commonly known as the FRIEND ZONE. A tricky area for those who cannot really stay friends with their close friends nor move forward to be their friends' lovers. Palm (Naphat Siangsomboon) has been stuck in the FRIEND ZONE with his best friend Gink (Pimchanok Luevisadpaibul) for 10 years. During high school he tried to cross the line by confessing his feelings for her, but she simply rejected him with 'being friends is good enough.' Since then, Palm and Gink have grown closer as true best friends. Every time Palm breaks up with one of his countless girlfriends, Gink will talk sense into him; every time Gink fights with her boyfriend Ted (Jason Young), no matter where she happens to be in Myanmar, Malaysia, or Hong Kong, she calls Palm, who uses his perks as a flight attendant to catch flights to be with her. Perhaps this excessive kindness makes Gink have a problem with Ted. One day, out of the blue, Gink asks Palm: 'Have you wondered--what if we were an item?' Right then, sparks fly wildly inside Palm's mind: this might be his only chance to cross the borderline. But he has no way of knowing if leaving the FRIEND ZONE this time will lead him to the beginning of his romantic love life or to the end of his friendship with Gink forever.",
+    duration: "1h 58m",
+  },
+  {
     title: "Frozen II",
     year: 2019,
     rating: 6.8,
@@ -6620,6 +6695,21 @@ const movies = [
     embed: "https://www.youtube.com/embed/J1JdWOqc9Q8",
     synopsis:
       "In 1905, a drifter on a dangerous mission to rescue his kidnapped sister tangles with a sinister religious cult on an isolated island.",
+    duration: "2h 10m",
+  },
+  {
+    title: "App War",
+    year: 2018,
+    rating: 6.9,
+    genre: "Comedy/Drama/Romance",
+    genres: ["comedy", "drama", "romance"],
+    country: "Thailand",
+    countrys: ["thailand "],
+    poster: "https://iili.io/HD0dBta.md.webp",
+    href: "./movie-gpt/page/App War.html",
+    embed: "https://www.youtube.com/embed/wm6pSWRzbgI",
+    synopsis:
+      "Bomb and June, two app startup founders, are leading each of their teams to get their mobile applications off the ground and running. They meet each other at their favorite hideaway dinner place completely by chance, only to find that they have a lot in common and enjoy very same passions. The night is so inspiring that Bomb and June, individually, create and launch their own applications, 'Inviter' and 'Amjoin,' with the very same idea to 'find people in common.' But when it comes to business, replicates mean competition. Bomb and June become rivals. The national Startup Thailand league is approaching, and they are struggling to win 100-million Thai baht prize. When the stakes are high, 'Inviter' and 'Amjoin' end up sending a spy sneaking in to the other team trying to gain the upper hand. But everything has its price to pay, as the plan gets out of control, and the relationship between the two are being jeopardized.",
     duration: "2h 10m",
   },
   {
@@ -8333,6 +8423,21 @@ const movies = [
     duration: "1h 27m",
   },
   {
+    title: "Cat a Wabb",
+    year: 2015,
+    rating: 6.2,
+    genre: "Comedy",
+    genres: ["comedy"],
+    country: "Thailand",
+    countrys: ["thailand "],
+    poster: "https://iili.io/HD0uYbf.md.webp",
+    href: "./movie-gpt/page/Cat a Wabb.html",
+    embed: "https://www.youtube.com/embed/tEifxTkBTjE",
+    synopsis:
+      "A young OJT girl and a young assistant director try to direct a cat to promotion comercial advertisement instant noodle.",
+    duration: "1h 49m",
+  },
+  {
     title: "Chappie",
     year: 2015,
     rating: 6.8,
@@ -9338,6 +9443,21 @@ const movies = [
     duration: "1h 35m",
   },
   {
+    title: "Cool Gel Attacks",
+    year: 2010,
+    rating: 5.3,
+    genre: "Comedy/Fantasy/Horror",
+    genres: ["comedy", "fantasy", "horror"],
+    country: "Thailand",
+    countrys: ["thailand"],
+    poster: "https://iili.io/HDmruDl.md.webp",
+    href: "./movie-gpt/page/Cool Gel Attacks.html",
+    embed: "https://www.youtube.com/embed/Z6KDXUM-ZRE",
+    synopsis:
+      "Two feuding neighbors have to put their differences aside to battle an invasion of alien parasites.",
+    duration: "1h 22m",
+  },
+  {
     title: "Scott Pilgrim vs. the World",
     year: 2010,
     rating: 7.5,
@@ -9366,6 +9486,21 @@ const movies = [
     synopsis:
       "Teddy Daniels and Chuck Aule, two US marshals, are sent to an asylum on a remote island in order to investigate the disappearance of a patient, where Teddy uncovers a shocking truth about the place.",
     duration: "2h 18m",
+  },
+  {
+    title: "The Little Comedian",
+    year: 2010,
+    rating: 6.8,
+    genre: "Comedy/Drama",
+    genres: ["comedy", "drama"],
+    country: "Thailand",
+    countrys: ["thailand"],
+    poster: "https://iili.io/HDm4aXp.md.webp",
+    href: "./movie-gpt/page/The Little Comedian.html",
+    embed: "https://www.youtube.com/embed/zLv2M-XYlGo",
+    synopsis:
+      "Tock, a 12 years old heir to a long line of comedians has a problem. He is not funny. Constantly upstage by his younger sister, he falls in love with a dermatologist who incidentally is the only one who finds him funny.",
+    duration: "2h 9m",
   },
   {
     title: "Crows Zero II",
