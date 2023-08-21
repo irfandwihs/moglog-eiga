@@ -120,6 +120,21 @@ const movies = [
     duration: "1h 27m",
   },
   {
+    title: "Cobweb",
+    year: 2023,
+    rating: 5.9,
+    genre: "Horror/Thriller",
+    genres: ["horror", "thriller"],
+    country: "USA",
+    countrys: ["usa"],
+    poster: "https://iili.io/HbAanpt.md.webp",
+    href: "./movie-gpt/page/Cobweb.html",
+    embed: "https://www.youtube.com/embed/GMBpu1L9JuU",
+    synopsis:
+      "An eight-year-old boy tries to investigate the mysterious knocking sounds that are coming from inside the walls of his house, unveiling a dark secret that his sinister parents have kept hidden from him.",
+    duration: "1h 28m",
+  },
+  {
     title: "Dungeons & Dragons: Honor Among Thieves",
     year: 2023,
     rating: 7.4,
@@ -133,6 +148,21 @@ const movies = [
     synopsis:
       "A charming thief and a band of unlikely adventurers embark on an epic quest to retrieve a lost relic, but things go dangerously awry when they run afoul of the wrong people.",
     duration: "2h 14m",
+  },
+  {
+    title: "Elemental",
+    year: 2023,
+    rating: 7.0,
+    genre: "Animation/Adventure/Comedy",
+    genres: ["animation", "adventure", "comedy"],
+    country: "USA",
+    countrys: ["usa"],
+    poster: "https://iili.io/HbAcMNt.md.webp",
+    href: "./movie-gpt/page/Elemental.html",
+    embed: "https://www.youtube.com/embed/hXzcyx9V0xw",
+    synopsis:
+      "Follows Ember and Wade, in a city where fire-, water-, land- and air-residents live together.",
+    duration: "1h 41m",
   },
   {
     title: "Evil Dead Rise",
@@ -373,6 +403,21 @@ const movies = [
     synopsis:
       "When a knight in a futuristic medieval world is framed for a crime he didn't commit, the only one who can help him prove his innocence is Nimona -- a mischievous teen who happens to be a shapeshifting creature he's sworn to destroy.",
     duration: "1h 41m",
+  },
+  {
+    title: "No Hard Feelings",
+    year: 2023,
+    rating: 6.5,
+    genre: "Comedy/Romance",
+    genres: ["comedy", "romance"],
+    country: "USA",
+    countrys: ["usa"],
+    poster: "https://iili.io/HpGTn0N.md.webp",
+    href: "./movie-gpt/page/No Hard Feelings.html",
+    embed: "https://www.youtube.com/embed/P15S6ND8kbQ",
+    synopsis:
+      "On the brink of losing her home, Maddie finds an intriguing job listing: helicopter parents looking for someone to bring their introverted 19-year-old son out of his shell before college. She has one summer to make him a man or die trying.",
+    duration: "1h 43m",
   },
   {
     title: "Operation Fortune: Ruse de guerre",
@@ -2293,6 +2338,21 @@ const movies = [
     duration: "1h 47m",
   },
   {
+    title: "The Mistress",
+    year: 2022,
+    rating: 4.4,
+    genre: "Horror/Thriller",
+    genres: ["horror", "thriller"],
+    country: "USA",
+    countrys: ["usa"],
+    poster: "https://iili.io/HpEVNi7.md.webp",
+    href: "./movie-gpt/page/The Mistress.html",
+    embed: "https://www.youtube.com/embed/RyYGA72qwsM",
+    synopsis:
+      "Newlyweds move into their dream home where they discover a collection of 100-year-old letters from a young woman who committed suicide after being abandoned by the owner of the home.",
+    duration: "1h 42m",
+  },
+  {
     title: "The Outfit",
     year: 2022,
     rating: 7.2,
@@ -2635,6 +2695,21 @@ const movies = [
     synopsis:
       "To save their cash-strapped orphanage, a guardian and his kids partner with a washed-up boat captain for a chance to win a lucrative fishing competition.",
     duration: "1h 35m",
+  },
+  {
+    title: "Boku no Hero Academia : World Heroes' Mission",
+    year: 2021,
+    rating: 7.1,
+    genre: "Animation/Action/Adventure",
+    genres: ["animation", "action", "adventure"],
+    country: "Japan",
+    countrys: ["japan"],
+    poster: "https://iili.io/HpaETqx.md.webp",
+    href: "./movie-gpt/page/World Heroes.html",
+    embed: "https://www.youtube.com/embed/HmlNHXZzSg8",
+    synopsis:
+      "When a cult of terrorists ruins a city by releasing a toxin that causes people's abilities to spiral out of control, Japan's greatest heroes spread around the world in an attempt to track down the mastermind and put him to justice.",
+    duration: "1h 44m",
   },
   {
     title: "Broadcast Signal Intrusion",
@@ -7733,6 +7808,21 @@ const movies = [
     duration: "1h 57m",
   },
   {
+    title: "Jumanji: Welcome to the Jungle",
+    year: 2017,
+    rating: 6.9,
+    genre: "Action/Adventure/Comedy",
+    genres: ["action", "adventure", "comedy"],
+    country: "USA",
+    countrys: ["usa"],
+    poster: "https://iili.io/HphqE5F.md.webp",
+    href: "./movie-gpt/page/Jumanji Welcome to the Jungle.html",
+    embed: "https://www.youtube.com/embed/2QKg5SZ_35I",
+    synopsis:
+      "A group of friends join a guide for a trek into the Bolivian jungle, searching for an Indian village. The men soon realize that the jungle is a difficult place to be.",
+    duration: "1h 59m",
+  },
+  {
     title: "Jungle",
     year: 2017,
     rating: 6.7,
@@ -7761,6 +7851,21 @@ const movies = [
     synopsis:
       "Based on the true life story of a young Marine corporal whose unique discipline and bond with her military combat dog saved many lives during their deployment in Iraq.",
     duration: "1h 56m",
+  },
+  {
+    title: "Net I Die",
+    year: 2017,
+    rating: 3.7,
+    genre: "Horror/Mystery/Thriller",
+    genres: ["horror", "mystery", "thriller"],
+    country: "Thailand",
+    countrys: ["thailand"],
+    poster: "https://iili.io/HpWyqUx.md.webp",
+    href: "./movie-gpt/page/Net I Die.html",
+    embed: "https://www.youtube.com/embed/nEpVcqeKQ0Q",
+    synopsis:
+      "Monica, a big internet celebrity (aka idol) hangs herself live on her video channel. A year later idols start dying in horribly. All were tagged in Monica's last video, including Sa, a former idol-turned-beauty entrepreneur. Sa's boyfriend Jak investigates. All clues point to Sa's new facial cream.",
+    duration: "1h 25m",
   },
   {
     title: "Our Shining Days",
