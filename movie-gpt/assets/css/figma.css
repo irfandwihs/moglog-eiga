@@ -1,0 +1,218 @@
+.frame-1,
+.frame-1 * {
+  box-sizing: border-box;
+}
+.frame-1 {
+  background: #12192a;
+  width: 1920px;
+  height: 1630px;
+  position: relative;
+  overflow: hidden;
+}
+.frame-2 {
+  background: #12192a;
+  width: 1320px;
+  height: 1630px;
+  position: absolute;
+  left: 300px;
+  top: 0px;
+  overflow: hidden;
+}
+.rectangle-1 {
+  background: #12192a;
+  width: 1320px;
+  height: 80px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.group-1 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-2 {
+  background: #d9d9d9;
+  border-radius: 40px;
+  width: 1200px;
+  height: 481px;
+  position: absolute;
+  left: 60px;
+  top: 158px;
+}
+.image-2 {
+  width: 1185px;
+  height: 582px;
+  position: absolute;
+  left: 51px;
+  top: 107px;
+}
+.rectangle-3 {
+  background: #15252f;
+  border-radius: 20px;
+  width: 557px;
+  height: 142px;
+  position: absolute;
+  left: 141px;
+  top: 568px;
+}
+.rectangle-4 {
+  border-radius: 20px;
+  width: 519px;
+  height: 718px;
+  position: absolute;
+  left: 141px;
+  top: 793px;
+}
+.movie-gpt {
+  color: #abdceb;
+  text-align: left;
+  font: 500 12px "Inter", sans-serif;
+  position: absolute;
+  left: 180px;
+  top: 609px;
+}
+.black-berry {
+  color: #ffffff;
+  text-align: left;
+  font: 500 32px "Inter", sans-serif;
+  position: absolute;
+  left: 180px;
+  top: 633px;
+}
+. {
+  color: #abdceb;
+  text-align: left;
+  font: 500 12px "Inter", sans-serif;
+  position: absolute;
+  left: 250px;
+  top: 609px;
+}
+.detail-page {
+  color: #abdceb;
+  text-align: left;
+  font: 500 12px "Inter", sans-serif;
+  position: absolute;
+  left: 265px;
+  top: 609px;
+}
+.synopsis {
+  color: #ebeef5;
+  text-align: left;
+  font: 500 24px "Inter", sans-serif;
+  position: absolute;
+  left: 741px;
+  top: 793px;
+}
+.the-story-of-the-meteoric-rise-and-catastrophic-demise-of-the-world-s-first-smartphone {
+  color: #767d94;
+  text-align: left;
+  font: 500 16px "Inter", sans-serif;
+  position: absolute;
+  left: 741px;
+  top: 850px;
+  width: 437px;
+}
+.genres {
+  color: #6a7188;
+  text-align: left;
+  font: 500 16px "Inter", sans-serif;
+  position: absolute;
+  left: 741px;
+  top: 1050px;
+}
+.year {
+  color: #6a7188;
+  text-align: left;
+  font: 500 16px "Inter", sans-serif;
+  position: absolute;
+  left: 741px;
+  top: 1130px;
+}
+.rating {
+  color: #6a7188;
+  text-align: left;
+  font: 500 16px "Inter", sans-serif;
+  position: absolute;
+  left: 960px;
+  top: 1130px;
+}
+.duration {
+  color: #6a7188;
+  text-align: left;
+  font: 500 16px "Inter", sans-serif;
+  position: absolute;
+  left: 741px;
+  top: 1210px;
+}
+.country {
+  color: #6a7188;
+  text-align: left;
+  font: 500 16px "Inter", sans-serif;
+  position: absolute;
+  left: 960px;
+  top: 1210px;
+}
+.biography-comedy-drama {
+  color: #c3c8d4;
+  text-align: left;
+  font: 500 24px "Inter", sans-serif;
+  position: absolute;
+  left: 741px;
+  top: 1079px;
+}
+._2023 {
+  color: #c3c8d4;
+  text-align: left;
+  font: 500 24px "Inter", sans-serif;
+  position: absolute;
+  left: 741px;
+  top: 1159px;
+}
+._7-4 {
+  color: #c3c8d4;
+  text-align: left;
+  font: 500 24px "Inter", sans-serif;
+  position: absolute;
+  left: 960px;
+  top: 1159px;
+}
+._2-h {
+  color: #c3c8d4;
+  text-align: left;
+  font: 500 24px "Inter", sans-serif;
+  position: absolute;
+  left: 741px;
+  top: 1239px;
+}
+.usa {
+  color: #c3c8d4;
+  text-align: left;
+  font: 500 24px "Inter", sans-serif;
+  position: absolute;
+  left: 960px;
+  top: 1239px;
+}
+.home {
+  color: #767d94;
+  text-align: left;
+  font: 500 16px "Inter", sans-serif;
+  position: absolute;
+  left: 1126px;
+  top: 30px;
+}
+.rectangle-5 {
+  background: #504640;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  left: 60px;
+  top: 21px;
+}
+.series {
+  color: #767d94;
+  text-align: left;
+  font: 500 16px "Inter", sans-serif;
+  position: absolute;
+  left: 1212px;
+  top: 30px;
+}
