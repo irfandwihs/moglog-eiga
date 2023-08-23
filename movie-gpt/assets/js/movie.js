@@ -8,7 +8,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZowUJ4.md.webp",
-    href: "./movie-gpt/page/Acidman.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/7VGcHgVnOw4",
     synopsis:
       "Maggie tracks down her estranged and reclusive father Lloyd; together they attempt to make first contact.",
@@ -23,7 +23,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZoOoaj.md.webp",
-    href: "./movie-gpt/page/Assasin.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/TtM7Jn2jvDs",
     synopsis:
       "A man dies as part of an experimental military program. A former black-ops soldier takes his place to find who killed him.",
@@ -38,7 +38,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZoepe4.md.webp",
-    href: "./movie-gpt/page/Blackberry.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/cXL_HDzBQsM",
     synopsis:
       "The story of the meteoric rise and catastrophic demise of the world's first smartphone.",
@@ -53,7 +53,7 @@ const movies = [
     country: "German",
     countrys: ["german"],
     poster: "https://iili.io/HZR5yk7.md.webp",
-    href: "./movie-gpt/page/Blood Gold.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/eDsrUYd2VbE",
     synopsis:
       "At the end of World War II, a German soldier is looking for his daughter while an SS troop is looking for a Jewish treasure.",
@@ -68,7 +68,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZR7B2V.md.webp",
-    href: "./movie-gpt/page/Breakout.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/JhJ7yo6yPOo",
     synopsis:
       "Having taken control of a maximum security prison, a criminal mastermind faces off against a retired Black Ops agent who had been visiting his incarcerated son.",
@@ -83,7 +83,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HDmeejt.md.webp",
-    href: "./movie-gpt/page/Cabin Girl.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/ENf3bIh25NI",
     synopsis:
       "Follows 24-year-old Ava Robbins, who moves into an isolated cabin, but what seemed as a dream come true soon turns into a living nightmare when Ava's interest in the supernatural triggers a series of weird events.",
@@ -98,7 +98,7 @@ const movies = [
     country: "Japan",
     countrys: ["japan"],
     poster: "https://iili.io/HZigtXp.md.webp",
-    href: "./movie-gpt/page/Call Me Chihiro.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/_X7xl1_C3c8",
     synopsis:
       "Chihiro works at a small beachside bento shop, Nokonoko Bento, and becomes a popular figure in the city.",
@@ -113,7 +113,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZR7r6x.md.webp",
-    href: "./movie-gpt/page/Clock.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/dsmuf95eshk",
     synopsis:
       "A woman enrolls in a clinical trial to try and fix her seemingly broken biological clock after friends, family, and society pressures her to have children.",
@@ -128,7 +128,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HbAanpt.md.webp",
-    href: "./movie-gpt/page/Cobweb.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/GMBpu1L9JuU",
     synopsis:
       "An eight-year-old boy tries to investigate the mysterious knocking sounds that are coming from inside the walls of his house, unveiling a dark secret that his sinister parents have kept hidden from him.",
@@ -143,7 +143,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZRY0cQ.md.webp",
-    href: "./movie-gpt/page/Dungeon.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/IiMinixSXII",
     synopsis:
       "A charming thief and a band of unlikely adventurers embark on an epic quest to retrieve a lost relic, but things go dangerously awry when they run afoul of the wrong people.",
@@ -158,7 +158,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HbAcMNt.md.webp",
-    href: "./movie-gpt/page/Elemental.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/hXzcyx9V0xw",
     synopsis:
       "Follows Ember and Wade, in a city where fire-, water-, land- and air-residents live together.",
@@ -173,7 +173,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZRltJR.md.webp",
-    href: "./movie-gpt/page/Evil Dead Rise.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/BqQNO7BzN08",
     synopsis:
       "A twisted tale of two estranged sisters whose reunion is cut short by the rise of flesh-possessing demons, thrusting them into a primal battle for survival as they face the most nightmarish version of family imaginable.",
@@ -188,7 +188,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZR1nvR.md.webp",
-    href: "./movie-gpt/page/Extraction 2.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/Y274jZs5s7s",
     synopsis:
       "After barely surviving his grievous wounds from his mission in Dhaka, Bangladesh, Tyler Rake is back, and his team is ready to take on their next mission.",
@@ -203,7 +203,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZRVGHb.md.webp",
-    href: "./movie-gpt/page/Fast X.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/eoOaKN4qCKw",
     synopsis:
       "Dom Toretto and his family are targeted by the vengeful son of drug kingpin Hernan Reyes.",
@@ -218,7 +218,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/Hpe6TvV.md.webp",
-    href: "./movie-gpt/page/Heart of Stone.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/rOVn9OkeIZY",
     synopsis:
       "An intelligence operative for a shadowy global peacekeeping agency races to stop a hacker from stealing its most valuable and dangerous weapon.",
@@ -233,7 +233,7 @@ const movies = [
     country: "Thailand",
     countrys: ["thailand"],
     poster: "https://iili.io/HZRVPsI.md.webp",
-    href: "./movie-gpt/page/Home for Rent.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/db8puvbOhQw",
     synopsis:
       "A film inspired by terrifying true events. When the tenants are members of a dark cult, they terrorize the homeowner, looking for their next prey to sacrifice.",
@@ -248,7 +248,7 @@ const movies = [
     country: "Thailand",
     countrys: ["thailand"],
     poster: "https://iili.io/HvMvuHl.md.webp",
-    href: "./movie-gpt/page/Hunger.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/h61PbLOmyY0",
     synopsis:
       "A woman running her family's noodle restaurant receives an invitation to join the fine-dining industry under the tutelage of an infamous chef.",
@@ -263,7 +263,7 @@ const movies = [
     country: "Inggris",
     countrys: ["inggris"],
     poster: "https://iili.io/H8IPLuI.md.webp",
-    href: "./movie-gpt/page/Inside.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/DjODCllZj4w",
     synopsis:
       "Nemo, a high-end art thief, is trapped in a New York penthouse after his heist doesn't go as planned. Locked inside withnothing but priceless works of art, he must use all his cunningand ingenuity to survive.",
@@ -278,7 +278,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZ4mFHP.md.webp",
-    href: "./movie-gpt/page/Insidious The Red Door.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/ZuQuOnYnr3Q",
     synopsis:
       "The Lamberts must go deeper into The Further than ever before to put their demons to rest once and for all.",
@@ -293,7 +293,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZReFnf.md.webp",
-    href: "./movie-gpt/page/John Wick Chapter 4.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/qEVUtrk8_B4",
     synopsis:
       "John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes.",
@@ -308,7 +308,7 @@ const movies = [
     country: "Korea",
     countrys: ["korea"],
     poster: "https://iili.io/H8IivHl.md.webp",
-    href: "./movie-gpt/page/Kill Boksoon.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/70e5RjgkHjU",
     synopsis:
       "A single mother who is a renowned hired killer finds it difficult to achieve a balance between her personal and work life.",
@@ -323,7 +323,7 @@ const movies = [
     country: "Korea",
     countrys: ["korea"],
     poster: "https://iili.io/HZReNSI.md.webp",
-    href: "./movie-gpt/page/Marui Video.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/Wc77WAQuNsY",
     synopsis:
       "The video evidence of the murder, which is especially brutal and graphic that shouldn't release to the public. A reporter who has access to the prosecutor's office hears about a cursed tape in the video archive and begins reporting on it.",
@@ -338,7 +338,7 @@ const movies = [
     country: "Ukraina",
     countrys: ["ukraina"],
     poster: "https://iili.io/HZReiSS.md.webp",
-    href: "./movie-gpt/page/Mavka The Forest Song.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/GXaMT5pX12w",
     synopsis:
       "Mavka must choose between love and duty to protect the Heart of the Forest.",
@@ -353,7 +353,7 @@ const movies = [
     country: "Vietnam",
     countrys: ["vietnam"],
     poster: "https://iili.io/HZRkHlV.md.webp",
-    href: "./movie-gpt/page/Missed Connections.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/Rwoe1BKrME4",
     synopsis:
       "After an unforgettable encounter, a hopeless romantic turns to an app to seek out a man she just met - but is he really what she's looking for?",
@@ -368,7 +368,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZRksqv.md.webp",
-    href: "./movie-gpt/page/Missing.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/seBixtcx19E",
     synopsis:
       "After her mother goes missing, a young woman tries to find her from home, using tools available to her online.",
@@ -383,7 +383,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HDaUuMQ.md.webp",
-    href: "./movie-gpt/page/Mother May I.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/1vmDCpuBj_0",
     synopsis:
       "When Anya starts behaving like her fiancée's recently-deceased mother, Emmett must confront his deepest traumas to free his fiancee from this bewildering possession.",
@@ -398,7 +398,7 @@ const movies = [
     country: "Spanyol",
     countrys: ["spanyol"],
     poster: "https://iili.io/HZRkyIn.md.webp",
-    href: "./movie-gpt/page/My Fault.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/PaB7cGBuCP0",
     synopsis:
       "Noah has to leave her town, boyfriend and friends behind and move into the mansion of her mother's new rich husband. There she meets Nick, her new stepbrother. They fall madly in love in secret.",
@@ -413,7 +413,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZRvqk7.md.webp",
-    href: "./movie-gpt/page/Nimona.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/f_fuHRyQbOc",
     synopsis:
       "When a knight in a futuristic medieval world is framed for a crime he didn't commit, the only one who can help him prove his innocence is Nimona -- a mischievous teen who happens to be a shapeshifting creature he's sworn to destroy.",
@@ -428,7 +428,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HpGTn0N.md.webp",
-    href: "./movie-gpt/page/No Hard Feelings.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/P15S6ND8kbQ",
     synopsis:
       "On the brink of losing her home, Maddie finds an intriguing job listing: helicopter parents looking for someone to bring their introverted 19-year-old son out of his shell before college. She has one summer to make him a man or die trying.",
@@ -443,7 +443,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/H8IQTAl.md.webp",
-    href: "./movie-gpt/page/Operation Fortune.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/WdZ-BWWQcWQ",
     synopsis:
       "Special agent Orson Fortune and his team of operatives recruit one of Hollywood's biggest movie stars to help them on an undercover mission when the sale of a deadly new weapons technology threatens to disrupt the world order.",
@@ -458,7 +458,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZDBklf.md.webp",
-    href: "./movie-gpt/page/Plane.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/M25zXBIUVr0",
     synopsis:
       "A pilot finds himself caught in a war zone after he's forced to land his commercial aircraft during a terrible storm.",
@@ -473,7 +473,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HtFeAle.md.webp",
-    href: "./movie-gpt/page/Poisoned The Dirty Truth About Your Food.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/YZcyMgdWmPg",
     synopsis:
       "A call to action for the officials who have the power to mitigate the danger caused by foodborne pathogens that kill thousands of people in the U.S. every year.",
@@ -488,7 +488,7 @@ const movies = [
     country: "Korea",
     countrys: ["korea"],
     poster: "https://iili.io/HZRvra2.md.webp",
-    href: "./movie-gpt/page/Rebound.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/FCUq-dF0uEI",
     synopsis:
       "This true story retells the incredible tale of the 2012 National High School Basketball Championship, in which a new coach and six players from the weakest basketball team ran nonstop for eight days.",
@@ -503,7 +503,7 @@ const movies = [
     country: "Japan",
     countrys: ["japan"],
     poster: "https://iili.io/HZs2brF.md.webp",
-    href: "./movie-gpt/page/Resident Evil Death Island.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/L-vkuA8oqMY",
     synopsis:
       "A t-virus outbreak in San Francisco leads to Alcatraz Island, where a new evil has taken residence.",
@@ -518,7 +518,7 @@ const movies = [
     country: "Cina",
     countrys: ["cina"],
     poster: "https://iili.io/HZRvpaV.md.webp",
-    href: "./movie-gpt/page/Ride On.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/NvjVFDMIbus",
     synopsis:
       "A washed-up stuntman and his stunt horse become an overnight social media sensation when their real-life fight with debt collectors goes viral.",
@@ -533,7 +533,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/Ht2NJ5l.md.webp",
-    href: "./movie-gpt/page/River Wild.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/z_HUm8JZlVs",
     synopsis:
       "Follows a pair of siblings who love but distrust each other as they embark on a white-water rafting trip with a small group. One of their friends from childhood turns out to be more dangerous than he appears.",
@@ -548,7 +548,7 @@ const movies = [
     country: "Korea",
     countrys: ["korea"],
     poster: "https://iili.io/HZR8f6v.md.webp",
-    href: "./movie-gpt/page/Soulmate.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/SA_zL3XxhJY",
     synopsis:
       "'Hello, My Soulmate' is a coming-of-age story where two friends first meet at 11 years old and spend the course of 14 years remaining close and sharing experiences in both friendship and romance.",
@@ -563,7 +563,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZs3f1t.md.webp",
-    href: "./movie-gpt/page/SpongeBob SquarePants Presents the Tidal Zone.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/d47DhIDYEJU",
     synopsis:
       "GrandPat travels through alternate dimensions and timelines to get home.",
@@ -578,7 +578,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/H8cpgSf.md.webp",
-    href: "./movie-gpt/page/Supercell.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/6509bINfvQg",
     synopsis:
       "A teenage boy runs away to follow his fathers footsteps, legendary storm chaser Bill Brody.",
@@ -593,7 +593,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/H8lHEP9.md.webp",
-    href: "./movie-gpt/page/Tetris.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/-BLM1naCfME",
     synopsis:
       "The story of how one of the world's most popular video games found its way to players around the globe. Businessman Henk Rogers and Tetris inventor Alexey Pajitnov join forces in the USSR, risking it all to bring Tetris to the masses.",
@@ -608,7 +608,7 @@ const movies = [
     country: "Korea",
     countrys: ["korea"],
     poster: "https://iili.io/HDmjget.md.webp",
-    href: "./movie-gpt/page/The Childe.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/B_uThkfbPZQ",
     synopsis:
       "'The Childe' will focus on a man born to a Korean father and a Filipino mother who aspires to be a boxer. He travels to the Philippines in the hopes of tracking down his father, and in the process, he gets mixed up with some bad people.",
@@ -623,7 +623,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZxvzej.md.webp",
-    href: "./movie-gpt/page/The Covenant.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/02PPMPArNEQ",
     synopsis:
       "During the war in Afghanistan, a local interpreter risks his own life to carry an injured sergeant across miles of grueling terrain.",
@@ -638,7 +638,7 @@ const movies = [
     country: "Inggris",
     countrys: ["inggris"],
     poster: "https://iili.io/HZiUjNR.md.webp",
-    href: "./movie-gpt/page/The Deepest Breath.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/MzH6BI6P4Uo",
     synopsis:
       "A champion and expert safety diver seemed destined for one another. Despite different paths taken, they meet at the pinnacle of the free-diving world, experiencing the thrilling rewards and inescapable risks of chasing dreams through the depths of the ocean.",
@@ -653,7 +653,7 @@ const movies = [
     country: "Thailand",
     countrys: ["thailand"],
     poster: "https://iili.io/HDmO5bt.md.webp",
-    href: "./movie-gpt/page/The Murderer.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/NQLGc1RTDdU",
     synopsis:
       "When an English man is accused of murdering his Thai in-laws, his wife is the only witness that stands between guilt and freedom.",
@@ -668,7 +668,7 @@ const movies = [
     country: "Korea",
     countrys: ["korea"],
     poster: "https://iili.io/HZxknNR.md.webp",
-    href: "./movie-gpt/page/The Roundup No.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/kp3i36qPPVg",
     synopsis:
       "Seven years after the roundup in Vietnam, Ma Seok-do joins a new squad to investigate a murder case. He soon starts to dig deeper when he finds out the case involves a synthetic drug and a gang of thugs.",
@@ -683,7 +683,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZxOdbV.md.webp",
-    href: "./movie-gpt/page/Super Mario.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/TnGl01FkMMo",
     synopsis:
       "The story of The Super Mario Bros. on their journey through the Mushroom Kingdom.",
@@ -698,7 +698,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZxOyBt.md.webp",
-    href: "./movie-gpt/page/The Tank.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/23GmhsmrCIo",
     synopsis:
       "After mysteriously inheriting an abandoned coastal property, Ben and his family accidentally unleash an ancient, long-dormant creature that terrorized the entire region-including his own ancestors-for generations.",
@@ -713,7 +713,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZo6K5F.md.webp",
-    href: "./movie-gpt/page/To End All War.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/fnEOGMMLHCQ",
     synopsis:
       "Exploring how one man's brilliance, hubris and relentless drive changed the nature of war forever.",
@@ -728,7 +728,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZictWB.md.webp",
-    href: "./movie-gpt/page/Transformers Rise of the Beasts.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/itnqEauWQZM",
     synopsis:
       "During the '90s, a new faction of Transformers - the Maximals - join the Autobots as allies in the battle for Earth.",
@@ -743,7 +743,7 @@ const movies = [
     country: "Korea",
     countrys: ["korea"],
     poster: "https://iili.io/H8ld5hl.md.webp",
-    href: "./movie-gpt/page/Unlocked.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/WcfbeGoNUqo",
     synopsis:
       "A woman's life is turned upside-down when a dangerous man gets a hold of her lost cell phone and uses it to track her every move.",
@@ -758,7 +758,7 @@ const movies = [
     country: "Indonesia",
     countrys: ["indonesia"],
     poster: "https://iili.io/HDADNEv.md.webp",
-    href: "./movie-gpt/page/Waktu Maghrib.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/x3AtcxZIX2M",
     synopsis:
       "In a village there is a girl who says goodbye to the mosque to pray maghrib to her father.",
@@ -773,7 +773,7 @@ const movies = [
     country: "Thailand",
     countrys: ["thailand"],
     poster: "https://iili.io/HZoSKrX.md.webp",
-    href: "./movie-gpt/page/You Me Me.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/OYBMpJ5qW-w",
     synopsis:
       "A nostalgic, coming-of-age story of identical twin sisters who share every aspect of their lives with one another, until one day a boy walks into their lives and puts their strong bond to the test.",
@@ -788,7 +788,7 @@ const movies = [
     country: "Japan",
     countrys: ["japan"],
     poster: "https://iili.io/HDoYYB4.md.webp",
-    href: "./movie-gpt/page/Zom 100 Bucket List of the Dead.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/zKvLB-N2RdA",
     synopsis:
       "Bullied by his boss, worked around the clock, he's nothing more than a corporate drone. All it takes is a zombie outbreak for him to finally feel alive.",
@@ -803,7 +803,7 @@ const movies = [
     country: "Korea",
     countrys: ["korea"],
     poster: "https://iili.io/psuX9f.md.webp",
-    href: "./movie-gpt/page/6-45.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/L6vay7MfajQ",
     synopsis:
       "A comical encounter between South and North Korean soldiers over the 5.7 billions won lottery that crossed the military demarcation line on the wind",
@@ -818,7 +818,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/pDF5sn.md.webp",
-    href: "./movie-gpt/page/11th Hour Cleaning.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/QVF-QzS4SpY",
     synopsis:
       "A group of crime scene cleaners struggle to escape a murder house after becoming trapped by an ancient Nordic demon that is hell-bent on driving them insane.",
@@ -833,7 +833,7 @@ const movies = [
     country: "Korea",
     countrys: ["korea"],
     poster: "https://iili.io/pDYi5N.md.webp",
-    href: "./movie-gpt/page/20th Century Girl.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/KFS4_qevE7M",
     synopsis:
       "In 1999, a teen with a heart of gold begins keeping close tabs on a popular classmate as a favor to her smitten best friend.",
@@ -848,7 +848,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZD9HmJ.md.webp",
-    href: "./movie-gpt/page/Otto.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/eFYUX9l-m5I",
     synopsis:
       "Otto is a grump who's given up on life following the loss of his wife and wants to end it all. When a young family moves in nearby, he meets his match in quick-witted Marisol, leading to a friendship that will turn his world around.",
@@ -863,7 +863,7 @@ const movies = [
     country: "German",
     countrys: ["german"],
     poster: "https://iili.io/pDECjf.md.webp",
-    href: "./movie-gpt/page/All Quiet on the Western Front.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/hf8EYbVxtCY",
     synopsis:
       "A young German soldier's terrifying experiences and distress on the western front during World War I.",
@@ -878,7 +878,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/pDMf9f.md.webp",
-    href: "./movie-gpt/page/Among the Living.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/BMjwPPJpx78",
     synopsis:
       "Stranded in the aftermath of a deadly outbreak, a brother fights to protect his sister while he desperately searches to find refuge and avoid an infected population with a thirst for blood.",
@@ -893,7 +893,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/yj2FS4.md.webp",
-    href: "./movie-gpt/page/Apollo 10 A Space Age Childhood.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/Dzuz5s_Qk-A",
     synopsis:
       "A coming-of-age story set in the suburbs of Houston, Texas in the summer of 1969, centered around the historic Apollo 11 moon landing.",
@@ -908,7 +908,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZDH6ox.md.webp",
-    href: "./movie-gpt/page/Avatar The Way of Water.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/d9MyW72ELq0",
     synopsis:
       "Jake Sully lives with his newfound family formed on the extrasolar moon Pandora. Once a familiar threat returns to finish what was previously started, Jake must work with Neytiri and the army of the Na'vi race to protect their home.",
@@ -923,7 +923,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/H9zUbls.md.webp",
-    href: "./movie-gpt/page/Bandit.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/sSjYZXVXiaM",
     synopsis:
       "After escaping a Michigan prison, a charming career criminal assumes a new identity in Canada and goes on to rob a record 59 banks and jewellery stores while being hunted by a police task force. Based on the story of The Flying Bandit.",
@@ -938,7 +938,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZDMmep.md.webp",
-    href: "./movie-gpt/page/Bar Fight.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/9b_0AYw5Mb8",
     synopsis:
       "Nina and Allen split everything in their lives after their break-up and must compete in a ridiculous custody battle for their prized watering hole in which lines will be drawn, sides will be chosen, and beers will be drunken.",
@@ -953,7 +953,7 @@ const movies = [
     country: "Cina",
     countrys: ["cina"],
     poster: "https://iili.io/pDdUzX.md.webp",
-    href: "./movie-gpt/page/Blind War.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/C6wGsr2uJj4",
     synopsis:
       "The film tells the story of the former SWAT captain Dong Gu, permanently injured during a failed mission for which he took responsibility. After gradually getting out of the haze, his old enemy reappeared and threat his daughter.",
@@ -968,7 +968,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/pDuIee.md.webp",
-    href: "./movie-gpt/page/Bodies Bodies Bodies.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/cTzGKsZjBOY",
     synopsis:
       "When a group of rich 20-somethings plan a hurricane party at a remote family mansion, a party game turns deadly in this fresh and funny look at backstabbing, fake friends, and one party gone very, very wrong.",
@@ -983,7 +983,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZxHfx2.md.webp",
-    href: "./movie-gpt/page/Bone.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/0Nu7Z9AxGNg",
     synopsis:
       "Maren, a young woman, learns how to survive on the margins of society.",
@@ -998,7 +998,7 @@ const movies = [
     country: "Japan",
     countrys: ["japan"],
     poster: "https://iili.io/yjoAg9.md.webp",
-    href: "./movie-gpt/page/Bubble.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/8pbWblLkHHk",
     synopsis:
       "After bubbles that broke the laws of gravity rained down upon the world. Cut off from the outside world, Tokyo has become a playground for a group of young people who have lost their families.",
@@ -1013,7 +1013,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/pD40Fa.md.webp",
-    href: "./movie-gpt/page/Bullet Train.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/0IOsk2Vlc4o",
     synopsis:
       "Five assassins aboard a swiftly-moving bullet train find out that their missions have something in common.",
@@ -1028,7 +1028,7 @@ const movies = [
     country: "Indonesia",
     countrys: ["indonesia"],
     poster: "https://iili.io/HZDXU7f.md.webp",
-    href: "./movie-gpt/page/Cek Toko Sebelah 2.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/lq5HdGdvVm4",
     synopsis:
       "In this sequel to the hit comedy drama, Erwin and Natalie must navigate a series of challenges after they decide to get married.",
@@ -1043,7 +1043,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/H9AMszg.md.webp",
-    href: "./movie-gpt/page/Chip n Dale Rescue Rangers.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/F4Z0GHWHe60",
     synopsis:
       "Thirty years after their popular television show ended, chipmunks Chip and Dale live very different lives. When a cast member from the original series mysteriously disappears, the pair must reunite to save their friend.",
@@ -1058,7 +1058,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZoDllj.md.webp",
-    href: "./movie-gpt/page/Come.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/j2J0TOnD_UY",
     synopsis:
       "Set during World War 2, a squad of American Army soldiers are sent on a mission behind lines to locate their missing commanding officer.",
@@ -1073,7 +1073,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/yc1G3X.md.webp",
-    href: "./movie-gpt/page/Cosmic Dawn.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/fgHlAYFGCY0",
     synopsis:
       "After witnessing the alien abduction of her mother as a child, Aurora joins the UFO cult The Cosmic Dawn. Now moved on from the cult, Aurora is forced to confront her past and pursue the ultimate truth about The Cosmic Dawn.",
@@ -1088,7 +1088,7 @@ const movies = [
     country: "Thailand",
     countrys: ["thailand"],
     poster: "https://iili.io/pDiH3g.md.webp",
-    href: "./movie-gpt/page/Daeng Phra Khanong.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/IQHGEq4pC-E",
     synopsis:
       "The legend of Mae Nak Prakanong, about a female spirit in the era of King Rama V, is well known but not much is known about her unborn son Dang. He is the spirit of a child who wants nothing more than to befriend humans.",
@@ -1103,7 +1103,7 @@ const movies = [
     country: "Korea",
     countrys: ["korea"],
     poster: "https://iili.io/HDCdvG2.md.webp",
-    href: "./movie-gpt/page/Decibel.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/UmgVsK6cQuc",
     synopsis:
       "The story unfolds when a bomb that responds to sound is discovered at the center of the city.",
@@ -1118,7 +1118,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/Hxozc7I.md.webp",
-    href: "./movie-gpt/page/Do Revenge.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/rK-JQU_bShc",
     synopsis: "Drea and Eleanor agree to go after one another's bullies.",
     duration: "1h 58m",
@@ -1132,7 +1132,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HJwtCB4.md.webp",
-    href: "./movie-gpt/page/Dont Worry Darling.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/FgmnKsED-jU",
     synopsis:
       "A 1950s housewife living with her husband in a utopian experimental community begins to worry that his glamorous company could be hiding disturbing secrets.",
@@ -1147,7 +1147,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/pDI6wG.md.webp",
-    href: "./movie-gpt/page/Downfall - The Case Against Boeing.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/vt-IJkUbAxY",
     synopsis:
       "Examining the months since the tragedies, which caused global panic in March 2019 after two new aircrafts crashed within five months, killing 346 people.",
@@ -1162,7 +1162,7 @@ const movies = [
     country: "Japan",
     countrys: ["japan"],
     poster: "https://iili.io/pDUZSR.md.webp",
-    href: "./movie-gpt/page/Drifting Home.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/BSE2KGU5png",
     synopsis:
       "Follows two childhood friends who drift into a mysterious sea with an entire housing complex.",
@@ -1177,7 +1177,7 @@ const movies = [
     country: "Korea",
     countrys: ["korea"],
     poster: "https://iili.io/pbKefe.md.webp",
-    href: "./movie-gpt/page/Emergency Declaration.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/askalDtGepk",
     synopsis:
       "fter a terror incident occurs mid-flight, a passenger jet declares an emergency.",
@@ -1192,7 +1192,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/pbTf2I.md.webp",
-    href: "./movie-gpt/page/Emily the Criminal.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/Xzf1YCEkLDI",
     synopsis:
       "Down on her luck and saddled with debt, Emily gets involved in a credit card scam that pulls her into the criminal underworld of Los Angeles, ultimately leading to deadly consequences.",
@@ -1207,7 +1207,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/pbEi9j.md.webp",
-    href: "./movie-gpt/page/Enola Holmes 2.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/KKXNmYoPkx0",
     synopsis:
       "Fresh off the triumph of solving her first case, Enola Holmes (Millie Bobby Brown) follows in the footsteps of her famous brother, Sherlock (Henry Cavill), and opens her own agency - only to find that life as a female detective-for-hire isn't as easy as it seems. Resigned to accepting the cold realities of adulthood, she is about to close shop when a penniless matchstick girl offers Enola her first official job: to find her missing sister. But this case proves to be far more puzzling than expected, as Enola is thrown into a dangerous new world - from London's sinister factories and colorful music halls, to the highest echelons of society and 221B Baker Street itself. As the sparks of a deadly conspiracy ignite, Enola must call upon the help of friends - and Sherlock himself - to unravel her mystery. The game, it seems, has found its feet again.",
@@ -1222,7 +1222,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/pD8ulR.md.webp",
-    href: "./movie-gpt/page/Everything Everywhere All at Once.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/wxN1T1uxQ2g",
     synopsis:
       "A middle-aged Chinese immigrant is swept up into an insane adventure in which she alone can save existence by exploring other universes and connecting with the lives she could have led.",
@@ -1237,7 +1237,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/pb9nYN.md.webp",
-    href: "./movie-gpt/page/Fall.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/iSspRSGc4Dk",
     synopsis:
       "Best friends Becky and Hunter find themselves at the top of a 2,000-foot radio tower.",
@@ -1252,7 +1252,7 @@ const movies = [
     country: "Thailand",
     countrys: ["thailand"],
     poster: "https://iili.io/pbUtkl.md.webp",
-    href: "./movie-gpt/page/Fast - Feel Love.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/pg_Ij-3YySM",
     synopsis:
       "When a world champion of sport stacking is dumped by his long-time girlfriend, he has to learn basic adulting skills in order to live alone and take care of himself.",
@@ -1267,7 +1267,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/yjAXdN.md.webp",
-    href: "./movie-gpt/page/Fireheart.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/ZUy_ygJSIag",
     synopsis:
       "Sixteen-year-old Georgia Nolan dreams of being the world's first-ever female firefighter. When a mysterious arsonist starts burning down Broadway, New York's firemen begin vanishing.",
@@ -1282,7 +1282,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/VKDa6X.md.webp",
-    href: "./movie-gpt/page/Fresh.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/wKk5VAK1GZQ",
     synopsis:
       "FRESH follows Noa (Daisy Edgar-Jones), who meets the alluring Steve (Sebastian Stan) at a grocery store and - given her frustration with dating apps - takes a chance and gives him her number.",
@@ -1297,7 +1297,7 @@ const movies = [
     country: "Indonesia",
     countrys: ["indonesia"],
     poster: "https://iili.io/HCDqg3l.md.webp",
-    href: "./movie-gpt/page/Gara Gara Warisan.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/bgrJaKR9w-A",
     synopsis:
       "A dying widower gathers his kids to decide who will receive his inheritance. Past secrets are revealed until one is chosen to inherit everything.",
@@ -1312,7 +1312,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HfdE40Q.md.webp",
-    href: "./movie-gpt/page/Ghislaine Maxwell Filthy Rich.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/q4-TlylMKh4",
     synopsis:
       "From filmmakers of Jeffrey Epstein: Filthy Rich, this film goes beyond the headlines of the Ghislaine Maxwell case to tell the story of Epstein's mystery accomplice, illuminating how her class and privilege concealed her predatory nature.",
@@ -1327,7 +1327,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/yXHVKQ.md.webp",
-    href: "./movie-gpt/page/Gold.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/1HqBaI-FV7Y",
     synopsis:
       "In the not too distant future, a drifter travelling through the desert discovers the largest gold nugget ever found. He must guard it from thieves amid harsh conditions and wild dogs while waiting for his partner to return.",
@@ -1342,7 +1342,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HCPvnqJ.md.webp",
-    href: "./movie-gpt/page/Good Night Oppy.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/W4t58Yruhds",
     synopsis:
       "The film follows Opportunity, the Mars Exploration Rover affectionately dubbed Oppy by her creators and scientists at NASA. Oppy was originally expected to live for only 90 days but she ultimately explored Mars for nearly 15 years.",
@@ -1357,7 +1357,7 @@ const movies = [
     country: "Korea",
     countrys: ["korea"],
     poster: "https://iili.io/HCDo1AN.md.webp",
-    href: "./movie-gpt/page/Hunt.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/1RLlCg-LFKI",
     synopsis:
       "The International Unit and The Domestic Unit of the Korean Spy Agency are tasked with the mission of uncovering a North Korean Spy known as Donglim who is deeply embedded within their agency.",
@@ -1372,7 +1372,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HC6p2SI.md.webp",
-    href: "./movie-gpt/page/I Am Vannesa.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/Wpii7t26aZU",
     synopsis:
       "Follow the tragic story of the young woman who dreamed of a military career, however after telling her mother that she was being harassed at the Fort Hood military base, Vanessa Guillen was killed by a partner.",
@@ -1387,7 +1387,7 @@ const movies = [
     country: "Korea",
     countrys: ["korea"],
     poster: "https://iili.io/HxkWkk7.md.webp",
-    href: "./movie-gpt/page/In Our Prime.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/EBJF_TZGWMY",
     synopsis:
       "Follows Ji-woo, an outcast in a prestigious private high school who meets Hak-sung, the school's security guard, and asks him to teach him math and become friends, but their friendship is at risk after an incident in school.",
@@ -1402,7 +1402,7 @@ const movies = [
     country: "Taiwan",
     countrys: ["taiwan"],
     poster: "https://iili.io/pbZKve.md.webp",
-    href: "./movie-gpt/page/Incantation.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/HnyNZdcL_GY",
     synopsis:
       "Six years ago, Li Ronan was cursed after breaking a religious taboo. Now, she must protect her daughter from the consequences of her actions.",
@@ -1417,7 +1417,7 @@ const movies = [
     country: "Spanyol",
     countrys: ["spanyol"],
     poster: "https://iili.io/HDoEUuI.md.webp",
-    href: "./movie-gpt/page/Inspector Sun and the Curse of the Black Widow.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/2dkYR902jHM",
     synopsis:
       "Inspector Sun boards a seemingly normal plane for a much-needed vacation, but when an enigmatic millionaire receives a threat on his life, Sun is back on the case. Trapped in a web of lies, Sun must find the culprit before it's too late.",
@@ -1432,7 +1432,7 @@ const movies = [
     country: "Thailand",
     countrys: ["thailand"],
     poster: "https://iili.io/HCth6bI.md.webp",
-    href: "./movie-gpt/page/Jaifu Story.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/ImcD_3O0PPw",
     synopsis:
       "An account of five couples, five stories of different overlapping life events told through the story of a young writer and a girl he meets.",
@@ -1447,7 +1447,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/yWpVKN.md.webp",
-    href: "./movie-gpt/page/Jackass Forever.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/p74bzf-beGc",
     synopsis: "After 11 years, the Jackass crew is back for another crusade.",
     duration: "1h 36m",
@@ -1461,7 +1461,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/pDtGjf.md.webp",
-    href: "./movie-gpt/page/Jurassic World Dominion.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/fb5ELWi-ekk",
     synopsis:
       "Four years after the destruction of Isla Nublar, Biosyn operatives attempt to track down Maisie Lockwood, while Dr Ellie Sattler investigates a genetically engineered swarm of giant insects.",
@@ -1476,7 +1476,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HoIoCBt.md.webp",
-    href: "./movie-gpt/page/Killer Design.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/bcYIegtGSHQ",
     synopsis:
       "And up-and-coming interior designer hires the young woman who saved her life as an assistant. However, she soon learns the incident was far from random and her Savior isn't a good Samaritan.",
@@ -1491,7 +1491,7 @@ const movies = [
     country: "Indonesia",
     countrys: ["indonesia"],
     poster: "https://iili.io/pb8Blt.md.webp",
-    href: "./movie-gpt/page/KKN di Desa Penari.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/jtDRXPTZT-M",
     synopsis:
       "Six students who had to carry out KKN in a remote village are warned not to cross the boundary of the forbidden gate that leading to the mysterious place that may related to the figure of a beautiful dancer who began to disturb them.",
@@ -1506,7 +1506,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZo8Udu.md.webp",
-    href: "./movie-gpt/page/Lamborghini.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/kzqwRxorvKE",
     synopsis:
       "The life story of Ferruccio Lamborghini, the founder of Lamborghini.",
@@ -1521,7 +1521,7 @@ const movies = [
     country: "Indonesia",
     countrys: ["indonesia"],
     poster: "https://iili.io/HZDgErl.md.webp",
-    href: "./movie-gpt/page/Lara Ati.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/gjm4-Vl_oT8",
     synopsis:
       "Unhappy in his job and unlucky in love, Joko reunites with a childhood friend and gets the spark of hope he needs to win back his ex-girlfriend.",
@@ -1536,7 +1536,7 @@ const movies = [
     country: "Korea",
     countrys: ["korea"],
     poster: "https://iili.io/HYSDCtS.md.webp",
-    href: "./movie-gpt/page/Life Is Beautiful.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/RedCOgGbnCU",
     synopsis:
       "A musical drama about a wife who asks her husband to help her find her childhood sweetheart as a birthday present. Though reluctant, her husband's only choice is to set out on this journey with her.",
@@ -1551,7 +1551,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/yXJkk7.md.webp",
-    href: "./movie-gpt/page/Lightyear.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/BwZs3H_UN3k",
     synopsis:
       "While spending years attempting to return home, marooned Space Ranger Buzz Lightyear encounters an army of ruthless robots commanded by Zurg who are attempting to steal his fuel source.",
@@ -1566,7 +1566,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/pmKnEX.md.webp",
-    href: "./movie-gpt/page/Lou.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/QILhvR4QPsQ",
     synopsis:
       "A storm rages. A young girl is kidnapped. Her mother teams up with the mysterious woman next door to pursue the kidnapper, a journey that tests their limits and exposes shocking secrets from their pasts.",
@@ -1581,7 +1581,7 @@ const movies = [
     country: "Thailand",
     countrys: ["thailand"],
     poster: "https://iili.io/HZD6F72.md.webp",
-    href: "./movie-gpt/page/Love 101.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/QihpuY4qx1g",
     synopsis:
       "A romance against huge generation gap between a barely pensioned policeman Daeng and a senior high school girl. The thirty-year gap makes their relationship difficult but they will try to prove their true love together.",
@@ -1596,7 +1596,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/yjKFUJ.md.webp",
-    href: "./movie-gpt/page/Luck.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/xSG5UX0EQVg",
     synopsis:
       "The curtain is pulled back on the millennia-old battle between the organizations of good luck and bad luck that secretly affects everyday lives.",
@@ -1611,7 +1611,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZbBpjI.md.webp",
-    href: "./movie-gpt/page/Lyle, Lyle, Crocodile.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/s0W6O7mSlaU",
     synopsis:
       "Feature film based on the children's book about a crocodile that lives in New York City.",
@@ -1626,7 +1626,7 @@ const movies = [
     country: "Taiwan",
     countrys: ["taiwan"],
     poster: "https://iili.io/HZsq39n.md.webp",
-    href: "./movie-gpt/page/Mama Boy.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/IMesAz_dDko",
     synopsis:
       "A shy young man who finds himself attracted to a single mother, at a sex hotel.",
@@ -1641,7 +1641,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZDJjOg.md.webp",
-    href: "./movie-gpt/page/M3GAN.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/BRb4U99OU80",
     synopsis:
       "A robotics engineer at a toy company builds a life-like doll that begins to take on a life of its own.",
@@ -1656,7 +1656,7 @@ const movies = [
     country: "Indonesia",
     countrys: ["indonesia"],
     poster: "https://iili.io/HYa7172.md.webp",
-    href: "./movie-gpt/page/Mencuri Raden Saleh.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/DN3sRz_veBU",
     synopsis:
       "To save his father, a master forger sets out to steal an invaluable painting with the help of a motley crew of specialists.",
@@ -1671,7 +1671,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/yjf7rg.md.webp",
-    href: "./movie-gpt/page/Minions The Rise of Gru.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/6DxjJzmYsXo",
     synopsis:
       "The untold story of one twelve-year-old's dream to become the world's greatest supervillain.",
@@ -1686,7 +1686,7 @@ const movies = [
     country: "Indonesia",
     countrys: ["indonesia"],
     poster: "https://iili.io/HZovJyv.md.webp",
-    href: "./movie-gpt/page/Miracle.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/0uf6QUacVgs",
     synopsis:
       "A mentally ill man faces the consequences of a corrupt Indonesian politician as he is wrongly accused of murder, and all he wishes is to see his daughter again.",
@@ -1701,7 +1701,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZbnuVt.md.webp",
-    href: "./movie-gpt/page/My Fathers Dragon.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/0giW36Fb69c",
     synopsis:
       "Elmer Elevator searches for a captive Dragon on Wild Island and finds much more than he could ever have anticipated.",
@@ -1716,7 +1716,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/ycEnAG.md.webp",
-    href: "./movie-gpt/page/Moonfall.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/ivIwdQBlS10",
     synopsis:
       "A mysterious force knocks the moon from its orbit and sends it hurtling on a collision course toward earth.",
@@ -1731,7 +1731,7 @@ const movies = [
     country: "Indonesia",
     countrys: ["indonesia"],
     poster: "https://iili.io/pmT0xa.md.webp",
-    href: "./movie-gpt/page/Ngeri Ngeri Sedap.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/io5YgKdEON8",
     synopsis:
       "A married couple stages their divorce in order to encourage their estranged adult children to return to their hometown.",
@@ -1746,7 +1746,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/ycNoNt.md.webp",
-    href: "./movie-gpt/page/No Exit.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/GFvupyiNEz0",
     synopsis:
       "During a blizzard and stranded at an isolated highway rest stop in the mountains, a college student discovers a kidnapped child hidden in a car belonging to one of the people inside.",
@@ -1761,7 +1761,7 @@ const movies = [
     country: "Indonesia",
     countrys: ["indonesia"],
     poster: "https://iili.io/HYau36Q.md.webp",
-    href: "./movie-gpt/page/Noktah Merah Perkawinan.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/1GYzfiYLa1A",
     synopsis:
       "A couple's relationship hits rock bottom after 11 years - until an intriguing young woman reawakens emotions and threatens to end their marriage.",
@@ -1776,7 +1776,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/pmlj5v.md.webp",
-    href: "./movie-gpt/page/Nope.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/HUgmq_8PlRY",
     synopsis:
       "The residents of a lonely gulch in inland California bear witness to an uncanny and chilling discovery.",
@@ -1791,7 +1791,7 @@ const movies = [
     country: "German",
     countrys: ["german"],
     poster: "https://iili.io/pbOzJl.md.webp",
-    href: "./movie-gpt/page/Old People.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/8gnxYa9M41c",
     synopsis:
       "A woman travels home with her two kids for her sister's wedding but finds herself defending her family against blood-seeking pensioners.",
@@ -1806,7 +1806,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/ycXV87.md.webp",
-    href: "./movie-gpt/page/Orphan First Kill.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/_uX6of3vBu0",
     synopsis:
       "After orchestrating a brilliant escape from an Estonian psychiatric facility, Esther travels to America by impersonating the missing daughter of a wealthy family.",
@@ -1821,7 +1821,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/pmH2kB.md.webp",
-    href: "./movie-gpt/page/Our Father.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/phQxK5u8IEs",
     synopsis:
       "After a woman's at-home DNA test reveals multiple half-siblings, she discovers a shocking scheme involving donor sperm and a popular fertility doctor.",
@@ -1836,7 +1836,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/yjRpMG.md.webp",
-    href: "./movie-gpt/page/Paws of Fury The Legend of Hank.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/A_hkjvjx2ek",
     synopsis:
       "Hank, a loveable dog with a head full of dreams about becoming a samurai, sets off in search of his destiny.",
@@ -1851,7 +1851,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HHHriSp.md.webp",
-    href: "./movie-gpt/page/Pearl.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/L5PW5r3pEOg",
     synopsis:
       "In 1918, a young woman on the brink of madness pursues stardom in a desperate attempt to escape the drudgery, isolation and lovelessness of life on her parents' farm.",
@@ -1866,7 +1866,7 @@ const movies = [
     country: "Indonesia",
     countrys: ["indonesia"],
     poster: "https://iili.io/HZbomTQ.md.webp",
-    href: "./movie-gpt/page/Perfect Strangers.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/kl_8Nx6uFh0",
     synopsis:
       "Seven friends who attend a dinner and decide to play a game with their cell phones which culminate in disaster when their dark secret is revealed.",
@@ -1881,7 +1881,7 @@ const movies = [
     country: "Spanyol",
     countrys: ["spanyol"],
     poster: "https://iili.io/pLFisj.md.webp",
-    href: "./movie-gpt/page/Piggy.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/JOHNOJdRsUI",
     synopsis:
       "An overweight teen is bullied by a clique of cool girls poolside while holidaying in her village. The long walk home will change the rest of her life.",
@@ -1896,7 +1896,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/pLAsuj.md.webp",
-    href: "./movie-gpt/page/Pinocchio.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/__si5sUp4Kc",
     synopsis:
       "A puppet is brought to life by a fairy, who assigns him to lead a virtuous life in order to become a real boy.",
@@ -1911,7 +1911,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZbxwwQ.md.webp",
-    href: "./movie-gpt/page/Play Dead.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/RLJ6Nlr3TQM",
     synopsis:
       "Chloe fakes her own death to steal evidence from a morgue. The Coroner uses the morgue as a front for a sick and twisted business. A scary game of cat and mouse ensues as Chloe learns more about the dead than she bargains for.",
@@ -1926,7 +1926,7 @@ const movies = [
     country: "Japan",
     countrys: ["japan"],
     poster: "https://iili.io/HZbz70F.md.webp",
-    href: "./movie-gpt/page/Prior Convictions.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/9Vx_MKcDJT0",
     synopsis:
       "Kaya has worked as a probation officer for 3 years, she finds her job rewarding. But one client, Makoto, an ex-murderer, suddenly disappears around the time that the police are investigating a series of murders committed by a mystery man.",
@@ -1941,7 +1941,7 @@ const movies = [
     country: "Korea",
     countrys: ["korea"],
     poster: "https://iili.io/HCDGfaV.md.webp",
-    href: "./movie-gpt/page/Project Wolf Hunting.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/bl4N4s2sWhg",
     synopsis:
       "Follows dangerous criminals on a cargo ship who are transported from the Philippines to South Korea, as they unleash a sinister force after an escape attempt leads to a riot.",
@@ -1956,7 +1956,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HDolrZu.md.webp",
-    href: "./movie-gpt/page/Puss in Boots The Last Wish.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/tHb7WlgyaUc",
     synopsis:
       "When Puss in Boots discovers that his passion for adventure has taken its toll and he has burned through eight of his nine lives, he launches an epic journey to restore them by finding the mythical Last Wish.",
@@ -1971,7 +1971,7 @@ const movies = [
     country: "Japan",
     countrys: ["japan"],
     poster: "https://iili.io/HZbTkV2.md.webp",
-    href: "./movie-gpt/page/ReMember.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/Y8yvXoyLPvM",
     synopsis:
       "A high school student and her friends are trapped in a time loop by a ghost and the only way to escape is to find the corpse of the ghost's previous victim.",
@@ -1986,7 +1986,7 @@ const movies = [
     country: "Korea",
     countrys: ["korea"],
     poster: "https://iili.io/HZblKS2.md.webp",
-    href: "./movie-gpt/page/Rolling.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/x21FtRUxuGA",
     synopsis:
       "COVID-19 is rampant in the world. Juri, a 25-year-old young girl, stops socializing and has been just staying at home. Her mother, Young-shim struggles against the hard season, still running her Kim-bob place. One day, Young-shim leaves to take care of her sick mother, and Juri takes charge of the restaurant unexpectedly.",
@@ -2001,7 +2001,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/pDW03F.md.webp",
-    href: "./movie-gpt/page/Samaritan.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/9FKnTxSC16E",
     synopsis:
       "A young boy learns that a superhero who was thought to have died after an epic battle twenty-five years ago may in fact still be alive.",
@@ -2016,7 +2016,7 @@ const movies = [
     country: "Korea",
     countrys: ["korea"],
     poster: "https://iili.io/HHJPMQ9.md.webp",
-    href: "./movie-gpt/page/Seoul Vibe.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/H94Vfb12Hkw",
     synopsis:
       "The drivers of the Sanggye-dong Supreme Team become mired in the slush fund investigation of a powerful person on the very day of the 1988 Seoul Olympics opening ceremony.",
@@ -2031,7 +2031,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZb15j1.md.webp",
-    href: "./movie-gpt/page/Shotgun Wedding.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/qNVwRHQL8jw",
     synopsis:
       "Darcy and Tom gather their families for the ultimate destination wedding but when the entire wedding party is taken hostage the bride and groom must save their loved ones--if they don't kill each other first.",
@@ -2046,7 +2046,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/pbmGxs.md.webp",
-    href: "./movie-gpt/page/Shut In.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/D5RjpC7_pYU",
     synopsis:
       "When a young mother is barricaded inside a pantry by her violent ex-boyfriend, she must use ingenuity to protect her two small children from escalating danger while finding an escape.",
@@ -2061,7 +2061,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/Ht2MZxa.md.webp",
-    href: "./movie-gpt/page/Sick.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/IlS90jL1EHQ",
     synopsis:
       "Due to the pandemic, Parker and her best friend decide to quarantine at the family lake house alone - or so they think.",
@@ -2076,7 +2076,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/H9zvZiu.md.webp",
-    href: "./movie-gpt/page/Smile.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/BcDK7lkzzsU",
     synopsis:
       "After witnessing a bizarre, traumatic incident involving a patient, a psychiatrist becomes increasingly convinced she is being threatened by an uncanny entity.",
@@ -2091,7 +2091,7 @@ const movies = [
     country: "Ukraina",
     countrys: ["ukraina"],
     poster: "https://iili.io/pLHCmj.md.webp",
-    href: "./movie-gpt/page/Sniper The White Raven.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/cZIhRHSXtyU",
     synopsis:
       "After suffering a tragedy at the hand of invading soldiers in Donbas, an Ukrainian physics teacher seeks revenge. He sets his sights on an elite Russian sniper whose elimination could change the tide of the conflict.",
@@ -2106,7 +2106,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/yX9x4V.md.webp",
-    href: "./movie-gpt/page/Sonic The Hedgehog 2.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/47r8FXYZWNU",
     synopsis:
       "When the manic Dr Robotnik returns to Earth with a new ally, Knuckles the Echidna, Sonic and his new friend Tails is all that stands in their way.",
@@ -2121,7 +2121,7 @@ const movies = [
     country: "Japan",
     countrys: ["japan"],
     poster: "https://iili.io/HZsFPVV.md.webp",
-    href: "./movie-gpt/page/Suzume.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/5pTcio2hTSw",
     synopsis:
       "A modern action adventure road story where a 17-year-old girl named Suzume helps a mysterious young man close doors from the other side that are releasing disasters all over in Japan.",
@@ -2136,7 +2136,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HodeCil.md.webp",
-    href: "./movie-gpt/page/Take Your Pill.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/StVTTgnxgEw",
     synopsis:
       "A cure for some and a curse for others, widely prescribed anti-anxiety medication is examined by patients and experts in this revealing documentary.",
@@ -2151,7 +2151,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HDfgmOJ.md.webp",
-    href: "./movie-gpt/page/The 355.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/SV0s2S9reT0",
     synopsis:
       "When a top-secret weapon falls into mercenary hands, a wild-card C.I.A. agent joins forces with three international agents on a mission to retrieve it, while staying a step ahead of a mysterious woman who's tracking their every move.",
@@ -2166,7 +2166,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/ycG0dX.md.webp",
-    href: "./movie-gpt/page/The Adam Project.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/IE8HIsIrq4o",
     synopsis:
       "After accidentally crash-landing in 2022, time-traveling fighter pilot Adam Reed teams up with his 12-year-old self for a mission to save the future.",
@@ -2181,7 +2181,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/yjTtwu.md.webp",
-    href: "./movie-gpt/page/The Bad Guys.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/m8Xt0yXaDPU",
     synopsis:
       "To avoid prison, a gang of notorious animal criminals pretends to seek being rehabilitated, only for their leader to realize that he genuinely wants to change his ways.",
@@ -2196,7 +2196,7 @@ const movies = [
     country: "Indonesia",
     countrys: ["indonesia"],
     poster: "https://iili.io/HZbExoX.md.webp",
-    href: "./movie-gpt/page/The Big 4.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/yiTs7bxUc-s",
     synopsis:
       "Tells the story of an elite assassin that is targeted by murderous gangsters after sparing a girl's life during a massacre.",
@@ -2211,7 +2211,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZbhb19.md.webp",
-    href: "./movie-gpt/page/The Bobs Burgers Movie.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/hbGXqUumtqg",
     synopsis:
       "When a sinkhole in front of Bob's Burgers threatens the Belchers' plans for a successful summer, Bob and Linda try to keep their business going, while the kids attempt to save the restaurant by solving a mystery.",
@@ -2226,7 +2226,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZDqokN.md.webp",
-    href: "./movie-gpt/page/The Fabelmans.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/D1G2iLSzOe8",
     synopsis:
       "Growing up in post-World War II era Arizona, young Sammy Fabelman aspires to become a filmmaker as he reaches adolescence, but soon discovers a shattering family secret and explores how the power of films can help him see the truth.",
@@ -2241,7 +2241,7 @@ const movies = [
     country: "Korea",
     countrys: ["korea"],
     poster: "https://iili.io/HZbwo67.md.webp",
-    href: "./movie-gpt/page/The Goblin.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/egq-DZ7kEno",
     synopsis:
       "Doo-hyun, who goes by the name the 'Goblin', goes to prison for taking the fall for Young-min who killed their boss. Released after 10 years, Doo-hyun had been living a normal life, but Young-min goes so far as to kidnap Doo-hyun's daughter to keep his mouth shut. Enraged, Doo-hyun seeks revenge and announces the return of the real 'Goblin'.",
@@ -2256,7 +2256,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/H95PR6v.md.webp",
-    href: "./movie-gpt/page/The Good Nurse.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/e0DQevX-GZs",
     synopsis:
       "An infamous caregiver is implicated in the deaths of hundreds of hospital patients.",
@@ -2271,7 +2271,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/pDxOOj.md.webp",
-    href: "./movie-gpt/page/The Gray Man.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/BmllggGO4pM",
     synopsis:
       "When the CIA's most skilled operative, whose true identity is known to none, accidentally uncovers dark agency secrets, a psychopathic former colleague puts a bounty on his head, setting off a global manhunt by international assassins.",
@@ -2286,7 +2286,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/pDZwmJ.md.webp",
-    href: "./movie-gpt/page/The Greatest Beer Run Ever.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/NqxziDlZOIo",
     synopsis:
       "A man's story of leaving New York in 1967 to bring beer to his childhood buddies in the Army while they are fighting in Vietnam.",
@@ -2301,7 +2301,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/pstWNV.md.webp",
-    href: "./movie-gpt/page/The Immaculate Room.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/st7gTecMRMQ",
     synopsis:
       "Secrets and private demons emerge when a seemingly-perfect young couple compete- for a $5 million prize by isolating themselves in an empty white room for 50 days. No phones, no family--only the room trying to break their resolve.",
@@ -2316,7 +2316,7 @@ const movies = [
     country: "Spanyol",
     countrys: ["spanyol"],
     poster: "https://iili.io/HfdXwNI.md.webp",
-    href: "./movie-gpt/page/The Last Dolphin King.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/nfbJ71JQu6k",
     synopsis:
       "This documentary traces the career of renowned Spanish dolphin trainer José Luis Barbero and the events leading up to his shocking death in 2015.",
@@ -2331,7 +2331,7 @@ const movies = [
     country: "Thailand",
     countrys: ["thailand"],
     poster: "https://iili.io/HCDWw9p.md.webp",
-    href: "./movie-gpt/page/The Lost Lotteries.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/o-11JnKxHB0",
     synopsis:
       "Five down-on-their-luck strangers must band together to steal back winning lottery tickets worth millions from a wicked mafia boss.",
@@ -2346,7 +2346,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HagjmQe.md.webp",
-    href: "./movie-gpt/page/The Menu.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/C_uTkUGcHv4",
     synopsis:
       "A young couple travels to a remote island to eat at an exclusive restaurant where the chef has prepared a lavish menu, with some shocking surprises.",
@@ -2361,7 +2361,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HpEVNi7.md.webp",
-    href: "./movie-gpt/page/The Mistress.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/RyYGA72qwsM",
     synopsis:
       "Newlyweds move into their dream home where they discover a collection of 100-year-old letters from a young woman who committed suicide after being abandoned by the owner of the home.",
@@ -2376,7 +2376,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/yWjvGS.md.webp",
-    href: "./movie-gpt/page/The Outfit.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/3UgJL23HxyU",
     synopsis:
       "An expert cutter must outwit a dangerous group of mobsters in order to survive a fateful night.",
@@ -2391,7 +2391,7 @@ const movies = [
     country: "Korea",
     countrys: ["korea"],
     poster: "https://iili.io/pDfRFs.md.webp",
-    href: "./movie-gpt/page/The Roundup.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/aeZXhy6mIyE",
     synopsis:
       "Followed by Ma Seok-do, who heads to a foreign country to extradite a suspect. However, he discovers additional murder cases and learns about a killer who had committed crimes against tourists for many years.",
@@ -2406,7 +2406,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/yjBbrF.md.webp",
-    href: "./movie-gpt/page/The Sea Beast.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/P-E-IGQCsPo",
     synopsis:
       "When a young girl stows away on the ship of a legendary sea monster hunter, they launch an epic journey into uncharted waters - and make history to boot.",
@@ -2421,7 +2421,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZbNQXR.md.webp",
-    href: "./movie-gpt/page/The Soccer Football Movie.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/wkQoOIiNUgY",
     synopsis:
       "Four young soccer superfans team up to help their idols regain their abilities after a scheming evil scientist steals their talent.",
@@ -2436,7 +2436,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HC6me87.md.webp",
-    href: "./movie-gpt/page/The Tinder Swindler.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/Ev0VEqxpKxg",
     synopsis:
       "Posing as a wealthy, jet-setting diamond mogul, he wooed women online, then conned them out of millions of dollars. Now some victims plan for payback.",
@@ -2451,7 +2451,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HD3v4Ve.md.webp",
-    href: "./movie-gpt/page/The Unbearable.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/CKTRbKch2K4",
     synopsis:
       "Moviestar Nick Cage is channeling his iconic characters as he's caught between a superfan and a CIA agent.",
@@ -2466,7 +2466,7 @@ const movies = [
     country: "Japan",
     countrys: ["japan"],
     poster: "https://iili.io/HCiqRLB.md.webp",
-    href: "./movie-gpt/page/The Violence Action.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/kPKReMLuxUI",
     synopsis: "A young girl leads a double life as an assassin for hire.",
     duration: "1h 51m",
@@ -2480,7 +2480,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZDf9xn.md.webp",
-    href: "./movie-gpt/page/The Whale.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/nWiQodhMvz4",
     synopsis:
       "A reclusive, morbidly obese English teacher attempts to reconnect with his estranged teenage daughter.",
@@ -2495,7 +2495,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/yWp9tf.md.webp",
-    href: "./movie-gpt/page/Top Gun Maverick.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/giXco2jaZ_4",
     synopsis:
       "After thirty years, Maverick is still pushing the envelope as a top naval aviator, but must confront ghosts of his past when he leads TOP GUN's elite graduates on a mission that demands the ultimate sacrifice from those chosen to fly it.",
@@ -2510,7 +2510,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HoClzmb.md.webp",
-    href: "./movie-gpt/page/Troll.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/AiohkY_XQYQ",
     synopsis:
       "Deep in the Dovre mountain, something gigantic wakes up after a thousand years in captivity. The creature destroys everything in its path and quickly approaches Oslo.",
@@ -2525,7 +2525,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/yX2ZWg.md.webp",
-    href: "./movie-gpt/page/Turning Red.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/XdKzUbAiswE",
     synopsis:
       "A 13-year-old girl named Meilin turns into a giant red panda whenever she gets too excited.",
@@ -2540,7 +2540,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/yXHJoJ.md.webp",
-    href: "./movie-gpt/page/Uncharted.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/eHp3MbsCbMg",
     synopsis:
       "Street-smart Nathan Drake is recruited by seasoned treasure hunter Victor Sully Sullivan to recover a fortune amassed by Ferdinand Magellan, and lost 500 years ago by the House of Moncada.",
@@ -2555,7 +2555,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/Hxu0LXa.md.webp",
-    href: "./movie-gpt/page/Watcher.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/KDc6ZLo8sjc",
     synopsis:
       "A young American woman moves with her husband to Bucharest, and begins to suspect that a stranger who watches her from the apartment building across the street may be a local serial killer decapitating women.",
@@ -2570,7 +2570,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HHHrPlR.md.webp",
-    href: "./movie-gpt/page/X.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/Awg3cWuHfoc",
     synopsis:
       "In 1979, a group of young filmmakers set out to make an adult film in rural Texas, but when their reclusive, elderly hosts catch them in the act, the cast find themselves fighting for their lives.",
@@ -2585,7 +2585,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/5yOJcJ.md.webp",
-    href: "./movie-gpt/page/22 vs Earth.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/VJUnC2j9rgo",
     synopsis:
       "Set before the events of Pixar's Soul (2020), 22 refuses to go to Earth, enlisting a gang of five other new souls in her attempt at rebellion.",
@@ -2600,7 +2600,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/5OGP7R.md.webp",
-    href: "./movie-gpt/page/400 Bullets.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/4ZZZiG13Dhg",
     synopsis:
       "400 BULLETS is an edge-of-your-seat Military Action story about what it means to fight for honor instead of profit. The film packs gun battles, epic hand-to-hand fight sequences and witty dialogue into its 90 minute run time.",
@@ -2615,7 +2615,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/5OpJTJ.md.webp",
-    href: "./movie-gpt/page/A Classic Horror Story.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/PHqyFhrb3uU",
     synopsis:
       "In this gruesome suspense film, strangers traveling in southern Italy become stranded in the woods, where they must fight desperately to get out alive.",
@@ -2630,7 +2630,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HC6miFV.md.webp",
-    href: "./movie-gpt/page/Antlers.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/ng5eyOfL8qM",
     synopsis:
       "In an isolated Oregon town, a middle-school teacher and her sheriff brother become embroiled with her enigmatic student, whose dark secrets lead to terrifying encounters with an ancestral creature.",
@@ -2645,7 +2645,7 @@ const movies = [
     country: "Japan",
     countrys: ["japan"],
     poster: "https://iili.io/YyyDRn.md.webp",
-    href: "./movie-gpt/page/Asakusa Kid.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/KhzBFfkvn44",
     synopsis:
       "Before he hit it big, Takeshi Kitano got his start apprenticing with comedy legend Fukami of Asakusa. But as his star rises, his mentor's declines.",
@@ -2660,7 +2660,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/5e9vBR.md.webp",
-    href: "./movie-gpt/page/Awake.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/2fuowcxdrYc",
     synopsis:
       "After a devastating global event wiped out all electronics and eliminated people's ability to sleep, a former soldier may have found a solution with her daughter.",
@@ -2675,7 +2675,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/7esNJ2.md.webp",
-    href: "./movie-gpt/page/Back to the Outback.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/dDNhtB7L8Lk",
     synopsis:
       "Tired of being locked in a reptile house where humans gawk at them like they're monsters, a group of Australia's deadliest creatures plot a daring escape from their zoo to the Outback.",
@@ -2690,7 +2690,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/5bjg7S.md.webp",
-    href: "./movie-gpt/page/Blood Red Sky.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/U8M_1eyrBtQ",
     synopsis:
       "A woman with a mysterious illness is forced into action when a group of terrorists attempt to hijack a transatlantic overnight flight.",
@@ -2705,7 +2705,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/5e9iIs.md.webp",
-    href: "./movie-gpt/page/Blue Miracle.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/pXHCBnT3d4k",
     synopsis:
       "To save their cash-strapped orphanage, a guardian and his kids partner with a washed-up boat captain for a chance to win a lucrative fishing competition.",
@@ -2720,7 +2720,7 @@ const movies = [
     country: "Japan",
     countrys: ["japan"],
     poster: "https://iili.io/HpaETqx.md.webp",
-    href: "./movie-gpt/page/World Heroes.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/HmlNHXZzSg8",
     synopsis:
       "When a cult of terrorists ruins a city by releasing a toxin that causes people's abilities to spiral out of control, Japan's greatest heroes spread around the world in an attempt to track down the mastermind and put him to justice.",
@@ -2735,7 +2735,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/YU9kXV.md.webp",
-    href: "./movie-gpt/page/Broadcast Signal Intrusion.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/Y-zCemn5GuE",
     synopsis:
       "In the late 90s, a video archivist unearths a series of sinister pirate broadcasts and becomes obsessed with uncovering the dark conspiracy behind them.",
@@ -2750,7 +2750,7 @@ const movies = [
     country: "Inggris",
     countrys: ["inggris"],
     poster: "https://iili.io/pDr0p2.md.webp",
-    href: "./movie-gpt/page/Bull.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/tTWYhQQ81f8",
     synopsis:
       "Bull mysteriously returns home after a 10 year absence to seek revenge on those who double crossed him all those years ago.",
@@ -2765,7 +2765,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/5eHJTu.md.webp",
-    href: "./movie-gpt/page/Candyman.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/TPBH3XO8YEU",
     synopsis:
       "A sequel to the horror film Candyman (1992) that returns to the now-gentrified Chicago neighborhood where the legend began.",
@@ -2780,7 +2780,7 @@ const movies = [
     country: "Cina",
     countrys: ["cina"],
     poster: "https://iili.io/5eJkUN.md.webp",
-    href: "./movie-gpt/page/Catman.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/NVC_uGuWVEc",
     synopsis:
       "Liang Qu is a chic, confident and cold but charming half cat, half human due to a magic spell and he has the ability to melt/heal broken hearts. He lives with Miao Xiao Wan, an honest, confident woman who's created an app that translates cats' sounds and language.",
@@ -2795,7 +2795,7 @@ const movies = [
     country: "Inggris",
     countrys: ["inggris"],
     poster: "https://iili.io/Y6VgTl.md.webp",
-    href: "./movie-gpt/page/Censor.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/KRrhXjH1M70",
     synopsis:
       "After viewing a strangely familiar video nasty, Enid, a film censor, sets out to solve the past mystery of her sister's disappearance, embarking on a quest that dissolves the line between fiction and reality.",
@@ -2810,7 +2810,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/5eJgbn.md.webp",
-    href: "./movie-gpt/page/Chaos Walking.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/nRf4ZgzHoVw",
     synopsis:
       "Two unlikely companions embark on a perilous adventure through the badlands of an unexplored planet as they try to escape a dangerous and disorienting reality where all thoughts are seen and heard by everyone.",
@@ -2825,7 +2825,7 @@ const movies = [
     country: "India",
     countrys: ["india"],
     poster: "https://iili.io/HZokNp4.md.webp",
-    href: "./movie-gpt/page/Last Film.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/Uz4LkPAtdjY",
     synopsis:
       "Samay fights heaven and earth to find light. He wants to catch, control, cut and project that light to tell stories. Now to pursue that dream he must leave everything he loves and take a flight to find the light.",
@@ -2840,7 +2840,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/5eJ4xs.md.webp",
-    href: "./movie-gpt/page/Ciao Alberto.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/KJZS7oXX5SE",
     synopsis: "An animated short film that features characters from Luca.",
     duration: "8m",
@@ -2854,7 +2854,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/a9Hzls.md.webp",
-    href: "./movie-gpt/page/Clifford the Big Red Dog.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/4zH5iYM4wJo",
     synopsis:
       "A young girl's love for a tiny puppy named Clifford makes the dog grow to an enormous size.",
@@ -2869,7 +2869,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/YfUS2V.md.webp",
-    href: "./movie-gpt/page/Cruella.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/gmRKv7n2If8",
     synopsis:
       "A live-action prequel feature film following a young Cruella de Vil.",
@@ -2884,7 +2884,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/5yDCWF.md.webp",
-    href: "./movie-gpt/page/Diary of a Wimpy Kid.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/VKhCPUa-glo",
     synopsis:
       "Greg Heffley is an ambitious kid with an active imagination and big plans to be rich and famous. The problem is that he has to survive middle school first.",
@@ -2899,7 +2899,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/a9Hr4p.md.webp",
-    href: "./movie-gpt/page/Digging to Death.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/o05TRySB6O0",
     synopsis:
       "David Van Owen moves into a mysterious house and discovers a box buried in his backyard, filled with 3 million dollars and a fresh corpse.",
@@ -2914,7 +2914,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/5eJ6WG.md.webp",
-    href: "./movie-gpt/page/Don't Breathe 2.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/gRbG2tjHYCA",
     synopsis:
       "The sequel is set in the years following the initial deadly home invasion, where Norman Nordstrom lives in quiet solace until his past sins catch up to him.",
@@ -2929,7 +2929,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/Y6x5WN.md.webp",
-    href: "./movie-gpt/page/Don't Look Up.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/RbIxYm3mKzI",
     synopsis:
       "Two low-level astronomers must go on a giant media tour to warn humankind of an approaching comet that will destroy planet Earth.",
@@ -2944,7 +2944,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/5eJPsf.md.webp",
-    href: "./movie-gpt/page/Dune.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/8g18jFHCLXk",
     synopsis:
       "A noble family becomes embroiled in a war for control over the galaxy's most valuable asset while its heir becomes troubled by visions of a dark future.",
@@ -2959,7 +2959,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/cbcoDF.md.webp",
-    href: "./movie-gpt/page/Encanto.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/CaimKeDcudo",
     synopsis:
       "A Colombian teenage girl has to face the frustration of being the only member of her family without magical powers.",
@@ -2974,7 +2974,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/5eJtJS.md.webp",
-    href: "./movie-gpt/page/Escape Room Tournament of Champions.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/KlfUbZJVInA",
     synopsis:
       "Six people unwillingly find themselves locked in another series of escape rooms, slowly uncovering what they have in common to survive. Joining forces with two of the original survivors, they soon discover they've all played the game before.",
@@ -2989,7 +2989,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/5eJD57.md.webp",
-    href: "./movie-gpt/page/Extinct.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/bk0Q-zuUFfc",
     synopsis:
       "Op and Ed accidentally time-travel from the Galapagos Islands in 1835 to present-day Shanghai. They make their way through the city in confusion and make the horrifying discovery that the species to which they belong became extinct shortly after.",
@@ -3004,7 +3004,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/5eJbe9.md.webp",
-    href: "./movie-gpt/page/F9 The Fast Saga.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/aSiDu3Ywi8E",
     synopsis:
       "Dom and the crew must take on an international terrorist who turns out to be Dom and Mia's estranged brother.",
@@ -3019,7 +3019,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/5eJmbe.md.webp",
-    href: "./movie-gpt/page/Fathom.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/Y-Mmnk0LZLU",
     synopsis:
       "Fathom is a visual and aural wonder of a documentary that follows researchers working to finally decode the communication of humpback whales. With Dr. Michelle Fournet, Dr. Ellen Garland.",
@@ -3034,7 +3034,7 @@ const movies = [
     country: "Mesir",
     countrys: ["mesir"],
     poster: "https://iili.io/pbrXKg.md.webp",
-    href: "./movie-gpt/page/Feathers.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/uxo2H0SM5Jw",
     synopsis:
       "A family is forced into a period of self-discovery after its authoritarian patriarch is accidentally turned into a chicken by a magician during a children's birthday party.",
@@ -3049,7 +3049,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/5eJyzu.md.webp",
-    href: "./movie-gpt/page/Finch.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/-0bYWnP3jH4",
     synopsis:
       "On a post-apocalyptic Earth, a robot, built to protect the life of his creator's beloved dog learns about life, love, friendship and what it means to be human.",
@@ -3064,7 +3064,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/5ed9Wb.md.webp",
-    href: "./movie-gpt/page/Free Guy.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/X2m-08cOAbc",
     synopsis:
       "A bank teller discovers that he's actually an NPC inside a brutal, open world video game.",
@@ -3079,7 +3079,7 @@ const movies = [
     country: "Thailand",
     countrys: ["thailand"],
     poster: "https://iili.io/5yNNaf.md.webp",
-    href: "./movie-gpt/page/Game Changer.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/5cBTWIl4DtA",
     synopsis:
       "When the city's mafia boss dies, his four aides decide to keep his death a secret and continue to run his rackets - but deception is a dangerous game.",
@@ -3094,7 +3094,7 @@ const movies = [
     country: "Thailand",
     countrys: ["thailand"],
     poster: "https://iili.io/5edHsj.md.webp",
-    href: "./movie-gpt/page/Ghost Lab.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/RN9G-g5PhJE",
     synopsis:
       "After witnessing a haunting in their hospital, two doctors become dangerously obsessed with obtaining scientific proof that ghosts exist.",
@@ -3109,7 +3109,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/cZs2jt.md.webp",
-    href: "./movie-gpt/page/Ghostbusters Afterlife.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/ahZFCF--uRY",
     synopsis:
       "When a single mom and her two kids arrive in a small town, they begin to discover their connection to the original Ghostbusters and the secret legacy their grandfather left behind.",
@@ -3124,7 +3124,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/5eddqx.md.webp",
-    href: "./movie-gpt/page/Girl in the Basement.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/a7VGn_0Vsx8",
     synopsis:
       "Sarah is a teen girl who is looking forward to her 18th birthday to move away from her controlling father Don. But before she could even blow out the candles, Don imprisons her in the basement of their home.",
@@ -3139,7 +3139,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/5ed20Q.md.webp",
-    href: "./movie-gpt/page/Godzilla vs. Kong.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/odM92ap8_c0",
     synopsis:
       "The epic next chapter in the cinematic Monsterverse pits two of the greatest icons in motion picture history against each other--the fearsome Godzilla and the mighty Kong--with humanity caught in the balance.",
@@ -3154,7 +3154,7 @@ const movies = [
     country: "India",
     countrys: ["india"],
     poster: "https://iili.io/5edKdB.md.webp",
-    href: "./movie-gpt/page/Helmet.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/DgdhtcD6qrY",
     synopsis:
       "A quirky comedy from the heartland of India, it touches upon a topic that is considered embarrassing for most people in India and will showcase the same in a hilariously entertaining manner.",
@@ -3169,7 +3169,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/cbn91e.md.webp",
-    href: "./movie-gpt/page/Hilda and the Mountain King.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/4MnjzxvsBNM",
     synopsis:
       "When Hilda wakes up in the body of a troll, she must use her wits and courage to get back home, become human again and save the city of Trolberg.",
@@ -3184,7 +3184,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/78fceS.md.webp",
-    href: "./movie-gpt/page/Hitman's Wife Bodyguard.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/9C0l31YcahQ",
     synopsis:
       "The bodyguard, Michael Bryce, continues his friendship with assassin, Darius Kincaid, as they try to save Darius' wife Sonia.",
@@ -3199,7 +3199,7 @@ const movies = [
     country: "Japan",
     countrys: ["japan"],
     poster: "https://iili.io/cZiQZF.md.webp",
-    href: "./movie-gpt/page/Homunculus.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/uGs2znxT7XM",
     synopsis:
       "Truth and illusion blurs when a homeless amnesiac awakens from an experimental medical procedure with the ability to see people's innermost traumas.",
@@ -3214,7 +3214,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/5edSrQ.md.webp",
-    href: "./movie-gpt/page/Hypnotic.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/eHsWYmnXk1o",
     synopsis:
       "A young woman seeking self-improvement enlists the help of a renowned hypnotherapist. But after a handful of intense sessions, she discovers unexpected and deadly consequences.",
@@ -3229,7 +3229,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/YfUbYN.md.webp",
-    href: "./movie-gpt/page/I Was a Simple Man.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/G_ZQFU5wqgY",
     synopsis:
       "A family in Hawai'i faces the imminent death of their eldest as the ghosts of the past haunt the countryside.",
@@ -3244,7 +3244,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/5edg2V.md.webp",
-    href: "./movie-gpt/page/Jungle Cruise.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/f_HvoipFcA8",
     synopsis:
       "Based on Disneyland's theme park ride where a small riverboat takes a group of travelers through a jungle filled with dangerous animals and reptiles but with a supernatural element.",
@@ -3259,7 +3259,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/5edrYB.md.webp",
-    href: "./movie-gpt/page/Kate.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/MysGjRS9jFU",
     synopsis:
       "A jaded assassin assigned to target a yakuza clan has 24 hours to find out who poisoned her and get vengeance before she dies.",
@@ -3274,7 +3274,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/cbxPrF.md.webp",
-    href: "./movie-gpt/page/Know Fear.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/Z4dc5xlgqxY",
     synopsis:
       "After the possession of his wife, Donald Capel and his family activate a dangerous ritual in a book used to identify and banish demons, a ritual forcing each member of the family to communicate with the demon in their own unique way: to see it, hear it, or speak to it.",
@@ -3289,7 +3289,7 @@ const movies = [
     country: "Islandia",
     countrys: ["islandia"],
     poster: "https://iili.io/5bjU22.md.webp",
-    href: "./movie-gpt/page/Lamb.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/hnEwJKVWjFM",
     synopsis:
       "A childless couple discovers a mysterious newborn on their farm in Iceland.",
@@ -3304,7 +3304,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/cbwkzv.md.webp",
-    href: "./movie-gpt/page/Last Night in Soho.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/AcVnFrxjPjI",
     synopsis:
       "An aspiring fashion designer is mysteriously able to enter the 1960s, where she encounters a dazzling wannabe singer. But the glamour is not all it appears to be and the dreams of the past start to crack and splinter into something darker.",
@@ -3319,7 +3319,7 @@ const movies = [
     country: "Japan",
     countrys: ["japan"],
     poster: "https://iili.io/cQlqzJ.md.webp",
-    href: "./movie-gpt/page/Liar x Liar.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/9L_fuf_sNNk",
     synopsis:
       "A girl plays a prank on her playboy brother by dressing up as a schoolgirl and expressing romantic intentions, only to him to fall in love with her.",
@@ -3334,7 +3334,7 @@ const movies = [
     country: "India",
     countrys: ["india"],
     poster: "https://iili.io/cQRVef.md.webp",
-    href: "./movie-gpt/page/Lift.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/6uFSJLQA_jA",
     synopsis:
       "A usual working day turns unusual for Guru and Harini when they get trapped in their haunted office. A patterned game unlocks a mystery and a lift is their only way out.",
@@ -3349,7 +3349,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/5bj8rl.md.webp",
-    href: "./movie-gpt/page/Like Dogs.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/tlQZXJQMFRM",
     synopsis:
       "A behavioral experiment treating humans like animals goes awry when a university student manipulates the research with deadly results.",
@@ -3364,7 +3364,7 @@ const movies = [
     country: "Japan",
     countrys: ["japan"],
     poster: "https://iili.io/HZD5ic7.md.webp",
-    href: "./movie-gpt/page/Love, Life and Goldfish.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/K6XQzTht9D4",
     synopsis:
       "Makoto Kashiba is an elite bank clerk and works for a big bank at its Tokyo HQ. Due to a minor mistake, he is demoted to a small branch office in a country town. He is devastated by his situation. There, he meets beautiful Yoshino Ikoma, who runs a goldfish scooping store. Makoto falls in love with her at first sight.",
@@ -3379,7 +3379,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/5ed4kP.md.webp",
-    href: "./movie-gpt/page/Luca.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/mYfJxlgR2jw",
     synopsis:
       "On the Italian Riviera, an unlikely but strong friendship grows between a human being and a sea monster disguised as a human.",
@@ -3394,7 +3394,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/5e2c8B.md.webp",
-    href: "./movie-gpt/page/Malignant.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/Gczt0fhawDs",
     synopsis:
       "Madison is paralyzed by shocking visions of grisly murders, and her torment worsens as she discovers that these waking dreams are in fact terrifying realities.",
@@ -3409,7 +3409,7 @@ const movies = [
     country: "Indonesia",
     countrys: ["indonesia"],
     poster: "https://iili.io/HDxob6X.md.webp",
-    href: "./movie-gpt/page/Marriage.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/pELfJDP0RBA",
     synopsis:
       "In fact, getting married does not automatically make you happy. He married Vika. Nasty, grumpy, blind jealous, can't cook. Such is the regret of Mirza, Vika's husband, who was sued for divorce after 5 years of living together.",
@@ -3424,7 +3424,7 @@ const movies = [
     country: "Japan",
     countrys: ["japan"],
     poster: "https://iili.io/HxJ1HHF.md.webp",
-    href: "./movie-gpt/page/Masquerade Night.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/i24VaMuhULw",
     synopsis:
       "An anonymous letter is delivered to the Tokyo Metropolitan Police Department. The letter states that a criminal of a murder case will appear at the countdown party Masquerade Night that will be held at Hotel Cortesia Tokyo.",
@@ -3439,7 +3439,7 @@ const movies = [
     country: "Korea",
     countrys: ["korea"],
     poster: "https://iili.io/5bjv14.md.webp",
-    href: "./movie-gpt/page/Midnight.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/3Ap4ww9Ap-0",
     synopsis:
       "A serial killer ruthlessly hunts down a deaf woman through the streets of South Korea after she witnesses his brutal crime.",
@@ -3454,7 +3454,7 @@ const movies = [
     country: "Korea",
     countrys: ["korea"],
     poster: "https://iili.io/5bjkBf.md.webp",
-    href: "./movie-gpt/page/Mission Possible.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/o-Q480iFQ2s",
     synopsis:
       "A trainee Chinese spy mistakes a buffoonish private detective for her contact. Together, they seek to uncover a South Korean gun-smuggling ring.",
@@ -3469,7 +3469,7 @@ const movies = [
     country: "Cina",
     countrys: ["cina"],
     poster: "https://iili.io/5e2wap.md.webp",
-    href: "./movie-gpt/page/Mohist Mechanism.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/jAtewVznSNw",
     synopsis:
       "Shen Tuo, the descendant of the Mohist Mechanism, took a bet with the warden of the Infinity Prison to save his wife Jiang Ren, a captive in the Fort of Mechanism. To win the bet, Shen Tuo, along with six teammates, has to go deep under the Fort and find the mysterious heirloom of Mozi.",
@@ -3484,7 +3484,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/cb15Ux.md.webp",
-    href: "./movie-gpt/page/Mortal Kombat.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/NYH2sLid0Zc",
     synopsis:
       "MMA fighter Cole Young seeks out Earth's greatest champions in order to stand against the enemies of Outworld in a high stakes battle for the universe.",
@@ -3499,7 +3499,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/5e2gMG.md.webp",
-    href: "./movie-gpt/page/Naked Singularity.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/PgbZGTareX0",
     synopsis:
       "An idealistic young New York City public defender burned out by the system, on the brink of disbarment, and seeing signs of the universe collapsing all around him decides to rob a multi-million drug deal of one of his clients.",
@@ -3514,7 +3514,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/5e3RDX.md.webp",
-    href: "./movie-gpt/page/No One Gets Out Alive.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/sY2TLiK27g4",
     synopsis:
       "After being forced to take a room in a boardinghouse, an immigrant in search of the American Dream finds herself in a nightmare she can't escape.",
@@ -3529,7 +3529,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/5e3aiG.md.webp",
-    href: "./movie-gpt/page/No Time To Die.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/BIhNsAtPbPI",
     synopsis:
       "James Bond has left active service. His peace is short-lived when Felix Leiter, an old friend from the CIA, turns up asking for help, leading Bond onto the trail of a mysterious villain armed with dangerous new technology.",
@@ -3544,7 +3544,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/5e2rPf.md.webp",
-    href: "./movie-gpt/page/Nobody Sleeps in the Woods Tonight 2.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/R_wIaGkiUBI",
     synopsis:
       "When something horrible happens to the only survivor of a bloody massacre, an insecure rookie cop must overcome his fears to stop further carnage.",
@@ -3559,7 +3559,7 @@ const movies = [
     country: "Indonesia",
     countrys: ["indonesia"],
     poster: "https://iili.io/HDo62hF.md.webp",
-    href: "./movie-gpt/page/Nussa The Movie.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/ACT4tV5P59M",
     synopsis:
       "Nussa's life changed when he met a new friend who was much more liked by his friends than himself.",
@@ -3574,7 +3574,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/5e31Ul.md.webp",
-    href: "./movie-gpt/page/Old.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/A4U2pMRV9_k",
     synopsis:
       "A vacationing family discovers that the secluded beach where they're relaxing for a few hours is somehow causing them to age rapidly, reducing their entire lives into a single day.",
@@ -3589,7 +3589,7 @@ const movies = [
     country: "Thailand",
     countrys: ["thailand"],
     poster: "https://iili.io/HZD3XJS.md.webp",
-    href: "./movie-gpt/page/One for the Road.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/MdY6N-RTrPg",
     synopsis:
       "Boss, a high end club owner living in New York, who receives a call from his friend in Thailand, Aood, revealing he is in the last stages of terminal cancer.",
@@ -3604,7 +3604,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/5eECLF.md.webp",
-    href: "./movie-gpt/page/Outside the Wire.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/u8ZsUivELbs",
     synopsis:
       "In the near future, a drone pilot sent into a war zone finds himself paired with a top-secret android officer on a mission to stop a nuclear attack.",
@@ -3619,7 +3619,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/5bjhmX.md.webp",
-    href: "./movie-gpt/page/Oxygen.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/8IqXgZd-P98",
     synopsis:
       "A woman wakes in a cryogenic chamber with no recollection of how she got there. As she's running out of oxygen, she must rebuild her memory to find a way out of her nightmare.",
@@ -3634,7 +3634,7 @@ const movies = [
     country: "Cina",
     countrys: ["cina"],
     poster: "https://iili.io/HZDFtje.md.webp",
-    href: "./movie-gpt/page/Part-Time Girlfriend.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/ak8LeOrukJ4",
     synopsis:
       "Based on true events, the story starts with Ka Chun (Chiu Sin Hang), an ordinary white-collar storms the city by leaking over 3,000 photos of part-time-girlfriends (PTGF).",
@@ -3649,7 +3649,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/5eEqzP.md.webp",
-    href: "./movie-gpt/page/Prey.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/HzpLBkLb4ak",
     synopsis:
       "A hiking trip into the wild turns into a desperate bid for survival for five friends on the run from a mysterious shooter.",
@@ -3664,7 +3664,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/7bJpgp.md.webp",
-    href: "./movie-gpt/page/Puff Wonders of the Reef.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/g-MdiE7gfmY",
     synopsis:
       "A baby pufferfish travels through a wondrous microworld full of fantastical creatures as he searches for a home on the Great Barrier Reef.",
@@ -3679,7 +3679,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/Hx9bFm7.md.webp",
-    href: "./movie-gpt/page/Queenpins.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/1vYErV9vmL0",
     synopsis: "A pair of housewives create a $40 million coupon scam.",
     duration: "1h 50m",
@@ -3693,7 +3693,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/5eEx1a.md.webp",
-    href: "./movie-gpt/page/Raya and the Last Dragon.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/1VIZ89FEjYI",
     synopsis:
       "In a realm known as Kumandra, a re-imagined Earth inhabited by an ancient civilization, a warrior named Raya is determined to find the last dragon.",
@@ -3708,7 +3708,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/5eEoqg.md.webp",
-    href: "./movie-gpt/page/Red Notice.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/Pj0wz7zu3Ms",
     synopsis:
       "An Interpol agent successfully tracks down the world's most wanted art thief with help from a rival thief. But nothing is as it seems as a series of double-crosses ensues.",
@@ -3723,7 +3723,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/cQTD7f.md.webp",
-    href: "./movie-gpt/page/Resident Evil Welcome to Raccoon City.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/4q6UGCyHZCI",
     synopsis:
       "Set in 1998, this origin story explores the secrets of the mysterious Spencer Mansion and the ill-fated Raccoon City.",
@@ -3738,7 +3738,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/cbIWl9.md.webp",
-    href: "./movie-gpt/page/Riverdance.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/ZN6TgXnNVGQ",
     synopsis:
       "An Irish boy named Keegan and a Spanish girl named Moya journey into the mythical world of the Megaloceros Giganteus who teach them to appreciate Riverdance as a celebration of life.",
@@ -3753,7 +3753,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/7e6AP4.md.webp",
-    href: "./movie-gpt/page/Ron's Gone Wrong.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/8I8nMtzN05s",
     synopsis:
       "The story of Barney, an awkward middle-schooler and Ron, his new walking, talking, digitally-connected device. Ron's malfunctions set against the backdrop of the social media age launch them on a journey to learn about true friendship.",
@@ -3768,7 +3768,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZDanaI.md.webp",
-    href: "./movie-gpt/page/Royal Jelly.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/bG0dMnCumJ8",
     synopsis:
       "A high school social outcast is taken under the wing of a mysterious mentor, only to be groomed as the hive's next queen.",
@@ -3783,7 +3783,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/7bdzk7.md.webp",
-    href: "./movie-gpt/page/Rumble.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/X07rA7UjAWk",
     synopsis:
       "In a world where monster wrestling is a global sport and monsters are superstar athletes, teenage Winnie seeks to follow in her father's footsteps by coaching a loveable underdog monster into a champion.",
@@ -3798,7 +3798,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/cbqbyl.md.webp",
-    href: "./movie-gpt/page/Seal Team.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/FT6k3HoS_F8",
     synopsis:
       "Fearless seal Quinn assembles a squad of misfit recruits to stand up to ruthless sharks with razor-sharp teeth and reclaim the open sea.",
@@ -3813,7 +3813,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/5eEzrJ.md.webp",
-    href: "./movie-gpt/page/Seaspiracy.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/1Q5CXN7soQg",
     synopsis:
       "Passionate about ocean life, a filmmaker sets out to document the harm that humans do to marine species - and uncovers alarming global corruption.",
@@ -3828,7 +3828,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/5eETdv.md.webp",
-    href: "./movie-gpt/page/Secret Magic Control Agency.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/OESJJ2vZn9M",
     synopsis:
       "The Secret Magic Control Agency sends its two best agents, Hansel and Gretel, to fight against the witch of the Gingerbread House.",
@@ -3843,7 +3843,7 @@ const movies = [
     country: "Indonesia",
     countrys: ["indonesia"],
     poster: "https://iili.io/HZD0naV.md.webp",
-    href: "./movie-gpt/page/Seperti dendam.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/63FHKt33uJk",
     synopsis:
       "In a society ruled by machismo, a hibernating 'bird' becomes a serious matter. In a life of brutality, the sleeping bird is an allegory for a peaceful and serene life, even when the whole world tries desperately to rouse it.",
@@ -3858,7 +3858,7 @@ const movies = [
     country: "Korea",
     countrys: ["korea"],
     poster: "https://iili.io/583Y4s.md.webp",
-    href: "./movie-gpt/page/Shark The Beginning.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/P_ClPWLHErQ",
     synopsis:
       "Cha Woo Sol, a victim of school violence who was imprisoned in a boys' prison due to an unexpected incident, meets mixed martial arts champion Jeong Do Hyeon and breaks his limit one by one in order to seek for revenge and make his bully pay.",
@@ -3873,7 +3873,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/7eiLns.md.webp",
-    href: "./movie-gpt/page/Silent Night.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/u1dOECVgqIQ",
     synopsis:
       "Nell, Simon, and their son Art are ready to welcome friends and family for what promises to be a perfect Christmas gathering. Perfect except for one thing: everyone is going to die.",
@@ -3888,7 +3888,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/cbF6Qe.md.webp",
-    href: "./movie-gpt/page/Sing 2.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/EPZu5MA2uqI",
     synopsis:
       "Buster Moon and his friends must persuade reclusive rock star Clay Calloway to join them for the opening of a new show.",
@@ -3903,7 +3903,7 @@ const movies = [
     country: "Korea",
     countrys: ["korea"],
     poster: "https://iili.io/5eERmN.md.webp",
-    href: "./movie-gpt/page/Sinkhole.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/SdYxrhZod_0",
     synopsis:
       "A working class family move into a new condo purchased after 11 years of hard work. They throw a housewarming party to show his co-workers when overnight a heavy downpour creates an extremely deep sinkhole that engulfs the entire building.",
@@ -3918,7 +3918,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/7eiHCJ.md.webp",
-    href: "./movie-gpt/page/Snoopy Presents.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/feu3E6aSBvE",
     synopsis:
       "After finding out her grandmother won’t be visiting for Christmas, Lucy decides to cheer herself up by throwing the ultimate New Year’s Eve party. Meanwhile, Charlie Brown tries to fulfill one of his resolutions before midnight.",
@@ -3933,7 +3933,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZDatNn.md.webp",
-    href: "./movie-gpt/page/Somniphobia.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/_Qy8ViAruEg",
     synopsis:
       "A doctor with the ability to visit people's dreams helps a young woman confront the terrifying reality of her nightmare",
@@ -3948,7 +3948,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/Y3hMep.md.webp",
-    href: "./movie-gpt/page/StarBeam Beaming in the New Year.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/0VRfqCckPg8",
     synopsis:
       "Summersette's biggest baddies join forces on New Year's Eve to battle Zoey and the Beam Team. But cool cousin Zara powers up to help save the day.",
@@ -3963,7 +3963,7 @@ const movies = [
     country: "Japan",
     countrys: ["japan"],
     poster: "https://iili.io/c4pkSp.md.webp",
-    href: "./movie-gpt/page/Suicide Forest Village.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/n_0msQtbiLo",
     synopsis:
       "One day a mysterious box arrived and a curse began to spread all over. The source of the box is 'Jukai Village'. The village is hidden in Jukai Forest, a suicide spot that once you enter it, you can never come out.",
@@ -3978,7 +3978,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HC6pKAX.md.webp",
-    href: "./movie-gpt/page/Superhost.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/k5wK0Z1ocpM",
     synopsis:
       "With their follower count dwindling, travel vloggers Teddy and Claire pivot to creating viral content around their most recent 'superhost,' Rebecca, who wants more from the duo than a great review.",
@@ -3993,7 +3993,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/5eEu7R.md.webp",
-    href: "./movie-gpt/page/The Addams Family 2.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/Kd82bSBDE84",
     synopsis:
       "The Addams get tangled up in more wacky adventures and find themselves involved in hilarious run-ins with all sorts of unsuspecting characters. Sequel to the 2019 animated film, 'The Addams Family'.",
@@ -4008,7 +4008,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/pDBBhN.md.webp",
-    href: "./movie-gpt/page/The Black Phone.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/3eGP6im8AZA",
     synopsis:
       "After being abducted by a child killer and locked in a soundproof basement, a 13-year-old boy starts receiving calls on a disconnected phone from the killer's previous victims.",
@@ -4023,7 +4023,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/5eEAep.md.webp",
-    href: "./movie-gpt/page/The Boss Baby Family Business.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/prWBrMJOg2k",
     synopsis:
       "The Templeton brothers have become adults and drifted away from each other, but a new boss baby with a cutting-edge approach is about to bring them together again - and inspire a new family business.",
@@ -4038,7 +4038,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/5eE7II.md.webp",
-    href: "./movie-gpt/page/The Conjuring The Devil Made Me Do It.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/h9Q4zZS2v1k",
     synopsis:
       "The Warrens investigate a murder that may be linked to a demonic possession.",
@@ -4053,7 +4053,7 @@ const movies = [
     country: "Korea",
     countrys: ["korea"],
     poster: "https://iili.io/5eEYXt.md.webp",
-    href: "./movie-gpt/page/The Cursed.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/u4hoxrz7x1Q",
     synopsis:
       "A mysterious serial murder cases take place by jaechaui (dead bodies which have risen from the dead and able to talk). These bodies are manipulated by someone.",
@@ -4068,7 +4068,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/5eEaLX.md.webp",
-    href: "./movie-gpt/page/The Deep House.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/hgqjv1endGY",
     synopsis:
       "The British Ben and his American girlfriend Tina are young adventurers that like to look for isolated weird places using Ben's GoPro camera and drone to post in Ben's social media later aiming to reach a great number of followers. They decide to go to France to seek out a lake formed by a submerged town and find that the place is a touristic area full of visitors.",
@@ -4083,7 +4083,7 @@ const movies = [
     country: "Japan",
     countrys: ["japan"],
     poster: "https://iili.io/5bjOLG.md.webp",
-    href: "./movie-gpt/page/The Fable The Killer Who Doesn't Kill.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/EuJLIYyz2JU",
     synopsis:
       "The Fable/Akira Sato killed 5 men 4 years ago. He meets the girl injured back then in a wheelchair. She's staying with the 6th on his kill list canceled last moment. The 6th is now scamming/extorting people.",
@@ -4098,7 +4098,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/5yNw3G.md.webp",
-    href: "./movie-gpt/page/The Feast.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/9f36pVcXNgc",
     synopsis:
       "Filmed in Welsh, the picture follows a young woman serving privileged guests at a dinner party in a remote house in rural Wales. The assembled guests do not realize they are about to eat their last supper.",
@@ -4113,7 +4113,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/cb0S8Q.md.webp",
-    href: "./movie-gpt/page/The Forever Purge.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/xOrXpK-rUaI",
     synopsis:
       "All the rules are broken as a sect of lawless marauders decides that the annual Purge does not stop at daybreak and instead should never end.",
@@ -4128,7 +4128,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/5eE01s.md.webp",
-    href: "./movie-gpt/page/The Ice Road.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/-zjikObAJHk",
     synopsis:
       "After a remote diamond mine collapses in far northern Canada, a 'big-rig' ice road driver must lead an impossible rescue mission over a frozen lake to save the trapped miners.",
@@ -4143,7 +4143,7 @@ const movies = [
     country: "Japan",
     countrys: ["japan"],
     poster: "https://iili.io/HDf4y6N.md.webp",
-    href: "./movie-gpt/page/The Journey.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/EP6FKs1JsnE",
     synopsis:
       "An animated tale based on the history and culture of ancient Arabia.",
@@ -4158,7 +4158,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HC6mSwu.md.webp",
-    href: "./movie-gpt/page/The Kings Man.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/5zdBG-iGfes",
     synopsis:
       "In the early years of the 20th century, the Kingsman agency is formed to stand against a cabal plotting a war to wipe out millions.",
@@ -4173,7 +4173,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/5bjNXs.md.webp",
-    href: "./movie-gpt/page/The Loud House Movie.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/N52WkGK7EI8",
     synopsis:
       "With his parents and all 10 sisters in tow, Lincoln Loud heads to Scotland and learns that royalty runs in the family in this global musical journey.",
@@ -4188,7 +4188,7 @@ const movies = [
     country: "Thailand",
     countrys: ["thailand"],
     poster: "https://iili.io/5eElBn.md.webp",
-    href: "./movie-gpt/page/The Medium.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/wDtJ3M4arIc",
     synopsis:
       "A horrifying story of a shaman's inheritance in the Isan region of Thailand. What could be possessing a family member might not be the Goddess they make it out to be.",
@@ -4203,7 +4203,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/5eEG2f.md.webp",
-    href: "./movie-gpt/page/The Mitchells vs The Machines.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/_ak5dFt8Ar0",
     synopsis:
       "A quirky, dysfunctional family's road trip is upended when they find themselves in the middle of the robot apocalypse and suddenly become humanity's unlikeliest last hope.",
@@ -4218,7 +4218,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/cbELYv.md.webp",
-    href: "./movie-gpt/page/The Suicide Squad.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/eg5ciqQzmK0",
     synopsis:
       "Supervillains Harley Quinn, Bloodsport, Peacemaker, and a collection of nutty cons at Belle Reve prison join the super-secret, super-shady Task Force X as they are dropped off at the remote, enemy-infused island of Corto Maltese.",
@@ -4233,7 +4233,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/5eE1rG.md.webp",
-    href: "./movie-gpt/page/The Tomorrow War.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/QPistcpGB8o",
     synopsis:
       "A family man is drafted to fight in a future war where the fate of humanity relies on his ability to confront the past.",
@@ -4248,7 +4248,7 @@ const movies = [
     country: "Spanyol",
     countrys: ["spanyol"],
     poster: "https://iili.io/cP9p1a.md.webp",
-    href: "./movie-gpt/page/The Wasteland.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/QojkL0FA0CY",
     synopsis:
       "The tranquil lives of a family isolated from the rest of society are disturbed by a terrifying creature, testing the ties that bind them together.",
@@ -4263,7 +4263,7 @@ const movies = [
     country: "India",
     countrys: ["india"],
     poster: "https://iili.io/5eEM74.md.webp",
-    href: "./movie-gpt/page/The White Tiger.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/35jJNyFuYKQ",
     synopsis:
       "An ambitious Indian driver uses his wit and cunning to escape from poverty and rise to the top. An epic journey based on the New York Times bestseller.",
@@ -4278,7 +4278,7 @@ const movies = [
     country: "Thailand",
     countrys: ["thailand"],
     poster: "https://iili.io/7bdCrl.md.webp",
-    href: "./movie-gpt/page/The Whole Truth.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/wNIY6wfkQxM",
     synopsis:
       "When two siblings stumble on a strange hole in the wall of their grandparents' house, horrifying incidents reveal sinister secrets about their family.",
@@ -4293,7 +4293,7 @@ const movies = [
     country: "Vietnam",
     countrys: ["vietnam"],
     poster: "https://iili.io/7bdx7s.md.webp",
-    href: "./movie-gpt/page/Thiên Than Ho Menh.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/FzoWWAJeFgM",
     synopsis:
       "After the shocking suicide of a young pop star, her backup singer finds herself living a parallel life. But is her success earned, or is it being aided by occult forces?",
@@ -4308,7 +4308,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/H9HD86Q.md.webp",
-    href: "./movie-gpt/page/Titane.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/Q5_w2W5G9OM",
     synopsis:
       "Following a series of unexplained crimes, a father is reunited with the son who has been missing for 10 years.",
@@ -4323,7 +4323,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/5bjPIe.md.webp",
-    href: "./movie-gpt/page/Vivo.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/BOe8L69JpVI",
     synopsis:
       "Vivo, Sony Pictures Animation's first-ever musical adventure featuring all-new original songs from Lin-Manuel Miranda, will take audiences on an epic adventure to gorgeous and vibrant locations never before seen in animation.",
@@ -4338,7 +4338,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/5eEVkl.md.webp",
-    href: "./movie-gpt/page/Wrath of Man.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/EFYEni2gsK0",
     synopsis:
       "A cold and mysterious character working at a cash truck company responsible for moving a lot of money around Los Angeles each week.",
@@ -4353,7 +4353,7 @@ const movies = [
     country: "Japan",
     countrys: ["japan"],
     poster: "https://iili.io/5eEBX1.md.webp",
-    href: "./movie-gpt/page/You're Not Normal, Either.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/V9MhWch9y9M",
     synopsis:
       "Yasuomi Ohno, a math teacher at a prep school, is single and has no girlfriend. He has trouble communicating with girls, so he begs his student, Kasumi Akimoto, who always says he is 'not normal,' to tell him how he can become normal.",
@@ -4368,7 +4368,7 @@ const movies = [
     country: "Indonesia",
     countrys: ["indonesia"],
     poster: "https://iili.io/HZD1KNt.md.webp",
-    href: "./movie-gpt/page/Yuni.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/4BN63e5CnaQ",
     synopsis:
       "In her last year of secondary school, a bright Indonesian student is determined to pursue her education and resist getting married, despite the expectations of her community.",
@@ -4383,7 +4383,7 @@ const movies = [
     country: "Korea",
     countrys: ["korea"],
     poster: "https://iili.io/5Lmr8X.md.webp",
-    href: "./movie-gpt/page/Alive.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/jQ8CCg1tOqc",
     synopsis:
       "The rapid spread of an unknown infection has left an entire city in ungovernable chaos, but one survivor remains alive in isolation. It is his story.",
@@ -4398,7 +4398,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/5Lm69n.md.webp",
-    href: "./movie-gpt/page/A Quiet Place Part II.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/BpdDN9d9Jio",
     synopsis:
       "Following the events at home, the Abbott family now face the terrors of the outside world. Forced to venture into the unknown, they realize the creatures that hunt by sound are not the only threats lurking beyond the sand path.",
@@ -4413,7 +4413,7 @@ const movies = [
     country: "Japan",
     countrys: ["japan"],
     poster: "https://iili.io/5Lmgat.md.webp",
-    href: "./movie-gpt/page/A Whisker Away.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/aXc9DVfLTGo",
     synopsis:
       "Miyo Sasaki is in love with her classmate Kento Hinode and tries repeatedly to get Kento's attention by transforming into a cat, but at some point, the boundary between herself and the cat becomes ambiguous.",
@@ -4428,7 +4428,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/5LmUFI.md.webp",
-    href: "./movie-gpt/page/Kalashnikov.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/ZhTy52KhqQ0",
     synopsis:
       "Wounded as a tank driver in 1941 during WWII, Kalashnikov sees the latest Soviet machine gun fail. As he's also an inventor, he starts looking for improvements and in 1947 ends up with AK-47 assault rifle.",
@@ -4443,7 +4443,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HoIUFQs.md.webp",
-    href: "./movie-gpt/page/All the Bright Places.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/zfQXKVCudec",
     synopsis:
       "The story of Violet and Theodore, who meet and change each other's lives forever. As they struggle with the emotional and physical scars of their past, they discover that even the smallest places and moments can mean something.",
@@ -4458,7 +4458,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/H79JKDx.md.webp",
-    href: "./movie-gpt/page/Anonymous Animal.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/Yb1XAvFOfO8",
     synopsis:
       "The balance of power between man and animal has changed. In a remote countryside, any encounter with the dominant can become hostile.",
@@ -4473,7 +4473,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/5LmPus.md.webp",
-    href: "./movie-gpt/page/Birds of Prey.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/kGM4uYZzfu0",
     synopsis:
       "After splitting with the Joker, Harley Quinn joins superheroines Black Canary, Huntress, and Renee Montoya to save a young girl from an evil crime lord.",
@@ -4488,7 +4488,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/5LmiwG.md.webp",
-    href: "./movie-gpt/page/Black Water Abyss.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/JKNv2YfrM7Y",
     synopsis:
       "Five friends exploring a remote cave system in Northern Australia find themselves threatened by a hungry crocodile.",
@@ -4503,7 +4503,7 @@ const movies = [
     country: "Kazakhstan",
     countrys: ["kazakhstan"],
     poster: "https://iili.io/5Lmstf.md.webp",
-    href: "./movie-gpt/page/Borat Subsequent Moviefilm.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/HOwaypo3jC4",
     synopsis:
       "Borat returns to America from Kazakhstan to America, this time to reveal more about the American culture, the COVD-19 pandemic, and the political elections.",
@@ -4518,7 +4518,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/5LmQn4.md.webp",
-    href: "./movie-gpt/page/Cyst.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/bWZuxRssLUk",
     synopsis:
       "In the 1960s a nurse's last day is ruined when a doctor inadvertently creates a cyst monster that terrorizes the office.",
@@ -4533,7 +4533,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/5LmZMl.md.webp",
-    href: "./movie-gpt/page/Enola Holmes.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/1d0Zf9sXlHk",
     synopsis:
       "When Enola Holmes (Sherlock's teen sister) discovers her mother is missing, she endeavors to find her, becoming a super-sleuth in her own right as she outwits her famous brother and unravels a dangerous conspiracy.",
@@ -4548,7 +4548,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/5LmtP2.md.webp",
-    href: "./movie-gpt/page/Escape from Pretoria.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/R_GFMbq4JPo",
     synopsis:
       "Based on the real-life prison break of two political captives, Escape From Pretoria is a race-against-time thriller set in the tumultuous apartheid days of South Africa.",
@@ -4563,7 +4563,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZbyss4.md.webp",
-    href: "./movie-gpt/page/Extraction.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/L6P3nI6VnlY",
     synopsis:
       "Tyler Rake, a fearless black market mercenary, embarks on the most deadly extraction of his career when he's enlisted to rescue the kidnapped son of an imprisoned international crime lord.",
@@ -4578,7 +4578,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/5LmbFS.md.webp",
-    href: "./movie-gpt/page/Father Soldier Son.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/Xd8LZEaXszM",
     synopsis:
       "When Sgt. First Class Brian Eisch is critically wounded in Afghanistan, it sets him and his sons on a journey of love, loss, redemption and legacy.",
@@ -4593,7 +4593,7 @@ const movies = [
     country: "Japan",
     countrys: ["japan"],
     poster: "https://iili.io/5Lmmc7.md.webp",
-    href: "./movie-gpt/page/Fukushima 50.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/ppDZpNIoqnU",
     synopsis:
       "Workers at the Fukushima Daiichi facility in Japan risk their lives and stay at the nuclear power plant to prevent total destruction after the region is devastated by an earthquake and tsunami in 2011.",
@@ -4608,7 +4608,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZb6mRp.md.webp",
-    href: "./movie-gpt/page/Ghosts of War.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/3AJ4bYHNlGU",
     synopsis:
       "Five American soldiers assigned to hold a French Chateau near the end of World War II. This unexpected respite quickly descends into madness when they encounter a supernatural enemy more terrifying than anything seen on the battlefield.",
@@ -4623,7 +4623,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/5LmpS9.md.webp",
-    href: "./movie-gpt/page/Here We Are Notes for Living on Planet Earth.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/2M3Q4-zCTHc",
     synopsis:
       "A precocious 7-year-old who, over the course of Earth Day, learns about the wonders of the planet from his parents and from a mysterious exhibit at the aptly titled Museum of Everything.",
@@ -4638,7 +4638,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/5Lp99e.md.webp",
-    href: "./movie-gpt/page/Host.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/SNlKbqHqGcY",
     synopsis:
       "Six friends hire a medium to hold a seance via Zoom during lockdown, but they get far more than they bargained for as things quickly go wrong.",
@@ -4653,7 +4653,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/5LpHAu.md.webp",
-    href: "./movie-gpt/page/Let It Snow.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/6U1Vl0H2tI0",
     synopsis:
       "Separated from her fiance after sneaking onto a restricted slope, Mia, a free-riding snowboarder, must survive not only against nature, but also the masked snowmobile rider in black who is out for her blood.",
@@ -4668,7 +4668,7 @@ const movies = [
     country: "Inggris",
     countrys: ["inggris"],
     poster: "https://iili.io/5LpJwb.md.webp",
-    href: "./movie-gpt/page/Limbo.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/3O--8AuuhgA",
     synopsis:
       "Omar is a promising young musician. Separated from his Syrian family, he is stuck on a remote Scottish island awaiting the fate of his asylum request.",
@@ -4683,7 +4683,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/5Lp3ox.md.webp",
-    href: "./movie-gpt/page/Love and Monsters.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/-19tBHrZwOM",
     synopsis:
       "Seven years after he survived the monster apocalypse, lovably hapless Joel leaves his cozy underground bunker behind on a quest to reunite with his ex.",
@@ -4698,7 +4698,7 @@ const movies = [
     country: "Japan",
     countrys: ["japan"],
     poster: "https://iili.io/5LpzNa.md.webp",
-    href: "./movie-gpt/page/Love Me Love Me Not.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/jpHj2G6L2FA",
     synopsis:
       "The love affairs of four schoolkids: a romantic, a pragmatist, an airhead and a lothario.",
@@ -4713,7 +4713,7 @@ const movies = [
     country: "Thailand",
     countrys: ["thailand"],
     poster: "https://iili.io/5Lpdtj.md.webp",
-    href: "./movie-gpt/page/Low Season.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/YuUCJwBjVH8",
     synopsis:
       "A girl with a special sense and can see the ghosts broke up with her boyfriend becoming tired of the big city and decided to leave the city for a break. She heads to the faraway resort in the North alone during the so-called 'Low Season'.",
@@ -4728,7 +4728,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/5LpFMQ.md.webp",
-    href: "./movie-gpt/page/Magic Mountains.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/GDGXIekXm0o",
     synopsis:
       "A successful writer asks his ex, who left him, to climb one last time in the mountains together. Only then he can really let her go.",
@@ -4743,7 +4743,7 @@ const movies = [
     country: "Indonesia",
     countrys: ["indonesia"],
     poster: "https://iili.io/5LpKPV.md.webp",
-    href: "./movie-gpt/page/Mangkujiwo.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/G-F_8OZcQV8",
     synopsis: "A born of Kuntilanak from a Twin Mirror with her misery.",
     duration: "1h 49m",
@@ -4757,7 +4757,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/5LpqKB.md.webp",
-    href: "./movie-gpt/page/Miraculous World New York United.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/K41a_JkCM1U",
     synopsis:
       "Marinette's class is headed to New York, the city of superheroes, for French American Friendship Week, but the American superheroes may find themselves in need of help while there.",
@@ -4772,7 +4772,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/5LpBcP.md.webp",
-    href: "./movie-gpt/page/Most Wanted.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/ZRQ7wfBaOLo",
     synopsis:
       "In 1989, a Canadian journalist investigates the circumstances surrounding the suspicious arrest of a heroin addict imprisoned in a Thai jail.",
@@ -4787,7 +4787,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/5LpCS1.md.webp",
-    href: "./movie-gpt/page/Mulan.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/KK8FHdFluOQ",
     synopsis:
       "A young Chinese maiden disguises herself as a male warrior in order to save her father.",
@@ -4802,7 +4802,7 @@ const movies = [
     country: "Japan",
     countrys: ["japan"],
     poster: "https://iili.io/Hx9tX8N.md.webp",
-    href: "./movie-gpt/page/My Blood Bones in a Flowing Galaxy.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/HgB31i4yZOc",
     synopsis:
       "Hamada is seemingly a regular high school, junior student. He is indeed ordinary except he has a passion for righteousness and justice. His trait comes to the fore when he notices that his junior school-mate Hari is being bullied. He does not abide by it and decides to step in and help her. His intervention is welcomed and she seems him as a white knight of sorts.",
@@ -4817,7 +4817,7 @@ const movies = [
     country: "Indonesia",
     countrys: ["indonesia"],
     poster: "https://iili.io/58x2Tb.md.webp",
-    href: "./movie-gpt/page/Nanti Kita Cerita.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/TcHh986XvI4",
     synopsis:
       "Three siblings live in happy-looking families, but one of them changes and gets warned by his parents, prompting the rebellion of the three siblings which led to the discovery of the secrets and great trauma in their families.",
@@ -4832,7 +4832,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/5LpoHF.md.webp",
-    href: "./movie-gpt/page/Nobody Sleeps in the Woods Tonight.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/tzNyYx-3udQ",
     synopsis:
       "A group of technology-dependent teenagers goes to offline camp and faces a deadly danger lurking in the woods.",
@@ -4847,7 +4847,7 @@ const movies = [
     country: "Japan",
     countrys: ["japan"],
     poster: "https://iili.io/5LpxAg.md.webp",
-    href: "./movie-gpt/page/Not Quite Dead Yet.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/GQ254ZBpEkg",
     synopsis:
       "A pharmaceutical CEO who is pondering thefts and irregularities at his company drinks a drug that temporary suppresses his signs and gives him a deathlike state for a couple of days. Something goes wrong. His daughter, with whom he has had a rocky relationship, attempts to rescue him with help from a company employee.",
@@ -4862,7 +4862,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/5LpIDJ.md.webp",
-    href: "./movie-gpt/page/Onward.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/gn5QmllRCn4",
     synopsis:
       "Two elven brothers embark on a quest to bring their father back for one day.",
@@ -4877,7 +4877,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/5Lpuov.md.webp",
-    href: "./movie-gpt/page/Over the Moon.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/26DIABx44Tw",
     synopsis:
       "In this animated musical, a girl builds a rocket ship and blasts off, hoping to meet a mythical moon goddess.",
@@ -4892,7 +4892,7 @@ const movies = [
     country: "Korea",
     countrys: ["korea"],
     poster: "https://iili.io/5LpAVR.md.webp",
-    href: "./movie-gpt/page/Pawn.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/ubKV0a-xBHg",
     synopsis:
       "A human drama about a man who would do anything for money becoming friends with a child who is then taken hostage.",
@@ -4907,7 +4907,7 @@ const movies = [
     country: "Korea",
     countrys: ["korea"],
     poster: "https://iili.io/5LpRPp.md.webp",
-    href: "./movie-gpt/page/Peninsula.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/g_Q5fSvDak8",
     synopsis:
       "A zombie virus has in the last 4 years spread to all South Korea. 4 Koreans in Hong Kong sail through the blockade to Incheon for USD20,000,000 on a truck.",
@@ -4922,7 +4922,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/5Lp7KN.md.webp",
-    href: "./movie-gpt/page/Relic.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/XWhZDQkq0bw",
     synopsis:
       "A daughter, mother and grandmother are haunted by a manifestation of dementia that consumes their family's home.",
@@ -4937,7 +4937,7 @@ const movies = [
     country: "Denmark",
     countrys: ["denmark"],
     poster: "https://iili.io/5LpYlI.md.webp",
-    href: "./movie-gpt/page/Riders of Justice.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/l09T87hEstI",
     synopsis:
       "Markus goes home to his teenage daughter, Mathilde, when his wife dies in a train crash. All appears to be a tragic accident until a mathematics geek, who was also a fellow passenger on the train, and his two colleagues show up.",
@@ -4952,7 +4952,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/5LpaSt.md.webp",
-    href: "./movie-gpt/page/Scoob.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/GzlEnS7MmUo",
     synopsis:
       "Scooby and the gang face their most challenging mystery ever: a plot to unleash the ghost dog Cerberus upon the world. As they race to stop this dogpocalypse, the gang discovers that Scooby has an epic destiny greater than anyone imagined.",
@@ -4967,7 +4967,7 @@ const movies = [
     country: "India",
     countrys: ["india"],
     poster: "https://iili.io/5LplHX.md.webp",
-    href: "./movie-gpt/page/Serious Men.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/naXf8R1aOik",
     synopsis:
       "Tormented with his 'under-privileged' societal status, a father capitalizes on his son's newfound fame as a boy-genius. Little does he realize that the secret he harbors will destroy the very thing he loves the most.",
@@ -4982,7 +4982,7 @@ const movies = [
     country: "Korea",
     countrys: ["korea"],
     poster: "https://iili.io/5Lp0Rn.md.webp",
-    href: "./movie-gpt/page/SF8.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/mgNY-cAZWs8",
     synopsis:
       "A young man and woman choose romance in the face of the impending destruction of Earth by a rogue comet.",
@@ -4997,7 +4997,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZm00AB.md.webp",
-    href: "./movie-gpt/page/Spell.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/fTznGVd8nyo",
     synopsis:
       "A man crash lands in rural Appalachia and awakens in the attic of a traditional Hoodoo practitioner. He desperately tries to break free from her dark magic and save his family from a sinister ritual before the rise of the blood moon.",
@@ -5012,7 +5012,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/5LpEDG.md.webp",
-    href: "./movie-gpt/page/Sonic the Hedgehog.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/szby7ZHLnkA",
     synopsis:
       "After discovering a small, blue, fast hedgehog, a small-town police officer must help him defeat an evil genius who wants to do experiments on him.",
@@ -5027,7 +5027,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/5Lp1Ns.md.webp",
-    href: "./movie-gpt/page/Soul.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/xOsLIiBStEs",
     synopsis:
       "After landing the gig of a lifetime, a New York jazz pianist suddenly finds himself trapped in a strange land between Earth and the afterlife.",
@@ -5042,7 +5042,7 @@ const movies = [
     country: "Korea",
     countrys: ["korea"],
     poster: "https://iili.io/HZbP1X1.md.webp",
-    href: "./movie-gpt/page/The Call.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/hxkKeniT-0Q",
     synopsis:
       "Two people live in different times. Seo-Yeon lives in the present and Young-Sook lives in the past. One phone call connects the two, and their lives are changed irrevocably.",
@@ -5057,7 +5057,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZmGunt.md.webp",
-    href: "./movie-gpt/page/The Calm Beyond.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/MZZHohrzgwc",
     synopsis:
       "A young woman lives, hidden in plain sight in a ruined Hong Kong building after a tsunami destroyed the city - A castaway on a concrete island. Her concealed existence is changed forever when a small child literally floats into her life.",
@@ -5072,7 +5072,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/5LpMxf.md.webp",
-    href: "./movie-gpt/page/The Croods A New Age.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/GkXeVIfbJOw",
     synopsis:
       "The prehistoric family the Croods are challenged by a rival family the Bettermans, who claim to be better and more evolved.",
@@ -5087,7 +5087,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/5LpWil.md.webp",
-    href: "./movie-gpt/page/The Hunt.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/xoWmwsPU5cQ",
     synopsis:
       "Twelve strangers wake up in a clearing. They don't know where they are, or how they got there. They don't know they've been chosen - for a very specific purpose - The Hunt.",
@@ -5102,7 +5102,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/5LpVV4.md.webp",
-    href: "./movie-gpt/page/The Invisible Man.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/WO_FJdiY9dA",
     synopsis:
       "When Cecilia's abusive ex takes his own life and leaves her his fortune, she suspects his death was a hoax. As a series of coincidences turn lethal, Cecilia works to prove that she is being hunted by someone nobody can see.",
@@ -5117,7 +5117,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/5Lphf2.md.webp",
-    href: "./movie-gpt/page/The King of Staten Island.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/azkVr0VUSTA",
     synopsis:
       "Scott has been a case of arrested development since his firefighter dad died. He spends his days smoking weed and dreaming of being a tattoo artist until events force him to grapple with his grief and take his first steps forward in life.",
@@ -5132,7 +5132,7 @@ const movies = [
     country: "Thailand",
     countrys: ["thailand"],
     poster: "https://iili.io/5LpjlS.md.webp",
-    href: "./movie-gpt/page/The Maid.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/unsXtUJydac",
     synopsis:
       "A teenager Joy, work as a domestic maid and being haunted by the previous maid spirit, to discover the secret behind her death.",
@@ -5147,7 +5147,7 @@ const movies = [
     country: "German",
     countrys: ["german"],
     poster: "https://iili.io/HZDxQLP.md.webp",
-    href: "./movie-gpt/page/The Meaning of Hitler.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/Uf3sk-ZBSRM",
     synopsis:
       "An inquiry into decades of cultural fascination with the Nazi leader, and the ramifications of such a fascination on present day politics.",
@@ -5162,7 +5162,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/5LpwU7.md.webp",
-    href: "./movie-gpt/page/The Night Clerk.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/8j6wDoyiyd4",
     synopsis:
       "A voyeuristic hotel clerk becomes the subject of a murder investigation.",
@@ -5177,7 +5177,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/5LpOJ9.md.webp",
-    href: "./movie-gpt/page/The Outpost.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/f4LM9a02q9Q",
     synopsis:
       "A small team of U.S. soldiers battles against hundreds of Taliban fighters in Afghanistan.",
@@ -5192,7 +5192,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/5LpkOu.md.webp",
-    href: "./movie-gpt/page/The Secret Garden.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/nrQkxUq88Zg",
     synopsis:
       "An orphaned girl discovers a magical garden hidden at her strict uncle's estate.",
@@ -5207,7 +5207,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/5LpeRe.md.webp",
-    href: "./movie-gpt/page/The Silencing.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/xLXZl1JF85c",
     synopsis:
       "A reformed hunter living in isolation on a wildlife sanctuary becomes involved in a deadly game of cat and mouse when he and the local Sheriff set out to track a vicious killer who may have kidnapped his daughter years ago.",
@@ -5222,7 +5222,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZmGmiX.md.webp",
-    href: "./movie-gpt/page/The Social Dilemma.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/uaaC57tcci0",
     synopsis:
       "Explores the dangerous human impact of social networking, with tech experts sounding the alarm on their own creations.",
@@ -5237,7 +5237,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/5LpvDb.md.webp",
-    href: "./movie-gpt/page/The Speed Cubers.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/-wrTIWx_Z6k",
     synopsis:
       "Discover the special bond -- and uncommon competitive spirit -- shared by the world's Rubik's Cube-solving record breakers in this documentary.",
@@ -5252,7 +5252,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/5LpSxj.md.webp",
-    href: "./movie-gpt/page/The SpongeBob Movie Sponge on the Run.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/a2cowVH03Xo",
     synopsis:
       "After SpongeBob's beloved pet snail Gary is snail-napped, he and Patrick embark on an epic adventure to The Lost City of Atlantic City to bring Gary home.",
@@ -5267,7 +5267,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/5LpUWx.md.webp",
-    href: "./movie-gpt/page/The Way Back.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/GhtTc7R8yBk",
     synopsis:
       "Jack Cunningham was a high school basketball phenom who walked away from the game, forfeiting his future. Years later, when he reluctantly accepts a coaching job at his alma mater, he may get one last shot at redemption.",
@@ -5282,7 +5282,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/5LpgiQ.md.webp",
-    href: "./movie-gpt/page/The Willoughbys.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/HnG4ag3Nkes",
     synopsis:
       "Convinced they'd be better off raising themselves, the Willoughby children hatch a sneaky plan to send their selfish parents on vacation. The siblings then embark on their own high-flying adventure to find the true meaning of family.",
@@ -5297,7 +5297,7 @@ const movies = [
     country: "Thailand",
     countrys: ["thailand"],
     poster: "https://iili.io/5Lp4fV.md.webp",
-    href: "./movie-gpt/page/Thibaan x BNK48.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/TrQlQ3fbjkc",
     synopsis:
       "In order to come up with new music, a girl music group has to go to live in the countryside. By putting aside their city lives, perhaps life in the countryside can prove inspirational and help the girl band to produce a fresh, new sound.",
@@ -5312,7 +5312,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZm9jY7.md.webp",
-    href: "./movie-gpt/page/Tin Can.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/7pvoCngu65U",
     synopsis:
       "As the world faces a deadly plague, humanity's hope for a cure lies with a scientist who awakens imprisoned in a metal chamber. She desperately works to escape her confined cell to save the last of humanity.",
@@ -5327,7 +5327,7 @@ const movies = [
     country: "Indonesia",
     countrys: ["indonesia"],
     poster: "https://iili.io/5Lp60B.md.webp",
-    href: "./movie-gpt/page/The Ex-Lover Shop.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/t0S_n0D8NSY",
     synopsis:
       "Tristan (Reza Rahadian) is the owner of the shop that buys and sells ex-lover items for people who want to move on. Suddenly, Laras (Marsha Timothy), his ex-lover, comes and makes his life turned upside down.",
@@ -5342,7 +5342,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/5LpPUP.md.webp",
-    href: "./movie-gpt/page/Trolls 2 World Tour.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/08AExF6dETA",
     synopsis:
       "When the Queen of the Hard Rock Trolls tries to take over all the Troll kingdoms, Queen Poppy and her friends try different ways to save all the Trolls.",
@@ -5357,7 +5357,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/5LpsJ1.md.webp",
-    href: "./movie-gpt/page/Underwater.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/jCFWEzIVILc",
     synopsis:
       "A crew of oceanic researchers working for a deep sea drilling company try to get to safety after a mysterious earthquake devastates their deepwater research and drilling facility located at the bottom of the Mariana Trench.",
@@ -5372,7 +5372,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/5LpL5F.md.webp",
-    href: "./movie-gpt/page/Unpregnant.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/FEchWX525Es",
     synopsis:
       "A 17-year old Missouri teen named Veronica discovers she has gotten pregnant, a development that threatens to end her dreams of matriculating at an Ivy League college, and the career that will follow.",
@@ -5387,7 +5387,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/5LpQOg.md.webp",
-    href: "./movie-gpt/page/We Bare Bears The Movie.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/0ZNsLy2IwcY",
     synopsis:
       "Grizz, Panda, and Ice Bear embark on an adventure to Canada after an agent from the Department of National Wildlife Control tries to put an end to their hi-jinx.",
@@ -5402,7 +5402,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/Yv0NUX.md.webp",
-    href: "./movie-gpt/page/Wolfwalkers.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/d_Z_tybgPgg",
     synopsis:
       "A young apprentice hunter and her father journey to Ireland to help wipe out the last wolf pack. But everything changes when she befriends a free-spirited girl from a mysterious tribe rumored to transform into wolves by night.",
@@ -5417,7 +5417,7 @@ const movies = [
     country: "Japan",
     countrys: ["japan"],
     poster: "https://iili.io/5LpDzJ.md.webp",
-    href: "./movie-gpt/page/Wotakoi Love Is Hard for Otaku.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/2Mnxmcjsl8c",
     synopsis:
       "Two office workers, who are also fans of otaku culture, meet and develop a relationship.",
@@ -5432,7 +5432,7 @@ const movies = [
     country: "Japan",
     countrys: ["japan"],
     poster: "https://iili.io/5LpZba.md.webp",
-    href: "./movie-gpt/page/Yakuza and the Family.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/rUzKrTx3F3k",
     synopsis:
       "Kenji Yamamoto's father died from using a stimulant drug. His life fell into desperation. Kenji then joined a crime syndicate. There, he meets the gang's boss Hiroshi Shibasaki. Hiroshi reaches out to Kenji and they developed a relationship like father and son. As time passes, Kenji has his own family.",
@@ -5447,7 +5447,7 @@ const movies = [
     country: "Japan",
     countrys: ["japan"],
     poster: "https://iili.io/HC6m8ue.md.webp",
-    href: "./movie-gpt/page/Yowamushi Pedal.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/WsjYGTy0lLI",
     synopsis:
       "Onoda, a cheerful youth who is a manga and anime fan, discovers he has a talent for cycling.",
@@ -5462,7 +5462,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/58xDNa.md.webp",
-    href: "./movie-gpt/page/1917.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/YqNYrYUiMfg",
     synopsis:
       "April 6th, 1917. As an infantry battalion assembles to wage war deep in enemy territory, two soldiers are assigned to race against time and deliver a message that will stop 1,600 men from walking straight into a deadly trap.",
@@ -5477,7 +5477,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZphesV.md.webp",
-    href: "./movie-gpt/page/7500.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/Ml9S6qUEEv4",
     synopsis:
       "When terrorists try to seize control of a Berlin-Paris flight, a soft-spoken American co-pilot struggles to save the lives of the passengers and crew while forging a surprising connection with one of the hijackers.",
@@ -5492,7 +5492,7 @@ const movies = [
     country: "Korea",
     countrys: ["korea"],
     poster: "https://iili.io/58z7Db.md.webp",
-    href: "./movie-gpt/page/0.0 Mhz.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/SXuq_sIrWIo",
     synopsis:
       "Members of a supernatural exploration club go into a haunted house.",
@@ -5507,7 +5507,7 @@ const movies = [
     country: "Japan",
     countrys: ["japan"],
     poster: "https://iili.io/58xpov.md.webp",
-    href: "./movie-gpt/page/12 Suicidal Teens.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/tlXwSOVZMPw",
     synopsis:
       "Twelve kids go into an abandoned hospital to give up on life. In the room where they meet, a boy is already lying dead, and no one knows who he is.",
@@ -5522,7 +5522,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZpWK11.md.webp",
-    href: "./movie-gpt/page/21 Bridges.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/BVZDhunTrYA",
     synopsis:
       "An embattled NYPD detective is thrust into a citywide manhunt for a pair of cop killers after uncovering a massive and unexpected conspiracy.",
@@ -5537,7 +5537,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/58xbDJ.md.webp",
-    href: "./movie-gpt/page/47 Meters Down Uncaged.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/zF3lM_EPh2U",
     synopsis:
       "Two sisters diving in a ruined underwater city quickly learn they've entered the territory of the deadliest shark species in the claustrophobic labyrinth of submerged caves.",
@@ -5552,7 +5552,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/58xyVR.md.webp",
-    href: "./movie-gpt/page/6 Underground.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/YLE85olJjp8",
     synopsis:
       "Six individuals from all around the globe, each the very best at what they do, have been chosen not only for their skill, but for a unique desire to delete their pasts to change the future.",
@@ -5567,7 +5567,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/58z9Pp.md.webp",
-    href: "./movie-gpt/page/A Night of Horror Nightmare Radio.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/9RMTYzdMiaU",
     synopsis:
       "Rod, radio DJ, hosts a popular horror-themed show packed with tales of terror for eager listeners. When he receives alarming calls from a horrified child things start to feel off.",
@@ -5582,7 +5582,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/58zJKN.md.webp",
-    href: "./movie-gpt/page/A Rainy Day in New York.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/yIVRldiVDL8",
     synopsis:
       "A young couple arrives in New York for a weekend where they are met with bad weather and a series of adventures.",
@@ -5597,7 +5597,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/58zdlI.md.webp",
-    href: "./movie-gpt/page/A Shaun the Sheep Movie Farmageddon.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/YxRUSAIYieA",
     synopsis:
       "When an alien with amazing powers crash-lands near Mossy Bottom Farm, Shaun the Sheep goes on a mission to shepherd the intergalactic visitor home before a sinister organization can capture her.",
@@ -5612,7 +5612,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/58z2St.md.webp",
-    href: "./movie-gpt/page/Abominable.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/XrgVtuDRBjM",
     synopsis:
       "Three teenagers must help a Yeti return to his family while avoiding a wealthy man and a zoologist who want him for their own needs.",
@@ -5627,7 +5627,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZpNoWx.md.webp",
-    href: "./movie-gpt/page/After Midnight.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/ChgzKEVuUUI",
     synopsis:
       "When his girlfriend suddenly disappears, leaving a cryptic note as her only explanation, Hank's comfortable life and his sanity begin to crack. Then, from the woods surrounding his house, something terrible starts trying to break in.",
@@ -5642,7 +5642,7 @@ const movies = [
     country: "Korea",
     countrys: ["korea"],
     poster: "https://iili.io/58zFHX.md.webp",
-    href: "./movie-gpt/page/Ashfall.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/24T47vQA0fY",
     synopsis:
       "Stagnant since 1903, at an elevation of 2,744 m, a volcano erupts on the mythical and majestic Baekdu Mountain.",
@@ -5657,7 +5657,7 @@ const movies = [
     country: "Thailand",
     countrys: ["thailand"],
     poster: "https://iili.io/HZpsYVS.md.webp",
-    href: "./movie-gpt/page/Bikeman 2.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/qtYpG02Iokc",
     synopsis:
       "The story of Sakkarin continues from 'Bikeman'. Sakkarin is now on his full-speed hitting on Jai but love comes with as obstacle as he has to face with challenges posted by Jai's intimidating father.",
@@ -5672,7 +5672,7 @@ const movies = [
     country: "Japan",
     countrys: ["japan"],
     poster: "https://iili.io/58zKRn.md.webp",
-    href: "./movie-gpt/page/My Hero Academia Heroes Rising.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/3lnt41tVygI",
     synopsis:
       "A group of youths aspiring to become professional superheroes, fight in a world full of people with abilities, also known as quirks. Deku and his fellow classmates from Hero Academy face Nine, the strongest villain yet.",
@@ -5687,7 +5687,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/58zCxf.md.webp",
-    href: "./movie-gpt/page/Code 8.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/PrX1JJ5dduA",
     synopsis:
       "A super-powered construction worker falls in with a group of criminals in order to raise the funds to help his ill mother.",
@@ -5702,7 +5702,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/58zfNs.md.webp",
-    href: "./movie-gpt/page/Countdown.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/pqvWtC2ae3M",
     synopsis:
       "When a nurse downloads an app that claims to predict the moment a person will die, it tells her she only has three days to live. With the clock ticking and a figure haunting her, she must find a way to save her life before time runs out.",
@@ -5717,7 +5717,7 @@ const movies = [
     country: "Vietnam",
     countrys: ["vietnam"],
     poster: "https://iili.io/58zqDG.md.webp",
-    href: "./movie-gpt/page/Danger Close.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/_E0J11-rB7Q",
     synopsis:
       "In August 1966, in a Vietnamese rubber plantation called Long Tan, 108 young and inexperienced Australian and New Zealand soldiers are fighting for their lives against 2500 North Vietnamese and Viet Cong soldiers.",
@@ -5732,7 +5732,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HxTyRXp.md.webp",
-    href: "./movie-gpt/page/Do Not Reply.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/_fKvK-JIc00",
     synopsis:
       "Chelsea, a teenager, is abducted through a social media app by Brad and is held captive with other girls who are to become victims in his virtual reality filmed murders.",
@@ -5747,7 +5747,7 @@ const movies = [
     country: "Indonesia",
     countrys: ["indonesia"],
     poster: "https://iili.io/58znV4.md.webp",
-    href: "./movie-gpt/page/Dua Garis Biru.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/b0NS7FP1loU",
     synopsis:
       "A young couple violated the boundary without knowing the consequences. They try to take responsibility for their choices and their innocence is tested when the families who really loved them knew, then forced into their chosen journey.",
@@ -5762,7 +5762,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/5ifwDF.md.webp",
-    href: "./movie-gpt/page/Escape Room.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/6dSKUoV0SNI",
     synopsis:
       "Six strangers find themselves in a maze of deadly mystery rooms and must use their wits to survive.",
@@ -5777,7 +5777,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/58zzf2.md.webp",
-    href: "./movie-gpt/page/Fast Furious Presents Hobbs Shaw.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/HZ7PAyCDwEg",
     synopsis:
       "Lawman Luke Hobbs and outcast Deckard Shaw form an unlikely alliance when a cyber-genetically enhanced villain threatens the future of humanity.",
@@ -5792,7 +5792,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/58zIlS.md.webp",
-    href: "./movie-gpt/page/Fighting with My Family.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/WqF3VTv0cqU",
     synopsis:
       "A former wrestler and his family make a living performing at small venues around the country while his kids dream of joining World Wrestling Entertainment.",
@@ -5807,7 +5807,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/58zTU7.md.webp",
-    href: "./movie-gpt/page/Ford v Ferrari.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/I3h9Z89U9ZA",
     synopsis:
       "American car designer Carroll Shelby and driver Ken Miles battle corporate interference and the laws of physics to build a revolutionary race car for Ford in order to defeat Ferrari at the 24 Hours of Le Mans in 1966.",
@@ -5822,7 +5822,7 @@ const movies = [
     country: "Thailand",
     countrys: ["thailand"],
     poster: "https://iili.io/HDmU6Ip.md.webp",
-    href: "./movie-gpt/page/Friend Zone.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/LHzwwYcrKks",
     synopsis:
       "Many people in this world seem to be wandering along a relationship borderlining 'friends' and 'lovers'--a borderline commonly known as the FRIEND ZONE. A tricky area for those who cannot really stay friends with their close friends nor move forward to be their friends' lovers. Palm (Naphat Siangsomboon) has been stuck in the FRIEND ZONE with his best friend Gink (Pimchanok Luevisadpaibul) for 10 years. During high school he tried to cross the line by confessing his feelings for her, but she simply rejected him with 'being friends is good enough.' Since then, Palm and Gink have grown closer as true best friends. Every time Palm breaks up with one of his countless girlfriends, Gink will talk sense into him; every time Gink fights with her boyfriend Ted (Jason Young), no matter where she happens to be in Myanmar, Malaysia, or Hong Kong, she calls Palm, who uses his perks as a flight attendant to catch flights to be with her. Perhaps this excessive kindness makes Gink have a problem with Ted. One day, out of the blue, Gink asks Palm: 'Have you wondered--what if we were an item?' Right then, sparks fly wildly inside Palm's mind: this might be his only chance to cross the borderline. But he has no way of knowing if leaving the FRIEND ZONE this time will lead him to the beginning of his romantic love life or to the end of his friendship with Gink forever.",
@@ -5837,7 +5837,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/58zAJ9.md.webp",
-    href: "./movie-gpt/page/Frozen II.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/Zi4LMpSDccc",
     synopsis:
       "Anna, Elsa, Kristoff, Olaf and Sven leave Arendelle to travel to an ancient, autumn-bound forest of an enchanted land. They set out to find the origin of Elsa's powers in order to save their kingdom.",
@@ -5852,7 +5852,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/58zRRe.md.webp",
-    href: "./movie-gpt/page/Gemini Man.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/AbyJignbSj0",
     synopsis:
       "An over-the-hill hitman faces off against a younger clone of himself.",
@@ -5867,7 +5867,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/58z5Ou.md.webp",
-    href: "./movie-gpt/page/Glass.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/95ghQs5AmNk",
     synopsis:
       "Security guard David Dunn uses his supernatural abilities to track Kevin Wendell Crumb, a disturbed man who has twenty-four personalities.",
@@ -5882,7 +5882,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/58xlat.md.webp",
-    href: "./movie-gpt/page/Harpoon.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/pAVf9KnTcoI",
     synopsis:
       "Rivalries, dark secrets, and sexual tension emerge when three best friends find themselves stranded on a yacht in the middle of the ocean desperate for survival.",
@@ -5897,7 +5897,7 @@ const movies = [
     country: "Japan",
     countrys: ["japan"],
     poster: "https://iili.io/58x08X.md.webp",
-    href: "./movie-gpt/page/Hello World.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/shoWFRnNoWw",
     synopsis:
       "A man travels in time from the year 2027 to relive his school years and to correct a bad decision.",
@@ -5912,7 +5912,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/58xcFI.md.webp",
-    href: "./movie-gpt/page/How to Build a Girl.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/L-g-C6xtNVA",
     synopsis:
       "A teenager living with her working-class family on a council estate in Wolverhampton, England, grows up to become a popular but conflicted music journalist.",
@@ -5927,7 +5927,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/58xY6N.md.webp",
-    href: "./movie-gpt/page/I Am Mother.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/N5BKctcZxrM",
     synopsis:
       "In the wake of humanity's extinction, a teenage girl is raised by a robot designed to repopulate the earth. But their unique bond is threatened when an inexplicable stranger arrives with alarming news.",
@@ -5942,7 +5942,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/58x7Gp.md.webp",
-    href: "./movie-gpt/page/In the Tall Grass.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/7afc9gTbVFI",
     synopsis:
       "After hearing a young boy's cry for help, a sister and brother venture into a vast field of tall grass in Kansas but soon discover there may be no way out...and that something evil lurks within.",
@@ -5957,7 +5957,7 @@ const movies = [
     country: "Thailand",
     countrys: ["thailand"],
     poster: "https://iili.io/58x5nR.md.webp",
-    href: "./movie-gpt/page/Inhuman Kiss.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/CBEz-cJSGxo",
     synopsis:
       "In a far-away village, lived an innocent teenage girl, Sai who later discovered herself inheriting the curse of Krasue. At night, her head would detach from her body and hunts for flesh and blood. Villagers are terrified by the deaths of their livestocks and that is when the Krasue hunt begins.",
@@ -5972,7 +5972,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/58xAZv.md.webp",
-    href: "./movie-gpt/page/It Chapter Two.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/zqUopiAYdRg",
     synopsis:
       "Twenty-seven years after their first encounter with the terrifying Pennywise, the Losers Club have grown up and moved away, until a devastating phone call brings them back.",
@@ -5987,7 +5987,7 @@ const movies = [
     country: "Japan",
     countrys: ["japan"],
     poster: "https://iili.io/58xuwJ.md.webp",
-    href: "./movie-gpt/page/Hell Girl.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/5Xn-SfQvfp4",
     synopsis:
       "Tormented and bullied people can access a special website, run by a Hell Girl who will enable them to take revenge on their torturers. The price for such a service is only that the person must join their torturer in damnation.",
@@ -6002,7 +6002,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/58xTua.md.webp",
-    href: "./movie-gpt/page/Joker.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/zAGVQLHvwOY",
     synopsis:
       "The rise of Arthur Fleck, from aspiring stand-up comedian and pariah to Gotham's clown prince and leader of the revolution.",
@@ -6017,7 +6017,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/58xzyg.md.webp",
-    href: "./movie-gpt/page/Jumanji The Next Level.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/rBxcF-r9Ibs",
     synopsis:
       "In Jumanji: The Next Level, the gang is back but the game has changed. As they return to rescue one of their own, the players will have to brave parts unknown from arid deserts to snowy mountains, to escape the world's most dangerous game.",
@@ -6032,7 +6032,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/58xx8F.md.webp",
-    href: "./movie-gpt/page/Killer Sofa.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/nvRgqZ0U0ug",
     synopsis:
       "A killer reclining chair becomes enchanted by a girl and starts committing crimes of passion.",
@@ -6047,7 +6047,7 @@ const movies = [
     country: "Japan",
     countrys: ["japan"],
     poster: "https://iili.io/58xoa1.md.webp",
-    href: "./movie-gpt/page/Kiss Me at the Stroke of Midnight.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/fdVbkdTvfHs",
     synopsis:
       "A stern young girl who yearns for romance, finds herself involved with a celebrity whose image reveals a hidden persona.",
@@ -6062,7 +6062,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/58xn3P.md.webp",
-    href: "./movie-gpt/page/Knives Out.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/sL-9Khv7wa4",
     synopsis:
       "A detective investigates the death of the patriarch of an eccentric, combative family.",
@@ -6077,7 +6077,7 @@ const movies = [
     country: "Indonesia",
     countrys: ["indonesia"],
     poster: "https://iili.io/HZp454s.md.webp",
-    href: "./movie-gpt/page/Laundry Show.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/r65Ofz-Y6Sc",
     synopsis:
       "A man chooses to resign from his office to set up a laundry business and must deal with his employees, who have various ridiculous personalities.",
@@ -6092,7 +6092,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/58xB6B.md.webp",
-    href: "./movie-gpt/page/Maleficent Mistress of Evil.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/n0OFH4xpPr4",
     synopsis:
       "Maleficent and her goddaughter Aurora begin to question the complex family ties that bind them as they are pulled in different directions by impending nuptials, unexpected allies, and dark new forces at play.",
@@ -6107,7 +6107,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/58xqGV.md.webp",
-    href: "./movie-gpt/page/Marriage Story.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/BHi-a1n8t7M",
     synopsis:
       "Noah Baumbach's incisive and compassionate look at a marriage breaking up and a family staying together.",
@@ -6122,7 +6122,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HtdFAyG.md.webp",
-    href: "./movie-gpt/page/Men in Black International.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/BV-WEb2oxLk",
     synopsis:
       "The Men in Black have always protected the Earth from the scum of the universe. In this new adventure, they tackle their biggest threat to date: a mole in the Men in Black organization.",
@@ -6137,7 +6137,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZpQYF9.md.webp",
-    href: "./movie-gpt/page/Midsommar.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/1Vnghdsjmd0",
     synopsis:
       "A couple travels to Northern Europe to visit a rural hometown's fabled Swedish mid-summer festival. What begins as an idyllic retreat quickly devolves into an increasingly violent and bizarre competition at the hands of a pagan cult.",
@@ -6152,7 +6152,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/58xfCQ.md.webp",
-    href: "./movie-gpt/page/Mine 9.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/DlPxSa4PWyA",
     synopsis:
       "Two miles into the earth, nine Appalachian miners struggle to survive after a methane explosion leaves them with one hour of oxygen.",
@@ -6167,7 +6167,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZyqcTQ.md.webp",
-    href: "./movie-gpt/page/Minion Scouts.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/jYYY7YMgfPc",
     synopsis:
       "When Margo, Agnes and Edith return from Badger Scout camp, three of the Minions are entranced by the girls' merit badges. Their own attempt at scout camp results in attracting a bear, eating poison berries and eventually blowing up a dam, creating a massive flood.",
@@ -6182,7 +6182,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/58x3jj.md.webp",
-    href: "./movie-gpt/page/Missing Link.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/DgfC_uYszKg",
     synopsis:
       "Mr. Link recruits explorer Sir Lionel Frost to help find his long-lost relatives in the fabled valley of Shangri-La. Along with adventurer Adelina Fortnight, this trio of explorers travel the world to help their new friend.",
@@ -6197,7 +6197,7 @@ const movies = [
     country: "Japan",
     countrys: ["japan"],
     poster: "https://iili.io/58xFZx.md.webp",
-    href: "./movie-gpt/page/Murder At Shijinsou.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/yzjS8bLrtIc",
     synopsis:
       "Every student is encouraged to join an extracurricular club and this one joins the university's Mystery Club.The club has a couple of veterans, but the real thing - an actual detective - is also in their midst.The club goes on an outing in the wilds of nature and on a mountain.",
@@ -6212,7 +6212,7 @@ const movies = [
     country: "Korea",
     countrys: ["korea"],
     poster: "https://iili.io/HZyBiUg.md.webp",
-    href: "./movie-gpt/page/Nailed.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/t_4RFF7Hgrc",
     synopsis:
       "A couple running a failing auto shop in a rural town start drumming up business by placing things in the road to blow out tires but such success always comes with a price.",
@@ -6227,7 +6227,7 @@ const movies = [
     country: "Korea",
     countrys: ["korea"],
     poster: "https://iili.io/58xJyu.md.webp",
-    href: "./movie-gpt/page/Parasite.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/SEUXfv87Wpk",
     synopsis:
       "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
@@ -6242,7 +6242,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/58xHve.md.webp",
-    href: "./movie-gpt/page/Pet Sematary.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/VllcgXSIJkE",
     synopsis:
       "Dr. Louis Creed and his wife, Rachel, relocate from Boston to rural Maine with their two young children. The couple soon discover a mysterious burial ground hidden deep in the woods near their new home.",
@@ -6257,7 +6257,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/58x9a9.md.webp",
-    href: "./movie-gpt/page/Pets United.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/l5VKjgVI00A",
     synopsis:
       "A group of spoilt, selfish pets led by glamour cat Belle are stranded in their luxury hangout 'Pampered Pets,' when the machines that run Robo City, the hypermodern metropolis that they live in, go wild and take over.",
@@ -6272,7 +6272,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/58oy37.md.webp",
-    href: "./movie-gpt/page/Playing with Fire.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/fd5GlZUpfaM",
     synopsis:
       "A crew of rugged firefighters meet their match when attempting to rescue three rambunctious kids.",
@@ -6287,7 +6287,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/58om4S.md.webp",
-    href: "./movie-gpt/page/Playmobil The Movie.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/xgyP9GG9Ecw",
     synopsis:
       "When her younger brother Charlie unexpectedly disappears into the magical, animated universe of PLAYMOBIL®, unprepared Marla must go on a quest of a lifetime to bring him home, setting off on a fantastic journey across stunning new worlds.",
@@ -6302,7 +6302,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/58oDCl.md.webp",
-    href: "./movie-gpt/page/Polaroid.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/0WxmMARNQRc",
     synopsis:
       "High school loner Bird Fitcher has no idea what dark secrets are tied to the Polaroid camera she finds. It doesn't take long to discover that those who have their picture taken with it, soon die.",
@@ -6317,7 +6317,7 @@ const movies = [
     country: "Indonesia",
     countrys: ["indonesia"],
     poster: "https://iili.io/HDxo52s.md.webp",
-    href: "./movie-gpt/page/Pretty Boys.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/v2QVXESTKrk",
     synopsis:
       "Two best friends since childhood aspire to be famous. They run away from home and try their fortune in Jakarta. One day, when they become the paid audiences for a talk show, the audience coordinator offer them a way to their dreams.",
@@ -6332,7 +6332,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/58obG2.md.webp",
-    href: "./movie-gpt/page/Ready or Not.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/ZtYTwUxhAoI",
     synopsis:
       "A bride's wedding night takes a sinister turn when her eccentric new in-laws force her to take part in a terrifying game.",
@@ -6347,7 +6347,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/58oZQ4.md.webp",
-    href: "./movie-gpt/page/Sea Fever.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/OEgysK5W5bI",
     synopsis:
       "The crew of a West of Ireland trawler, marooned at sea, struggle for their lives against a growing parasite in their water supply.",
@@ -6362,7 +6362,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZynjyb.md.webp",
-    href: "./movie-gpt/page/Spies in Disguise.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/A05s7OM-8Oc",
     synopsis:
       "When the world's best spy is turned into a pigeon, he must rely on his nerdy tech officer to save the world.",
@@ -6377,7 +6377,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/58oQjf.md.webp",
-    href: "./movie-gpt/page/Spycies.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/9DsG8ctWp9A",
     synopsis:
       "Vladimir and Hector, two secret agents opposite in every way, are trying to recover a top secret material stolen by unknown intruders.",
@@ -6392,7 +6392,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/58oLTG.md.webp",
-    href: "./movie-gpt/page/Swallow.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/SCv70SAhuE4",
     synopsis:
       "Hunter, a newly pregnant housewife, finds herself increasingly compelled to consume dangerous objects. As her husband and his family tighten their control over her life, she must confront the dark secret behind her new obsession.",
@@ -6407,7 +6407,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/58oPvn.md.webp",
-    href: "./movie-gpt/page/Terminator Dark Fate.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/jCyEX6u-Yhs",
     synopsis:
       "An augmented human and Sarah Connor must stop an advanced liquid Terminator from hunting down a young girl, whose fate is critical to the human race.",
@@ -6422,7 +6422,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/58oips.md.webp",
-    href: "./movie-gpt/page/The Addams Family.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/F7Ug863S8dQ",
     synopsis:
       "The eccentrically macabre family moves to a bland suburb where Wednesday Addams' friendship with the daughter of a hostile and conformist local reality show host exacerbates conflict between the families.",
@@ -6437,7 +6437,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/58o42t.md.webp",
-    href: "./movie-gpt/page/The Aeronauts.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/Rm4VnwCtQO8",
     synopsis:
       "A balloon pilot and a scientist find themselves in a fight for survival while attempting to make discoveries in a gas balloon in the 1860s.",
@@ -6452,7 +6452,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/58o6YX.md.webp",
-    href: "./movie-gpt/page/The Angry Birds Movie 2.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/RSKQ-lVsMdg",
     synopsis:
       "The flightless birds and scheming green pigs take their feud to the next level.",
@@ -6467,7 +6467,7 @@ const movies = [
     country: "Korea",
     countrys: ["korea"],
     poster: "https://iili.io/HZyoVxR.md.webp",
-    href: "./movie-gpt/page/The Bad Guys The Movie.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/W1_qsCqPrEk",
     synopsis:
       "A bus transporting the inmates is flipped resulting in the felons escaping. In order to round up and once again incarcerate the criminals the cops form a special task force that needs to work in haste. The chief detective forms a crack team and is rearing to go because time is of the essence. The criminals are dangerous on the loose.",
@@ -6482,7 +6482,7 @@ const movies = [
     country: "Rusia",
     countrys: ["rusia"],
     poster: "https://iili.io/58og4I.md.webp",
-    href: "./movie-gpt/page/The Blackout.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/hrHIbnPZ96Q",
     synopsis:
       "Life on Earth is rapidly destroyed except for a small area in Eastern Europe.",
@@ -6497,7 +6497,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/58oUEN.md.webp",
-    href: "./movie-gpt/page/The Curse of La Llorona.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/uOV-xMYQ7sk",
     synopsis:
       "Ignoring the eerie warning of a troubled mother suspected of child endangerment, a social worker and her own small kids are soon drawn into a frightening supernatural realm.",
@@ -6512,7 +6512,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/58oSBp.md.webp",
-    href: "./movie-gpt/page/The Drone.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/O2FemQrGfnM",
     synopsis:
       "A newlywed couple is terrorized by a consumer drone that has become sentient with the consciousness of a deranged serial killer.",
@@ -6527,7 +6527,7 @@ const movies = [
     country: "Japan",
     countrys: ["japan"],
     poster: "https://iili.io/HDISZpS.md.webp",
-    href: "./movie-gpt/page/The Fable.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/oCQt0ZMlyZ4",
     synopsis:
       "Trained as a ruthless assassin since childhood, a mob hitman is ordered to become a normal law-abiding citizen.",
@@ -6542,7 +6542,7 @@ const movies = [
     country: "Japan",
     countrys: ["japan"],
     poster: "https://iili.io/58ovQR.md.webp",
-    href: "./movie-gpt/page/The Flowers of Evil.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/2vT5RCbyK6g",
     synopsis:
       "A college student steals the panties of a girl he likes and gets witnessed, which sets off a chain of events that send his life and the lives of others around him out of control.",
@@ -6557,7 +6557,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZyIxHX.md.webp",
-    href: "./movie-gpt/page/The Gentlemen.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/Ify9S7hj480",
     synopsis:
       "An American expat tries to sell off his highly profitable marijuana empire in London, triggering plots, schemes, bribery and blackmail in an attempt to steal his domain out from under him.",
@@ -6572,7 +6572,7 @@ const movies = [
     country: "Japan",
     countrys: ["japan"],
     poster: "https://iili.io/58okhv.md.webp",
-    href: "./movie-gpt/page/The Great War of Archimedes.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/huEKvvgycUA",
     synopsis:
       "In 1933, a young naval officer and math prodigy uncovers a conspiracy regarding the construction of Japanese warships for the ongoing World War 2.",
@@ -6587,7 +6587,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/58oeTJ.md.webp",
-    href: "./movie-gpt/page/The Lighthouse.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/Hyag7lR8CPA",
     synopsis:
       "Two lighthouse keepers try to maintain their sanity while living on a remote and mysterious New England island in the 1890s.",
@@ -6602,7 +6602,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/58oNpa.md.webp",
-    href: "./movie-gpt/page/The Mortuary Collection.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/iZHg9xcK83s",
     synopsis:
       "An eccentric mortician recounts several macabre and phantasmagorical tales that he's encountered in his distinguished career.",
@@ -6617,7 +6617,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/58owkg.md.webp",
-    href: "./movie-gpt/page/The Personal History of David Copperfield.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/xXh53I-Sdsk",
     synopsis:
       "A modern take on Charles Dickens's classic tale of a young orphan who is able to triumph over many obstacles.",
@@ -6632,7 +6632,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/58oh21.md.webp",
-    href: "./movie-gpt/page/The Room.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/uOn2-ZxiJgI",
     synopsis:
       "Matt and Kate buy an isolated house. While moving, they discover a strange room that grants them an unlimited number of material wishes. But since Kate has had two miscarriages, what they long for the most is a child.",
@@ -6647,7 +6647,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/58ojYF.md.webp",
-    href: "./movie-gpt/page/Togo.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/HMfyueM-ZBQ",
     synopsis:
       "The story of Togo, the sled dog who led the 1925 serum run despite being considered too small and weak to lead such an intense race.",
@@ -6662,7 +6662,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/58oELQ.md.webp",
-    href: "./movie-gpt/page/Ugly Dolls.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/VzbxSpBOJ6E",
     synopsis:
       "An animated adventure in which the free-spirited UglyDolls confront what it means to be different, struggle with a desire to be loved, and ultimately discover who you truly are is what matters most.",
@@ -6677,7 +6677,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/58oMBV.md.webp",
-    href: "./movie-gpt/page/Vivarium.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/U3Xy2x9NDrw",
     synopsis:
       "A young couple looking for the perfect home find themselves trapped in a mysterious labyrinth-like neighborhood of identical houses.",
@@ -6692,7 +6692,7 @@ const movies = [
     country: "Japan",
     countrys: ["japan"],
     poster: "https://iili.io/7iZlcl.md.webp",
-    href: "./movie-gpt/page/Weathering with You.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/Q6iK6DjV_iE",
     synopsis:
       "A high-school boy who has run away to Tokyo befriends a girl who appears to be able to manipulate the weather.",
@@ -6707,7 +6707,7 @@ const movies = [
     country: "Thailand",
     countrys: ["thailand"],
     poster: "https://iili.io/58oVEB.md.webp",
-    href: "./movie-gpt/page/Where We Belong.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/XhpPMAgelXE",
     synopsis:
       "Sue, the crazy girl that feels as if she was born in the wrong place. But the craziest thing she's ever done is that she is about to leave everything behind, including Belle.",
@@ -6722,7 +6722,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/58oWrP.md.webp",
-    href: "./movie-gpt/page/Zombieland Double Tap.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/ZlW9yhUKlkQ",
     synopsis:
       "Columbus, Tallahassee, Wichita, and Little Rock move to the American heartland as they face off against evolved zombies, fellow survivors, and the growing pains of the snarky makeshift family.",
@@ -6737,7 +6737,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZohCeS.md.webp",
-    href: "./movie-gpt/page/A Quiet Place.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/WR7cc5t7tv8",
     synopsis:
       "In a post-apocalyptic world, a family is forced to live in silence while hiding from monsters with ultra-sensitive hearing.",
@@ -6752,7 +6752,7 @@ const movies = [
     country: "Japan",
     countrys: ["japan"],
     poster: "https://iili.io/YNZsus.md.webp",
-    href: "./movie-gpt/page/After the Rain.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/kwAgjGzt5io",
     synopsis: "A young student falls in love with her middle-aged boss.",
     duration: "1h 52m",
@@ -6766,7 +6766,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/YOgHo7.md.webp",
-    href: "./movie-gpt/page/Alive18.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/Krtm-73VDrs",
     synopsis:
       "A severely injured man and woman awake in an abandoned sanitarium only to discover that a sadistic caretaker holds the keys to their freedom and the horrific answers as to their real identity.",
@@ -6781,7 +6781,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/YOUytS.md.webp",
-    href: "./movie-gpt/page/Apostle.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/J1JdWOqc9Q8",
     synopsis:
       "In 1905, a drifter on a dangerous mission to rescue his kidnapped sister tangles with a sinister religious cult on an isolated island.",
@@ -6796,7 +6796,7 @@ const movies = [
     country: "Thailand",
     countrys: ["thailand "],
     poster: "https://iili.io/HD0dBta.md.webp",
-    href: "./movie-gpt/page/App War.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/wm6pSWRzbgI",
     synopsis:
       "Bomb and June, two app startup founders, are leading each of their teams to get their mobile applications off the ground and running. They meet each other at their favorite hideaway dinner place completely by chance, only to find that they have a lot in common and enjoy very same passions. The night is so inspiring that Bomb and June, individually, create and launch their own applications, 'Inviter' and 'Amjoin,' with the very same idea to 'find people in common.' But when it comes to business, replicates mean competition. Bomb and June become rivals. The national Startup Thailand league is approaching, and they are struggling to win 100-million Thai baht prize. When the stakes are high, 'Inviter' and 'Amjoin' end up sending a spy sneaking in to the other team trying to gain the upper hand. But everything has its price to pay, as the plan gets out of control, and the relationship between the two are being jeopardized.",
@@ -6811,7 +6811,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HDzyyKl.md.webp",
-    href: "./movie-gpt/page/Arctic.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/N5aD9ppoQIo",
     synopsis:
       "A man stranded in the Arctic after a plane crash must decide whether to remain in the relative safety of his makeshift camp or to embark on a deadly trek through the unknown.",
@@ -6826,7 +6826,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/YOUpN2.md.webp",
-    href: "./movie-gpt/page/Bao.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/2f6vCb7SB4w",
     synopsis:
       "A Chinese-Canadian woman suffering from empty nest syndrome gets a second shot at motherhood when one of her handmade dumplings comes alive.",
@@ -6841,7 +6841,7 @@ const movies = [
     country: "Thailand",
     countrys: ["thailand"],
     poster: "https://iili.io/HtdfCgt.md.webp",
-    href: "./movie-gpt/page/Bikeman.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/c3gZ5Chho1w",
     synopsis:
       "'Sakkarin' is a 25 year old guy who could not find a job as his mother wishes him to be a banker. To take care and make the family happy, he has to lie by wearing the bank uniform out of the house every morning before turns to his true self and his real job as a motorbike taxi man.",
@@ -6856,7 +6856,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/YelZt2.md.webp",
-    href: "./movie-gpt/page/Bird Box.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/o2AsIXSh2xo",
     synopsis:
       "Five years after an ominous unseen presence drives most of society to suicide, a mother and her two children make a desperate bid to reach safety.",
@@ -6871,7 +6871,7 @@ const movies = [
     country: "India",
     countrys: ["india"],
     poster: "https://iili.io/Htdf7B2.md.webp",
-    href: "./movie-gpt/page/Blackmail.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/FLyosbdgqmc",
     synopsis:
       "When Dev finds out his wife is cheating on him, he secretly blackmails his wife and her lover as a form of revenge.",
@@ -6886,7 +6886,7 @@ const movies = [
     country: "Inggris",
     countrys: ["inggris"],
     poster: "https://iili.io/HtdB1xj.md.webp",
-    href: "./movie-gpt/page/Bohemian Rhapsody.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/mP0VHJYFOAU",
     synopsis:
       "The story of the legendary British rock band Queen and lead singer Freddie Mercury, leading up to their famous performance at Live Aid (1985).",
@@ -6901,7 +6901,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/YelLu4.md.webp",
-    href: "./movie-gpt/page/Boo.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/QNuZbvpX4a4",
     synopsis:
       "A torn suburban family refuses to heed the warning of an innocent prank left upon them which causes an unknown supernatural force to wreak havoc.",
@@ -6916,7 +6916,7 @@ const movies = [
     country: "Cina",
     countrys: ["cina"],
     poster: "https://iili.io/HtdCmZJ.md.webp",
-    href: "./movie-gpt/page/Cats and Peachtopia.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/ISTfEFlkxzE",
     synopsis:
       "A cat named Blanket lives in the city with his son, Cape. One day, Cape decides to leave home and embarks on an adventure to find the legendary cat's paradise. To find his son, Blanket must overcome his fear and reconcile with his past.",
@@ -6931,7 +6931,7 @@ const movies = [
     country: "Denmark",
     countrys: ["denmark"],
     poster: "https://iili.io/HDIqo0u.md.webp",
-    href: "./movie-gpt/page/Checkered Ninja.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/3V1CKYQRS40",
     synopsis:
       "A possessed Ninja doll teams up with a teenage boy to avenge the murder of a poor child factory worker.",
@@ -6946,7 +6946,7 @@ const movies = [
     country: "Japan",
     countrys: ["japan"],
     poster: "https://iili.io/YelDnS.md.webp",
-    href: "./movie-gpt/page/Crayon Shin-chan.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/hg-VrQiKLSQ",
     synopsis:
       "Shin-chan and the Kasukabe Defense Group are planning to perform an absolutely no-stunt Kung Fu challenge on the stage in Aiya Town, also known as the Chinatown of Kasukabe city.",
@@ -6961,7 +6961,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/YelbM7.md.webp",
-    href: "./movie-gpt/page/Crazy Rich Asians.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/ZQ-YX-5bAs0",
     synopsis:
       "This contemporary romantic comedy, based on a global bestseller, follows native New Yorker Rachel Chu to Singapore to meet her boyfriend's family.",
@@ -6976,7 +6976,7 @@ const movies = [
     country: "Indonesia",
     countrys: ["indonesia"],
     poster: "https://iili.io/HtdxMTF.md.webp",
-    href: "./movie-gpt/page/Dilan 1990.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/X_b-wNkz4DU",
     synopsis:
       "Milea (Vanesha Prescilla) met with Dilan (Iqbaal Ramadhan) at a high school in Bandung in 1990. An unusual introduction brings Milea to know the uniqueness of Dilan who is smart, kind, and romantic in her eyes.",
@@ -6991,7 +6991,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HtdTYEG.md.webp",
-    href: "./movie-gpt/page/Early Man.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/TiNkCP7unTE",
     synopsis:
       "Set at the dawn of time, when prehistoric creatures and woolly mammoths roamed the earth, Early Man tells the story of Dug, along with sidekick Hognob as they unite his tribe against a mighty enemy Lord Nooth and his Bronze Age City to save their home.",
@@ -7006,7 +7006,7 @@ const movies = [
     country: "Filipina",
     countrys: ["filipina"],
     poster: "https://iili.io/HC6mUZb.md.webp",
-    href: "./movie-gpt/page/Eerie.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/XHHtvCft9IU",
     synopsis:
       "When a student's suicide rattles an all-girls Catholic school, a clairvoyant guidance counselor leans on a ghost to uncover the convent's abusive past.",
@@ -7021,7 +7021,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/YelmP9.md.webp",
-    href: "./movie-gpt/page/Every Day.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/tqoAMfe_rPM",
     synopsis:
       "A shy teenager falls for a spirit who wakes up in the body of a different person every morning.",
@@ -7036,7 +7036,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HC6mpoJ.md.webp",
-    href: "./movie-gpt/page/Freaks.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/I84YEXdN61k",
     synopsis:
       "A bold girl discovers a bizarre, threatening, and mysterious new world beyond her front door after she escapes her father's protective and paranoid control.",
@@ -7051,7 +7051,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/Ye09cu.md.webp",
-    href: "./movie-gpt/page/Game Night.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/qmxMAdV6s4U",
     synopsis:
       "A group of friends who meet regularly for game nights find themselves entangled in a real-life mystery when the shady brother of one of them is seemingly kidnapped by dangerous gangsters.",
@@ -7066,7 +7066,7 @@ const movies = [
     country: "Japan",
     countrys: ["japan"],
     poster: "https://iili.io/HDfVBNn.md.webp",
-    href: "./movie-gpt/page/Gintama2.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/Xm0ZEJjUlmg",
     synopsis:
       "The Yorozuya gang returns to protect the country's shogun when the Shinsengumi police force finds itself in a crisis.",
@@ -7081,7 +7081,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/Ye0H8b.md.webp",
-    href: "./movie-gpt/page/Green Book.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/QkZxoko_HC0",
     synopsis:
       "A working-class Italian-American bouncer becomes the driver for an African-American classical pianist on a tour of venues through the 1960s American South.",
@@ -7096,7 +7096,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HC6pF9t.md.webp",
-    href: "./movie-gpt/page/Hex.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/HMJwhM2i9LQ",
     synopsis:
       "A couple's holiday romance is thrown into chaos as they are afflicted by a malicious force.",
@@ -7111,7 +7111,7 @@ const movies = [
     country: "Japan",
     countrys: ["japan"],
     poster: "https://iili.io/Ye02Ax.md.webp",
-    href: "./movie-gpt/page/Inuyashiki.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/0LDxkPWsgcQ",
     synopsis:
       "An middle-aged office worker encounters aliens and is gifted with alien technology and limitless powers.",
@@ -7126,7 +7126,7 @@ const movies = [
     country: "Japan",
     countrys: ["japan"],
     poster: "https://iili.io/Ye03wQ.md.webp",
-    href: "./movie-gpt/page/Kasane.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/wkShz70IZNU",
     synopsis:
       "An ugly but talented actress gains the power to copy the bodies of beautiful actresses temporarily. But how long can she maintain the facade?",
@@ -7141,7 +7141,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/Ye0FtV.md.webp",
-    href: "./movie-gpt/page/The Command.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/xExzwSc4_eQ",
     synopsis:
       "The 2000 K-141 Kursk submarine disaster is followed by governmental negligence. As the sailors fight for survival, their families desperately battle political obstacles and impossible odds to save them.",
@@ -7156,7 +7156,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/YehR6l.md.webp",
-    href: "./movie-gpt/page/Level 16.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/qgtN95CJaDg",
     synopsis:
       "In a highly regimented boarding school, a pair of students discover that things are not as they seem.",
@@ -7171,7 +7171,7 @@ const movies = [
     country: "Japan",
     countrys: ["japan"],
     poster: "https://iili.io/HtdTs3v.md.webp",
-    href: "./movie-gpt/page/Liverleaf.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/qb_2xq7bfAY",
     synopsis:
       "As if bullied by her classmates everyday is not enough, Nozaki finds her house burnt to the ground and her parents dead. Knowing that the fire is not an accident, she sneaks off to punish those responsible one by one.",
@@ -7186,7 +7186,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/Ye0foB.md.webp",
-    href: "./movie-gpt/page/Mid90s.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/w9Rx6-GaSIE",
     synopsis:
       "Follows Stevie, a thirteen-year-old in 1990s-era Los Angeles who spends his summer navigating between his troubled home life and a group of new friends that he meets at a Motor Avenue skate shop.",
@@ -7201,7 +7201,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/Ye0qMP.md.webp",
-    href: "./movie-gpt/page/Mortal Engines.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/IRsFc2gguEg",
     synopsis:
       "In a post-apocalyptic world where cities ride on wheels and consume each other to survive, two people meet in London and try to stop a conspiracy.",
@@ -7216,7 +7216,7 @@ const movies = [
     country: "Japan",
     countrys: ["japan"],
     poster: "https://iili.io/Ye0BP1.md.webp",
-    href: "./movie-gpt/page/My Little Monster.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/cu_j-q_UpGY",
     synopsis:
       "Haru is a trouble maker absentee. Shizuku is a frigid study geek. They may be a weird combination, but Haru is eager to cling to Shizuku.",
@@ -7231,7 +7231,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/Ye0nKF.md.webp",
-    href: "./movie-gpt/page/Next Gen.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/uf3ALGKgpGU",
     synopsis:
       "A friendship with a top-secret robot turns a lonely girl's life into a thrilling adventure as they take on bullies, evil bots and a scheming madman.",
@@ -7246,7 +7246,7 @@ const movies = [
     country: "India",
     countrys: ["india"],
     poster: "https://iili.io/HtdAlbS.md.webp",
-    href: "./movie-gpt/page/Padman.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/-K9ujx8vO_A",
     synopsis:
       "Upon realizing the extent to which women are affected by their menses, a man sets out to create a sanitary pad machine and to provide inexpensive sanitary pads to the women of rural India.",
@@ -7261,7 +7261,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/Ye0ocg.md.webp",
-    href: "./movie-gpt/page/Racetime.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/EV5OpotW6S8",
     synopsis:
       "A spectacular sled race through the village. Frankie-Four-Eyes and his team, including Sophie as the driver, take on the newcomers: the mysterious and conceited Zac and his athletic cousin Charly. The fantastic sled designed by Frankie disintegrates right before crossing the finish line.",
@@ -7276,7 +7276,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/Htd7smQ.md.webp",
-    href: "./movie-gpt/page/Red Sparrow.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/PmUL6wMpMWw",
     synopsis:
       "Ballerina Dominika Egorova is recruited to 'Sparrow School,' a Russian intelligence service where she is forced to use her body as a weapon. Her first mission, targeting a C.I.A. agent, threatens to unravel the security of both nations.",
@@ -7291,7 +7291,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/Ye0xSa.md.webp",
-    href: "./movie-gpt/page/Replicas.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/JAHKQPBKSZ8",
     synopsis:
       "A scientist becomes obsessed with bringing back his family members who died in a traffic accident.",
@@ -7306,7 +7306,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/Ye0IHJ.md.webp",
-    href: "./movie-gpt/page/Sgt Stubby An American Hero.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/n3mbKogOWJ0",
     synopsis:
       "The true story of a stray dog who joins his new master on the battlefields of the First World War. For his valorous actions, Sgt. Stubby is still recognized as the most decorated dog in American history.",
@@ -7321,7 +7321,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HtdaRHJ.md.webp",
-    href: "./movie-gpt/page/Sherlock Gnomes.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/comz38kRsb0",
     synopsis:
       "Garden gnomes, Gnomeo (James McAvoy) and Juliet (Emily Blunt), recruit renowned detective Sherlock Gnomes (Johnny Depp) to investigate the mysterious disappearance of other garden ornaments.",
@@ -7336,7 +7336,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/Ye0TAv.md.webp",
-    href: "./movie-gpt/page/Smallfoot.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/uBw6EvIxIS8",
     synopsis:
       "High up on a mountain peak surrounded by clouds, a secret Yeti society lives in peace and harmony. One day, a Yeti witnesses an airplane crash; Inside lies Smallfoot, a legendary creature that will rock the society to its core.",
@@ -7351,7 +7351,7 @@ const movies = [
     country: "Indonesia",
     countrys: ["indonesia"],
     poster: "https://iili.io/YelyFe.md.webp",
-    href: "./movie-gpt/page/FriendsButMarried.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/9pjsKYr4904",
     synopsis:
       "Ayudia (Vanesha Prescilla) and Ditto (Adipati Dolken) have been best friends for 12 years. And for all those times, Ditto has been secretly in love with her. Until one day, Ayudia told him that she's gonna get married.",
@@ -7366,7 +7366,7 @@ const movies = [
     country: "Japan",
     countrys: ["japan"],
     poster: "https://iili.io/Ye0uNR.md.webp",
-    href: "./movie-gpt/page/Biblia Koshodô no Jiken Techô.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/WkqCCMrNFfY",
     synopsis:
       "Kamakura south of Tokyo has a special book store, which is operated by Shioriko. She loves her books, her store and stocks rarities and specialties. Daisuke also works there. A stranger targets the store and seems to be after something specific. The two set out to find out what the figure is after and how they should protect themselves.",
@@ -7381,7 +7381,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/Ye0Atp.md.webp",
-    href: "./movie-gpt/page/The Final Wish.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/p-ExywGsts4",
     synopsis:
       "After the death of his father, Aaron returns home to help his grief-stricken mother and to confront his past. Going through his dad's belongings, he comes across a mysterious item that is more than it seems.",
@@ -7396,7 +7396,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/YkiBGp.md.webp",
-    href: "./movie-gpt/page/The First Purge.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/UL29y0ah92w",
     synopsis:
       "America's third political party, the New Founding Fathers of America, comes to power and conducts an experiment: no laws for 12 hours on Staten Island. No one has to stay on the island, but $5,000 is given to anyone who does.",
@@ -7411,7 +7411,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/Ye05oN.md.webp",
-    href: "./movie-gpt/page/The Grinch.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/vjnqABgxfO0",
     synopsis:
       "A grumpy Grinch plots to ruin Christmas for the village of Whoville.",
@@ -7426,7 +7426,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/Ye0YPt.md.webp",
-    href: "./movie-gpt/page/The Nutcracker and the Four Realms.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/BXfxLIuNJvw",
     synopsis:
       "A young girl is transported into a magical world of gingerbread soldiers and an army of mice.",
@@ -7441,7 +7441,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/Ye07VI.md.webp",
-    href: "./movie-gpt/page/The Perfection.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/q57D6kF5B1k",
     synopsis:
       "When troubled musical prodigy Charlotte seeks out Elizabeth, the new star pupil of her former school, the encounter sends both musicians down a sinister path with shocking consequences.",
@@ -7456,7 +7456,7 @@ const movies = [
     country: "Japan",
     countrys: ["japan"],
     poster: "https://iili.io/YelQwl.md.webp",
-    href: "./movie-gpt/page/When I Get Home.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/iCun3_jOOZc",
     synopsis:
       "A man posted questions to Yahoo Answers about his wife's eccentric behaviour, which became the basis for the story of the married couple.",
@@ -7471,7 +7471,7 @@ const movies = [
     country: "Thailand",
     countrys: ["thailand"],
     poster: "https://iili.io/HDRQll2.md.webp",
-    href: "./movie-gpt/page/15 IQ Krachoot.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/WvL-jA1Eeks",
     synopsis:
       "A teenage comedy film about a young Yorkie. 'Rising' opened the first movie on screen. The story of fun gangs of teenage age 15+ hormones gurgling at the curiosity to try on their love and sex has spread out.",
@@ -7486,7 +7486,7 @@ const movies = [
     country: "Korea",
     countrys: ["korea"],
     poster: "https://iili.io/78nIyl.md.webp",
-    href: "./movie-gpt/page/1987.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/19hvVaeJ4tI",
     synopsis:
       "In 1987 Korea under an oppressive military regime, the unlawful interrogation and death of a college student ignite ordinary citizens to fight for the truth and bring about justice.",
@@ -7501,7 +7501,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/78nxaf.md.webp",
-    href: "./movie-gpt/page/47 Meters Down.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/LBmBcASLdK8",
     synopsis:
       "Two sisters vacationing in Mexico are trapped in a shark cage at the bottom of the ocean. With less than an hour of oxygen left and great white sharks circling nearby, they must fight to survive.",
@@ -7516,7 +7516,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZ52PHl.md.webp",
-    href: "./movie-gpt/page/A Storks Journey.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/rFts6e6PtCQ",
     synopsis:
       "Even though everybody else thinks he's a sparrow - Richard himself holds tight to the conviction that he is in fact a stork.",
@@ -7531,7 +7531,7 @@ const movies = [
     country: "Thailand",
     countrys: ["thailand"],
     poster: "https://iili.io/HDRDvJ2.md.webp",
-    href: "./movie-gpt/page/Bad Genius.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/CLdhN4oMxCQ",
     synopsis:
       "Lynn, a genius high school student who makes money by cheating tests, receives a new task that leads her to set foot on Sydney, Australia. In order to complete the millions-Baht task, Lynn and her classmates have to finish the international STIC(SAT) exam and deliver the answers back to her friends in Thailand before the exam takes place once again in her home country.",
@@ -7546,7 +7546,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/Ht2gCHg.md.webp",
-    href: "./movie-gpt/page/Baywatch.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/eyKOgnaf0BU",
     synopsis:
       "Devoted lifeguard Mitch Buchannon butts heads with a brash new recruit, as they uncover a criminal plot that threatens the future of the bay.",
@@ -7561,7 +7561,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/Ht3mIR4.md.webp",
-    href: "./movie-gpt/page/Beauty and the Beast.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/e3Nl_TCQXuw",
     synopsis:
       "A selfish Prince is cursed to become a monster for the rest of his life, unless he learns to fall in love with a beautiful young woman he keeps prisoner.",
@@ -7576,7 +7576,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZxZjtt.md.webp",
-    href: "./movie-gpt/page/Cargo.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/W5QJW0M5pik",
     synopsis:
       "After an epidemic spreads all over Australia, a father searches for someone willing to protect his daughter.",
@@ -7591,7 +7591,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HtFfQbn.md.webp",
-    href: "./movie-gpt/page/CHIPS.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/NErwOWW7aCE",
     synopsis:
       "An inexperienced rookie is teamed up with a hardened pro at the California Highway Patrol in Los Angeles; the newbie officer soon learns his partner is really an undercover Fed investigating a heist which may involve some crooked cops.",
@@ -7606,7 +7606,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HtCeRun.md.webp",
-    href: "./movie-gpt/page/Dear Dictator.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/GsR_MafGGMs",
     synopsis:
       "When political turmoil forces a British-Caribbean dictator to flee his island nation, he seeks refuge and hides with a rebellious teenage girl in suburban America, and ends up teaching the young teen how to start a revolution and overthrow the 'mean girls' at her high school.",
@@ -7621,7 +7621,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HDC2zwG.md.webp",
-    href: "./movie-gpt/page/Downsizing.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/UCrBICYM0yM",
     synopsis:
       "A social satire in which a man realizes he would have a better life if he were to shrink himself to five inches tall, allowing him to live in wealth and splendor.",
@@ -7636,7 +7636,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HtCeTvt.md.webp",
-    href: "./movie-gpt/page/Drone.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/9UqxCUrT5-Y",
     synopsis:
       "Ideologies collide with fatal results when a military drone contractor meets an enigmatic Pakistani businessman.",
@@ -7651,7 +7651,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZR5dfR.md.webp",
-    href: "./movie-gpt/page/Dunkirk.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/T7O7BtBnsG4",
     synopsis:
       "Allied soldiers from Belgium, the British Commonwealth and Empire, and France are surrounded by the German Army and evacuated during a fierce battle in World War II.",
@@ -7666,7 +7666,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HtCeCCv.md.webp",
-    href: "./movie-gpt/page/Ferdinand.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/s-XHMNDgre8",
     synopsis:
       "After Ferdinand, a bull with a big heart, is mistaken for a dangerous beast, he is captured and torn from his home. Determined to return to his family, he rallies a misfit team on the ultimate adventure.",
@@ -7681,7 +7681,7 @@ const movies = [
     country: "Japan",
     countrys: ["japan"],
     poster: "https://iili.io/Ht3Dbaf.md.webp",
-    href: "./movie-gpt/page/Fukumen-kei Noise.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/tx1_Vs--_Ao",
     synopsis:
       "A girl who loves to sing, Nino Arisugawa experiences her first heart-wrenching goodbye when her beloved childhood friend, Momo, moves away. And after Nino befriends Yuzu, a music composer, she experiences another sad parting. With music as their common ground and only outlet, how will unrequited love play out?",
@@ -7696,7 +7696,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HtCeIaI.md.webp",
-    href: "./movie-gpt/page/Geostorm.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/EuOlYPSEzSc",
     synopsis:
       "When the network of satellites designed to control the global climate starts to attack Earth, it's a race against the clock for its creator to uncover the real threat before a worldwide Geostorm wipes out everything and everyone.",
@@ -7711,7 +7711,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZR8NSV.md.webp",
-    href: "./movie-gpt/page/Get Out.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/DzfpyUB60YY",
     synopsis:
       "A young African-American visits his White girlfriend's parents for the weekend, where his simmering uneasiness about their reception of him eventually reaches a boiling point.",
@@ -7726,7 +7726,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HtCeqZJ.md.webp",
-    href: "./movie-gpt/page/Gnome Alone.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/0ikzndgTn_c",
     synopsis:
       "When Chloe discovers that her new home's garden gnomes are not what they seem, she must decide between the pursuit of a desired high school life and taking up the fight against the Troggs.",
@@ -7741,7 +7741,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HtCihG9.md.webp",
-    href: "./movie-gpt/page/Hanson and the Beast.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/Kz-YrG7lIPA",
     synopsis:
       "A debt-ridden animal-breeder falls in love with a fox demon who tries to pay back her debt of gratitude for him.",
@@ -7756,7 +7756,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HtCez3N.md.webp",
-    href: "./movie-gpt/page/I Kill Giants.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/EyhI8qRREQc",
     synopsis:
       "Barbara Thorson struggles through life by escaping into a fantasy life of magic and monsters.",
@@ -7771,7 +7771,7 @@ const movies = [
     country: "Indonesia",
     countrys: ["indonesia"],
     poster: "https://iili.io/HtCenGR.md.webp",
-    href: "./movie-gpt/page/Insya Allah Sah.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/D9f8Rqupdw8",
     synopsis:
       "Silvi (Titi Kamal), an unreligious girl, was trapped in an elevator with a strange guy, Raka (Pandji Pragiwaksono). She afraid that her life will be threatened and vowed that if she survived, she would become an obedient Muslim woman.",
@@ -7786,7 +7786,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HtCe5js.md.webp",
-    href: "./movie-gpt/page/It.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/FnCdOQsX5kc",
     synopsis:
       "In the summer of 1989, a group of bullied kids band together to destroy a shape-shifting monster, which disguises itself as a clown and preys on the children of Derry, their small Maine town.",
@@ -7801,7 +7801,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HtCPdiX.md.webp",
-    href: "./movie-gpt/page/Jigsaw.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/vPP6aIw1vgY",
     synopsis:
       "Bodies are turning up around the city, each having met a uniquely gruesome demise. As the investigation proceeds, evidence points to one suspect: John Kramer, the man known as Jigsaw, who has been dead for over 10 years.",
@@ -7816,7 +7816,7 @@ const movies = [
     country: "Indonesia",
     countrys: ["indonesia"],
     poster: "https://iili.io/HtCeo4p.md.webp",
-    href: "./movie-gpt/page/Jomblo.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/TggdjwD2mSk",
     synopsis:
       "Four best friends have different reasons why they become single. However, problems arise when they desire to have a lover. The formerly beautiful friendship turned into a rivalry and each of them has a conflict with their own partner.",
@@ -7831,7 +7831,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HphqE5F.md.webp",
-    href: "./movie-gpt/page/Jumanji Welcome to the Jungle.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/2QKg5SZ_35I",
     synopsis:
       "A group of friends join a guide for a trek into the Bolivian jungle, searching for an Indian village. The men soon realize that the jungle is a difficult place to be.",
@@ -7846,7 +7846,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HtCeuyX.md.webp",
-    href: "./movie-gpt/page/Jungle.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/oJYJmYQ0AGw",
     synopsis:
       "A group of friends join a guide for a trek into the Bolivian jungle, searching for an Indian village. The men soon realize that the jungle is a difficult place to be.",
@@ -7861,7 +7861,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HtCLKUg.md.webp",
-    href: "./movie-gpt/page/Megan Leavey.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/IGGcFbW__XI",
     synopsis:
       "Based on the true life story of a young Marine corporal whose unique discipline and bond with her military combat dog saved many lives during their deployment in Iraq.",
@@ -7876,7 +7876,7 @@ const movies = [
     country: "Thailand",
     countrys: ["thailand"],
     poster: "https://iili.io/HpWyqUx.md.webp",
-    href: "./movie-gpt/page/Net I Die.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/nEpVcqeKQ0Q",
     synopsis:
       "Monica, a big internet celebrity (aka idol) hangs herself live on her video channel. A year later idols start dying in horribly. All were tagged in Monica's last video, including Sa, a former idol-turned-beauty entrepreneur. Sa's boyfriend Jak investigates. All clues point to Sa's new facial cream.",
@@ -7891,7 +7891,7 @@ const movies = [
     country: "Cina",
     countrys: ["cina"],
     poster: "https://iili.io/HZRSofj.md.webp",
-    href: "./movie-gpt/page/Our Shining Days.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/BB50H64DEPA",
     synopsis:
       "A youth inspirational film, about how a group of high school students try to revive Chinese orchestra ensemble. They face many challenges along the way to compete nationally, including a rivalry with the more popular Western orchestra club.",
@@ -7906,7 +7906,7 @@ const movies = [
     country: "Japan",
     countrys: ["japan"],
     poster: "https://iili.io/HtCLvLB.md.webp",
-    href: "./movie-gpt/page/Peach Girl.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/iHQmqYGakGs",
     synopsis:
       "Momo Adachi is a female high school student. She appears to be a wild girl due to her tan skin and dyed hair, but she is a actually naive and sweet student.",
@@ -7921,7 +7921,7 @@ const movies = [
     country: "Indonesia",
     countrys: ["indonesia"],
     poster: "https://iili.io/HtCQhGI.md.webp",
-    href: "./movie-gpt/page/Pengabdi Setan.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/0hSptYxWB3E",
     synopsis:
       "After dying from a strange illness that she suffered for 3 years, a mother returns home to pick up her children.",
@@ -7936,7 +7936,7 @@ const movies = [
     country: "Indonesia",
     countrys: ["indonesia"],
     poster: "https://iili.io/HtCZgRa.md.webp",
-    href: "./movie-gpt/page/Stip & Pensil.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/spIsyTJ0DS8",
     synopsis:
       "Four rich high school students try to proof that they are not as arrogant as people in the school talk about.",
@@ -7951,7 +7951,7 @@ const movies = [
     country: "Indonesia",
     countrys: ["indonesia"],
     poster: "https://iili.io/HtCtKg9.md.webp",
-    href: "./movie-gpt/page/Sweet 20.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/JBeLpMHcpYY",
     synopsis:
       "A 70-year old fussy grandma finds out that her family will send her to a nursing home. In her deeply saddens and devastates, she mysteriously regains her physical appearance from the age of 20.",
@@ -7966,7 +7966,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HC6m66Q.md.webp",
-    href: "./movie-gpt/page/The 12th Man.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/oAfQh7v4Kbs",
     synopsis:
       "They were 12 saboteurs. The Nazis killed 11 of them. This is the true story of the one that got away.",
@@ -7981,7 +7981,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZRtkrP.md.webp",
-    href: "./movie-gpt/page/The Babysitter.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/CQTEUd-5JMQ",
     synopsis:
       "When Cole stays up past his bedtime, he discovers that his hot baby sitter belongs to a satanic cult that will stop at nothing to keep him quiet.",
@@ -7996,7 +7996,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HtCtNmG.md.webp",
-    href: "./movie-gpt/page/The Circle.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/QCOXARv6J9k",
     synopsis:
       "A woman lands a dream job at a powerful tech company called the Circle, only to uncover an agenda that will affect the lives of all of humanity.",
@@ -8011,7 +8011,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZRmVkX.md.webp",
-    href: "./movie-gpt/page/The Hitmans Bodyguard.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/IpKmt4MpctM",
     synopsis:
       "One of the world's top bodyguards gets a new client, a world class hitman who must testify at the International Criminal Court. They must put their differences aside and work together to make it to the trial alive and on time.",
@@ -8026,7 +8026,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HtnByVS.md.webp",
-    href: "./movie-gpt/page/The Mummy.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/IjHgzkQM2Sg",
     synopsis:
       "An ancient Egyptian princess is awakened from her crypt beneath the desert, bringing with her malevolence grown over millennia, and terrors that defy human comprehension.",
@@ -8041,7 +8041,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HtnKlcJ.md.webp",
-    href: "./movie-gpt/page/The Space Between Us.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/kH1tLlQNDeg",
     synopsis:
       "The first human born on Mars travels to Earth for the first time, experiencing the wonders of the planet through fresh eyes. He embarks on an adventure with a street-smart girl to discover how he came to be.",
@@ -8056,7 +8056,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/Htnftgs.md.webp",
-    href: "./movie-gpt/page/The Star.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/9NjvYZtwk00",
     synopsis:
       "A small but brave donkey and his animal friends become the unsung heroes of the first Christmas.",
@@ -8071,7 +8071,7 @@ const movies = [
     country: "Japan",
     countrys: ["japan"],
     poster: "https://iili.io/Htnfyml.md.webp",
-    href: "./movie-gpt/page/Tokyo Ghoul.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/m7Ajsll1Qco",
     synopsis:
       "A Tokyo college student is attacked by a ghoul, a superpowered human who feeds on human flesh. He survives, but has become part ghoul and becomes a fugitive on the run.",
@@ -8086,7 +8086,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HtnBZHG.md.webp",
-    href: "./movie-gpt/page/War for the Planet of the Apes.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/1TxqmlIv1Iw",
     synopsis:
       "After the apes suffer unimaginable losses, Caesar wrestles with his darker instincts and begins his own mythic quest to avenge his kind.",
@@ -8101,7 +8101,7 @@ const movies = [
     country: "Indonesia",
     countrys: ["indonesia"],
     poster: "https://iili.io/HtnCsLB.md.webp",
-    href: "./movie-gpt/page/Warkop DKI Reborn Jangkrik Boss Part 2.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/RqG20t70PP4",
     synopsis:
       "Dono, Kasino, and Indro's adventure continues. They have to search for the treasure to pay their debts. They travel to Malaysia as their first destination, but the bag with the codes to the treasure is switched with a Malaysian woman's.",
@@ -8116,7 +8116,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZRZmWQ.md.webp",
-    href: "./movie-gpt/page/Wonder.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/ngiK1gQKgK8",
     synopsis:
       "Based on the New York Times bestseller, this movie tells the incredibly inspiring and heartwarming story of August Pullman, a boy with facial differences who enters the fifth grade, attending a mainstream elementary school for the first time.",
@@ -8131,7 +8131,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZ5fFxS.md.webp",
-    href: "./movie-gpt/page/A Street Cat Named Bob.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/ai3hleBXRpo",
     synopsis:
       "The true feel-good story of how James Bowen, a busker and recovering drug addict, has his life transformed when he meets a stray ginger cat. Based on the international best selling book.",
@@ -8146,7 +8146,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZL7RSa.md.webp",
-    href: "./movie-gpt/page/Beta Test.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/quSjJyLuT8Q",
     synopsis:
       "Champion gamer Max Troy discovers events in a new video game are being mirrored in the real world, and must join forces with the game's protagonist, Orson Creed, to unravel the conspiracy before the game's sinister plot overwhelms the city.",
@@ -8161,7 +8161,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZL7wN4.md.webp",
-    href: "./movie-gpt/page/Cabin Fever.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/Sieu-nuNnrQ",
     synopsis:
       "While staying at a remote cabin for a week-long vacation, a group of five college friends succumb to an infectious, flesh-eating disease.",
@@ -8176,7 +8176,7 @@ const movies = [
     country: "Indonesia",
     countrys: ["indonesia"],
     poster: "https://iili.io/HZL0CCl.md.webp",
-    href: "./movie-gpt/page/Cek Toko Sebelah.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/r9NJveLN3zI",
     synopsis:
       "Just when everything is going well for Erwin, his father falls sick and asks him to drop everything and help out at the family store, disappointing his irresponsible older brother Yohan.",
@@ -8191,7 +8191,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZL0l6B.md.webp",
-    href: "./movie-gpt/page/Dont Breathe.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/76yBTNDB6vU",
     synopsis:
       "Hoping to walk away with a massive fortune, a trio of thieves break into the house of a blind man who isn't as helpless as he seems.",
@@ -8206,7 +8206,7 @@ const movies = [
     country: "Korea",
     countrys: ["korea"],
     poster: "https://iili.io/HZLGsPR.md.webp",
-    href: "./movie-gpt/page/Familyhood.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/GPLclROdozc",
     synopsis:
       "Go Joo-yeon (Kim Hye-soo) is a self-centered star actress who has always gotten what she wants: fame, money, and even good-looking young boyfriends. However, now in her 40s and with her acting career going downhill, she wonders whether she should settle down with her secret boyfriend, who is 12 years younger than her.",
@@ -8221,7 +8221,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZLMAlV.md.webp",
-    href: "./movie-gpt/page/Hacker.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/Va9cvA0zgwI",
     synopsis:
       "With the help of his new friends Alex Danyliuk turns to a life of crime and identity theft.",
@@ -8236,7 +8236,7 @@ const movies = [
     country: "Indonesia",
     countrys: ["indonesia"],
     poster: "https://iili.io/HZLMU0l.md.webp",
-    href: "./movie-gpt/page/Hangout.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/ezsFJQ9h_44",
     synopsis:
       "Nine people who were invited to a mysterious island tried to survive when someone began to murder them one by one.",
@@ -8251,7 +8251,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZLVekP.md.webp",
-    href: "./movie-gpt/page/In This Corner of the World.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/sDPRMcZs5Lw",
     synopsis:
       "A spirited 18-year-old woman is married off to a man she barely knows as she combats the daily struggles of living in Hiroshima during World War II.",
@@ -8266,7 +8266,7 @@ const movies = [
     country: "Indonesia",
     countrys: ["indonesia"],
     poster: "https://iili.io/HZLWCCb.md.webp",
-    href: "./movie-gpt/page/Koala Kumal.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/Yv_9YvhLv8g",
     synopsis:
       "Dika's marriage is got canceled because his girlfriend is cheating on him. After a long time broken heart, he met Trisna, a girl with a unique viewpoint. Trisna was trying to make Dika get over heartbreak and told him to revenge his ex.",
@@ -8281,7 +8281,7 @@ const movies = [
     country: "Thailand",
     countrys: ["thailand"],
     poster: "https://iili.io/HZLWkF4.md.webp",
-    href: "./movie-gpt/page/One Day.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/ueBcBWrwR0o",
     synopsis:
       "This is a story about an IT worker called Denchai who doesn't get along with his co-workers well.He falls in love with one of his co-worker who he thought was different from others called Noui, apparently, the person is an adulterer with her boss who is already married.",
@@ -8296,7 +8296,7 @@ const movies = [
     country: "Rusia",
     countrys: ["rusia"],
     poster: "https://iili.io/HZtNN5J.md.webp",
-    href: "./movie-gpt/page/Panfilovs 28.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/ccigwa2YSOo",
     synopsis:
       "In November 1941, remaining squad of Soviet soldiers must stop a column of Nazi Germany tanks.",
@@ -8311,7 +8311,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZtvXQR.md.webp",
-    href: "./movie-gpt/page/Rupture.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/kmqEmhkKeaA",
     synopsis:
       "A single mom tries to break free from a mysterious organization that has abducted her.",
@@ -8326,7 +8326,7 @@ const movies = [
     country: "Indonesia",
     countrys: ["indonesia"],
     poster: "https://iili.io/HZtvQa9.md.webp",
-    href: "./movie-gpt/page/Sabtu Bersama Bapak.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/JDZuQtaUv28",
     synopsis:
       "It's a story about a young man looking for a love learning, about a man who learned to be a father and a good husband, about a mother who raised them with love and about father who left a message and promised to always be with them.",
@@ -8341,7 +8341,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/Hx9xre1.md.webp",
-    href: "./movie-gpt/page/Split.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/U58Om9LXYFs",
     synopsis:
       "Three girls are kidnapped by a man with a diagnosed 23 distinct personalities. They must try to escape before the apparent emergence of a frightful new 24th.",
@@ -8356,7 +8356,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZt8z6N.md.webp",
-    href: "./movie-gpt/page/Sully.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/mjKEXxO2KNE",
     synopsis:
       "When pilot Chesley 'Sully' Sullenberger lands his damaged plane on the Hudson River in order to save the flight's passengers and crew, some consider him a hero while others think he was reckless.",
@@ -8371,7 +8371,7 @@ const movies = [
     country: "Japan",
     countrys: ["japan"],
     poster: "https://iili.io/HC6m4Mx.md.webp",
-    href: "./movie-gpt/page/Survival Family.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/XxG-cIiaKeg",
     synopsis:
       "After a sudden worldwide power cut, a Tokyo family are caught up in the chaos as millions traverse the country in search of electricity.",
@@ -8386,7 +8386,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZtgkP4.md.webp",
-    href: "./movie-gpt/page/Swiss Army Man.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/yrK1f4TsQfM",
     synopsis:
       "A hopeless man stranded on a deserted island befriends a dead body, and together they go on a surreal journey to get home.",
@@ -8401,7 +8401,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZtgyR1.md.webp",
-    href: "./movie-gpt/page/The 5th Wave.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/kmxLybfGNC4",
     synopsis:
       "Four waves of increasingly deadly alien attacks have left most of Earth in ruin. Cassie is on the run, desperately trying to save her younger brother.",
@@ -8416,7 +8416,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZtr8Xa.md.webp",
-    href: "./movie-gpt/page/The BFG.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/GZ0Bey4YUGI",
     synopsis:
       "An orphan little girl befriends a benevolent giant who takes her to Giant Country, where they attempt to stop the man-eating giants that are invading the human world.",
@@ -8431,7 +8431,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZt45Qa.md.webp",
-    href: "./movie-gpt/page/The Boy.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/X1U21VBSbSs",
     synopsis:
       "An American nanny is shocked that her new English family's boy is actually a life-sized doll. After she violates a list of strict rules, disturbing events make her believe that the doll is really alive.",
@@ -8446,7 +8446,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZt6Ctn.md.webp",
-    href: "./movie-gpt/page/The Brothers Grimsby.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/_YtclB_02wA",
     synopsis:
       "A new assignment forces a top spy to team up with his football hooligan brother.",
@@ -8461,7 +8461,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZt6lou.md.webp",
-    href: "./movie-gpt/page/The Founder.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/AX2uz2XYkbo",
     synopsis:
       "The story of Ray Kroc, a salesman who turned two brothers' innovative fast food eatery, McDonald's, into the biggest restaurant business in the world, with a combination of ambition, persistence, and ruthlessness.",
@@ -8476,7 +8476,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZtidkN.md.webp",
-    href: "./movie-gpt/page/The Purge Election Year.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/RXMp9fBomJw",
     synopsis:
       "Former Police Sergeant Barnes becomes head of security for Senator Charlie Roan, a Presidential candidate targeted for death on Purge night due to her vow to eliminate the Purge.",
@@ -8491,7 +8491,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZtsXHl.md.webp",
-    href: "./movie-gpt/page/The Wild Life.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/KNCjU9VEuNc",
     synopsis:
       "A daring parrot recounts how Robinson Crusoe came to be stranded on a tropical island.",
@@ -8506,7 +8506,7 @@ const movies = [
     country: "Indonesia",
     countrys: ["indonesia"],
     poster: "https://iili.io/HZtZASj.md.webp",
-    href: "./movie-gpt/page/Warkop DKI Reborn Jangkrik Boss Part 1.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/m3U03b9yHKk",
     synopsis:
       "Dono, Kasino, and Indro are back in action. Now, they join a private institution called CHIPS. Even though they are passionate about serving the community, they also continue to cause problems because of their silly and funny actions.",
@@ -8521,7 +8521,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZtZ9nt.md.webp",
-    href: "./movie-gpt/page/Wolf Girl and Black Prince.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/PwR9STF0HTY",
     synopsis:
       "Erika captured a photo of a handsome guy and told her friends that he is her boyfriend. Upon finding this out, the boy proposed to go with her pretense as long as she acts as his pet dog.",
@@ -8536,7 +8536,7 @@ const movies = [
     country: "Indonesia",
     countrys: ["indonesia"],
     poster: "https://iili.io/HZtZqAl.md.webp",
-    href: "./movie-gpt/page/Ziarah.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/r43JY_wS6ds",
     synopsis:
       "Mbah Sri (95 years old) is looking for the grave of her husband, who has been missing for decades, with one simple aim: she wants to rest in peace beside her husband's grave.",
@@ -8551,7 +8551,7 @@ const movies = [
     country: "Thailand",
     countrys: ["thailand "],
     poster: "https://iili.io/HD0uYbf.md.webp",
-    href: "./movie-gpt/page/Cat a Wabb.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/tEifxTkBTjE",
     synopsis:
       "A young OJT girl and a young assistant director try to direct a cat to promotion comercial advertisement instant noodle.",
@@ -8566,7 +8566,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZsPgzG.md.webp",
-    href: "./movie-gpt/page/Chappie.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/lyy7y0QOK-0",
     synopsis:
       "In the near future, crime is patrolled by a mechanized police force. When one police droid, Chappie, is stolen and given new programming, he becomes the first robot with the ability to think and feel for himself.",
@@ -8581,7 +8581,7 @@ const movies = [
     country: "Korea",
     countrys: ["korea"],
     poster: "https://iili.io/HZsikEQ.md.webp",
-    href: "./movie-gpt/page/Coin Locker Girl.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/Bl97yo30XS8",
     synopsis:
       "A new born girl is placed in a coin operated locker in the subway station. The girl is raised by a mother who is the boss for a loan shark group. Later, when the girl has grown into a teen, she carries out missions given to her by her mother.",
@@ -8596,7 +8596,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZssc91.md.webp",
-    href: "./movie-gpt/page/Emelie.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/fGJwl-FPdiY",
     synopsis:
       "A couple's replacement babysitter turns out to be more than they bargained for when she subjects their kids to a series of twisted activities.",
@@ -8611,7 +8611,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZsL3Dg.md.webp",
-    href: "./movie-gpt/page/Even Lambs Have Teeth.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/a9PifPDtbHY",
     synopsis:
       "Two young women terrorized by a group of small town psychos seek revenge on their tormentors.",
@@ -8626,7 +8626,7 @@ const movies = [
     country: "Japan",
     countrys: ["japan"],
     poster: "https://iili.io/HZLKVat.md.webp",
-    href: "./movie-gpt/page/Everyone Is Psychic.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/ntYowWH8W2Q",
     synopsis:
       "After receiving a cosmic blast while masturbating, a virginal teenager gains psychic powers and joins a group of ESP virgins in order to defend the world from evil psychics.",
@@ -8641,7 +8641,7 @@ const movies = [
     country: "Perancis",
     countrys: ["perancis"],
     poster: "https://iili.io/HZsQYTF.md.webp",
-    href: "./movie-gpt/page/Évolution.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/vgj8Y0OalEo",
     synopsis:
       "The only residents of young Nicholas' sea-side town are women and boys. When he sees a corpse in the ocean one day, he begins to question his existence and surroundings. Why must he, and all the other boys, be hospitalised?",
@@ -8656,7 +8656,7 @@ const movies = [
     country: "Japan",
     countrys: ["japan"],
     poster: "https://iili.io/Hx9RW5Q.md.webp",
-    href: "./movie-gpt/page/Forget Me Not.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/dPyXXCoErDw",
     synopsis:
       "This film tells the story of a high school student named Takashi (Murakami Nijiro) who falls in love at first sight with a girl along Azusa (Akari Hayami), and then they started dating. One day, Azusa made a strange confession by telling Takashi that everyone including his family will forget about him a few hours after the meeting.",
@@ -8671,7 +8671,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZst8eS.md.webp",
-    href: "./movie-gpt/page/Hitman Agent 47.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/k7X8fCUMMVM",
     synopsis:
       "An assassin teams up with a woman to help her find her father and uncover the mysteries of her ancestry.",
@@ -8686,7 +8686,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZsDNZF.md.webp",
-    href: "./movie-gpt/page/Insurgent.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/IR-l_TSjlEo",
     synopsis:
       "Beatrice Prior must confront her inner demons and continue her fight against a powerful alliance which threatens to tear her society apart with the help from others on her side.",
@@ -8701,7 +8701,7 @@ const movies = [
     country: "Thailand",
     countrys: ["thailand"],
     poster: "https://iili.io/HD5M4ja.md.webp",
-    href: "./movie-gpt/page/May Who.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/XrPoACzAu6k",
     synopsis:
       "Super standard girl in school (May Who) is on a quest to win the love of a school senior heart-throbber (Fame) with her new-found friend (Pong). The only secret is that she can discharge electricity when she gets excited.",
@@ -8716,7 +8716,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZsmogf.md.webp",
-    href: "./movie-gpt/page/Room.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/E_Ci-pAL4eE",
     synopsis:
       "A little boy is held captive in a room with his mother since his birth, so he has never known the world outside.",
@@ -8731,7 +8731,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZsp1Gn.md.webp",
-    href: "./movie-gpt/page/Spy.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/ltijEmlyqlg",
     synopsis:
       "A desk-bound CIA analyst volunteers to go undercover to infiltrate the world of a deadly arms dealer, and prevent diabolical global disaster.",
@@ -8746,7 +8746,7 @@ const movies = [
     country: "Japan",
     countrys: ["japan"],
     poster: "https://iili.io/HDxMxwB.md.webp",
-    href: "./movie-gpt/page/Tag.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/HzcGkGuSs0U",
     synopsis:
       "A girl's life cascades into chaos as everyone around her suffers a gruesome fate while she becomes less certain of who she is and her once-once normal.",
@@ -8761,7 +8761,7 @@ const movies = [
     country: "Korea",
     countrys: ["korea"],
     poster: "https://iili.io/HoORcUg.md.webp",
-    href: "./movie-gpt/page/The Beauty Inside.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/zQvPJjDRMcY",
     synopsis:
       "A South Korean has a different person's body, changing every morning to a body borrowed for a day - man, woman, old, child and sometimes a foreigner. He works as furniture designer. He loves a girl. She loves him for the beauty inside.",
@@ -8776,7 +8776,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZLFn1I.md.webp",
-    href: "./movie-gpt/page/The Corpse of Anna Fritz.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/z0llvWuP2NM",
     synopsis:
       "Anna Fritz, a famous and beautiful actress, has died recently. Three young men sneak into the morgue to see her naked, fascinated by her beauty.",
@@ -8791,7 +8791,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZLB6AX.md.webp",
-    href: "./movie-gpt/page/The Visit.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/YfQnRjkuvaY",
     synopsis:
       "Two siblings become increasingly frightened by their grandparents' disturbing behavior while visiting them on vacation.",
@@ -8806,7 +8806,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZLnn14.md.webp",
-    href: "./movie-gpt/page/Vacation.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/kleG7XCqOb4",
     synopsis:
       "Rusty Griswold takes his own family on a road trip to 'Walley World' in order to spice things up with his wife and reconnect with his sons.",
@@ -8821,7 +8821,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZLns44.md.webp",
-    href: "./movie-gpt/page/Victor Frankenstein.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/7pxZxY_Siyc",
     synopsis:
       "Told from Igor's perspective, we see the troubled young assistant's dark origins, his redemptive friendship with the young medical student Viktor Von Frankenstein, and become eyewitnesses to the emergence of how Frankenstein became the man - and the legend - we know today.",
@@ -8836,7 +8836,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZkHmpj.md.webp",
-    href: "./movie-gpt/page/300 Rise.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/2zqy21Z29ps",
     synopsis:
       "Greek general Themistocles of Athens leads the naval charge against invading Persian forces led by mortal-turned-god Xerxes and Artemisia, vengeful commander of the Persian navy.",
@@ -8851,7 +8851,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZkJDPI.md.webp",
-    href: "./movie-gpt/page/American Sniper.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/99k3u9ay1gs",
     synopsis:
       "Navy S.E.A.L. sniper Chris Kyle's pinpoint accuracy saves countless lives on the battlefield and turns him into a legend. Back home with his family after four tours of duty, however, Chris finds that it is the war he can't leave behind.",
@@ -8866,7 +8866,7 @@ const movies = [
     country: "Perancis",
     countrys: ["perancis"],
     poster: "https://iili.io/HZkdUx4.md.webp",
-    href: "./movie-gpt/page/As Above, So Below.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/Fq358xHbzN4",
     synopsis:
       "When a team of explorers venture into the catacombs that lie beneath the streets of Paris, they uncover the dark secret that lies within this city of the dead.",
@@ -8881,7 +8881,7 @@ const movies = [
     country: "Japan",
     countrys: ["japan"],
     poster: "https://iili.io/HZk26hv.md.webp",
-    href: "./movie-gpt/page/As the Gods Will.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/UobuZdL1Xos",
     synopsis:
       "A group of high school students are forced to play a game of death without knowing who, why or how.",
@@ -8896,7 +8896,7 @@ const movies = [
     country: "Indonesia",
     countrys: ["indonesia"],
     poster: "https://iili.io/HZk3GGp.md.webp",
-    href: "./movie-gpt/page/Bajaj.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/mSc8SeZfUFo",
     synopsis:
       "When Bajuri (Ricky Harun) gets money from selling his inheritance, the problem starts. He, his family, thugs, and police were trapped in a horrendous comedy action.",
@@ -8911,7 +8911,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZkK379.md.webp",
-    href: "./movie-gpt/page/Chef.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/FF_rYNupPwg",
     synopsis:
       "A head chef quits his restaurant job and buys a food truck in an effort to reclaim his creative promise, while piecing back together his estranged family.",
@@ -8926,7 +8926,7 @@ const movies = [
     country: "Indonesia",
     countrys: ["indonesia"],
     poster: "https://iili.io/HZkqFob.md.webp",
-    href: "./movie-gpt/page/Comic 8.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/3DSldkw35n4",
     synopsis:
       "Eight young people from various backgrounds and life stories coincidentally rob a bank at the same time.",
@@ -8941,7 +8941,7 @@ const movies = [
     country: "Japan",
     countrys: ["japan"],
     poster: "https://iili.io/HZkBYhu.md.webp",
-    href: "./movie-gpt/page/Crows Explode.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/Adbqa0KnO4I",
     synopsis:
       "A new transfer student comes once again to a high school where violent fights among students is a way of life.",
@@ -8956,7 +8956,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZ8eEl9.md.webp",
-    href: "./movie-gpt/page/Dawn of the Planet of the Apes.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/rf5e7Xc1Hwk",
     synopsis:
       "The fragile peace between apes and humans is threatened as mistrust and betrayal threaten to plunge both tribes into a war for dominance over the Earth.",
@@ -8971,7 +8971,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZ8ekKP.md.webp",
-    href: "./movie-gpt/page/Divergent.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/Aw7Eln_xuWc",
     synopsis:
       "In a world divided by factions based on virtues, Tris learns she's Divergent and won't fit in. When she discovers a plot to destroy Divergents, Tris and the mysterious Four must find out what makes Divergents dangerous before it's too late.",
@@ -8986,7 +8986,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZ8ePxR.md.webp",
-    href: "./movie-gpt/page/Fury.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/q94n3eWOWXM",
     synopsis:
       "A grizzled tank commander makes tough decisions as he and his crew fight their way across Germany in April, 1945.",
@@ -9001,7 +9001,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/Hohk3J4.md.webp",
-    href: "./movie-gpt/page/Hector and the Search for Happiness.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/l5b-hcwrs-I",
     synopsis:
       "A psychiatrist searches the globe to find the secret of happiness.",
@@ -9016,7 +9016,7 @@ const movies = [
     country: "Indonesia",
     countrys: ["indonesia"],
     poster: "https://iili.io/HZ8kbEB.md.webp",
-    href: "./movie-gpt/page/Killers.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/km-U2csTy3Q",
     synopsis:
       "A psychopathic Japanese executive accidentally triggers a journalist's 'dark side'. They begin to connect over the Internet and make a complicated bond.",
@@ -9031,7 +9031,7 @@ const movies = [
     country: "Japan",
     countrys: ["japan"],
     poster: "https://iili.io/HZi3riP.md.webp",
-    href: "./movie-gpt/page/LDK.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/w06mbQ9j6J8",
     synopsis:
       "Aoi lives in an apartment by herself. Shusei moves in next to Aoi's apartment. Shusei is a very popular student. Due to a mistake, Aoi makes the sprinkler go off in his room. Until his room is fixed, he stays with Aoi.",
@@ -9046,7 +9046,7 @@ const movies = [
     country: "Indonesia",
     countrys: ["indonesia"],
     poster: "https://iili.io/HZi09BS.md.webp",
-    href: "./movie-gpt/page/Marmut Merah Jambu.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/VMQPfcXny-k",
     synopsis:
       "Dika visited Ina's Father before her wedding day, he told about his high school experience of having Ina as his crush. He also creates a detective group with his other friends trying to be famous in his high school to get Ina's attention.",
@@ -9061,7 +9061,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HDBUKrP.md.webp",
-    href: "./movie-gpt/page/Need for Speed.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/u3wtVI-aJuw",
     synopsis:
       "Fresh from prison, a street racer who was framed by a wealthy business associate joins a cross-country race with revenge in mind. His ex-partner, learning of the plan, places a massive bounty on his head as the race begins.",
@@ -9076,7 +9076,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZi0YjR.md.webp",
-    href: "./movie-gpt/page/Pompeii.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/t6TRwfxDICM",
     synopsis:
       "A slave-turned-gladiator finds himself in a race against time to save his true love, who has been betrothed to a corrupt Roman Senator. As Mount Vesuvius erupts, he must fight to save his beloved as Pompeii crumbles around him.",
@@ -9091,7 +9091,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZi1xt4.md.webp",
-    href: "./movie-gpt/page/Street Fighter Assassins Fist.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/wsXeTKQRtj4",
     synopsis:
       "Street Fighter: Assassin's Fist takes us back to the formative years of the iconic characters, Ryu and Ken, as they live a traditional warrior's life in the secluded mountain wilderness of Japan.",
@@ -9106,7 +9106,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZiEdOb.md.webp",
-    href: "./movie-gpt/page/The Imitation Game.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/j2jRs4EAvWM",
     synopsis:
       "During World War II, the English mathematical genius Alan Turing tries to crack the German Enigma code with help from fellow mathematicians while attempting to come to terms with his troubled private life.",
@@ -9121,7 +9121,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZiMgfV.md.webp",
-    href: "./movie-gpt/page/The Purge Anarchy.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/XzFCDqKE4yA",
     synopsis:
       "Three groups of people intertwine and are left stranded in the streets on Purge Night, trying to survive the chaos and violence that occurs.",
@@ -9136,7 +9136,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZihXLb.md.webp",
-    href: "./movie-gpt/page/Tusk.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/ac65P8W4j_o",
     synopsis:
       "A brash and arrogant podcaster gets more than he bargained for when he travels to Canada to interview a mysterious recluse... who has a rather disturbing fondness for walruses.",
@@ -9151,7 +9151,7 @@ const movies = [
     country: "Japan",
     countrys: ["japan"],
     poster: "https://iili.io/HZejHcx.md.webp",
-    href: "./movie-gpt/page/Dareka no Manazashi.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/59kQ79XqmGQ",
     synopsis:
       "A futuristic story about a newly independent female and her maturation into independence. The narrator details the effect her development is having on her relationship with her father.",
@@ -9166,7 +9166,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZeZpa4.md.webp",
-    href: "./movie-gpt/page/Evil Dead.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/gJSHhMUPD7M",
     synopsis:
       "Five friends head to a remote cabin, where the discovery of a Book of the Dead leads them to unwittingly summon up demons living in the nearby woods.",
@@ -9181,7 +9181,7 @@ const movies = [
     country: "Indonesia",
     countrys: ["indonesia"],
     poster: "https://iili.io/HZePQR9.md.webp",
-    href: "./movie-gpt/page/Cinta Brontosaurus.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/vJV4XBx65vE",
     synopsis:
       "Dika, a heartbroken writer, believes that any relationships will eventually get 'expired'. Meanwhile, his agent is trying to convince him of true love as he tried to introduce Dika to a girl who has the same strange mindset as Dika.",
@@ -9196,7 +9196,7 @@ const movies = [
     country: "Indonesia",
     countrys: ["indonesia"],
     poster: "https://iili.io/HZesLZu.md.webp",
-    href: "./movie-gpt/page/Cinta Dalam Kardus.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/XxIlZdnmcnU",
     synopsis:
       "A boy called Miko went to Stand Up Comedy show in a restaurant to release his stresses. While in the show, his jokes are hated by the restaurant costumers, so he brings the box that contains the pieces of stuff of his past loves.",
@@ -9211,7 +9211,7 @@ const movies = [
     country: "Indonesia",
     countrys: ["indonesia"],
     poster: "https://iili.io/HZeQqxe.md.webp",
-    href: "./movie-gpt/page/Manusia Setengah Salmon.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/HNVZ0HhfFeY",
     synopsis:
       "Dika and his family want to move out of his house for a reason, and Dika doesn't feel good about it. But as time goes, his feeling is getting better about his new house while he met his high school crush after a long time.",
@@ -9226,7 +9226,7 @@ const movies = [
     country: "Korea",
     countrys: ["korea"],
     poster: "https://iili.io/HZeZW3x.md.webp",
-    href: "./movie-gpt/page/Miracle in Cell.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/h9MGZFy-gog",
     synopsis:
       "A story about the love between a mentally-ill father and his lovingly adorable daughter.",
@@ -9241,7 +9241,7 @@ const movies = [
     country: "Rusia",
     countrys: ["rusia"],
     poster: "https://iili.io/HZeDTJ4.md.webp",
-    href: "./movie-gpt/page/Stalingrad.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/fRbOx5OITP0",
     synopsis:
       "A group of Russian soldiers fight to hold a strategic building in their devastated city against a ruthless German army, and in the process become deeply connected to two Russian women who have been living there.",
@@ -9256,7 +9256,7 @@ const movies = [
     country: "Japan",
     countrys: ["japan"],
     poster: "https://iili.io/HZeUtdF.md.webp",
-    href: "./movie-gpt/page/The Kingdom of Dreams and Madness.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/24wViGZKVu8",
     synopsis:
       "Follows the routines of those employed at Studio Ghibli, including filmmakers Hayao Miyazaki, Isao Takahata, and Toshio Suzuki as they work to release two films simultaneously, The Wind Rises and The Tale of the Princess Kaguya.",
@@ -9271,7 +9271,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZeeEB9.md.webp",
-    href: "./movie-gpt/page/The Purge.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/K0LLaybEuzA",
     synopsis:
       "A wealthy family is held hostage for harboring the target of a murderous syndicate during the Purge, a 12-hour period in which any and all crime is legal.",
@@ -9286,7 +9286,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZehaYQ.md.webp",
-    href: "./movie-gpt/page/Warm Bodies.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/_TDYhTNpUzo",
     synopsis:
       "After a highly unusual zombie saves a still-living girl from an attack, the two form a relationship that sets in motion events that might transform the entire lifeless world.",
@@ -9301,7 +9301,7 @@ const movies = [
     country: "Indonesia",
     countrys: ["indonesia"],
     poster: "https://iili.io/HZe1vql.md.webp",
-    href: "./movie-gpt/page/5 cm.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/5TshGVIf-m4",
     synopsis:
       "Five best friends try to find out what true friendship is by climbing Mount Semeru, the highest peak in Java.",
@@ -9316,7 +9316,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZe0yxf.md.webp",
-    href: "./movie-gpt/page/Battleship.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/cp3646Zf8rg",
     synopsis:
       "A fleet of ships is forced to do battle with an armada of unknown origins in order to discover and thwart their destructive goals.",
@@ -9331,7 +9331,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZecMg9.md.webp",
-    href: "./movie-gpt/page/Premium Rush.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/EFVx9vjuGNs",
     synopsis:
       "In Manhattan, a bike messenger picks up an envelope that attracts the interest of a dirty cop, who pursues the cyclist throughout the city.",
@@ -9346,7 +9346,7 @@ const movies = [
     country: "Indonesia",
     countrys: ["indonesia"],
     poster: "https://iili.io/HZeamDx.md.webp",
-    href: "./movie-gpt/page/Tanah.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/UhOi5-QOSRc",
     synopsis:
       "A family lives in the frontier between Indonesia and Malaysia. But his son chooses to live in Malaysia because, in Indonesia, the government is not taking care of people in the frontier and his life in Malaysia is much better.",
@@ -9361,7 +9361,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZea7nV.md.webp",
-    href: "./movie-gpt/page/The Dictator.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/BegO9nKUsBY",
     synopsis:
       "The heroic story of a dictator who risked his life to ensure that democracy would never come to the country he so lovingly oppressed.",
@@ -9376,7 +9376,7 @@ const movies = [
     country: "Japan",
     countrys: ["japan"],
     poster: "https://iili.io/HZed9dg.md.webp",
-    href: "./movie-gpt/page/Wolf Children.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/Mzn3PVawFZ4",
     synopsis:
       "After her werewolf lover unexpectedly dies in an accident while hunting for food for their children, a young woman must find ways to raise the werewolf son and daughter that she had with him while keeping their trait hidden from society.",
@@ -9391,7 +9391,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZNiZ12.md.webp",
-    href: "./movie-gpt/page/Battle.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/Yt7ofokzn04",
     synopsis:
       "A squad of U.S. Marines becomes the last line of defense against a global invasion.",
@@ -9406,7 +9406,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZNLx87.md.webp",
-    href: "./movie-gpt/page/Contagion.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/C-ADAwfrwGs",
     synopsis:
       "Healthcare professionals, government officials and everyday people find themselves in the midst of a pandemic as the CDC works to find a cure.",
@@ -9421,7 +9421,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HDIfMo7.md.webp",
-    href: "./movie-gpt/page/Limitless.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/4TLppsfzQH8",
     synopsis:
       "A mysterious pill that enables the user to access 100% of his brain's abilities transforms a struggling writer into a financial wizard, but it also puts him in a new world with many dangers.",
@@ -9436,7 +9436,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZNQkqx.md.webp",
-    href: "./movie-gpt/page/Real.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/GxkJq9nSoBs",
     synopsis:
       "In the near future, robot boxing is a top sport. A struggling ex-boxer feels he's found a champion in a discarded robot.",
@@ -9451,7 +9451,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HC6mv99.md.webp",
-    href: "./movie-gpt/page/Starbuck.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/H5IqNROweUk",
     synopsis:
       "As his lover announces her pregnancy, a fortysomething slacker receives other life-changing news: 142 people, all of them the result of artificial insemination, have filed a class action lawsuit against him, their biological father.",
@@ -9466,7 +9466,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZOtdbt.md.webp",
-    href: "./movie-gpt/page/Sucker Punch.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/9k10AzCcMOM",
     synopsis:
       "A young girl institutionalized by her abusive stepfather retreats to an alternative reality as a coping strategy and envisions a plan to help her escape.",
@@ -9481,7 +9481,7 @@ const movies = [
     country: "Thailand",
     countrys: ["thailand"],
     poster: "https://iili.io/HZNZcp1.md.webp",
-    href: "./movie-gpt/page/The Billionaire.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/HxbeZ6WjLCU",
     synopsis:
       "What are you doing at his age? Age 16, TOP gained 400,000 Baht monthly from playing online games. Age 17, He was willing to fail school and instead earned money from selling chestnuts for 2,000 baht. Age 18, His family went bankrupt and remained 40 million Baht in debt. Age 19, He released Tao Kae Noi seaweed to more than 3,000 branches at 7-Eleven.",
@@ -9496,7 +9496,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZNZ43l.md.webp",
-    href: "./movie-gpt/page/The Green Hornet.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/PMA-taGtfXs",
     synopsis:
       "Following the death of his father, Britt Reid, heir to his father's large company, teams up with his late dad's assistant Kato to become a masked crime fighting team.",
@@ -9511,7 +9511,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HDISgQn.md.webp",
-    href: "./movie-gpt/page/127 Hours.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/OlhLOWTnVoQ",
     synopsis:
       "A mountain climber becomes trapped under a boulder while canyoneering alone near Moab, Utah and resorts to desperate measures in order to survive.",
@@ -9526,7 +9526,7 @@ const movies = [
     country: "Thailand",
     countrys: ["thailand"],
     poster: "https://iili.io/HD58e6X.md.webp",
-    href: "./movie-gpt/page/A Little Thing Called Love.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/LLaLWehxJFc",
     synopsis:
       "Life of a 14 year old girl Nam, who falls in love with her senior of tenth grade P'Shone and tries desperately to win his attention.",
@@ -9541,7 +9541,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HYrPMxt.md.webp",
-    href: "./movie-gpt/page/Blue Valentine.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/aILx69WrRhQ",
     synopsis:
       "The relationship of a contemporary married couple, charting their evolution over a span of years by cross-cutting between time periods.",
@@ -9556,7 +9556,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZN6UEN.md.webp",
-    href: "./movie-gpt/page/Buried.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/d8KBYAvYpO4",
     synopsis:
       "Paul is a U.S. truck driver working in Iraq. After an attack by a group of Iraqis he wakes to find he is buried alive inside a coffin. With only a lighter and a cell phone it's a race against time to escape this claustrophobic death trap.",
@@ -9571,7 +9571,7 @@ const movies = [
     country: "Thailand",
     countrys: ["thailand"],
     poster: "https://iili.io/HDmruDl.md.webp",
-    href: "./movie-gpt/page/Cool Gel Attacks.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/Z6KDXUM-ZRE",
     synopsis:
       "Two feuding neighbors have to put their differences aside to battle an invasion of alien parasites.",
@@ -9586,7 +9586,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZNPXn4.md.webp",
-    href: "./movie-gpt/page/Scott.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/7wd5KEaOtm4",
     synopsis:
       "In a magically realistic version of Toronto, a young man must defeat his new girlfriend's seven evil exes one by one in order to win her heart.",
@@ -9601,7 +9601,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HZNPpov.md.webp",
-    href: "./movie-gpt/page/Shutter.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/v8yrZSkKxTA",
     synopsis:
       "Teddy Daniels and Chuck Aule, two US marshals, are sent to an asylum on a remote island in order to investigate the disappearance of a patient, where Teddy uncovers a shocking truth about the place.",
@@ -9616,7 +9616,7 @@ const movies = [
     country: "Thailand",
     countrys: ["thailand"],
     poster: "https://iili.io/HDm4aXp.md.webp",
-    href: "./movie-gpt/page/The Little Comedian.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/zLv2M-XYlGo",
     synopsis:
       "Tock, a 12 years old heir to a long line of comedians has a problem. He is not funny. Constantly upstage by his younger sister, he falls in love with a dermatologist who incidentally is the only one who finds him funny.",
@@ -9631,7 +9631,7 @@ const movies = [
     country: "Japan",
     countrys: ["japan"],
     poster: "https://iili.io/HDIMrSs.md.webp",
-    href: "./movie-gpt/page/Crows Zero II.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/24cbixSqXoU",
     synopsis:
       "Tension escalates and violence ensues when a young student unwittingly breaks a non-aggression pact between two rival high schools.",
@@ -9646,7 +9646,7 @@ const movies = [
     country: "Indonesia",
     countrys: ["indonesia"],
     poster: "https://iili.io/HDIUEFf.md.webp",
-    href: "./movie-gpt/page/Kambing Jantan.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/kZknp2IQThk",
     synopsis:
       "Dika just finished high school and went to Australia for college because of his mother. While in Australia, he must face a long distance relationship with her long time girlfriend.",
@@ -9661,7 +9661,7 @@ const movies = [
     country: "Irlandia",
     countrys: ["irlandia"],
     poster: "https://iili.io/HDIUyNI.md.webp",
-    href: "./movie-gpt/page/Ondine.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/hO0B_saqOLY",
     synopsis:
       "An Irish fisherman discovers a woman in his fishing net whom his precocious daughter believes to be a selkie.",
@@ -9676,7 +9676,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HDIgTiu.md.webp",
-    href: "./movie-gpt/page/Orphan.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/m5BSLNAKIZs",
     synopsis:
       "A husband and wife who recently lost their baby adopt a 9-year-old girl who is not nearly as innocent as she appears.",
@@ -9691,7 +9691,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HDIr1kl.md.webp",
-    href: "./movie-gpt/page/The Invention of Lying.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/RhRnmyBjOLs",
     synopsis:
       "A comedy set in a world where no one has ever lied, until a writer seizes the opportunity for personal gain.",
@@ -9706,7 +9706,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HDIrZpp.md.webp",
-    href: "./movie-gpt/page/Zombieland.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/8m9EVP8X7N8",
     synopsis:
       "A shy student trying to reach his family in Ohio, a gun-toting bruiser in search of the last Twinkie and a pair of sisters striving to get to an amusement park join forces in a trek across a zombie-filled America.",
@@ -9721,7 +9721,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HDIaG7p.md.webp",
-    href: "./movie-gpt/page/Meet the Spartans.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/RY-zJtYYolo",
     synopsis:
       "A spoof of 300 (2006) and many other movies, TV series/shows/commercials, video games and celebrities. King Leonidas of Sparta and his army of 12 go to war against Xerxes of Persia to fight to the death for Sparta's freedom.",
@@ -9736,7 +9736,7 @@ const movies = [
     country: "Japan",
     countrys: ["japan"],
     poster: "https://iili.io/HDIl3x9.md.webp",
-    href: "./movie-gpt/page/One Million Yen Girl.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/G0FQTYMv9QI",
     synopsis:
       "A 21-year-old girl is released from prison, only to deal with the neighborhood gossip about her and family conflicts. She decides to save one million yen, move to where no one knows her and keep repeating the process.",
@@ -9751,7 +9751,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HYr6fvp.md.webp",
-    href: "./movie-gpt/page/Revolutionary Road.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/WGS9M6uiOW4",
     synopsis:
       "A young couple living in a Connecticut suburb during the mid-1950s struggle to come to terms with their personal problems while trying to raise their two children.",
@@ -9766,7 +9766,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HDI0v3J.md.webp",
-    href: "./movie-gpt/page/The Happening.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/1I9ZQVK8gV8",
     synopsis:
       "A science teacher, his wife, and a young girl struggle to survive a plague that causes those infected to commit suicide.",
@@ -9781,7 +9781,7 @@ const movies = [
     country: "Japan",
     countrys: ["japan"],
     poster: "https://iili.io/HDIGtaa.md.webp",
-    href: "./movie-gpt/page/Us with a police officer of the 700-day war.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/f2PW-DU17rU",
     synopsis:
       "After one of their group is caught for speeding a group of trouble-making teenagers decide to prank the local police officer. It starts with simple speeding pranks but gradually moves to more elaborate and bizarre pranks.",
@@ -9796,7 +9796,7 @@ const movies = [
     country: "Japan",
     countrys: ["japan"],
     poster: "https://iili.io/HDIoUF9.md.webp",
-    href: "./movie-gpt/page/Crows Zero.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/mc5X05k21IY",
     synopsis:
       "A transfer student attempts to take over the most violent high school in the country, whose students form factions and battle each other for power.",
@@ -9811,7 +9811,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HDIIIG2.md.webp",
-    href: "./movie-gpt/page/Teeth.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/yH8yuld4DUE",
     synopsis:
       "Still a stranger to her own body, a high school student discovers she has a physical advantage when she becomes the object of male violence.",
@@ -9826,7 +9826,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HDIAT4p.md.webp",
-    href: "./movie-gpt/page/House of Wax.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/ezUtqfB24Cg",
     synopsis:
       "A group of teens are unwittingly stranded near a strange wax museum and soon must fight to survive and keep from becoming the next exhibit.",
@@ -9841,7 +9841,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HDI7Otn.md.webp",
-    href: "./movie-gpt/page/Kingdom of Heaven.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/KartNo8EDWY",
     synopsis:
       "Balian of Ibelin travels to Jerusalem during the Crusades of the 12th century, and there he finds himself as the defender of the city and its people.",
@@ -9856,7 +9856,7 @@ const movies = [
     country: "Korea",
     countrys: ["korea"],
     poster: "https://iili.io/HDRJ1V9.md.webp",
-    href: "./movie-gpt/page/A Tale of Two Sisters.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/4YmCIp4qlGg",
     synopsis:
       "After spending time in a mental hospital, a girl is reunited with her sister and returns home, only to see some truly strange events start to happen.",
@@ -9871,7 +9871,7 @@ const movies = [
     country: "Rusia",
     countrys: ["rusia"],
     poster: "https://iili.io/HDR23pR.md.webp",
-    href: "./movie-gpt/page/Enemy at the Gates.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/4O-sMh_DO6I",
     synopsis:
       "A Russian and a German sniper play a game of cat-and-mouse during the Battle of Stalingrad.",
@@ -9886,7 +9886,7 @@ const movies = [
     country: "Cina",
     countrys: ["cina"],
     poster: "https://iili.io/HDIBp8G.md.webp",
-    href: "./movie-gpt/page/From Beijing with Love.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/xKcfD19xAtE",
     synopsis:
       "An incompetent 007-wannabe is sent to locate a stolen dinosaur skull.",
@@ -9901,7 +9901,7 @@ const movies = [
     country: "USA",
     countrys: ["usa"],
     poster: "https://iili.io/HDoSrts.md.webp",
-    href: "./movie-gpt/page/The Little Rascals.html",
+    href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/FgyCE8VsGKM",
     synopsis:
       "Alfalfa is wooing Darla and his 'He-Man-Woman-Hating' friends attempt to sabotage the relationship.",

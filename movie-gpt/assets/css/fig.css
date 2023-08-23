@@ -1,0 +1,267 @@
+.extra-extra-large-1400-px {
+  background: #12192a;
+  max-width: 1920px;
+  height: 1567px;
+  position: relative;
+  overflow: hidden;
+}
+.country {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 1260px;
+  top: 1210px;
+}
+.country2 {
+  color: #6a7188;
+  text-align: left;
+  font: 500 16px "Inter", sans-serif;
+  position: relative;
+}
+.country-content {
+  color: #c3c8d4;
+  text-align: left;
+  font: 500 24px "Inter", sans-serif;
+  position: relative;
+}
+.duration {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 1041px;
+  top: 1210px;
+}
+.duration2 {
+  color: #6a7188;
+  text-align: left;
+  font: 500 16px "Inter", sans-serif;
+  position: relative;
+}
+.duration-content {
+  color: #c3c8d4;
+  text-align: left;
+  font: 500 24px "Inter", sans-serif;
+  position: relative;
+}
+.rating {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 1260px;
+  top: 1130px;
+}
+.rating2 {
+  color: #6a7188;
+  text-align: left;
+  font: 500 16px "Inter", sans-serif;
+  position: relative;
+}
+.rating-content {
+  color: #c3c8d4;
+  text-align: left;
+  font: 500 24px "Inter", sans-serif;
+  position: relative;
+}
+.years {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 1041px;
+  top: 1130px;
+}
+.year {
+  color: #6a7188;
+  text-align: left;
+  font: 500 16px "Inter", sans-serif;
+  position: relative;
+}
+.year-content {
+  color: #c3c8d4;
+  text-align: left;
+  font: 500 24px "Inter", sans-serif;
+  position: relative;
+}
+.genres {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 1041px;
+  top: 1050px;
+}
+.genres2 {
+  color: #6a7188;
+  text-align: left;
+  font: 500 16px "Inter", sans-serif;
+  position: relative;
+}
+.genres-content {
+  color: #c3c8d4;
+  text-align: left;
+  font: 500 24px "Inter", sans-serif;
+  position: relative;
+}
+.synopsis {
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 1041px;
+  top: 793px;
+}
+.synopsis2 {
+  color: #ebeef5;
+  text-align: left;
+  font: 500 24px "Inter", sans-serif;
+  position: relative;
+}
+.synopsis-content {
+  color: #767d94;
+  text-align: left;
+  font: 500 16px "Inter", sans-serif;
+  position: relative;
+  width: 437px;
+}
+.poster {
+  position: absolute;
+  left: 441px;
+  bottom: 56px;
+  top: 793px;
+  overflow: visible;
+}
+.poster2 {
+  border-radius: 20px;
+  width: 519px;
+  height: 718px;
+  position: absolute;
+  left: 355px;
+  top: 793px;
+}
+.trailer {
+  position: absolute;
+  border-radius: 40px;
+  inset: 0;
+}
+.rectangle-2 {
+  border-radius: 40px;
+  width: 1200px;
+  height: 481px;
+  position: absolute;
+  left: 365px;
+  top: 75px;
+}
+.image-2 {
+  width: 1228px;
+  height: 603px;
+  position: absolute;
+  left: 351px;
+  top: 107px;
+}
+.title {
+  background: #15252f;
+  border-radius: 20px;
+  padding: 38px 39px 38px 39px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  width: 300px;
+  position: absolute;
+  left: 441px;
+  top: 568px;
+  overflow: hidden;
+}
+.movie-gpt {
+  color: #abdceb;
+  text-align: left;
+  font: 500 12px "Inter", sans-serif;
+  position: relative;
+  width: 60px;
+}
+. {
+  color: #abdceb;
+  text-align: left;
+  font: 500 12px "Inter", sans-serif;
+  position: relative;
+  width: 5px;
+}
+.detail-page {
+  color: #abdceb;
+  text-align: left;
+  font: 500 12px "Inter", sans-serif;
+  position: relative;
+  width: 66px;
+}
+.black-berry {
+  color: #ffffff;
+  text-align: left;
+  font: 500 32px "Inter", sans-serif;
+  position: relative;
+  width: auto;
+}
+.navbar {
+  position: absolute;
+  inset: 0;
+}
+.home {
+  color: #767d94;
+  text-align: left;
+  font: 500 16px "Inter", sans-serif;
+  position: absolute;
+  right: 448px;
+  top: 30px;
+}
+.series {
+  color: #767d94;
+  text-align: left;
+  font: 500 16px "Inter", sans-serif;
+  position: absolute;
+  right: 360px;
+  top: 30px;
+}
+.logo {
+  width: 30px;
+  height: 29.52px;
+  position: absolute;
+  left: 360px;
+  top: 21px;
+}
+
+/* Styling for screens with a width of 768px or larger (medium) */
+@media (min-width: 768px) {
+  .extra-extra-large-1400-px {
+    /* Add your styling for medium screens here */
+  }
+}
+
+/* Styling for screens with a width of 576px to 767px (small) */
+@media (min-width: 576px) and (max-width: 767px) {
+  .extra-extra-large-1400-px {
+    /* Add your styling for small screens here */
+  }
+}
+
+/* Styling for screens with a width smaller than 576px (x-small) */
+@media (max-width: 575px) {
+  .extra-extra-large-1400-px {
+    /* Add your styling for x-small screens here */
+  }
+}

@@ -111,8 +111,11 @@ function createMovieCard(movie) {
 
   // Create the detail button
   const detailButton = document.createElement("a");
-  detailButton.href = movie.href;
+  detailButton.href = `./movie-gpt/detail.html?title=${encodeURIComponent(
+    movie.title
+  )}`;
   detailButton.textContent = "Details";
+  detailButton.setAttribute("data-movie-title", movie.title); // Use movie title as data attribute
   detailButton.classList.add("btn-detail");
   card.appendChild(detailButton);
 
