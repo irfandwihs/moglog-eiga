@@ -1,0 +1,245 @@
+.small-576-px,
+.small-576-px * {
+  box-sizing: border-box;
+}
+.small-576-px {
+  background: #12192a;
+  width: 604px;
+  height: 1596px;
+  position: relative;
+  overflow: hidden;
+}
+.country {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: center;
+  position: absolute;
+  left: 313px;
+  top: 1478px;
+}
+.country2 {
+  color: #6a7188;
+  text-align: left;
+  font: 500 16px "Inter", sans-serif;
+  position: relative;
+}
+.country-content {
+  color: #c3c8d4;
+  text-align: left;
+  font: 500 24px "Inter", sans-serif;
+  position: relative;
+}
+.duration {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 134px;
+  top: 1478px;
+}
+.duration2 {
+  color: #6a7188;
+  text-align: left;
+  font: 500 16px "Inter", sans-serif;
+  position: relative;
+}
+.duration-content {
+  color: #c3c8d4;
+  text-align: left;
+  font: 500 24px "Inter", sans-serif;
+  position: relative;
+}
+.rating {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 313px;
+  top: 1398px;
+}
+.rating2 {
+  color: #6a7188;
+  text-align: left;
+  font: 500 16px "Inter", sans-serif;
+  position: relative;
+}
+.rating-content {
+  color: #c3c8d4;
+  text-align: left;
+  font: 500 24px "Inter", sans-serif;
+  position: relative;
+}
+.years {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 134px;
+  top: 1398px;
+}
+.year {
+  color: #6a7188;
+  text-align: left;
+  font: 500 16px "Inter", sans-serif;
+  position: relative;
+}
+.year-content {
+  color: #c3c8d4;
+  text-align: left;
+  font: 500 24px "Inter", sans-serif;
+  position: relative;
+}
+.genres {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 372px;
+  position: absolute;
+  left: 134px;
+  top: 1289px;
+}
+.genres2 {
+  color: #6a7188;
+  text-align: left;
+  font: 500 16px "Inter", sans-serif;
+  position: relative;
+}
+.genres-content {
+  color: #c3c8d4;
+  text-align: left;
+  font: 500 24px "Inter", sans-serif;
+  position: relative;
+}
+.synopsis {
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 372px;
+  position: absolute;
+  left: 134px;
+  top: 1139px;
+}
+.synopsis2 {
+  color: #ebeef5;
+  text-align: left;
+  font: 500 24px "Inter", sans-serif;
+  position: relative;
+}
+.synopsis-content {
+  color: #767d94;
+  text-align: left;
+  font: 500 16px "Inter", sans-serif;
+  position: relative;
+  width: 372px;
+  height: 93px;
+}
+.poster {
+  position: absolute;
+  left: calc(50% - 167px);
+  bottom: 507.65px;
+  top: 550px;
+  overflow: visible;
+}
+.trailer {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-2 {
+  background: #d9d9d9;
+  border-radius: 40px;
+  width: 377.5px;
+  height: 250px;
+  position: absolute;
+  left: 115px;
+  top: 260px;
+}
+.image-2 {
+  width: 386.31px;
+  height: 313.41px;
+  position: absolute;
+  left: 110.6px;
+  top: 233.49px;
+}
+.title {
+  background: #15252f;
+  border-radius: 20px;
+  padding: 38px 39px 38px 39px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  width: 245px;
+  position: absolute;
+  left: 115px;
+  top: 91px;
+  overflow: hidden;
+}
+.movie-gpt {
+  color: #abdceb;
+  text-align: left;
+  font: 500 12px "Inter", sans-serif;
+  position: relative;
+  width: 60px;
+}
+. {
+  color: #abdceb;
+  text-align: left;
+  font: 500 12px "Inter", sans-serif;
+  position: relative;
+  width: 5px;
+}
+.detail-page {
+  color: #abdceb;
+  text-align: left;
+  font: 500 12px "Inter", sans-serif;
+  position: relative;
+  width: 66px;
+}
+.black-berry {
+  color: #ffffff;
+  text-align: left;
+  font: 500 32px "Inter", sans-serif;
+  position: relative;
+  width: 167px;
+}
+.navbar {
+  position: absolute;
+  inset: 0;
+}
+.home {
+  color: #767d94;
+  text-align: left;
+  font: 500 16px "Inter", sans-serif;
+  position: absolute;
+  right: 251px;
+  top: 30px;
+}
+.series {
+  color: #767d94;
+  text-align: left;
+  font: 500 16px "Inter", sans-serif;
+  position: absolute;
+  right: 163px;
+  top: 30px;
+}
+.logo {
+  width: 30px;
+  height: 29.52px;
+  position: absolute;
+  left: 115px;
+  top: 21px;
+}

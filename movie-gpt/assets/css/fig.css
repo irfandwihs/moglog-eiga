@@ -4,6 +4,8 @@
   height: 1567px;
   position: relative;
   overflow: hidden;
+  margin: 0 auto;
+  padding: 20px;
 }
 .country {
   display: flex;
@@ -138,13 +140,7 @@
   position: relative;
   width: 437px;
 }
-.poster {
-  position: absolute;
-  left: 441px;
-  bottom: 56px;
-  top: 793px;
-  overflow: visible;
-}
+
 .poster2 {
   border-radius: 20px;
   width: 519px;
@@ -245,23 +241,281 @@
   top: 21px;
 }
 
-/* Styling for screens with a width of 768px or larger (medium) */
+/* Media query for medium screens (min-width: 768px) */
 @media (min-width: 768px) {
   .extra-extra-large-1400-px {
-    /* Add your styling for medium screens here */
+    max-width: 1400px;
+    padding: 40px;
+  }
+  .country {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: flex-start;
+    justify-content: center;
+    position: absolute;
+    left: 370px;
+    top: 1982px;
+  }
+  .duration {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: absolute;
+    left: 191px;
+    top: 1978px;
+  }
+  .rating {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: absolute;
+    left: 370px;
+    top: 1902px;
+  }
+  .years {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: absolute;
+    left: 191px;
+    top: 1898px;
+  }
+  .genres {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    width: 460px;
+    position: absolute;
+    left: 191px;
+    top: 1793px;
+  }
+  .synopsis {
+    display: flex;
+    flex-direction: column;
+    gap: 28px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    width: 524px;
+    position: absolute;
+    left: 178px;
+    top: 1643px;
+  }
+  .title {
+    background: #15252f;
+    border-radius: 20px;
+    padding: 38px 39px 38px 39px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    width: 245px;
+    position: absolute;
+    left: 202px;
+    top: 521px;
+    overflow: hidden;
+  }
+  .poster2 {
+    position: absolute;
+    left: calc(50% - 275px);
+    bottom: 511.39px;
+    top: 710px;
+    overflow: visible;
   }
 }
 
-/* Styling for screens with a width of 576px to 767px (small) */
-@media (min-width: 576px) and (max-width: 767px) {
+/* Media query for small screens (min-width: 576px) */
+@media (min-width: 576px) {
   .extra-extra-large-1400-px {
-    /* Add your styling for small screens here */
+    max-width: 1400px;
+    padding: 20px;
+  }
+  .country {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: flex-start;
+    justify-content: center;
+    position: absolute;
+    left: 313px;
+    top: 1478px;
+  }
+  .duration {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: absolute;
+    left: 134px;
+    top: 1478px;
+  }
+  .rating {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: absolute;
+    left: 313px;
+    top: 1398px;
+  }
+  .years {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: absolute;
+    left: 134px;
+    top: 1398px;
+  }
+  .genres {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    width: 372px;
+    position: absolute;
+    left: 134px;
+    top: 1289px;
+  }
+  .synopsis {
+    display: flex;
+    flex-direction: column;
+    gap: 28px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    width: 372px;
+    position: absolute;
+    left: 134px;
+    top: 1139px;
+  }
+  .title {
+    background: #15252f;
+    border-radius: 20px;
+    padding: 38px 39px 38px 39px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    width: 245px;
+    position: absolute;
+    left: 115px;
+    top: 91px;
+    overflow: hidden;
+  }
+  .poster2 {
+    position: absolute;
+    left: calc(50% - 167px);
+    bottom: 507.65px;
+    top: 550px;
+    overflow: visible;
   }
 }
 
-/* Styling for screens with a width smaller than 576px (x-small) */
+/* Media query for extra small screens (max-width: 575px) */
 @media (max-width: 575px) {
   .extra-extra-large-1400-px {
-    /* Add your styling for x-small screens here */
+    max-width: 1400px;
+    padding: 10px;
+  }
+  .country {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: flex-start;
+    justify-content: center;
+    position: absolute;
+    left: 206px;
+    top: 1428px;
+  }
+  .duration {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: absolute;
+    left: 27px;
+    top: 1428px;
+  }
+  .rating {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: absolute;
+    left: 206px;
+    top: 1348px;
+  }
+  .years {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: absolute;
+    left: 27px;
+    top: 1348px;
+  }
+  .genres {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    width: 372px;
+    position: absolute;
+    left: 27px;
+    top: 1239px;
+  }
+  .synopsis {
+    display: flex;
+    flex-direction: column;
+    gap: 28px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    width: 338px;
+    position: absolute;
+    left: 27px;
+    top: 1089px;
+  }
+  .title {
+    background: #15252f;
+    border-radius: 20px;
+    padding: 38px 39px 38px 39px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    width: 245px;
+    position: absolute;
+    left: 28px;
+    top: 91px;
+    overflow: hidden;
+  }
+  .poster2 {
+    position: absolute;
+    left: calc(50% - 167px);
+    bottom: 507.65px;
+    top: 500px;
+    overflow: visible;
   }
 }

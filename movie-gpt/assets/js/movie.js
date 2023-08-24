@@ -600,6 +600,21 @@ const movies = [
     duration: "1h 58m",
   },
   {
+    title: "The Blackening",
+    year: 2023,
+    rating: 6.0,
+    genre: "Comedy/Horror/Thriller",
+    genres: ["comedy", "horror", "thriller"],
+    country: "USA",
+    countrys: ["usa"],
+    poster: "https://iili.io/HpLfr7V.md.webp",
+    href: "./movie-gpt/detail.html",
+    embed: "https://www.youtube.com/embed/moiRCJR4ToY",
+    synopsis:
+      "Seven friends go away for the weekend and end up trapped in a cabin with a killer who has a vendetta. Will their street smarts and knowledge of horror movies help them stay alive? Probably not.",
+    duration: "1h 37m",
+  },
+  {
     title: "The Childe",
     year: 2023,
     rating: 7.1,
@@ -1018,6 +1033,21 @@ const movies = [
     synopsis:
       "Five assassins aboard a swiftly-moving bullet train find out that their missions have something in common.",
     duration: "2h 7m",
+  },
+  {
+    title: "Bunker",
+    year: 2022,
+    rating: 4.4,
+    genre: "Horror/Thriller/War",
+    genres: ["horror", "thriller", "war"],
+    country: "USA",
+    countrys: ["usa"],
+    poster: "https://iili.io/HpLnpPn.md.webp",
+    href: "./movie-gpt/detail.html",
+    embed: "https://www.youtube.com/embed/LwkRsO5dofI",
+    synopsis:
+      "Trapped in a bunker during World War I, a group of soldiers are faced with an ungodly presence that slowly turns them against each other.",
+    duration: "1h 46m",
   },
   {
     title: "Cek Toko Sebelah 2",
