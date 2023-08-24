@@ -7,8 +7,7 @@ const moviess = [
     genres: ["animation", "adventure", "mystery"],
     country: "Japan",
     countrys: ["japan"],
-    poster:
-      "https://m.media-amazon.com/images/M/MV5BZTY0MmZiNTMtZTY3ZS00MzdjLWIwMzgtMTAxZmJiMDJlMTZlXkEyXkFqcGdeQXVyNDAzMzgyMTI@._V1_.jpg",
+    poster: "https://iili.io/Hy94EKB.md.webp",
     href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/7VGcHgVnOw4",
     synopsis:
@@ -23,8 +22,7 @@ const moviess = [
     genres: ["crime", "drama"],
     country: "Japan",
     countrys: ["japan"],
-    poster:
-      "https://m.media-amazon.com/images/M/MV5BMTI0YTI0MjAtZDZlZi00NzQ3LWIxODMtM2IxMmI5NzcwMDA2XkEyXkFqcGdeQXVyNjgwNTk4Mg@@._V1_.jpg",
+    poster: "https://iili.io/Hy96K0B.md.webp",
     href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/7VGcHgVnOw4",
     synopsis:
@@ -39,8 +37,7 @@ const moviess = [
     genres: ["horror", "thriller"],
     country: "Korea",
     countrys: ["korea"],
-    poster:
-      "https://m.media-amazon.com/images/M/MV5BMjMyNzEzNTc1OV5BMl5BanBnXkFtZTgwNzMzNjcyMjE@._V1_.jpg",
+    poster: "https://iili.io/Hy9PKQf.md.webp",
     href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/7VGcHgVnOw4",
     synopsis:
@@ -55,8 +52,7 @@ const moviess = [
     genres: ["comedy"],
     country: "Japan",
     countrys: ["japan"],
-    poster:
-      "https://m.media-amazon.com/images/M/MV5BNWE5Mzc2ZTQtMjA5OC00ZDgzLWJlM2MtNDIzMmMzODg2MDBlXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg",
+    poster: "https://iili.io/Hy9PjGR.md.webp",
     href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/7VGcHgVnOw4",
     synopsis:
@@ -71,8 +67,7 @@ const moviess = [
     genres: ["drama", "fantasy", "horror"],
     country: "Inggris",
     countrys: ["inggris"],
-    poster:
-      "https://m.media-amazon.com/images/M/MV5BMTUyNzkwMzAxOF5BMl5BanBnXkFtZTgwMzc1OTk1NjE@._V1_.jpg",
+    poster: "https://iili.io/Hy9sZhu.md.webp",
     href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/7VGcHgVnOw4",
     synopsis:
@@ -87,8 +82,7 @@ const moviess = [
     genres: ["comedy"],
     country: "Indonesia",
     countrys: ["indonesia"],
-    poster:
-      "https://m.media-amazon.com/images/M/MV5BMzk1YzRkNmMtMTEzMC00MzhiLThhMWQtNzE2YzgzYWVmYzZhXkEyXkFqcGdeQXVyNjIwMTgzMTg@._V1_.jpg",
+    poster: "https://iili.io/Hy9i5AX.md.webp",
     href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/7VGcHgVnOw4",
     synopsis:
@@ -103,8 +97,7 @@ const moviess = [
     genres: ["horror", "thriller"],
     country: "Indonesia",
     countrys: ["indonesia"],
-    poster:
-      "https://m.media-amazon.com/images/M/MV5BNzU4MzM1ZjItNmE2Yi00NTRjLWFhNjMtZjdlZGRmZjA4NjAxXkEyXkFqcGdeQXVyMzYzOTYxNzM@._V1_.jpg",
+    poster: "https://iili.io/Hy9iSUB.md.webp",
     href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/7VGcHgVnOw4",
     synopsis:
@@ -119,8 +112,7 @@ const moviess = [
     genres: ["action", "adventure", "fantasy"],
     country: "USA",
     countrys: ["usa"],
-    poster:
-      "https://m.media-amazon.com/images/M/MV5BMjI5Njk0NTIyNV5BMl5BanBnXkFtZTgwNjU4MjY5MDI@._V1_.jpg",
+    poster: "https://iili.io/Hy9QOVs.md.webp",
     href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/7VGcHgVnOw4",
     synopsis:
@@ -135,8 +127,7 @@ const moviess = [
     genres: ["comedy"],
     country: "Japan",
     countrys: ["japan"],
-    poster:
-      "https://m.media-amazon.com/images/M/MV5BZGVmN2JlMTctMWM0Yi00MGE0LTk2OWEtZTM5MTdlZGIzNDAwXkEyXkFqcGdeQXVyNjgwNTk4Mg@@._V1_.jpg",
+    poster: "https://iili.io/Hy9r7Bp.md.webp",
     href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/7VGcHgVnOw4",
     synopsis:
@@ -151,8 +142,7 @@ const moviess = [
     genres: ["comedy"],
     country: "Japan",
     countrys: ["japan"],
-    poster:
-      "https://m.media-amazon.com/images/M/MV5BNTIwODQxMWMtNjRmNi00NDI5LWE0ZTQtNmEyODdjYWQ5NjFiXkEyXkFqcGdeQXVyNTM0MDc1ODE@._V1_.jpg",
+    poster: "https://iili.io/Hy9gkzv.md.webp",
     href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/7VGcHgVnOw4",
     synopsis:
@@ -237,6 +227,126 @@ const moviess = [
   {
     title: "The Vanishing of Sidney Hall",
     year: 2017,
+    rating: 6.8,
+    genre: "Drama/Mystery/Romance",
+    genres: ["drama", "mystery", "romance"],
+    country: "USA",
+    countrys: ["usa"],
+    poster: "https://iili.io/HpeLjR4.md.webp",
+    href: "./movie-gpt/detail.html",
+    embed: "https://www.youtube.com/embed/7VGcHgVnOw4",
+    synopsis:
+      "Sidney Hall finds accidental success and unexpected love at an early age, then disappears without a trace.",
+    duration: "2h 10m",
+  },
+  {
+    title: "Alpha",
+    year: 2018,
+    rating: 6.6,
+    genre: "Action/Adventure/Drama",
+    genres: ["action", "adventure", "drama"],
+    country: "USA",
+    countrys: ["usa"],
+    poster: "https://iili.io/Hy9p2cb.md.webp",
+    href: "./movie-gpt/detail.html",
+    embed: "https://www.youtube.com/embed/7VGcHgVnOw4",
+    synopsis:
+      "In the prehistoric past, a young man struggles to return home after being separated from his tribe during a buffalo hunt. He finds a similarly lost wolf companion and starts a friendship that would change humanity.",
+    duration: "1h 36m",
+  },
+  {
+    title: "A-X-L",
+    year: 2018,
+    rating: 5.3,
+    genre: "Action/Adventure/Drama",
+    genres: ["action", "adventure", "drama"],
+    country: "USA",
+    countrys: ["usa"],
+    poster: "https://iili.io/Hy9y5ru.md.webp",
+    href: "./movie-gpt/detail.html",
+    embed: "https://www.youtube.com/embed/7VGcHgVnOw4",
+    synopsis:
+      "A.X.L. is a top-secret, robotic dog who develops a special friendship with Miles and will go to any length to protect his new companion.",
+    duration: "1h 38m",
+  },
+  {
+    title: "Dachra",
+    year: 2018,
+    rating: 6.2,
+    genre: "Horror",
+    genres: ["horror"],
+    country: "Tunisia",
+    countrys: ["tunisia"],
+    poster: "https://iili.io/HyH9sKF.md.webp",
+    href: "./movie-gpt/detail.html",
+    embed: "https://www.youtube.com/embed/7VGcHgVnOw4",
+    synopsis:
+      "An investigation into witchcraft leads a trio of journalism students to a mysterious town marked by sinister rituals. Inspired by true events.",
+    duration: "1h 54m",
+  },
+  {
+    title: "Dying to Survive",
+    year: 2018,
+    rating: 7.8,
+    genre: "Comedy/Drama",
+    genres: ["comedy", "drama"],
+    country: "Cina",
+    countrys: ["cina"],
+    poster: "https://iili.io/HyH2xiN.md.webp",
+    href: "./movie-gpt/detail.html",
+    embed: "https://www.youtube.com/embed/7VGcHgVnOw4",
+    synopsis:
+      "A story on how a small drug store owner became the exclusive selling agent of a cheap Indian generic drug against Chronic Granulocytic Leukemia in China.",
+    duration: "1h 57m",
+  },
+  {
+    title: "Greta",
+    year: 2018,
+    rating: 6.0,
+    genre: "Drama/Mystery/Thriller",
+    genres: ["drama", "mystery", "thriller"],
+    country: "USA",
+    countrys: ["usa"],
+    poster: "https://iili.io/HyH32Ll.md.webp",
+    href: "./movie-gpt/detail.html",
+    embed: "https://www.youtube.com/embed/7VGcHgVnOw4",
+    synopsis:
+      "A young woman befriends a lonely widow who's harboring a dark and deadly agenda toward her.",
+    duration: "1h 38m",
+  },
+  {
+    title: "The Vanishing of Sidney Hall",
+    year: 2018,
+    rating: 6.8,
+    genre: "Drama/Mystery/Romance",
+    genres: ["drama", "mystery", "romance"],
+    country: "USA",
+    countrys: ["usa"],
+    poster: "https://iili.io/HpeLjR4.md.webp",
+    href: "./movie-gpt/detail.html",
+    embed: "https://www.youtube.com/embed/7VGcHgVnOw4",
+    synopsis:
+      "Sidney Hall finds accidental success and unexpected love at an early age, then disappears without a trace.",
+    duration: "2h 10m",
+  },
+  {
+    title: "The Vanishing of Sidney Hall",
+    year: 2018,
+    rating: 6.8,
+    genre: "Drama/Mystery/Romance",
+    genres: ["drama", "mystery", "romance"],
+    country: "USA",
+    countrys: ["usa"],
+    poster: "https://iili.io/HpeLjR4.md.webp",
+    href: "./movie-gpt/detail.html",
+    embed: "https://www.youtube.com/embed/7VGcHgVnOw4",
+    synopsis:
+      "Sidney Hall finds accidental success and unexpected love at an early age, then disappears without a trace.",
+    duration: "2h 10m",
+  },
+  {
+    title: "The Vanishing of Sidney Hall",
+    year: 2018,
     rating: 6.8,
     genre: "Drama/Mystery/Romance",
     genres: ["drama", "mystery", "romance"],

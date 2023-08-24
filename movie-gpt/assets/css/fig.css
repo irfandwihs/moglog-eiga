@@ -138,7 +138,7 @@
   text-align: left;
   font: 500 16px "Inter", sans-serif;
   position: relative;
-  width: 437px;
+  max-width: 400px;
 }
 
 .poster2 {
@@ -241,8 +241,7 @@
   top: 21px;
 }
 
-/* Media query for medium screens (min-width: 768px) */
-@media (min-width: 768px) {
+/* @media (min-width: 768px) {
   .extra-extra-large-1400-px {
     max-width: 1400px;
     padding: 40px;
@@ -334,7 +333,7 @@
   }
 }
 
-/* Media query for small screens (min-width: 576px) */
+
 @media (min-width: 576px) {
   .extra-extra-large-1400-px {
     max-width: 1400px;
@@ -427,7 +426,7 @@
   }
 }
 
-/* Media query for extra small screens (max-width: 575px) */
+
 @media (max-width: 575px) {
   .extra-extra-large-1400-px {
     max-width: 1400px;
@@ -518,4 +517,98 @@
     top: 500px;
     overflow: visible;
   }
+} */
+
+/* Responsive styles for 768px and below */
+@media (max-width: 768px) {
+  .country, .duration, .rating, .years, .genres, .synopsis, .title, .poster2, .trailer {
+    position: relative;
+    left: auto;
+    top: auto;
+    align-items: flex-start;
+    justify-content: flex-start;
+    text-align: left;
+    width: auto;
+    gap: 10px;
+  }
+  
+  .trailer {
+    width: 100%;
+    height: auto;
+  }
+  
+  .poster2 {
+    width: 100%;
+    height: auto;
+  }
+  
+  /* Adjust other responsive styles as needed */
 }
+
+/* Responsive styles for 576px and below */
+@media (max-width: 576px) {
+  .country, .duration, .rating, .years, .genres, .synopsis, .title, .poster2, .trailer {
+    position: relative;
+    left: auto;
+    top: auto;
+    align-items: flex-start;
+    justify-content: flex-start;
+    text-align: left;
+    width: auto;
+    gap: 10px;
+  }
+  
+  .trailer {
+    width: 100%;
+    height: auto;
+  }
+  
+  .poster2 {
+    width: 100%;
+    height: auto;
+  }
+  
+  /* Adjust other responsive styles as needed */
+}
+
+/* Responsive styles for 575px and below */
+@media (max-width: 575px) {
+  .country, .duration, .rating, .years, .genres, .synopsis, .title, .poster2, .trailer {
+    position: relative;
+    left: auto;
+    top: 50px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    text-align: left;
+    width: auto;
+    gap: 10px;
+  }
+  
+  .logo {
+    width: 30px;
+    height: 29.52px;
+    position: absolute;
+    left: 20px;
+    top: 21px;
+  }
+
+  .home {
+    color: #767d94;
+    text-align: left;
+    font: 500 16px "Inter", sans-serif;
+    position: absolute;
+    right: 20px;
+    top: 30px;
+  }
+
+  .trailer {
+    width: 100%;
+    height: auto;
+  }
+  
+  .poster2 {
+    width: 100%;
+    height: auto;
+    margin-top: 30px;
+  }
+

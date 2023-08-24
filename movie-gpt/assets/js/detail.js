@@ -26,7 +26,6 @@ function displayMovieDetail(movie) {
       </div>
       <div class="navbar">
         <div class="home"><a href="https://pernahnontonfilm.netlify.app/gpt.html" style="text-decoration: none; color: #767d94;">Home</a></div>
-        <div class="series">Series</div>
       </div>
       <div class="trailer">
         <div class="rectangle-2">

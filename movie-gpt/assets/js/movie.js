@@ -210,6 +210,21 @@ const movies = [
     duration: "2h 21m",
   },
   {
+    title: "Hari Ini Akan Kita Ceritakan Nanti",
+    year: 2023,
+    rating: 5.9,
+    genre: "Drama/Romance",
+    genres: ["drama", "romance"],
+    country: "Indonesia",
+    countrys: ["indonesia"],
+    poster: "https://iili.io/HpmnTFI.md.webp",
+    href: "./movie-gpt/detail.html",
+    embed: "https://www.youtube.com/embed/ZHL8teh4-R0",
+    synopsis:
+      "The lives of Narendra and Ajeng intersect for the first time as past and present come together in this prequel to 'One Day We'll Talk About Today.'",
+    duration: "1h 58m",
+  },
+  {
     title: "Heart of Stone",
     year: 2023,
     rating: 5.7,
@@ -913,6 +928,21 @@ const movies = [
     synopsis:
       "A coming-of-age story set in the suburbs of Houston, Texas in the summer of 1969, centered around the historic Apollo 11 moon landing.",
     duration: "1h 37m",
+  },
+  {
+    title: "Autobiography",
+    year: 2022,
+    rating: 7.4,
+    genre: "Drama/Mystery/Thriller",
+    genres: ["drama", "mystery", "thriller"],
+    country: "Indonesia",
+    countrys: ["indonesia"],
+    poster: "https://iili.io/HpyHnDB.md.webp",
+    href: "./movie-gpt/detail.html",
+    embed: "https://www.youtube.com/embed/V2R9LtCNoSE",
+    synopsis:
+      "A young man working as a housekeeper in an empty mansion. When its owner returns to start his mayoral election campaign, the young man bonds with him and defends him when his campaign is vandalized, setting off a chain of violence.",
+    duration: "1h 55m",
   },
   {
     title: "Avatar: The Way of Water",
