@@ -360,6 +360,21 @@ const movies = [
     duration: "1h 39m",
   },
   {
+    title: "Meg 2: The Trench",
+    year: 2023,
+    rating: 5.5,
+    genre: "Action/Adventure/Horror",
+    genres: ["action", "adventure", "horror"],
+    country: "USA",
+    countrys: ["usa"],
+    poster: "https://iili.io/HyfjoAu.md.webp",
+    href: "./movie-gpt/detail.html",
+    embed: "https://www.youtube.com/embed/dG91B3hHyY4",
+    synopsis:
+      "A research team encounters multiple threats while exploring the depths of the ocean, including a malevolent mining operation.",
+    duration: "1h 55m",
+  },
+  {
     title: "Missed Connections",
     year: 2023,
     rating: 4.3,
@@ -493,6 +508,21 @@ const movies = [
     synopsis:
       "A call to action for the officials who have the power to mitigate the danger caused by foodborne pathogens that kill thousands of people in the U.S. every year.",
     duration: "1h 24m",
+  },
+  {
+    title: "Rally Road Racers",
+    year: 2023,
+    rating: 5.1,
+    genre: "Animation/Comedy/Family",
+    genres: ["animation", "comedy", "family"],
+    country: "USA",
+    countrys: ["usa"],
+    poster: "https://iili.io/Hy3YWcN.md.webp",
+    href: "./movie-gpt/detail.html",
+    embed: "https://www.youtube.com/embed/oRR2hvpmD4E",
+    synopsis:
+      "Racers compete in a high-stakes rally along the famous Silk Road trade route.",
+    duration: "1h 33m",
   },
   {
     title: "Rebound",
@@ -4703,6 +4733,21 @@ const movies = [
     synopsis:
       "Six friends hire a medium to hold a seance via Zoom during lockdown, but they get far more than they bargained for as things quickly go wrong.",
     duration: "57m",
+  },
+  {
+    title: "Kimetsu no Yaiba: Mugen Ressha-Hen",
+    year: 2020,
+    rating: 8.2,
+    genre: "Animation/Action/Adventure",
+    genres: ["animation", "action", "adventure"],
+    country: "Japan",
+    countrys: ["japan"],
+    poster: "https://iili.io/HyKHL22.md.webp",
+    href: "./movie-gpt/detail.html",
+    embed: "https://www.youtube.com/embed/ATJYac_dORw",
+    synopsis:
+      "After his family was brutally murdered and his sister turned into a demon, Tanjiro Kamado's journey as a demon slayer began. Tanjiro and his comrades embark on a new mission aboard the Mugen Train, on track to despair.",
+    duration: "1h 57m",
   },
   {
     title: "Let It Snow",
