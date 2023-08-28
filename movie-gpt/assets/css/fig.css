@@ -1,10 +1,9 @@
 .extra-extra-large-1400-px {
   background: #12192a;
   max-width: 1920px;
-  height: 1567px;
+  height: 1500px;
   position: relative;
-  overflow: hidden;
-  margin: 0 auto;
+  margin: 0 auto 100px;
   padding: 20px;
 }
 .country {
@@ -150,17 +149,15 @@
   top: 793px;
 }
 .trailer {
-  position: absolute;
   border-radius: 40px;
   inset: 0;
+  width: 100% !important;
+  margin-top: 50px;
 }
 .rectangle-2 {
-  border-radius: 40px;
-  width: 1200px;
-  height: 481px;
-  position: absolute;
-  left: 365px;
-  top: 75px;
+  display: flex;
+  justify-content: center;
+  width: 100%;
 }
 .image-2 {
   width: 1228px;
@@ -173,12 +170,7 @@
   background: #15252f;
   border-radius: 20px;
   padding: 38px 39px 38px 39px;
-  display: flex;
-  flex-direction: row;
   gap: 10px;
-  align-items: flex-start;
-  justify-content: flex-start;
-  flex-wrap: wrap;
   width: 300px;
   position: absolute;
   left: 441px;
@@ -191,13 +183,6 @@
   font: 500 12px "Inter", sans-serif;
   position: relative;
   width: 60px;
-}
-. {
-  color: #abdceb;
-  text-align: left;
-  font: 500 12px "Inter", sans-serif;
-  position: relative;
-  width: 5px;
 }
 .detail-page {
   color: #abdceb;
@@ -241,287 +226,14 @@
   top: 21px;
 }
 
-/* @media (min-width: 768px) {
-  .extra-extra-large-1400-px {
-    max-width: 1400px;
-    padding: 40px;
-  }
-  .country {
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
-    align-items: flex-start;
-    justify-content: center;
-    position: absolute;
-    left: 370px;
-    top: 1982px;
-  }
-  .duration {
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
-    align-items: flex-start;
-    justify-content: flex-start;
-    position: absolute;
-    left: 191px;
-    top: 1978px;
-  }
-  .rating {
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
-    align-items: flex-start;
-    justify-content: flex-start;
-    position: absolute;
-    left: 370px;
-    top: 1902px;
-  }
-  .years {
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
-    align-items: flex-start;
-    justify-content: flex-start;
-    position: absolute;
-    left: 191px;
-    top: 1898px;
-  }
-  .genres {
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
-    align-items: flex-start;
-    justify-content: flex-start;
-    width: 460px;
-    position: absolute;
-    left: 191px;
-    top: 1793px;
-  }
-  .synopsis {
-    display: flex;
-    flex-direction: column;
-    gap: 28px;
-    align-items: flex-start;
-    justify-content: flex-start;
-    width: 524px;
-    position: absolute;
-    left: 178px;
-    top: 1643px;
-  }
-  .title {
-    background: #15252f;
-    border-radius: 20px;
-    padding: 38px 39px 38px 39px;
-    display: flex;
-    flex-direction: row;
-    gap: 10px;
-    align-items: flex-start;
-    justify-content: flex-start;
-    flex-wrap: wrap;
-    width: 245px;
-    position: absolute;
-    left: 202px;
-    top: 521px;
-    overflow: hidden;
-  }
-  .poster2 {
-    position: absolute;
-    left: calc(50% - 275px);
-    bottom: 511.39px;
-    top: 710px;
-    overflow: visible;
-  }
-}
-
-
-@media (min-width: 576px) {
-  .extra-extra-large-1400-px {
-    max-width: 1400px;
-    padding: 20px;
-  }
-  .country {
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
-    align-items: flex-start;
-    justify-content: center;
-    position: absolute;
-    left: 313px;
-    top: 1478px;
-  }
-  .duration {
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
-    align-items: flex-start;
-    justify-content: flex-start;
-    position: absolute;
-    left: 134px;
-    top: 1478px;
-  }
-  .rating {
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
-    align-items: flex-start;
-    justify-content: flex-start;
-    position: absolute;
-    left: 313px;
-    top: 1398px;
-  }
-  .years {
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
-    align-items: flex-start;
-    justify-content: flex-start;
-    position: absolute;
-    left: 134px;
-    top: 1398px;
-  }
-  .genres {
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
-    align-items: flex-start;
-    justify-content: flex-start;
-    width: 372px;
-    position: absolute;
-    left: 134px;
-    top: 1289px;
-  }
-  .synopsis {
-    display: flex;
-    flex-direction: column;
-    gap: 28px;
-    align-items: flex-start;
-    justify-content: flex-start;
-    width: 372px;
-    position: absolute;
-    left: 134px;
-    top: 1139px;
-  }
-  .title {
-    background: #15252f;
-    border-radius: 20px;
-    padding: 38px 39px 38px 39px;
-    display: flex;
-    flex-direction: row;
-    gap: 10px;
-    align-items: flex-start;
-    justify-content: flex-start;
-    flex-wrap: wrap;
-    width: 245px;
-    position: absolute;
-    left: 115px;
-    top: 91px;
-    overflow: hidden;
-  }
-  .poster2 {
-    position: absolute;
-    left: calc(50% - 167px);
-    bottom: 507.65px;
-    top: 550px;
-    overflow: visible;
-  }
-}
-
-
-@media (max-width: 575px) {
-  .extra-extra-large-1400-px {
-    max-width: 1400px;
-    padding: 10px;
-  }
-  .country {
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
-    align-items: flex-start;
-    justify-content: center;
-    position: absolute;
-    left: 206px;
-    top: 1428px;
-  }
-  .duration {
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
-    align-items: flex-start;
-    justify-content: flex-start;
-    position: absolute;
-    left: 27px;
-    top: 1428px;
-  }
-  .rating {
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
-    align-items: flex-start;
-    justify-content: flex-start;
-    position: absolute;
-    left: 206px;
-    top: 1348px;
-  }
-  .years {
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
-    align-items: flex-start;
-    justify-content: flex-start;
-    position: absolute;
-    left: 27px;
-    top: 1348px;
-  }
-  .genres {
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
-    align-items: flex-start;
-    justify-content: flex-start;
-    width: 372px;
-    position: absolute;
-    left: 27px;
-    top: 1239px;
-  }
-  .synopsis {
-    display: flex;
-    flex-direction: column;
-    gap: 28px;
-    align-items: flex-start;
-    justify-content: flex-start;
-    width: 338px;
-    position: absolute;
-    left: 27px;
-    top: 1089px;
-  }
-  .title {
-    background: #15252f;
-    border-radius: 20px;
-    padding: 38px 39px 38px 39px;
-    display: flex;
-    flex-direction: row;
-    gap: 10px;
-    align-items: flex-start;
-    justify-content: flex-start;
-    flex-wrap: wrap;
-    width: 245px;
-    position: absolute;
-    left: 28px;
-    top: 91px;
-    overflow: hidden;
-  }
-  .poster2 {
-    position: absolute;
-    left: calc(50% - 167px);
-    bottom: 507.65px;
-    top: 500px;
-    overflow: visible;
-  }
-} */
-
-/* Responsive styles for 768px and below */
 @media (max-width: 768px) {
-  .country, .duration, .rating, .years, .genres, .synopsis, .title, .poster2, .trailer {
+  .country,
+  .duration,
+  .rating,
+  .years,
+  .genres,
+  .synopsis,
+  .trailer {
     position: relative;
     left: auto;
     top: auto;
@@ -531,23 +243,46 @@
     width: auto;
     gap: 10px;
   }
-  
+  .title-mobile {
+    background: #15252f;
+    border-radius: 20px;
+    padding: 38px 39px 38px 39px;
+    margin: 60px 0 -40px;
+  }
+
+  .title {
+    visibility: hidden !important;
+  }
+
+  .poster2 {
+    position: relative;
+    top: -30px !important;
+  }
+
   .trailer {
     width: 100%;
     height: auto;
   }
-  
+
   .poster2 {
     width: 100%;
     height: auto;
   }
-  
+
   /* Adjust other responsive styles as needed */
 }
 
 /* Responsive styles for 576px and below */
 @media (max-width: 576px) {
-  .country, .duration, .rating, .years, .genres, .synopsis, .title, .poster2, .trailer {
+  .country,
+  .duration,
+  .rating,
+  .years,
+  .genres,
+  .synopsis,
+  .title,
+  .poster2,
+  .trailer {
     position: relative;
     left: auto;
     top: auto;
@@ -557,23 +292,31 @@
     width: auto;
     gap: 10px;
   }
-  
+
   .trailer {
     width: 100%;
     height: auto;
   }
-  
+
   .poster2 {
     width: 100%;
     height: auto;
   }
-  
+
   /* Adjust other responsive styles as needed */
 }
 
 /* Responsive styles for 575px and below */
 @media (max-width: 575px) {
-  .country, .duration, .rating, .years, .genres, .synopsis, .title, .poster2, .trailer {
+  .country,
+  .duration,
+  .rating,
+  .years,
+  .genres,
+  .synopsis,
+  .title,
+  .poster2,
+  .trailer {
     position: relative;
     left: auto;
     top: 50px;
@@ -583,7 +326,7 @@
     width: auto;
     gap: 10px;
   }
-  
+
   .logo {
     width: 30px;
     height: 29.52px;
@@ -605,10 +348,14 @@
     width: 100%;
     height: auto;
   }
-  
+
   .poster2 {
     width: 100%;
     height: auto;
     margin-top: 30px;
   }
+}
 
+.custom-flex {
+  display: flex;
+}
