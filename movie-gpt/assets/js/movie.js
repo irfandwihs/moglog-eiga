@@ -4705,6 +4705,21 @@ const movies = [
     duration: "1h 34m",
   },
   {
+    title: "Greenland",
+    year: 2020,
+    rating: 6.4,
+    genre: "Action/Thriller",
+    genres: ["action", "thriller"],
+    country: "USA",
+    countrys: ["usa"],
+    poster: "https://iili.io/HyWtAiB.md.webp",
+    href: "./movie-gpt/detail.html",
+    embed: "https://www.youtube.com/embed/1AyxdYP1SNc",
+    synopsis:
+      "A family struggles for survival in the face of a cataclysmic natural disaster.",
+    duration: "1h 59m",
+  },
+  {
     title: "Here We Are: Notes for Living on Planet Earth",
     year: 2020,
     rating: 7.3,
@@ -8571,6 +8586,21 @@ const movies = [
     synopsis:
       "The story of Ray Kroc, a salesman who turned two brothers' innovative fast food eatery, McDonald's, into the biggest restaurant business in the world, with a combination of ambition, persistence, and ruthlessness.",
     duration: "1h 55m",
+  },
+  {
+    title: "The Girl on the Train",
+    year: 2016,
+    rating: 6.5,
+    genre: "Crime/Drama/Mystery",
+    genres: ["crime", "drama", "mystery"],
+    country: "USA",
+    countrys: ["usa"],
+    poster: "https://iili.io/HyWQiE7.md.webp",
+    href: "./movie-gpt/detail.html",
+    embed: "https://www.youtube.com/embed/KkoEE1i0CX8",
+    synopsis:
+      "A divorcee becomes entangled in a missing persons investigation that promises to send shockwaves throughout her life.",
+    duration: "1h 52m",
   },
   {
     title: "The Purge: Election Year",
