@@ -360,6 +360,21 @@ const movies = [
     duration: "1h 39m",
   },
   {
+    title: "Medal",
+    year: 2023,
+    rating: 6.5,
+    genre: "Action",
+    genres: ["action"],
+    country: "India",
+    countrys: ["india"],
+    poster: "https://iili.io/J99FAo7.md.webp",
+    href: "./movie-gpt/detail.html",
+    embed: "https://www.youtube.com/embed/0L2VcgC27WA",
+    synopsis:
+      "Rajvir Singh, a young athlete, dreams of winning a gold medal, but tragedies always prevent him from achieving his goal. After losing his hearing due to an accident, he gets admission to an athlete academy where he betrays by angad.",
+    duration: "2h 2m",
+  },
+{
     title: "Meg 2: The Trench",
     year: 2023,
     rating: 5.5,
@@ -630,6 +645,21 @@ const movies = [
     duration: "1h 40m",
   },
   {
+    title: "Teenage Mutant Ninja Turtles: Mutant Mayhem",
+    year: 2023,
+    rating: 7.5,
+    genre: "Animation/Action/Adventure",
+    genres: ["animation", "action", "adventure"],
+    country: "USA",
+    countrys: ["usa"],
+    poster: "https://iili.io/HyyvbO7.md.webp",
+    href: "./movie-gpt/detail.html",
+    embed: "https://www.youtube.com/embed/IHvzw4Ibuho",
+    synopsis:
+      "The film follows the Turtle brothers as they work to earn the love of New York City while facing down an army of mutants.",
+    duration: "1h 39m",
+  },
+{
     title: "Tetris",
     year: 2023,
     rating: 7.4,
@@ -705,6 +735,21 @@ const movies = [
     duration: "1h 48m",
   },
   {
+    title: "The Monkey King",
+    year: 2023,
+    rating: 5.8,
+    genre: "Animation/Action/Adventure",
+    genres: ["animation", "action", "adventure"],
+    country: "Cina",
+    countrys: ["cina"],
+    poster: "https://iili.io/J99CxQp.md.webp",
+    href: "./movie-gpt/detail.html",
+    embed: "https://www.youtube.com/embed/-Ao79QJNE-s",
+    synopsis:
+      "Inspired by an epic Chinese tale, translated into an action-packed comedy, a Monkey and his magical fighting Stick battle demons, dragons, gods and the greatest adversary of all - Monkey's ego.",
+    duration: "1h 37m",
+  },
+{
     title: "The Murderer",
     year: 2023,
     rating: 6.2,
@@ -3594,6 +3639,21 @@ const movies = [
     synopsis:
       "An idealistic young New York City public defender burned out by the system, on the brink of disbarment, and seeing signs of the universe collapsing all around him decides to rob a multi-million drug deal of one of his clients.",
     duration: "1h 33m",
+  },
+{
+    title: "Natural Light",
+    year: 2021,
+    rating: 5.9,
+    genre: "Drama/History/War",
+    genres: ["drama", "history", "war"],
+    country: "Hungaria",
+    countrys: ["hungaria"],
+    poster: "https://iili.io/J99Tnun.md.webp",
+    href: "./movie-gpt/detail.html",
+    embed: "https://www.youtube.com/embed/2HRaX8XBwpE",
+    synopsis:
+      "The desperate lives of Hungarian soldiers on the eastern front through the eyes of a captain. Their task is to find and capture Soviet partizans to secure the front lines.",
+    duration: "1h 43m",
   },
   {
     title: "No One Gets Out Alive",
