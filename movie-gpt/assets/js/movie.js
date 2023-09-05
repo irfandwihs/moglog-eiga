@@ -374,7 +374,7 @@ const movies = [
       "Rajvir Singh, a young athlete, dreams of winning a gold medal, but tragedies always prevent him from achieving his goal. After losing his hearing due to an accident, he gets admission to an athlete academy where he betrays by angad.",
     duration: "2h 2m",
   },
-{
+  {
     title: "Meg 2: The Trench",
     year: 2023,
     rating: 5.5,
@@ -659,7 +659,7 @@ const movies = [
       "The film follows the Turtle brothers as they work to earn the love of New York City while facing down an army of mutants.",
     duration: "1h 39m",
   },
-{
+  {
     title: "Tetris",
     year: 2023,
     rating: 7.4,
@@ -688,6 +688,21 @@ const movies = [
     synopsis:
       "Seven friends go away for the weekend and end up trapped in a cabin with a killer who has a vendetta. Will their street smarts and knowledge of horror movies help them stay alive? Probably not.",
     duration: "1h 37m",
+  },
+  {
+    title: "The Boogeyman",
+    year: 2023,
+    rating: 6.0,
+    genre: "Horror/Mystery/Thriller",
+    genres: ["horror", "mystery", "thriller"],
+    country: "USA",
+    countrys: ["usa"],
+    poster: "https://iili.io/J9utX8Q.md.webp",
+    href: "./movie-gpt/detail.html",
+    embed: "https://www.youtube.com/embed/cFqCmIU0-_M",
+    synopsis:
+      "Still reeling from the tragic death of their mother, a teenage girl and her younger sister find themselves plagued by a sadistic presence in their house and struggle to get their grieving father to pay attention before it's too late.",
+    duration: "1h 38m",
   },
   {
     title: "The Childe",
@@ -749,7 +764,22 @@ const movies = [
       "Inspired by an epic Chinese tale, translated into an action-packed comedy, a Monkey and his magical fighting Stick battle demons, dragons, gods and the greatest adversary of all - Monkey's ego.",
     duration: "1h 37m",
   },
-{
+  {
+    title: "The Moon",
+    year: 2023,
+    rating: 6.8,
+    genre: "Adventure/Drama/Sci-Fi",
+    genres: ["adventure", "drama", "sci-fi"],
+    country: "Korea",
+    countrys: ["korea"],
+    poster: "https://iili.io/J9uiqKl.md.webp",
+    href: "./movie-gpt/detail.html",
+    embed: "https://www.youtube.com/embed/OLpqIDNL3eE",
+    synopsis:
+      "A man is left in space due to an unfortunate accident while another man on Earth struggles to bring him back safely.",
+    duration: "2h 9m",
+  },
+  {
     title: "The Murderer",
     year: 2023,
     rating: 6.2,
@@ -3640,7 +3670,7 @@ const movies = [
       "An idealistic young New York City public defender burned out by the system, on the brink of disbarment, and seeing signs of the universe collapsing all around him decides to rob a multi-million drug deal of one of his clients.",
     duration: "1h 33m",
   },
-{
+  {
     title: "Natural Light",
     year: 2021,
     rating: 5.9,
@@ -5137,6 +5167,21 @@ const movies = [
     synopsis:
       "Scooby and the gang face their most challenging mystery ever: a plot to unleash the ghost dog Cerberus upon the world. As they race to stop this dogpocalypse, the gang discovers that Scooby has an epic destiny greater than anyone imagined.",
     duration: "1h 33m",
+  },
+  {
+    title: "Secret Zoo",
+    year: 2020,
+    rating: 6.1,
+    genre: "Comedy",
+    genres: ["comedy"],
+    country: "Korea",
+    countrys: ["korea"],
+    poster: "https://iili.io/J9uUYl9.md.webp",
+    href: "./movie-gpt/detail.html",
+    embed: "https://www.youtube.com/embed/oFE6OabNHYc",
+    synopsis:
+      "A lawyer is suckered into running a zoo that has sold most of its animals.",
+    duration: "1h 58m",
   },
   {
     title: "Serious Men",
