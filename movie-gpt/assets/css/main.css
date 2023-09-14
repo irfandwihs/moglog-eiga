@@ -151,7 +151,7 @@ h3 {
 
 .btn-detail {
   display: inline-block;
-  margin-top: 10px;
+  margin-top: 4px;
   padding: 8px 12px;
   background-color: #333;
   color: #fff;
@@ -170,6 +170,8 @@ h3 {
 }
 
 .ellipsis {
+  margin-top: 4px;
+  margin-bottom: 4px;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
