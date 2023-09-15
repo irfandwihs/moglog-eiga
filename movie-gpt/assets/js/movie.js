@@ -2233,6 +2233,21 @@ const movies = [
     duration: "1h 23m",
   },
   {
+    title: "Sins of the Father",
+    year: 2022,
+    rating: 4.2,
+    genre: "Horror",
+    genres: ["horror"],
+    country: "USA",
+    countrys: ["usa"],
+    poster: "https://iili.io/JHaSvTJ.md.webp",
+    href: "./movie-gpt/detail.html",
+    embed: "https://www.youtube.com/embed/juvHkcTWzlA",
+    synopsis:
+      "After the death of his father, Aden and his mother, Sarah, find themselves responsible for the sale of his family home; a place they thought they'd left behind. The task seems almost manageable when Sarah's friends arrive to help them. As they clear out the house, they uncover sinister secrets from The Family's past.",
+    duration: "1h 41m",
+  },
+  {
     title: "Smile",
     year: 2022,
     rating: 6.5,
