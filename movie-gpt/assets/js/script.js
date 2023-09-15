@@ -160,7 +160,7 @@ scrollToTopButton.addEventListener("click", () => {
 
 function loadMovies() {
   // URL ke file movie.js di GitHub
-const movieDataUrl = './movie.js';
+const movieDataUrl = 'https://raw.githubusercontent.com/irfandwihs/moglog-eiga/master/movie-gpt/assets/js/movie.js';
 
 // Fungsi untuk mengambil data film terbaru dan menampilkannya
 function displayLatestMovie() {
