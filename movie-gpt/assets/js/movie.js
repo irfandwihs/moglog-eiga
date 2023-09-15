@@ -300,6 +300,21 @@ const movies = [
     duration: "1h 33m",
   },
   {
+    title: "Infinity Pool",
+    year: 2023,
+    rating: 6.1,
+    genre: "Crime/Horror/Msytery",
+    genres: ["crime", "horror", "mystery"],
+    country: "USA",
+    countrys: ["usa"],
+    poster: "https://iili.io/JHc2isR.md.webp",
+    href: "./movie-gpt/detail.html",
+    embed: "https://www.youtube.com/embed/cNd5VOZ4oME",
+    synopsis:
+      "James and Em Foster are enjoying an all-inclusive beach vacation in the fictional island of La Tolqa, when a fatal accident exposes the resort's perverse subculture of hedonistic tourism, reckless violence and surreal horrors.",
+    duration: "1h 57m",
+  },
+  {
     title: "Inside",
     year: 2023,
     rating: 5.6,

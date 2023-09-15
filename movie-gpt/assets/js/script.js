@@ -175,7 +175,7 @@ function displayLatestMovie() {
         const latestMovieCard = createMovieCard(latestMovie);
 
         // Dapatkan elemen di mana Anda ingin menampilkan kartu film terbaru
-        const movieContainer = document.getElementById("movie-container");
+        const movieContainer = document.getElementById("latestMovieTitle");
 
         // Tambahkan kartu film terbaru ke elemen tersebut
         movieContainer.appendChild(latestMovieCard);
