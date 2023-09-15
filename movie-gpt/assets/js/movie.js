@@ -270,6 +270,21 @@ const movies = [
     duration: "2h 26m",
   },
   {
+    title: "Hypnotic",
+    year: 2023,
+    rating: 5.4,
+    genre: "Action/Msytery/Thriller",
+    genres: ["action", "mystery", "thriller"],
+    country: "USA",
+    countrys: ["usa"],
+    poster: "https://iili.io/JHaDMHx.md.webp",
+    href: "./movie-gpt/detail.html",
+    embed: "https://www.youtube.com/embed/N-qn4h-amyY",
+    synopsis:
+      "A detective investigates a mystery involving his missing daughter and a secret government program.",
+    duration: "1h 33m",
+  },
+  {
     title: "Inside",
     year: 2023,
     rating: 5.6,
