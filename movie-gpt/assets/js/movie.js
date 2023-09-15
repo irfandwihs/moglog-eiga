@@ -30,6 +30,21 @@ const movies = [
     duration: "1h 28m",
   },
   {
+    title: "Birth/Rebirth",
+    year: 2023,
+    rating: 6.2,
+    genre: "Horror/Thriller",
+    genres: ["horror", "thriller"],
+    country: "USA",
+    countrys: ["usa"],
+    poster: "https://iili.io/JHcHgOG.md.webp",
+    href: "./movie-gpt/detail.html",
+    embed: "https://www.youtube.com/embed/FNZe6nyKbqk",
+    synopsis:
+      "A morgue technician successfully reanimates the body of a little girl, but to keep her breathing, she will need to harvest biological materials from pregnant women. When the girl's mother, a nurse, discovers her baby alive, they enter into a deal that forces them both down a dark path of no return.",
+    duration: "1h 38m",
+  },
+  {
     title: "BlackBerry",
     year: 2023,
     rating: 7.4,
