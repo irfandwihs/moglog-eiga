@@ -157,3 +157,37 @@ scrollToTopButton.addEventListener("click", () => {
     behavior: "smooth",
   });
 });
+
+function loadMovies() {
+  fetch(movieDataUrl)
+    .then((response) => response.json())
+    .then((data) => {
+      // Ambil data film terbaru (dalam contoh ini, data terakhir adalah data paling akhir dalam array)
+      const latestMovie = data.movies[data.movies.length - 1];
+
+      // Tampilkan data film terbaru
+      if (latestMovie) {
+        const movieContainer = document.getElementById("movie-container");
+        const movieCard = document.createElement("div");
+        movieCard.classList.add("movie-card");
+
+        // Buat tampilan film terbaru (sesuaikan dengan struktur data di file movie.js)
+        movieCard.innerHTML = `
+          <img src="${latestMovie.poster}" alt="${latestMovie.title}" />
+          <div class="movie-info">
+            <h3>${latestMovie.title}</h3>
+            <p>${latestMovie.year}</p>
+            <p>${latestMovie.genre}</p>
+          </div>
+        `;
+
+        // Tambahkan kartu film terbaru ke dalam container
+        movieContainer.appendChild(movieCard);
+      } else {
+        console.error("Tidak ada data terbaru.");
+      }
+    })
+    .catch((error) => {
+      console.error("Error fetching movie data:", error);
+    });
+}

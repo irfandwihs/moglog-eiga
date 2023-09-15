@@ -174,33 +174,5 @@
       nomodule
       src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"
     ></script>
-    <script>
-      // URL ke file movie.js di GitHub
-      const movieDataUrl = 'https://raw.githubusercontent.com/irfandwihs/moglog-eiga/master/movie-gpt/assets/js/movie.js';
-    
-      // Fungsi untuk mengambil data terakhir dari daftar film
-      function getLatestMovieData() {
-        fetch(movieDataUrl)
-          .then(response => response.json())
-          .then(data => {
-            // Data terakhir ada pada elemen terakhir dalam array data.movies
-            const latestMovie = data.movies[data.movies.length - 1];
-            
-            // Menampilkan data terakhir pada halaman web
-            const latestMovieTitleElement = document.getElementById('latestMovieTitle');
-            if (latestMovie) {
-              latestMovieTitleElement.textContent = latestMovie.title;
-            } else {
-              latestMovieTitleElement.textContent = 'Tidak ada data terakhir.';
-            }
-          })
-          .catch(error => {
-            console.error('Error fetching movie data:', error);
-          });
-      }
-    
-      // Memanggil fungsi untuk mengambil dan menampilkan data terakhir saat halaman dimuat
-      window.addEventListener('load', getLatestMovieData);
-    </script>
   </body>
 </html>

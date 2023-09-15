@@ -2742,6 +2742,21 @@ const movies = [
     duration: "1h 36m",
   },
   {
+    title: "What to Do with the Dead Kaiju?",
+    year: 2022,
+    rating: 4.4,
+    genre: "Comedy/Drama/Sci-Fi",
+    genres: ["comedy", "drama", "sci-fi"],
+    country: "Japan",
+    countrys: ["japan"],
+    poster: "https://iili.io/JHaQft9.md.webp",
+    href: "./movie-gpt/detail.html",
+    embed: "https://www.youtube.com/embed/A3tZInmWStc",
+    synopsis:
+      "A large monster attacks Japan, but dies suddenly. While the people rejoice and bask in relief, the giant corpse left behind begins to slowly rot and bloat. If it explodes, the nation will be destroyed.",
+    duration: "1h 55m",
+  },
+  {
     title: "X",
     year: 2022,
     rating: 6.6,
