@@ -15,6 +15,21 @@ const movies = [
     duration: "1h 33m",
   },
   {
+    title: "123",
+    year: 2023,
+    rating: 5.4,
+    genre: "Action/Adventure/Drama",
+    genres: ["action", "adventure", "drama"],
+    country: "USA",
+    countrys: ["usa"],
+    poster: "https://iili.io/JHcF9v1.md.webp",
+    href: "./movie-gpt/detail.html",
+    embed: "https://www.youtube.com/embed/bHXejJq5vr0",
+    synopsis:
+      "An astronaut crash lands on a mysterious planet only to discover he's not alone.",
+    duration: "1h 33m",
+  },
+  {
     title: "Acidman",
     year: 2023,
     rating: 5.3,

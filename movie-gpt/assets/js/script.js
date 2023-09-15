@@ -165,10 +165,19 @@ const movieDataUrl = 'https://raw.githubusercontent.com/irfandwihs/moglog-eiga/m
 // Fungsi untuk mengambil data film terbaru dan menampilkannya
 function displayLatestMovie() {
   fetch(movieDataUrl)
-    .then(response => response.json())
+    .then(response => {
+      if (!response.ok) {
+        throw new Error('Network response was not ok');
+      }
+      return response;
+    })
+    .then(response => response.text()) // Mengambil teks dari respons
     .then(data => {
-      // Ambil data film terbaru (dalam contoh ini, data terakhir adalah data paling akhir dalam array)
-      const latestMovie = data.movies[data.movies.length - 1];
+      // Data di dalam data sekarang adalah teks, Anda dapat mengubahnya menjadi objek JavaScript jika diperlukan
+      const parsedData = JSON.parse(data);
+
+      // Ambil data film terbaru
+      const latestMovie = parsedData.movies[parsedData.movies.length - 1];
 
       // Pastikan ada data terbaru
       if (latestMovie) {
