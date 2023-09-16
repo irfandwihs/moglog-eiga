@@ -2383,6 +2383,21 @@ const movies = [
     duration: "1h 19m",
   },
   {
+    title: "Talk To Me",
+    year: 2023,
+    rating: 7.3,
+    genre: "Horror/Thriller",
+    genres: ["horror", "thriller"],
+    country: "Australia",
+    countrys: ["australia"],
+    poster: "https://iili.io/JHhDZPa.md.webp",
+    href: "./movie-gpt/detail.html",
+    embed: "https://www.youtube.com/embed/aLAKJu9aJys",
+    synopsis:
+      "When a group of friends discover how to conjure spirits using an embalmed hand, they become hooked on the new thrill, until one of them goes too far and unleashes terrifying supernatural forces.",
+    duration: "1h 34m",
+  },
+  {
     title: "The 355",
     year: 2022,
     rating: 5.6,
