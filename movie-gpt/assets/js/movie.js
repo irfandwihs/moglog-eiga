@@ -390,6 +390,21 @@ const movies = [
     duration: "2h 17m",
   },
   {
+    title: "Love at First Sight",
+    year: 2023,
+    rating: 6.9,
+    genre: "Drama/Romance",
+    genres: ["drama", "romance"],
+    country: "USA",
+    countrys: ["usa"],
+    poster: "https://iili.io/JHyNU9p.md.webp",
+    href: "./movie-gpt/detail.html",
+    embed: "https://www.youtube.com/embed/j0kro6SuwxM",
+    synopsis:
+      "Hadley and Oliver begin to fall for each other on their flight from New York to London. The probability of ever finding each other again seems impossible, but love - and London - may have a way of defying the odds.",
+    duration: "1h 30m",
+  },
+  {
     title: "Marui Video",
     year: 2023,
     rating: 4.9,
@@ -703,6 +718,21 @@ const movies = [
     synopsis:
       "A teenage boy runs away to follow his fathers footsteps, legendary storm chaser Bill Brody.",
     duration: "1h 40m",
+  },
+  {
+    title: "Talk To Me",
+    year: 2023,
+    rating: 7.3,
+    genre: "Horror/Thriller",
+    genres: ["horror", "thriller"],
+    country: "Australia",
+    countrys: ["australia"],
+    poster: "https://iili.io/JHhDZPa.md.webp",
+    href: "./movie-gpt/detail.html",
+    embed: "https://www.youtube.com/embed/aLAKJu9aJys",
+    synopsis:
+      "When a group of friends discover how to conjure spirits using an embalmed hand, they become hooked on the new thrill, until one of them goes too far and unleashes terrifying supernatural forces.",
+    duration: "1h 34m",
   },
   {
     title: "Teenage Mutant Ninja Turtles: Mutant Mayhem",
@@ -2381,21 +2411,6 @@ const movies = [
     synopsis:
       "A cure for some and a curse for others, widely prescribed anti-anxiety medication is examined by patients and experts in this revealing documentary.",
     duration: "1h 19m",
-  },
-  {
-    title: "Talk To Me",
-    year: 2023,
-    rating: 7.3,
-    genre: "Horror/Thriller",
-    genres: ["horror", "thriller"],
-    country: "Australia",
-    countrys: ["australia"],
-    poster: "https://iili.io/JHhDZPa.md.webp",
-    href: "./movie-gpt/detail.html",
-    embed: "https://www.youtube.com/embed/aLAKJu9aJys",
-    synopsis:
-      "When a group of friends discover how to conjure spirits using an embalmed hand, they become hooked on the new thrill, until one of them goes too far and unleashes terrifying supernatural forces.",
-    duration: "1h 34m",
   },
   {
     title: "The 355",
