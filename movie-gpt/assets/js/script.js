@@ -169,16 +169,24 @@ async function getLatestMovieData() {
     const movieData = await response.text();
 
     // Tambahkan pernyataan console.log untuk memeriksa data yang diterima
-    //console.log("Data yang diterima:", movieData);
+    console.log("Data yang diterima:", movieData);
 
     // Ubah data teks menjadi objek JavaScript
     // Anda mungkin perlu mengubah cara ini sesuai dengan format data di dalam movie.js
     //const movieArray = eval(movieData);
 
-    // Tidak perlu menggunakan eval, cukup akses data sebagai kode JavaScript
-    const movieArray = movieData;
+    const movieContainer = document.getElementById("new-movie");
+    movieContainer.innerHTML = "";
 
-    if (Array.isArray(movieArray) && movieArray.length > 0) {
+    movieData.forEach((movie) => {
+      const card = createMovieCard(movie);
+      movieContainer.appendChild(card);
+    });
+
+    // Tidak perlu menggunakan eval, cukup akses data sebagai kode JavaScript
+    //const movieArray = movieData;
+
+    /* if (Array.isArray(movieArray) && movieArray.length > 0) {
       // Data terakhir ada pada elemen terakhir dalam array data.movies
       const latestMovieTitle = movieArray[movieArray.length - 1];
 
@@ -192,7 +200,7 @@ async function getLatestMovieData() {
         // Perbarui elemen dengan data terakhir
         latestMovieTitleElement.textContent = latestMovieTitle.title;
       }
-    }
+    } */
   } catch (error) {
     console.error("Error fetching movie data:", error);
   }
@@ -201,7 +209,8 @@ async function getLatestMovieData() {
 // Panggil fungsi untuk mengambil dan menampilkan data terakhir saat halaman dimuat
 window.addEventListener("load", getLatestMovieData);
 
-console.log("Cek Data:", getLatestMovieData);
+//console.log("Cek Data:", getLatestMovieData);
 
 // Set interval untuk memeriksa data terbaru secara berkala (contoh setiap 5 detik)
-setInterval(getLatestMovieData, 5000);
+//setInterval(, 5000);
+getLatestMovieData();
