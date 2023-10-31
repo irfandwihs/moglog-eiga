@@ -158,7 +158,7 @@ scrollToTopButton.addEventListener("click", () => {
   });
 });
 
-function loadMovies() {
+/* function loadMovies() {
   // URL ke file movie.js di GitHub
 const movieDataUrl = 'https://raw.githubusercontent.com/irfandwihs/moglog-eiga/master/movie-gpt/assets/js/movie.js';
 
@@ -199,4 +199,38 @@ function displayLatestMovie() {
 
 // Panggil fungsi untuk menampilkan film terbaru saat halaman dimuat
 window.addEventListener("load", displayLatestMovie);
+} */
+
+// URL ke file movie.js di GitHub
+const movieDataUrl =
+  "https://raw.githubusercontent.com/irfandwihs/moglog-eiga/master/movie-gpt/assets/js/movie.js";
+
+// Fungsi untuk mengambil data terakhir dari daftar film
+async function getLatestMovieData() {
+  try {
+    const response = await fetch(movieDataUrl);
+    const movieData = await response.text();
+
+    // Ubah data teks menjadi objek JavaScript
+    // Anda mungkin perlu mengubah cara ini sesuai dengan format data di dalam movie.js
+    const movieArray = eval(movieData);
+
+    if (Array.isArray(movieArray) && movieArray.length > 0) {
+      // Data terakhir ada pada elemen terakhir dalam array data.movies
+      const latestMovie = movieArray[movieArray.length - 1];
+
+      // Menampilkan data terakhir pada halaman web
+      const latestMovieTitleElement =
+        document.getElementById("latestMovieTitle");
+      latestMovieTitleElement.textContent = latestMovie.title;
+    }
+  } catch (error) {
+    console.error("Error fetching movie data:", error);
+  }
 }
+
+// Panggil fungsi untuk mengambil dan menampilkan data terakhir saat halaman dimuat
+window.addEventListener("load", getLatestMovieData);
+
+// Set interval untuk memeriksa data terbaru secara berkala (contoh setiap 5 detik)
+setInterval(getLatestMovieData, 5000);

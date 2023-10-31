@@ -45,6 +45,21 @@ const movies = [
     duration: "1h 28m",
   },
   {
+    title: "Ballerina",
+    year: 2023,
+    rating: 6.2,
+    genre: "Action/Thriller",
+    genres: ["action", "thriller"],
+    country: "Korea",
+    countrys: ["korea"],
+    poster: "https://iili.io/JfwrRZN.md.webp",
+    href: "./movie-gpt/detail.html",
+    embed: "https://www.youtube.com/embed/n60OdZVDB58",
+    synopsis:
+      "Grieving the loss of a best friend she couldn't protect, an ex-bodyguard sets out to fulfill her dear friend's last wish: sweet revenge.",
+    duration: "1h 33m",
+  },
+  {
     title: "Birth/Rebirth",
     year: 2023,
     rating: 6.2,
