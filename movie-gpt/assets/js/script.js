@@ -213,7 +213,10 @@ async function getLatestMovieData() {
 
     // Ubah data teks menjadi objek JavaScript
     // Anda mungkin perlu mengubah cara ini sesuai dengan format data di dalam movie.js
-    const movieArray = eval(movieData);
+    //const movieArray = eval(movieData);
+
+    // Tidak perlu menggunakan eval, cukup akses data sebagai kode JavaScript
+    const movieArray = movieData;
 
     if (Array.isArray(movieArray) && movieArray.length > 0) {
       // Data terakhir ada pada elemen terakhir dalam array data.movies
