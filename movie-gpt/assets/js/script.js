@@ -211,6 +211,9 @@ async function getLatestMovieData() {
     const response = await fetch(movieDataUrl);
     const movieData = await response.text();
 
+    // Tambahkan pernyataan console.log untuk memeriksa data yang diterima
+    console.log("Data yang diterima:", movieData);
+
     // Ubah data teks menjadi objek JavaScript
     // Anda mungkin perlu mengubah cara ini sesuai dengan format data di dalam movie.js
     //const movieArray = eval(movieData);
@@ -221,6 +224,9 @@ async function getLatestMovieData() {
     if (Array.isArray(movieArray) && movieArray.length > 0) {
       // Data terakhir ada pada elemen terakhir dalam array data.movies
       const latestMovie = movieArray[movieArray.length - 1];
+
+      // Tambahkan pernyataan console.log untuk memeriksa data terakhir
+      console.log("Data terakhir:", latestMovie);
 
       // Menampilkan data terakhir pada halaman web
       const latestMovieTitleElement =
