@@ -555,6 +555,21 @@ const movies = [
     duration: "1h 41m",
   },
   {
+    title: "Nowhere",
+    year: 2023,
+    rating: 6.4,
+    genre: "Drama/Thriller",
+    genres: ["drama", "thriller"],
+    country: "Spanyol",
+    countrys: ["spanyol"],
+    poster: "https://iili.io/JfNnVOg.md.webp",
+    href: "./movie-gpt/detail.html",
+    embed: "https://www.youtube.com/embed/KDUtdcU10YA",
+    synopsis:
+      "A young pregnant woman named Mia escapes from a country at war by hiding in a maritime container aboard a cargo ship. After a violent storm, Mia gives birth to her child while lost at sea, where she must fight to survive.",
+    duration: "1h 49m",
+  },
+  {
     title: "No Hard Feelings",
     year: 2023,
     rating: 6.5,

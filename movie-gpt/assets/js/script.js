@@ -158,49 +158,6 @@ scrollToTopButton.addEventListener("click", () => {
   });
 });
 
-/* function loadMovies() {
-  // URL ke file movie.js di GitHub
-const movieDataUrl = 'https://raw.githubusercontent.com/irfandwihs/moglog-eiga/master/movie-gpt/assets/js/movie.js';
-
-// Fungsi untuk mengambil data film terbaru dan menampilkannya
-function displayLatestMovie() {
-  fetch(movieDataUrl)
-    .then(response => {
-      if (!response.ok) {
-        throw new Error('Network response was not ok');
-      }
-      return response;
-    })
-    .then(response => response.text()) // Mengambil teks dari respons
-    .then(data => {
-      // Data di dalam data sekarang adalah teks, Anda dapat mengubahnya menjadi objek JavaScript jika diperlukan
-      const parsedData = JSON.parse(data);
-
-      // Ambil data film terbaru
-      const latestMovie = parsedData.movies[parsedData.movies.length - 1];
-
-      // Pastikan ada data terbaru
-      if (latestMovie) {
-        const latestMovieCard = createMovieCard(latestMovie);
-
-        // Dapatkan elemen di mana Anda ingin menampilkan kartu film terbaru
-        const movieContainer = document.getElementById("latestMovieTitle");
-
-        // Tambahkan kartu film terbaru ke elemen tersebut
-        movieContainer.appendChild(latestMovieCard);
-      } else {
-        console.error("Tidak ada data terbaru.");
-      }
-    })
-    .catch(error => {
-      console.error("Error fetching movie data:", error);
-    });
-}
-
-// Panggil fungsi untuk menampilkan film terbaru saat halaman dimuat
-window.addEventListener("load", displayLatestMovie);
-} */
-
 // URL ke file movie.js di GitHub
 const movieDataUrl =
   "https://raw.githubusercontent.com/irfandwihs/moglog-eiga/master/movie-gpt/assets/js/movie.js";
@@ -223,17 +180,17 @@ async function getLatestMovieData() {
 
     if (Array.isArray(movieArray) && movieArray.length > 0) {
       // Data terakhir ada pada elemen terakhir dalam array data.movies
-      const latestMovie = movieArray[movieArray.length - 1];
+      const latestMovieTitle = movieArray[movieArray.length - 1];
 
       // Tambahkan pernyataan console.log untuk memeriksa data terakhir
-      console.log("Data terakhir:", latestMovie);
+      console.log("Data terakhir:", latestMovieTitle);
 
       // Pastikan elemen "Film Terakhir Ditambahkan" ada dalam DOM
       const latestMovieTitleElement =
         document.getElementById("latestMovieTitle");
       if (latestMovieTitleElement) {
         // Perbarui elemen dengan data terakhir
-        latestMovieTitleElement.textContent = latestMovie.title;
+        latestMovieTitleElement.textContent = latestMovieTitle.title;
       }
     }
   } catch (error) {
@@ -244,5 +201,7 @@ async function getLatestMovieData() {
 // Panggil fungsi untuk mengambil dan menampilkan data terakhir saat halaman dimuat
 window.addEventListener("load", getLatestMovieData);
 
+console.log("Cek Data:", getLatestMovieData);
+
 // Set interval untuk memeriksa data terbaru secara berkala (contoh setiap 5 detik)
-setInterval(getLatestMovieData, 1000);
+setInterval(getLatestMovieData, 5000);
