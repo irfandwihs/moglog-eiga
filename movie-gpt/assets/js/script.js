@@ -212,7 +212,7 @@ async function getLatestMovieData() {
     const movieData = await response.text();
 
     // Tambahkan pernyataan console.log untuk memeriksa data yang diterima
-    console.log("Data yang diterima:", movieData);
+    //console.log("Data yang diterima:", movieData);
 
     // Ubah data teks menjadi objek JavaScript
     // Anda mungkin perlu mengubah cara ini sesuai dengan format data di dalam movie.js
@@ -242,4 +242,4 @@ async function getLatestMovieData() {
 window.addEventListener("load", getLatestMovieData);
 
 // Set interval untuk memeriksa data terbaru secara berkala (contoh setiap 5 detik)
-setInterval(getLatestMovieData, 100);
+setInterval(getLatestMovieData, 1000);
