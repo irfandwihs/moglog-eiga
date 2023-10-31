@@ -175,13 +175,13 @@ async function getLatestMovieData() {
     // Anda mungkin perlu mengubah cara ini sesuai dengan format data di dalam movie.js
     //const movieArray = eval(movieData);
 
-    const movieContainer = document.getElementById("new-movie");
+    /* const movieContainer = document.getElementById("new-movie");
     movieContainer.innerHTML = "";
 
     movieData.forEach((movie) => {
       const card = createMovieCard(movie);
       movieContainer.appendChild(card);
-    });
+    }); */
 
     // Tidak perlu menggunakan eval, cukup akses data sebagai kode JavaScript
     //const movieArray = movieData;
