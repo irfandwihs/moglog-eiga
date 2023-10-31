@@ -228,10 +228,13 @@ async function getLatestMovieData() {
       // Tambahkan pernyataan console.log untuk memeriksa data terakhir
       console.log("Data terakhir:", latestMovie);
 
-      // Menampilkan data terakhir pada halaman web
+      // Pastikan elemen "Film Terakhir Ditambahkan" ada dalam DOM
       const latestMovieTitleElement =
         document.getElementById("latestMovieTitle");
-      latestMovieTitleElement.textContent = latestMovie.title;
+      if (latestMovieTitleElement) {
+        // Perbarui elemen dengan data terakhir
+        latestMovieTitleElement.textContent = latestMovie.title;
+      }
     }
   } catch (error) {
     console.error("Error fetching movie data:", error);
