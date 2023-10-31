@@ -242,4 +242,4 @@ async function getLatestMovieData() {
 window.addEventListener("load", getLatestMovieData);
 
 // Set interval untuk memeriksa data terbaru secara berkala (contoh setiap 5 detik)
-setInterval(getLatestMovieData, 5000);
+setInterval(getLatestMovieData, 100);
