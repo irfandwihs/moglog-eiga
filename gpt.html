@@ -18,7 +18,9 @@
         margin-top: 20px;
         padding: 10px;
         border: 1px solid #ccc;
+        max-width: 1320px;
         border-radius: 5px;
+        margin: auto auto;
       }
     </style>
   </head>
@@ -128,9 +130,13 @@
 
     <!-- Elemen HTML untuk menampilkan data terakhir -->
     <div id="latestMovie">
-      <h2>Film Terakhir Ditambahkan:</h2>
-      <div id="new-movie" />
-      <p id="latestMovieTitle">Tidak ada data terakhir.</p>
+      <h2 style="text-align: center; color: whitesmoke">
+        Film Terakhir Ditambahkan:
+      </h2>
+      <div
+        id="new-movie"
+        style="display: flex; justify-content: space-around"
+      ></div>
     </div>
 
     <main

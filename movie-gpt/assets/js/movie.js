@@ -180,6 +180,21 @@ const movies = [
     duration: "1h 28m",
   },
   {
+    title: "Concrete Utopia",
+    year: 2023,
+    rating: 6.8,
+    genre: "Action/Adventure/Drama",
+    genres: ["action", "adventure", "drama"],
+    country: "Korea",
+    countrys: ["korea"],
+    poster: "https://iili.io/JfS8JcP.md.webp",
+    href: "./movie-gpt/detail.html",
+    embed: "https://www.youtube.com/embed/57CJngvMoqg",
+    synopsis:
+      "Survivors from a massive earthquake struggle for a new life in Seoul.",
+    duration: "2h 10m",
+  },
+  {
     title: "Dungeons & Dragons: Honor Among Thieves",
     year: 2023,
     rating: 7.4,
@@ -253,6 +268,21 @@ const movies = [
     synopsis:
       "Dom Toretto and his family are targeted by the vengeful son of drug kingpin Hernan Reyes.",
     duration: "2h 21m",
+  },
+  {
+    title: "Gran Turismo",
+    year: 2023,
+    rating: 7.2,
+    genre: "Action/Adventure/Drama",
+    genres: ["action", "adventure", "drama"],
+    country: "Inggris",
+    countrys: ["inggris"],
+    poster: "https://iili.io/JfSgisj.md.webp",
+    href: "./movie-gpt/detail.html",
+    embed: "https://www.youtube.com/embed/GgKmhDaVo48",
+    synopsis:
+      "Based on the unbelievable, inspiring true story of a team of underdogs - a struggling, working-class gamer, a failed former race car driver, and an idealistic motorsport exec - who risk it all to take on the most elite sport in the world.",
+    duration: "2h 14m",
   },
   {
     title: "Hari Ini Akan Kita Ceritakan Nanti",
@@ -613,6 +643,21 @@ const movies = [
     synopsis:
       "A pilot finds himself caught in a war zone after he's forced to land his commercial aircraft during a terrible storm.",
     duration: "1h 47m",
+  },
+  {
+    title: "Poison",
+    year: 2023,
+    rating: 6.8,
+    genre: "Short/Comedy",
+    genres: ["short", "comedy"],
+    country: "USA",
+    countrys: ["usa"],
+    poster: "https://iili.io/JfS8WOu.md.webp",
+    href: "./movie-gpt/detail.html",
+    embed: "https://www.youtube.com/embed/FZVWaqKt81g",
+    synopsis:
+      "When a poisonous snake slithers onto an Englishman's stomach in India, his associate and a doctor race to save him.",
+    duration: "17m",
   },
   {
     title: "Poisoned: The Dirty Truth About Your Food",

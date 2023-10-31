@@ -1,4 +1,5 @@
 import { movies } from "./movie.js";
+import { latestMovies } from "./latestmovie.js";
 
 // Function to count movies by year
 function countMoviesByYear(year) {
@@ -165,23 +166,20 @@ const movieDataUrl =
 // Fungsi untuk mengambil data terakhir dari daftar film
 async function getLatestMovieData() {
   try {
-    const response = await fetch(movieDataUrl);
-    const movieData = await response.text();
-
     // Tambahkan pernyataan console.log untuk memeriksa data yang diterima
-    console.log("Data yang diterima:", movieData);
+    console.log("Data yang diterima:", latestMovies);
 
     // Ubah data teks menjadi objek JavaScript
     // Anda mungkin perlu mengubah cara ini sesuai dengan format data di dalam movie.js
     //const movieArray = eval(movieData);
 
-    /* const movieContainer = document.getElementById("new-movie");
-    movieContainer.innerHTML = "";
+    const lastMovieContainer = document.getElementById("new-movie");
+    lastMovieContainer.innerHTML = "";
 
-    movieData.forEach((movie) => {
+    latestMovies.forEach((movie) => {
       const card = createMovieCard(movie);
-      movieContainer.appendChild(card);
-    }); */
+      lastMovieContainer.appendChild(card);
+    });
 
     // Tidak perlu menggunakan eval, cukup akses data sebagai kode JavaScript
     //const movieArray = movieData;
@@ -213,4 +211,3 @@ window.addEventListener("load", getLatestMovieData);
 
 // Set interval untuk memeriksa data terbaru secara berkala (contoh setiap 5 detik)
 //setInterval(, 5000);
-getLatestMovieData();
