@@ -1,5 +1,20 @@
 const latestMovies = [
   {
+    title: "Five Nights at Freddy's",
+    year: 2023,
+    rating: 5.6,
+    genre: "Horror/Mystery/Thriller",
+    genres: ["horror", "mystery", "thriller"],
+    country: "USA",
+    countrys: ["usa"],
+    poster: "https://iili.io/JfLCcvt.md.webp",
+    href: "./movie-gpt/detail.html",
+    embed: "https://www.youtube.com/embed/0VH9WCFV6XQ",
+    synopsis:
+      "A troubled security guard begins working at Freddy Fazbear's Pizza. During his first night on the job, he realizes that the night shift won't be so easy to get through. Pretty soon he will unveil what actually happened at Freddy's.",
+    duration: "1h 49m",
+  },
+  {
     title: "Ballerina",
     year: 2023,
     rating: 6.2,

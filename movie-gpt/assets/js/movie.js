@@ -270,6 +270,21 @@ const movies = [
     duration: "2h 21m",
   },
   {
+    title: "Five Nights at Freddy's",
+    year: 2023,
+    rating: 5.6,
+    genre: "Horror/Mystery/Thriller",
+    genres: ["horror", "mystery", "thriller"],
+    country: "USA",
+    countrys: ["usa"],
+    poster: "https://iili.io/JfLCcvt.md.webp",
+    href: "./movie-gpt/detail.html",
+    embed: "https://www.youtube.com/embed/0VH9WCFV6XQ",
+    synopsis:
+      "A troubled security guard begins working at Freddy Fazbear's Pizza. During his first night on the job, he realizes that the night shift won't be so easy to get through. Pretty soon he will unveil what actually happened at Freddy's.",
+    duration: "1h 49m",
+  },
+  {
     title: "Gran Turismo",
     year: 2023,
     rating: 7.2,
@@ -6892,6 +6907,21 @@ const movies = [
     synopsis:
       "A bus transporting the inmates is flipped resulting in the felons escaping. In order to round up and once again incarcerate the criminals the cops form a special task force that needs to work in haste. The chief detective forms a crack team and is rearing to go because time is of the essence. The criminals are dangerous on the loose.",
     duration: "1h 54m",
+  },
+  {
+    title: "The Banana Splits Movie",
+    year: 2019,
+    rating: 5.1,
+    genre: "Action/Comedy/Horror",
+    genres: ["action", "comedy", "horror"],
+    country: "USA",
+    countrys: ["usa"],
+    poster: "https://iili.io/JfLq7ov.md.webp",
+    href: "./movie-gpt/detail.html",
+    embed: "https://www.youtube.com/embed/oVUVViaeXUo",
+    synopsis:
+      "A family attends a live taping of The Banana Splits television series, but are forced to survive as soon as the characters go haywire and start a killing spree around the studio.",
+    duration: "1h 29m",
   },
   {
     title: "The Blackout",
