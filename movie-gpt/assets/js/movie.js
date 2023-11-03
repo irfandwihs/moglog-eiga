@@ -195,6 +195,21 @@ const movies = [
     duration: "2h 10m",
   },
   {
+    title: "Doraemon the Movie: Nobita's Sky Utopia",
+    year: 2023,
+    rating: 6.9,
+    genre: "Animation/Adventure/Comedy",
+    genres: ["animation", "adventure", "comedy"],
+    country: "Japan",
+    countrys: ["japan"],
+    poster: "https://iili.io/JqoFU4s.md.webp",
+    href: "./movie-gpt/detail.html",
+    embed: "https://www.youtube.com/embed/V6RPisdW7FI",
+    synopsis:
+      "Doraemon, Nobita and his friends go to find Utopia, a perfect land in the sky where everyone lives with happiness, using an airship having a time warp function.",
+    duration: "1h 48m",
+  },
+  {
     title: "Dungeons & Dragons: Honor Among Thieves",
     year: 2023,
     rating: 7.4,
@@ -238,6 +253,21 @@ const movies = [
     synopsis:
       "A twisted tale of two estranged sisters whose reunion is cut short by the rise of flesh-possessing demons, thrusting them into a primal battle for survival as they face the most nightmarish version of family imaginable.",
     duration: "1h 36m",
+  },
+  {
+    title: "Expend4bles",
+    year: 2023,
+    rating: 4.8,
+    genre: "Action/Adventure/Thriller",
+    genres: ["action", "adventure", "thriller"],
+    country: "USA",
+    countrys: ["usa"],
+    poster: "https://iili.io/JqKRN5b.md.webp",
+    href: "./movie-gpt/detail.html",
+    embed: "https://www.youtube.com/embed/DhlaBO-SwVE",
+    synopsis:
+      "Armed with every weapon they can get their hands on, the Expendables are the world's last line of defense and the team that gets called when all other options are off the table.",
+    duration: "1h 39m",
   },
   {
     title: "Extraction 2",
@@ -763,6 +793,21 @@ const movies = [
     synopsis:
       "Follows a pair of siblings who love but distrust each other as they embark on a white-water rafting trip with a small group. One of their friends from childhood turns out to be more dangerous than he appears.",
     duration: "1h 31m",
+  },
+  {
+    title: "Rookie",
+    year: 2023,
+    rating: 7.3,
+    genre: "Romance/Sport",
+    genres: ["romance", "sport"],
+    country: "Filipina",
+    countrys: ["filipina"],
+    poster: "https://iili.io/JqoBccg.md.webp",
+    href: "./movie-gpt/detail.html",
+    embed: "https://www.youtube.com/embed/lTURY1zxigU",
+    synopsis:
+      "Everything changes when an awkward teenager joins the volleyball team and falls for the volleyball team captain.",
+    duration: "1h 34m",
   },
   {
     title: "Soulmate",

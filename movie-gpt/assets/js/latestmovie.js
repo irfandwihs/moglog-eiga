@@ -1,5 +1,35 @@
 const latestMovies = [
   {
+    title: "Doraemon the Movie: Nobita's Sky Utopia",
+    year: 2023,
+    rating: 6.9,
+    genre: "Animation/Adventure/Comedy",
+    genres: ["animation", "adventure", "comedy"],
+    country: "Japan",
+    countrys: ["japan"],
+    poster: "https://iili.io/JqoFU4s.md.webp",
+    href: "./movie-gpt/detail.html",
+    embed: "https://www.youtube.com/embed/V6RPisdW7FI",
+    synopsis:
+      "Doraemon, Nobita and his friends go to find Utopia, a perfect land in the sky where everyone lives with happiness, using an airship having a time warp function.",
+    duration: "1h 48m",
+  },
+  {
+    title: "Expend4bles",
+    year: 2023,
+    rating: 4.8,
+    genre: "Action/Adventure/Thriller",
+    genres: ["action", "adventure", "thriller"],
+    country: "USA",
+    countrys: ["usa"],
+    poster: "https://iili.io/JqKRN5b.md.webp",
+    href: "./movie-gpt/detail.html",
+    embed: "https://www.youtube.com/embed/DhlaBO-SwVE",
+    synopsis:
+      "Armed with every weapon they can get their hands on, the Expendables are the world's last line of defense and the team that gets called when all other options are off the table.",
+    duration: "1h 39m",
+  },
+  {
     title: "Five Nights at Freddy's",
     year: 2023,
     rating: 5.6,
@@ -28,21 +58,6 @@ const latestMovies = [
     synopsis:
       "Grieving the loss of a best friend she couldn't protect, an ex-bodyguard sets out to fulfill her dear friend's last wish: sweet revenge.",
     duration: "1h 33m",
-  },
-  {
-    title: "Concrete Utopia",
-    year: 2023,
-    rating: 6.8,
-    genre: "Action/Adventure/Drama",
-    genres: ["action", "adventure", "drama"],
-    country: "Korea",
-    countrys: ["korea"],
-    poster: "https://iili.io/JfS8JcP.md.webp",
-    href: "./movie-gpt/detail.html",
-    embed: "https://www.youtube.com/embed/57CJngvMoqg",
-    synopsis:
-      "Survivors from a massive earthquake struggle for a new life in Seoul.",
-    duration: "2h 10m",
   },
   {
     title: "Gran Turismo",
@@ -74,21 +89,7 @@ const latestMovies = [
       "A young pregnant woman named Mia escapes from a country at war by hiding in a maritime container aboard a cargo ship. After a violent storm, Mia gives birth to her child while lost at sea, where she must fight to survive.",
     duration: "1h 49m",
   },
-  {
-    title: "Poison",
-    year: 2023,
-    rating: 6.8,
-    genre: "Short/Comedy",
-    genres: ["short", "comedy"],
-    country: "USA",
-    countrys: ["usa"],
-    poster: "https://iili.io/JfS8WOu.md.webp",
-    href: "./movie-gpt/detail.html",
-    embed: "https://www.youtube.com/embed/FZVWaqKt81g",
-    synopsis:
-      "When a poisonous snake slithers onto an Englishman's stomach in India, his associate and a doctor race to save him.",
-    duration: "17m",
-  },
+
   // Add more movies as desired
 ];
 
