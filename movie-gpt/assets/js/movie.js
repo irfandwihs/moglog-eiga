@@ -675,6 +675,21 @@ const movies = [
     duration: "1h 54m",
   },
   {
+    title: "Para Betina Pengikut Iblis",
+    year: 2023,
+    rating: 4.2,
+    genre: "Horror",
+    genres: ["horror"],
+    country: "Indonesia",
+    countrys: ["indonesia"],
+    poster: "https://iili.io/Jq7IeM7.md.webp",
+    href: "./movie-gpt/detail.html",
+    embed: "https://www.youtube.com/embed/FqPKs4oyq_g",
+    synopsis:
+      "Three women in a small village conceal dark secrets, including unholy alliances and a mysterious ingredient used in a popular curry restaurant.",
+    duration: "1h 30m",
+  },
+  {
     title: "Plane",
     year: 2023,
     rating: 6.5,
@@ -1018,6 +1033,21 @@ const movies = [
     synopsis:
       "When an English man is accused of murdering his Thai in-laws, his wife is the only witness that stands between guilt and freedom.",
     duration: "2h",
+  },
+  {
+    title: "The Nun II",
+    year: 2023,
+    rating: 5.6,
+    genre: "Horror/Mystery/Thriller",
+    genres: ["horror", "mystery", "thriller"],
+    country: "USA",
+    countrys: ["usa"],
+    poster: "https://iili.io/Jq7Aquf.md.webp",
+    href: "./movie-gpt/detail.html",
+    embed: "https://www.youtube.com/embed/QF-oyCwaArU",
+    synopsis:
+      "1956 - France. A priest is murdered. An evil is spreading. The sequel to the worldwide smash hit follows Sister Irene as she once again comes face-to-face with Valak, the demon nun.",
+    duration: "1h 49m",
   },
   {
     title: "The Roundup: No Way Out",
