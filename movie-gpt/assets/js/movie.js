@@ -465,6 +465,21 @@ const movies = [
     duration: "1h 47m",
   },
   {
+    title: "Into the Abyss",
+    year: 2023,
+    rating: 4.9,
+    genre: "Drama/Horror/Sci-Fi",
+    genres: ["drama", "horror", "sci-fi"],
+    country: "Spanyol",
+    countrys: ["spanyol"],
+    poster: "https://iili.io/JnkWVjf.md.webp",
+    href: "./movie-gpt/detail.html",
+    embed: "https://www.youtube.com/embed/St5cCoTOaR0",
+    synopsis:
+      "Trying to escape danger in a post apocalyptic world, Bannon realizes that his very existence will be put to the test.",
+    duration: "1h 44m",
+  },
+  {
     title: "John Wick: Chapter 4",
     year: 2023,
     rating: 7.8,
@@ -718,6 +733,21 @@ const movies = [
     synopsis:
       "Three women in a small village conceal dark secrets, including unholy alliances and a mysterious ingredient used in a popular curry restaurant.",
     duration: "1h 30m",
+  },
+  {
+    title: "Past Lives",
+    year: 2023,
+    rating: 8.0,
+    genre: "Drama/Romance",
+    genres: ["drama", "romance"],
+    country: "USA",
+    countrys: ["usa"],
+    poster: "https://iili.io/JnkI04p.md.webp",
+    href: "./movie-gpt/detail.html",
+    embed: "https://www.youtube.com/embed/kA244xewjcI",
+    synopsis:
+      "Nora and Hae Sung, two deeply connected childhood friends, are wrested apart after Nora's family emigrates from South Korea. Twenty years later, they are reunited for one fateful week as they confront notions of love and destiny.",
+    duration: "1h 45m",
   },
   {
     title: "Plane",
