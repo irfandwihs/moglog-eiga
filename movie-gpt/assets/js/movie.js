@@ -2158,7 +2158,22 @@ const movies = [
     duration: "1h 38m",
   },
   {
-    title: "M3GAN",
+    title: "Megalomaniac",
+    year: 2022,
+    rating: 5.7,
+    genre: "Horror",
+    genres: ["horror"],
+    country: "Belgia",
+    countrys: ["belgia"],
+    poster: "https://iili.io/JoBehI2.md.webp",
+    href: "./movie-gpt/detail.html",
+    embed: "https://www.youtube.com/embed/NNd2Zcp1NNA",
+    synopsis:
+      "Megalomaniac questions the invisible line between victim and executioner and how it is crossed. A film about the weight of patriarchy and the illusion of Manichaeism.",
+    duration: "1h 41m",
+  },
+  {
+    title: "MeGAN",
     year: 2022,
     rating: 6.4,
     genre: "Horror/Sci-Fi/Thriller",
@@ -2756,6 +2771,21 @@ const movies = [
     synopsis:
       "When a sinkhole in front of Bob's Burgers threatens the Belchers' plans for a successful summer, Bob and Linda try to keep their business going, while the kids attempt to save the restaurant by solving a mystery.",
     duration: "1h 42m",
+  },
+  {
+    title: "The Astronaut",
+    year: 2022,
+    rating: 6.7,
+    genre: "Comedy/Drama",
+    genres: ["comedy", "drama"],
+    country: "Perancis",
+    countrys: ["perancis"],
+    poster: "https://iili.io/JoBvpsI.md.webp",
+    href: "./movie-gpt/detail.html",
+    embed: "https://www.youtube.com/embed/jxhc8cHrOOQ",
+    synopsis:
+      "An aeronautical engineer at Ariane Espace, Jim has devoted himself for years to a secret project: building his own rocket and accomplishing the first manned space flight as an amateur. But to realize his dream, he must learn to share it.",
+    duration: "1h 50m",
   },
   {
     title: "The Fabelmans",
