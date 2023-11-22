@@ -2173,7 +2173,7 @@ const movies = [
     duration: "1h 41m",
   },
   {
-    title: "MeGAN",
+    title: "M3GAN",
     year: 2022,
     rating: 6.4,
     genre: "Horror/Sci-Fi/Thriller",
