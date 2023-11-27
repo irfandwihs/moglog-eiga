@@ -74,6 +74,21 @@ const latestMovies = [
       "Determined teen Din is longing to reconnect with his childhood best friend when he meets a wish-granting dragon who shows him the magic of possibilities.",
     duration: "1h 38m",
   },
+  {
+    title: "Centigrade",
+    year: 2020,
+    rating: 4.4,
+    genre: "Drama/Thriller",
+    genres: ["drama", "thriller"],
+    country: "USA",
+    countrys: ["usa"],
+    poster: "https://iili.io/JoB4mXf.md.webp",
+    href: "./movie-gpt/detail.html",
+    embed: "https://www.youtube.com/embed/0RvV7TNUlkQ",
+    synopsis:
+      "A married couple find themselves trapped in their frozen vehicle after a blizzard and struggle to survive amid plunging temperatures and unforeseen obstacles.",
+    duration: "1h 29m",
+  },
 
   // Add more movies as desired
 ];

@@ -375,6 +375,21 @@ const movies = [
     duration: "2h 4m",
   },
   {
+    title: "Hello Ghost",
+    year: 2023,
+    rating: 6.3,
+    genre: "Comedy/Drama",
+    genres: ["comedy", "drama"],
+    country: "Indonesia",
+    countrys: ["indonesia"],
+    poster: "https://iili.io/JotNuat.md.webp",
+    href: "./movie-gpt/detail.html",
+    embed: "https://www.youtube.com/embed/ICoxxRSFFgs",
+    synopsis:
+      "After a failed suicide attempt, Kresna is pursued by four ghosts who will only leave him alone if he fulfills their requests, leading him to find a new meaning in life and love for Nurse Linda.",
+    duration: "1h 54m",
+  },
+  {
     title: "Home for Rent",
     year: 2023,
     rating: 7.0,
@@ -2953,6 +2968,21 @@ const movies = [
     duration: "1h 45m",
   },
   {
+    title: "The Price We Pay",
+    year: 2022,
+    rating: 4.9,
+    genre: "Action/Horror/Thriller",
+    genres: ["action", "horror", "thriller"],
+    country: "USA",
+    countrys: ["usa"],
+    poster: "https://iili.io/JoBPInf.md.webp",
+    href: "./movie-gpt/detail.html",
+    embed: "https://www.youtube.com/embed/aIPbV97Gn8Q",
+    synopsis:
+      "After a pawn shop robbery goes askew, two criminals take refuge at a remote farmhouse to try to let the heat die down, but find something much more menacing.",
+    duration: "1h 25m",
+  },
+  {
     title: "The Roundup",
     year: 2022,
     rating: 7.0,
@@ -3791,7 +3821,7 @@ const movies = [
     duration: "1h 55m",
   },
   {
-    title: "Hypnotic",
+    title: "Hypnotic 2021",
     year: 2021,
     rating: 5.3,
     genre: "Mystery/Thriller",
