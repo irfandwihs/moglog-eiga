@@ -1,18 +1,18 @@
 const latestMovies = [
   {
-    title: "Mission: Impossible - Dead Reckoning Part One",
+    title: "Leo",
     year: 2023,
-    rating: 7.8,
-    genre: "Action/Adventure/Thriller",
-    genres: ["action", "adventure", "thriller"],
+    rating: 7.0,
+    genre: "Animation/Comedy/Family",
+    genres: ["animation", "comedy", "family"],
     country: "USA",
     countrys: ["usa"],
-    poster: "https://iili.io/JnCJnNn.md.webp",
+    poster: "https://iili.io/JxjukDg.md.webp",
     href: "./movie-gpt/detail.html",
-    embed: "https://www.youtube.com/embed/avz06PDqDbM",
+    embed: "https://www.youtube.com/embed/G_AEL-Xo5l8",
     synopsis:
-      "Ethan Hunt and his IMF team must track down a dangerous weapon before it falls into the wrong hands.",
-    duration: "2h 46m",
+      "A 74-year-old lizard named Leo and his turtle friend decide to escape from the terrarium of a Florida school classroom where they have been living for decades.",
+    duration: "1h 46m",
   },
   {
     title: "The Killer",
