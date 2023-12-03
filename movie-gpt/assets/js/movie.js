@@ -1095,6 +1095,21 @@ const movies = [
     duration: "1h 48m",
   },
   {
+    title: "The Jester",
+    year: 2023,
+    rating: 4.2,
+    genre: "Horror/Mystery/Thriller",
+    genres: ["horror", "mystery", "thriller"],
+    country: "USA",
+    countrys: ["usa"],
+    poster: "https://iili.io/JzhBuXn.md.webp",
+    href: "./movie-gpt/detail.html",
+    embed: "https://www.youtube.com/embed/2zaf7AeZzdE",
+    synopsis:
+      "A malevolent being known as The Jester terrorizes the inhabitants of a small town on Halloween night, including two estranged sisters who must come together to find a way to defeat this evil entity.",
+    duration: "1h 30m",
+  },
+  {
     title: "The Killer",
     year: 2023,
     rating: 6.9,
@@ -1842,6 +1857,21 @@ const movies = [
     synopsis:
       "Sixteen-year-old Georgia Nolan dreams of being the world's first-ever female firefighter. When a mysterious arsonist starts burning down Broadway, New York's firemen begin vanishing.",
     duration: "1h 32m",
+  },
+  {
+    title: "Freddy",
+    year: 2022,
+    rating: 7.4,
+    genre: "Drama/Mystery/Romance",
+    genres: ["drama", "mystery", "romance"],
+    country: "India",
+    countrys: ["india"],
+    poster: "https://iili.io/JzXmHCP.md.webp",
+    href: "./movie-gpt/detail.html",
+    embed: "https://www.youtube.com/embed/dx1mga5gFbY",
+    synopsis:
+      "The lines between love and obsession blur in this romantic thriller packed with unpredictable twists and sharp turns.",
+    duration: "2h 3m",
   },
   {
     title: "Fresh",
