@@ -330,6 +330,21 @@ const movies = [
     duration: "1h 49m",
   },
   {
+    title: "Freelance",
+    year: 2023,
+    rating: 5.4,
+    genre: "Action/Comedy",
+    genres: ["action", "comedy"],
+    country: "USA",
+    countrys: ["usa"],
+    poster: "https://iili.io/JuNhWpj.md.webp",
+    href: "./movie-gpt/detail.html",
+    embed: "https://www.youtube.com/embed/BrqWlOzm2Iw",
+    synopsis:
+      "An ex-special forces operative takes a job to provide security for a journalist as she interviews a dictator, but when a military coup breaks out in the middle of the interview, they are forced to escape into the jungle.",
+    duration: "1h 48m",
+  },
+  {
     title: "Gran Turismo",
     year: 2023,
     rating: 7.2,
@@ -495,6 +510,21 @@ const movies = [
     duration: "1h 44m",
   },
   {
+    title: "Jawan",
+    year: 2023,
+    rating: 7.0,
+    genre: "Ation/Thriller",
+    genres: ["action", "thriller"],
+    country: "India",
+    countrys: ["india"],
+    poster: "https://iili.io/JuNw2Dv.md.webp",
+    href: "./movie-gpt/detail.html",
+    embed: "https://www.youtube.com/embed/k8YiqM0Y-78",
+    synopsis:
+      "A high-octane action thriller which outlines the emotional journey of a man who is set to rectify the wrongs in the society.",
+    duration: "2h 50m",
+  },
+  {
     title: "John Wick: Chapter 4",
     year: 2023,
     rating: 7.8,
@@ -523,6 +553,21 @@ const movies = [
     synopsis:
       "A single mother who is a renowned hired killer finds it difficult to achieve a balance between her personal and work life.",
     duration: "2h 17m",
+  },
+  {
+    title: "Leave the World Behind",
+    year: 2023,
+    rating: 6.5,
+    genre: "Drama/Mystery/Thriller",
+    genres: ["drama", "mystery", "thriller"],
+    country: "USA",
+    countrys: ["usa"],
+    poster: "https://iili.io/JuNOWKB.md.webp",
+    href: "./movie-gpt/detail.html",
+    embed: "https://www.youtube.com/embed/cMVBi_e8o-Y",
+    synopsis:
+      "A family's getaway to a luxurious rental home takes an ominous turn when a cyberattack knocks out their devices, and two strangers appear at their door.",
+    duration: "2h 21m",
   },
   {
     title: "Leo",
@@ -1198,6 +1243,21 @@ const movies = [
     synopsis:
       "Seven years after the roundup in Vietnam, Ma Seok-do joins a new squad to investigate a murder case. He soon starts to dig deeper when he finds out the case involves a synthetic drug and a gang of thugs.",
     duration: "1h 45m",
+  },
+  {
+    title: "The Shepherd",
+    year: 2023,
+    rating: 6.1,
+    genre: "Short/Drama/Fantasy",
+    genres: ["short", "drama", "fantasy"],
+    country: "USA",
+    countrys: ["usa"],
+    poster: "https://iili.io/JI4hn14.md.webp",
+    href: "./movie-gpt/detail.html",
+    embed: "https://www.youtube.com/embed/o3-5U1I-wRk",
+    synopsis:
+      "On Christmas Eve, a fighter pilot on his way home gets lost mid-flight over water and needs a miracle to land safely.",
+    duration: "39m",
   },
   {
     title: "The Super Mario Bros. Movie",
@@ -2218,6 +2278,21 @@ const movies = [
     duration: "1h 46m",
   },
   {
+    title: "Madu Murni",
+    year: 2022,
+    rating: 9.2,
+    genre: "Comedy/Drama",
+    genres: ["comedy", "drama"],
+    country: "Indonesia",
+    countrys: ["indonesia"],
+    poster: "https://iili.io/JuNeed7.md.webp",
+    href: "./movie-gpt/detail.html",
+    embed: "https://www.youtube.com/embed/QTyNJWhH9d8",
+    synopsis:
+      "Feeling unappreciated, Mustakim, a debt collector, decides to find a second wife. Chaos ensues when he's unable to consummate his marriage.",
+    duration: "1h 35m",
+  },
+  {
     title: "Mama Boy",
     year: 2022,
     rating: 6.1,
@@ -2621,6 +2696,21 @@ const movies = [
     synopsis:
       "A young boy learns that a superhero who was thought to have died after an epic battle twenty-five years ago may in fact still be alive.",
     duration: "1h 42m",
+  },
+  {
+    title: "Sayonara Konban Wa",
+    year: 2022,
+    rating: 6.5,
+    genre: "Fantasy/Romance",
+    genres: ["fantasy", "romance"],
+    country: "Japan",
+    countrys: ["japan"],
+    poster: "https://iili.io/JI4WzG4.md.webp",
+    href: "./movie-gpt/detail.html",
+    embed: "https://www.youtube.com/embed/F4AaeI6gCHU",
+    synopsis:
+      "A ghost of a girl Aisuke suddenly appears in the room of Yohei who was dumped by his lover. Aisuke, who has never experienced love during her lifetime, is very interested in 'dating' and giving Yohei useless advice.",
+    duration: "1h 38m",
   },
   {
     title: "Seoul Vibe",
