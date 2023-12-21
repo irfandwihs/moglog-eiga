@@ -555,6 +555,21 @@ const movies = [
     duration: "2h 17m",
   },
   {
+    title: "Killers of the Flower Moon",
+    year: 2023,
+    rating: 7.8,
+    genre: "Crime/Drama/History",
+    genres: ["crime", "drama", "history"],
+    country: "USA",
+    countrys: ["usa"],
+    poster: "https://iili.io/JAhuV3v.md.webp",
+    href: "./movie-gpt/detail.html",
+    embed: "https://www.youtube.com/embed/7cx9nCHsemc",
+    synopsis:
+      "When oil is discovered in 1920s Oklahoma under Osage Nation land, the Osage people are murdered one by one - until the FBI steps in to unravel the mystery.",
+    duration: "3h 28m",
+  },
+  {
     title: "Leave the World Behind",
     year: 2023,
     rating: 6.5,
@@ -2022,6 +2037,21 @@ const movies = [
     synopsis:
       "The International Unit and The Domestic Unit of the Korean Spy Agency are tasked with the mission of uncovering a North Korean Spy known as Donglim who is deeply embedded within their agency.",
     duration: "2h 11m",
+  },
+  {
+    title: "Inang",
+    year: 2022,
+    rating: 5.9,
+    genre: "Drama/Horror/Mystery",
+    genres: ["drama", "horror", "mystery"],
+    country: "Indonesia",
+    countrys: ["indonesia"],
+    poster: "https://iili.io/JAhYiBt.md.webp",
+    href: "./movie-gpt/detail.html",
+    embed: "https://www.youtube.com/embed/IugWMQMyc0Y",
+    synopsis:
+      "Grappling with an unplanned pregnancy, a woman turns in desperation to a mysterious older couple who promise to take care of her baby.",
+    duration: "1h 56m",
   },
   {
     title: "I Am Vanessa Guillen",
@@ -8781,6 +8811,21 @@ const movies = [
     synopsis:
       "After dying from a strange illness that she suffered for 3 years, a mother returns home to pick up her children.",
     duration: "1h 47m",
+  },
+  {
+    title: "Skinford: Death Sentence",
+    year: 2017,
+    rating: 4.7,
+    genre: "Action/Adventure/Comedy",
+    genres: ["action", "adventure", "comedy"],
+    country: "Inggris",
+    countrys: ["inggris"],
+    poster: "https://iili.io/JAvYlOF.md.webp",
+    href: "./movie-gpt/detail.html",
+    embed: "https://www.youtube.com/embed/sQpQOHl8o5A",
+    synopsis:
+      "British con artist, Jimmy 'Skinny' Skinford, uncovers the opportunity of a lifetime--whilst digging his own grave.",
+    duration: "1h 25m",
   },
   {
     title: "Stip & Pensil",
