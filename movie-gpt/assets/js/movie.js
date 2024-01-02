@@ -750,6 +750,23 @@ const movies = [
     duration: "1h 57m",
   },
   {
+    title: "Night Of The Missing",
+    year: 2023,
+    rating: 4.0,
+    genre: "Horror",
+    genres: ["horror"],
+    country: "USA",
+    countrys: ["usa"],
+    poster:
+      "https://drive.google.com/uc?export=view&id=1PYKOeMQsIqioOyMoV7eDyoaw3ctpjZ9O",
+    href: "./movie-gpt/detail.html",
+    embed: "https://www.youtube.com/embed/E3vhP2of1RQ",
+    synopsis:
+      "A secretive small town sheriff gets a visit from a mysterious woman who recounts bizarre stories involving MISSING persons.",
+    duration: "1h 13m",
+  },
+
+  {
     title: "Nimona",
     year: 2023,
     rating: 7.6,
@@ -990,6 +1007,22 @@ const movies = [
     duration: "1h 58m",
   },
   {
+    title: "Sleep",
+    year: 2023,
+    rating: 6.8,
+    genre: "Comedy/Horror/Mystery",
+    genres: ["comedy", "horror", "mystery"],
+    country: "Korea",
+    countrys: ["korea"],
+    poster:
+      "https://drive.google.com/uc?export=view&id=17IiT60UTdAIpz84i8BtQygiuM8ve_4uH",
+    href: "./movie-gpt/detail.html",
+    embed: "https://www.youtube.com/embed/XkSZRcbjkWA",
+    synopsis:
+      "A young, expectant wife must figure out how to stop her husband's nightmarish sleepwalking habits before he harms himself or his family.",
+    duration: "1h 34m",
+  },
+  {
     title: "Soulmate",
     year: 2023,
     rating: 7.6,
@@ -1153,6 +1186,38 @@ const movies = [
     synopsis:
       "A champion and expert safety diver seemed destined for one another. Despite different paths taken, they meet at the pinnacle of the free-diving world, experiencing the thrilling rewards and inescapable risks of chasing dreams through the depths of the ocean.",
     duration: "1h 48m",
+  },
+  {
+    title: "The Family Plan",
+    year: 2023,
+    rating: 6.3,
+    genre: "Action/Comedy",
+    genres: ["action", "comedy"],
+    country: "USA",
+    countrys: ["usa"],
+    poster:
+      "https://drive.google.com/uc?export=view&id=1JCuwXtl9Oe40JlGb7IiF4v0fsPWjTj7L",
+    href: "./movie-gpt/detail.html",
+    embed: "https://www.youtube.com/embed/ns8weNznn1Y",
+    synopsis:
+      "A former top assassin living incognito as a suburban dad must take his unsuspecting family on the run when his past catches up to him..",
+    duration: "1h 58m",
+  },
+  {
+    title: "The Ghost Station",
+    year: 2023,
+    rating: 4.5,
+    genre: "Horror/Mystery/Thriller",
+    genres: ["horror", "mystery", "thriller"],
+    country: "Korea",
+    countrys: ["korea"],
+    poster:
+      "https://drive.google.com/uc?export=view&id=1y5EL3gNhCf2CNHiJYZNA1_lmwbMi5hid",
+    href: "./movie-gpt/detail.html",
+    embed: "https://www.youtube.com/embed/SaG1cx9C_kI",
+    synopsis:
+      "A public service worker at Oksu Station witnesses a shocking incident and recruits his friend to help uncover the truth behind the station's mysterious happenings.",
+    duration: "1h 20m",
   },
   {
     title: "The Jester",

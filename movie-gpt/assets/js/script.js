@@ -180,25 +180,6 @@ async function getLatestMovieData() {
       const card = createMovieCard(movie);
       lastMovieContainer.appendChild(card);
     });
-
-    // Tidak perlu menggunakan eval, cukup akses data sebagai kode JavaScript
-    //const movieArray = movieData;
-
-    /* if (Array.isArray(movieArray) && movieArray.length > 0) {
-      // Data terakhir ada pada elemen terakhir dalam array data.movies
-      const latestMovieTitle = movieArray[movieArray.length - 1];
-
-      // Tambahkan pernyataan console.log untuk memeriksa data terakhir
-      console.log("Data terakhir:", latestMovieTitle);
-
-      // Pastikan elemen "Film Terakhir Ditambahkan" ada dalam DOM
-      const latestMovieTitleElement =
-        document.getElementById("latestMovieTitle");
-      if (latestMovieTitleElement) {
-        // Perbarui elemen dengan data terakhir
-        latestMovieTitleElement.textContent = latestMovieTitle.title;
-      }
-    } */
   } catch (error) {
     console.error("Error fetching movie data:", error);
   }
@@ -207,7 +188,122 @@ async function getLatestMovieData() {
 // Panggil fungsi untuk mengambil dan menampilkan data terakhir saat halaman dimuat
 window.addEventListener("load", getLatestMovieData);
 
-//console.log("Cek Data:", getLatestMovieData);
+/* // Function to initialize the carousel
+function initializeCarousel() {
+  const movieContainer = document.getElementById("new-movie");
 
-// Set interval untuk memeriksa data terbaru secara berkala (contoh setiap 5 detik)
-//setInterval(, 5000);
+  // Number of movies to display in the carousel
+  const numberOfMovies = 6;
+
+  // Display initial movies
+  for (let i = 0; i < numberOfMovies; i++) {
+    const card = createMovieCard(latestMovies[i].title);
+    movieContainer.appendChild(card);
+  }
+
+  // Automatically shift the carousel every 3 seconds
+  setInterval(() => {
+    // Remove the first movie card
+    movieContainer.removeChild(movieContainer.firstChild);
+
+    // Get the next movie title
+    const nextMovieTitle = latestMovies[i++ % latestMovies.length].title;
+
+    // Create and append the new movie card
+    const card = createMovieCard(nextMovieTitle);
+    movieContainer.appendChild(card);
+  }, 3000);
+}
+
+// Call the function to initialize the carousel when the window loads
+window.addEventListener("load", initializeCarousel); */
+
+// Function to initialize the carousel
+function initializeCarousel() {
+  const movieContainer = document.getElementById("new-movie");
+  let i = 0; // Initialize the index
+
+  // Number of movies to display in the carousel
+  const numberOfMovies = 6;
+
+  // Function to create a movie card
+  function createMovieCard(movie) {
+    const card = document.createElement("div");
+    card.classList.add("movie-card");
+    /* card.textContent = movie;
+    return card; */
+    // Create the poster image
+    const poster = document.createElement("img");
+    poster.classList.add("poster");
+    poster.src = movie.poster;
+    card.appendChild(poster);
+
+    // Create the year overlay with icon
+    const yearOverlay = document.createElement("div");
+    yearOverlay.classList.add("overlay-year");
+    yearOverlay.innerHTML = `
+    <ion-icon name="calendar-outline"></ion-icon>
+    ${movie.year}
+  `;
+    card.appendChild(yearOverlay);
+
+    // Create the rating overlay with icon
+    const ratingOverlay = document.createElement("div");
+    ratingOverlay.classList.add("overlay-rating");
+    ratingOverlay.innerHTML = `
+    <ion-icon name="star-outline"></ion-icon>
+    ${movie.rating}
+  `;
+    card.appendChild(ratingOverlay);
+
+    // Create the movie title
+    const title = document.createElement("h3");
+    title.textContent = movie.title;
+    title.classList.add("ellipsis");
+    card.appendChild(title);
+
+    // Create the movie details
+    const details = document.createElement("div");
+    details.classList.add("movie-details");
+    details.innerHTML = `
+    <p class="ellipsis">${movie.genre}</p>
+  `;
+    card.appendChild(details);
+
+    // Create the detail button
+    const detailButton = document.createElement("a");
+    detailButton.href = `./movie-gpt/detail.html?title=${encodeURIComponent(
+      movie.title
+    )}`;
+    detailButton.textContent = "Details";
+    detailButton.setAttribute("data-movie-title", movie.title); // Use movie title as data attribute
+    detailButton.classList.add("btn-detail");
+    card.appendChild(detailButton);
+
+    return card;
+  }
+
+  // Function to update the carousel
+  function updateCarousel() {
+    // Remove all movie cards
+    movieContainer.innerHTML = "";
+
+    // Display the next set of movies
+    for (let j = 0; j < numberOfMovies; j++) {
+      const index = (i + j) % latestMovies.length;
+      const card = createMovieCard(latestMovies[index].title);
+      movieContainer.appendChild(card);
+    }
+
+    i = (i + numberOfMovies) % latestMovies.length; // Update the index
+  }
+
+  // Display initial set of movies
+  updateCarousel();
+
+  // Automatically shift the carousel every 3 seconds
+  setInterval(updateCarousel, 3000);
+}
+
+// Call the function to initialize the carousel when the window loads
+window.addEventListener("load", initializeCarousel);
