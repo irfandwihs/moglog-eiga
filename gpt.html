@@ -13,14 +13,18 @@
     <title>Movie GPT</title>
     <link rel="stylesheet" href="./movie-gpt/assets/css/main.css" />
     <link rel="stylesheet" href="./movie-gpt/assets/css/filter.css" />
+    <link rel="stylesheet" href="./movie-gpt/assets/css/crsl.css" />
     <style>
       #latestMovie {
+        position: relative;
         margin-top: 20px;
+        height: 600px;
         padding: 10px;
-        border: 1px solid #ccc;
-        max-width: 1320px;
-        border-radius: 5px;
-        margin: auto auto;
+        max-width: 1320px !important;
+        margin-left: auto;
+        margin-right: auto;
+        /* margin: auto auto; */
+        margin-bottom: 0px;
       }
     </style>
   </head>
@@ -130,14 +134,22 @@
 
     <!-- Elemen HTML untuk menampilkan data terakhir -->
     <div id="latestMovie">
-      <h2 style="text-align: center; color: whitesmoke">
-        Film Terakhir Ditambahkan:
-      </h2>
       <div
-        id="new-movie"
-        style="display: flex; justify-content: space-around"
-      ></div>
+        style="
+          display: inline-block;
+          position: absolute;
+          width: 100%;
+          height: 100%;
+        "
+      >
+        <ul class="slider autoplay" id="movieSlider"></ul>
+      </div>
     </div>
+    <!-- <div class="batas">
+      <div class="carou">
+        <ul class="slider autoplay" id="movieSlider"></ul>
+      </div>
+    </div> -->
 
     <main
       style="
@@ -173,6 +185,7 @@
 
     <script type="module" src="./movie-gpt/assets/js/movie.js"></script>
     <script type="module" src="./movie-gpt/assets/js/script.js"></script>
+    <script type="module" src="./movie-gpt/assets/js/crsl.js"></script>
     <script
       type="module"
       src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"
