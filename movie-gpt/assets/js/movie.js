@@ -360,6 +360,22 @@ const movies = [
     duration: "2h 14m",
   },
   {
+    title: "Hard Days",
+    year: 2023,
+    rating: 6.0,
+    genre: "Crime/Drama/Thriller",
+    genres: ["crime", "drama", "thriller"],
+    country: "Japan",
+    countrys: ["japan"],
+    poster:
+      "https://drive.google.com/uc?export=view&id=10__0v8NSSBX74y2lJSwWvkaZM0WTEOC4",
+    href: "./movie-gpt/detail.html",
+    embed: "https://www.youtube.com/embed/VwPZ8wCl4Ro",
+    synopsis:
+      "Detective Yuji Kudo drives his car to see his mother, who is hospitalized with a serious health condition. Yuji then accidentally hits a man with his car and that man dies. At the hospital, Yuji tries to cover up the death of the man.",
+    duration: "1h 58m",
+  },
+  {
     title: "Hari Ini Akan Kita Ceritakan Nanti",
     year: 2023,
     rating: 5.9,
@@ -403,6 +419,22 @@ const movies = [
     synopsis:
       "After a failed suicide attempt, Kresna is pursued by four ghosts who will only leave him alone if he fulfills their requests, leading him to find a new meaning in life and love for Nurse Linda.",
     duration: "1h 54m",
+  },
+  {
+    title: "Hitmen",
+    year: 2023,
+    rating: 6.8,
+    genre: "Action/Comedy/Drama",
+    genres: ["action", "comedy", "drama"],
+    country: "Indonesia",
+    countrys: ["indonesia"],
+    poster:
+      "https://drive.google.com/uc?export=view&id=1O3QFgbKbatGS-uKu6dzRTN4AD1Lqx5Bo",
+    href: "./movie-gpt/detail.html",
+    embed: "https://www.youtube.com/embed/xb9iRweZfcA",
+    synopsis:
+      "A full peek to a day in the life of Jonny and Franky, two best friends who got cornered into doing three missions out of their work principle and value, in order to retire from their job as hitmen.",
+    duration: "1h 36m",
   },
   {
     title: "Home for Rent",
@@ -720,6 +752,22 @@ const movies = [
     duration: "2h 46m",
   },
   {
+    title: "Moscow Mission",
+    year: 2023,
+    rating: 5.8,
+    genre: "Action/Crime/Drama",
+    genres: ["action", "crime", "drama"],
+    country: "Cina",
+    countrys: ["cina"],
+    poster:
+      "https://drive.google.com/uc?export=view&id=1AvHMM6CbaYnyGki6geWoDa6ecEzel83z",
+    href: "./movie-gpt/detail.html",
+    embed: "https://www.youtube.com/embed/BgJObRkCupE",
+    synopsis:
+      "Tough Chinese detectives go on a mission to Moscow to hunt down ruthless robbers who have been plaguing the trans-Siberian railway with violence and chaos.",
+    duration: "2h 8m",
+  },
+  {
     title: "Mother, May I?",
     year: 2023,
     rating: 5.1,
@@ -748,6 +796,22 @@ const movies = [
     synopsis:
       "Noah has to leave her town, boyfriend and friends behind and move into the mansion of her mother's new rich husband. There she meets Nick, her new stepbrother. They fall madly in love in secret.",
     duration: "1h 57m",
+  },
+  {
+    title: "My Precious",
+    year: 2023,
+    rating: 6.1,
+    genre: "Comedy/Drama/Romance",
+    genres: ["comedy", "drama", "romance"],
+    country: "Thailand",
+    countrys: ["thailand"],
+    poster:
+      "https://drive.google.com/uc?export=view&id=1gFQKrlxPAp5EQO2Tn4hNdtb_oYcI1Jrk",
+    href: "./movie-gpt/detail.html",
+    embed: "https://www.youtube.com/embed/Z2nH8nUqhCk",
+    synopsis:
+      "Tong and his group of friends are in love with the same girl, Lin. Tong is forced to be supervised by another student due to his bad behavior. And his school life changes learning, playing and finding the first love.",
+    duration: "2h",
   },
   {
     title: "Night Of The Missing",
@@ -827,6 +891,22 @@ const movies = [
     duration: "1h 54m",
   },
   {
+    title: "Oppenheimer",
+    year: 2023,
+    rating: 8.4,
+    genre: "Biography/Drama/History",
+    genres: ["biography", "drama", "history"],
+    country: "USA",
+    countrys: ["usa"],
+    poster:
+      "https://drive.google.com/uc?export=view&id=10sf-VUSPfs4u3c1xwV3tavHztS7EVc32",
+    href: "./movie-gpt/detail.html",
+    embed: "https://www.youtube.com/embed/uYPbbksJxIg",
+    synopsis:
+      "The story of American scientist J. Robert Oppenheimer and his role in the development of the atomic bomb.",
+    duration: "3h",
+  },
+  {
     title: "Para Betina Pengikut Iblis",
     year: 2023,
     rating: 4.2,
@@ -855,6 +935,22 @@ const movies = [
     synopsis:
       "Nora and Hae Sung, two deeply connected childhood friends, are wrested apart after Nora's family emigrates from South Korea. Twenty years later, they are reunited for one fateful week as they confront notions of love and destiny.",
     duration: "1h 45m",
+  },
+  {
+    title: "Pet Sematary: Bloodlines",
+    year: 2023,
+    rating: 4.6,
+    genre: "Fantasy/Horror",
+    genres: ["fantasy", "horror"],
+    country: "USA",
+    countrys: ["usa"],
+    poster:
+      "https://drive.google.com/uc?export=view&id=1NpmIsr-UDLSdtXhfsBP0TYhj08hgvNNh",
+    href: "./movie-gpt/detail.html",
+    embed: "https://www.youtube.com/embed/1IgQpRyfwbE",
+    synopsis:
+      "In 1969 a young Jud Crandall and his childhood friends band together to confront an ancient evil that has gripped their hometown of Ludlow.",
+    duration: "1h 27m",
   },
   {
     title: "Plane",
@@ -1005,6 +1101,22 @@ const movies = [
     synopsis:
       "A sick and desperate John travels to Mexico for a risky and experimental medical procedure in hopes of a miracle cure for his cancer only to discover the entire operation is a scam to defraud the most vulnerable.",
     duration: "1h 58m",
+  },
+  {
+    title: "Sewu Dino",
+    year: 2023,
+    rating: 6.0,
+    genre: "Horror",
+    genres: ["horror"],
+    country: "Indonesia",
+    countrys: ["indonesia"],
+    poster:
+      "https://drive.google.com/uc?export=view&id=1KQtLfqqU0FfWnDCYI_t2OBlflirHPz8y",
+    href: "./movie-gpt/detail.html",
+    embed: "https://www.youtube.com/embed/UtJ8n490SwY",
+    synopsis:
+      "Sri is tasked to do a cleansing ritual for Dela Atmojo, an unconscious girl who is suffering from 1000 days-hex. The terror begins when her friend neglects to finish the ritual. Failing until the 1000th day will result in their demise.",
+    duration: "2h 1m",
   },
   {
     title: "Sleep",
@@ -1171,6 +1283,22 @@ const movies = [
     synopsis:
       "During the war in Afghanistan, a local interpreter risks his own life to carry an injured sergeant across miles of grueling terrain.",
     duration: "2h 3m",
+  },
+  {
+    title: "The Creator",
+    year: 2023,
+    rating: 6.8,
+    genre: "Action/Adventure/Drama",
+    genres: ["action", "adventure", "drama"],
+    country: "USA",
+    countrys: ["usa"],
+    poster:
+      "https://drive.google.com/uc?export=view&id=1pJ0LvACQUYexmqJxr8FyU5PhJSC53i0_",
+    href: "./movie-gpt/detail.html",
+    embed: "https://www.youtube.com/embed/ex3C1-5Dhb8",
+    synopsis:
+      "Against the backdrop of a war between humans and robots with artificial intelligence, a former soldier finds the secret weapon, a robot in the form of a young child.",
+    duration: "2h 15m",
   },
   {
     title: "The Deepest Breath",
