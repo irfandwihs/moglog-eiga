@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="shortcut icon"
+      style="width: 24px; height: 24px"
+      href="https://iili.io/Ht4kAhv.md.webp"
+      type="image/x-icon"
+    />
+    <title>Movie GPT</title>
+    <link rel="stylesheet" href="./movie-gpt/assets/css/main.css" />
+    <link rel="stylesheet" href="./movie-gpt/assets/css/filter.css" />
+    <style>
+      header {
+        color: white;
+        padding: 15px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        max-width: 1320px;
+        position: relative;
+        margin: 0 auto; /* Center the header */
+      }
+
+      .logo {
+        font-size: 1.5em;
+      }
+
+      .main-nav ul {
+        list-style: none;
+        display: flex;
+      }
+
+      .main-nav li {
+        margin-right: 20px;
+      }
+
+      .main-nav a {
+        text-decoration: none;
+        color: white;
+      }
+
+      .search-container {
+        display: flex;
+        align-items: center;
+      }
+
+      .search-container input {
+        padding: 5px;
+        margin-right: 5px;
+      }
+
+      .hamburger-menu {
+        display: none;
+        cursor: pointer;
+        font-size: 1.5em;
+      }
+
+      @media only screen and (max-width: 600px) {
+        .main-nav {
+          display: none;
+          flex-direction: column;
+          position: absolute;
+          top: 60px;
+          left: 0;
+          width: 100%;
+        }
+
+        .main-nav.show {
+          display: flex;
+        }
+
+        .main-nav li {
+          margin: 0;
+          text-align: center;
+          padding: 10px;
+        }
+
+        .search-container {
+          margin-top: 10px;
+          text-align: center;
+        }
+
+        .hamburger-menu {
+          display: block;
+        }
+      }
+
+      .film-section {
+        max-width: 1320px;
+        margin: 20px auto;
+        padding: 20px;
+        display: flex;
+        overflow-x: auto; /* Add this line to enable horizontal scrolling if there are more than 6 films */
+      }
+
+      h2 {
+        margin-bottom: 10px;
+      }
+
+      .film-container {
+        display: flex;
+        flex-wrap: wrap;
+      }
+
+      .film-card {
+        width: calc(33.33% - 20px);
+        margin: 10px;
+        padding: 15px;
+        background-color: #fff;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        width: 200px; /* Adjust the width as needed */
+        margin-right: 10px; /* Add margin for spacing between film cards */
+      }
+
+      .more {
+        margin-top: 20px;
+        text-align: right;
+        cursor: pointer;
+        color: #007bff;
+      }
+
+      @media only screen and (max-width: 768px) {
+        .film-card {
+          width: calc(50% - 20px);
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <div class="logo">
+        <img
+          style="width: 32px; height: 32px"
+          src="https://iili.io/Ht4kAhv.md.webp"
+          alt=""
+        />
+      </div>
+      <nav class="main-nav">
+        <ul>
+          <li>
+            <a href="gpt.html" style="text-decoration: none; color: white"
+              >Home</a
+            >
+          </li>
+          <li><a href="#">Special</a></li>
+          <li><a href="#">Other</a></li>
+        </ul>
+      </nav>
+      <div class="search-container">
+        <input type="text" id="search-input" placeholder="Search by title..." />
+        <button id="search-button">Search</button>
+      </div>
+      <div class="hamburger-menu">&#9776;</div>
+    </header>
+
+    <section class="film-section" id="ghibli">
+      <h2>Ghibli</h2>
+      <div class="film-container" id="ghibli-container"></div>
+      <p class="more">More</p>
+    </section>
+
+    <section class="film-section" id="marvel">
+      <h2>Marvel</h2>
+      <div class="film-container" id="marvel-container"></div>
+      <p class="more">More</p>
+    </section>
+
+    <script type="module" src="./movie-gpt/assets/js/spcl.js"></script>
+    <script type="module" src="./movie-gpt/assets/js/ghibli.js"></script>
+    <script type="module" src="./movie-gpt/assets/js/marvel.js"></script>
+    <script
+      type="module"
+      src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"
+    ></script>
+    <script
+      nomodule
+      src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"
+    ></script>
+    <script>
+      document.addEventListener("DOMContentLoaded", function () {
+        const hamburgerMenu = document.querySelector(".hamburger-menu");
+        const mainNav = document.querySelector(".main-nav");
+
+        hamburgerMenu.addEventListener("click", function () {
+          mainNav.classList.toggle("show");
+        });
+      });
+
+      /* 
+
+      // Function to populate a film section with movie data
+      function populateFilmSection(sectionId, movies) {
+        const container = document.getElementById(`${sectionId}-container`);
+
+        // Take only the first 6 movies if there are more
+        const moviesToDisplay = movies.slice(0, 6);
+
+        moviesToDisplay.forEach((movie) => {
+          const card = createMovieCard(movie);
+          container.appendChild(card);
+        });
+      }
+
+      // Populate Ghibli and Marvel sections with movie data
+      populateFilmSection("ghibli", ghibliFilms);
+      populateFilmSection("marvel", marvelFilms); */
+    </script>
+  </body>
+</html>

@@ -1,5 +1,4 @@
 import { movies } from "./movie.js";
-import { latestMovies } from "./latestmovie.js";
 
 // Function to count movies by year
 function countMoviesByYear(year) {
