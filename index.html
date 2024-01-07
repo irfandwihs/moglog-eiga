@@ -6,296 +6,289 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link
       rel="shortcut icon"
-      href="./assets/images/logo.webp"
-      type="image/png"
+      style="width: 24px; height: 24px"
+      href="https://iili.io/Ht4kAhv.md.webp"
+      type="image/x-icon"
     />
-    <title>MogEi</title>
-
+    <title>Movie GPT</title>
     <link rel="stylesheet" href="./assets/css/main.css" />
-    <link rel="stylesheet" href="./assets/css/media_query.css" />
     <link rel="stylesheet" href="./assets/css/filter.css" />
-
-    <link
-      href="https://fonts.googleapis.com/css?family=Inter:100,200,300,regular,500,600,700,800,900"
-      rel="stylesheet"
-    />
-
+    <link rel="stylesheet" href="./assets/css/crsl.css" />
     <style>
-      .movie-card {
-        max-width: 175px;
+      #latestMovie {
+        position: relative;
+        margin-top: 20px;
+        height: 600px;
+        padding: 10px;
+        max-width: 1320px !important;
+        margin-left: auto;
+        margin-right: auto;
+        /* margin: auto auto; */
+        margin-bottom: 0px;
       }
 
-      .card-title {
-        white-space: nowrap;
+      header {
+        color: white;
+        padding: 15px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        max-width: 1320px;
+        position: relative;
+        margin: 0 auto; /* Center the header */
       }
 
-      .btn-detail {
-        margin-bottom: 20px;
+      .logo {
+        font-size: 1.5em;
+      }
+
+      .main-nav ul {
+        list-style: none;
+        display: flex;
+      }
+
+      .main-nav li {
+        margin-right: 20px;
+      }
+
+      .main-nav a {
+        text-decoration: none;
+        color: white;
+      }
+
+      .search-container {
+        display: flex;
+        align-items: center;
+      }
+
+      .search-container input {
+        padding: 5px;
+        margin-right: 5px;
+      }
+
+      .hamburger-menu {
+        display: none;
+        cursor: pointer;
+        font-size: 1.5em;
+      }
+
+      @media only screen and (max-width: 600px) {
+        .main-nav {
+          display: none;
+          flex-direction: column;
+          position: absolute;
+          top: 60px;
+          left: 0;
+          width: 100%;
+        }
+
+        .main-nav.show {
+          display: flex;
+        }
+
+        .main-nav li {
+          margin: 0;
+          text-align: center;
+          padding: 10px;
+        }
+
+        .search-container {
+          margin-top: 10px;
+          text-align: center;
+        }
+
+        .hamburger-menu {
+          display: block;
+        }
       }
     </style>
   </head>
-
   <body>
-    <div class="container">
-      <header class="">
-        <div class="navbar">
-          <!--
-          - menu button for small screen
-        -->
-          <button class="navbar-menu-btn">
-            <span class="one"></span>
-            <span class="two"></span>
-            <span class="three"></span>
-          </button>
-
-          <a href="#" class="navbar-brand">
-            <img src="./assets/images/logo.webp" alt="" />
-          </a>
-
-          <nav class="">
-            <ul class="navbar-nav">
-              <li><a href="#" class="navbar-link">Home</a></li>
-              <li><a href="#category" class="navbar-link">Category</a></li>
-            </ul>
-          </nav>
-
-          <div class="navbar-actions">
-            <input
-              style="
-                background: #fff;
-                border: none;
-                outline: none;
-                box-shadow: 0 5px 20px rgba(0, 0, 0, 0.05);
-                padding: 12px 20px;
-                border-radius: 10px;
-              "
-              type="text"
-              id="search-input"
-              placeholder="Search for a movie"
-            />
-            <button
-              id="search-button"
-              style="
-                padding: 12px;
-                color: white;
-                font-weight: 500;
-                background-color: hsl(214, 84%, 56%);
-                border-radius: 4px;
-              "
+    <!-- <header class="container">
+      <div class="logo">
+        <img
+          style="width: 32px; height: 32px"
+          src="https://iili.io/Ht4kAhv.md.webp"
+          alt=""
+        />
+      </div>
+      <div>
+        <a href="belum.html" style="text-decoration: none; color: white"
+          >haven't watched</a
+        >
+      </div>
+      <div class="search-container">
+        <input type="text" id="search-input" placeholder="Search by title..." />
+        <button id="search-button">Search</button>
+      </div>
+    </header> -->
+    <header>
+      <div class="logo">
+        <img
+          style="width: 32px; height: 32px"
+          src="https://iili.io/Ht4kAhv.md.webp"
+          alt=""
+        />
+      </div>
+      <nav class="main-nav">
+        <ul>
+          <li>
+            <a href="special.html" style="text-decoration: none; color: white"
+              >Special</a
             >
-              Search
-            </button>
+          </li>
+          <li>
+            <a href="belum.html" style="text-decoration: none; color: white"
+              >Other</a
+            >
+          </li>
+        </ul>
+      </nav>
+      <div class="search-container">
+        <input type="text" id="search-input" placeholder="Search by title..." />
+        <button id="search-button">Search</button>
+      </div>
+      <div class="hamburger-menu">&#9776;</div>
+    </header>
 
-            <!--
-            - search button for small screen
-          -->
+    <div class="filter-container">
+      <label for="genre-filter"></label>
+      <select id="genre-filter">
+        <option value="all">All Genres</option>
+        <option value="action">Action</option>
+        <option value="adventure">Adventure</option>
+        <option value="animation">Animation</option>
+        <option value="biography">Biography</option>
+        <option value="comedy">Comedy</option>
+        <option value="crime">Crime</option>
+        <option value="documentary">Documentary</option>
+        <option value="drama">Drama</option>
+        <option value="fantasy">Fantasy</option>
+        <option value="history">History</option>
+        <option value="horror">Horror</option>
+        <option value="music">Music</option>
+        <option value="musical">Musical</option>
+        <option value="mystery">Mystery</option>
+        <option value="romance">Romance</option>
+        <option value="sci-fi">Sci-Fi</option>
+        <option value="short">Short</option>
+        <option value="sport">Sport</option>
+        <option value="thriller">Thriller</option>
+        <option value="war">War</option>
+        <!-- Add more genres as needed -->
+      </select>
 
-            <!-- <button class="navbar-search-btn">
-              <ion-icon name="search-outline"></ion-icon>
-            </button> -->
-          </div>
-        </div>
-      </header>
+      <label for="country-filter"></label>
+      <select id="country-filter">
+        <option value="all">All Countries</option>
+        <option value="usa">USA</option>
+        <option value="cina">Cina</option>
+        <option value="denmark">Denmark</option>
+        <option value="filipina">Filipina</option>
+        <option value="german">German</option>
+        <option value="india">India</option>
+        <option value="indonesia">Indonesia</option>
+        <option value="inggris">Inggris</option>
+        <option value="islandia">Islandia</option>
+        <option value="irlandia">Irlandia</option>
+        <option value="japan">Japan</option>
+        <option value="kazakhstan">Kazakhstan</option>
+        <option value="korea">Korea</option>
+        <option value="mesir">Mesir</option>
+        <option value="perancis">Perancis</option>
+        <option value="rusia">Rusia</option>
+        <option value="spanyol">Spanyol</option>
+        <option value="taiwan">Taiwan</option>
+        <option value="thailand">Thailand</option>
+        <option value="tunisia">Tunisia</option>
+        <option value="ukraina">Ukraina</option>
+        <option value="vietnam">Vietnam</option>
+        <!-- Add more countries as needed -->
+      </select>
 
-      <!--
-      - MAIN SECTION
-    -->
-      <main>
-        <!--
-        - #MOVIES SECTION
-      -->
-
-        <section class="movies">
-          <!--
-          - filter bar
-        -->
-          <div class="filter-bar">
-            <!-- <br /> -->
-            <div class="lok" style="display: flex; flex-wrap: wrap">
-              <div class="dropdown">
-                <input
-                  type="text"
-                  class="textBox"
-                  placeholder="Filter Genre"
-                  readonly
-                />
-                <div class="option" id="all">
-                  <div onclick="handleFilterByCategory('all', 'All Genre')">
-                    All Genre
-                  </div>
-                  <div onclick="handleFilterByCategory('action', 'Action')">
-                    Action
-                  </div>
-                  <div
-                    onclick="handleFilterByCategory('adventure', 'Adventure')"
-                  >
-                    Adventure
-                  </div>
-                  <div
-                    onclick="handleFilterByCategory('animation', 'Animation')"
-                  >
-                    Animation
-                  </div>
-                  <div
-                    onclick="handleFilterByCategory('biography', 'Biography')"
-                  >
-                    Biography
-                  </div>
-                  <div onclick="handleFilterByCategory('comedy', 'Comedy')">
-                    Comedy
-                  </div>
-                  <div onclick="handleFilterByCategory('crime', 'Crime')">
-                    Crime
-                  </div>
-                  <div onclick="handleFilterByCategory('drama', 'Drama')">
-                    Drama
-                  </div>
-                  <div
-                    onclick="handleFilterByCategory('documentary', 'Documentary')"
-                  >
-                    Documentary
-                  </div>
-                  <div onclick="handleFilterByCategory('fantasy', 'Fantasy')">
-                    Fantasy
-                  </div>
-                  <div onclick="handleFilterByCategory('horror', 'Horror')">
-                    Horror
-                  </div>
-                  <div onclick="handleFilterByCategory('romance', 'Romance')">
-                    Romance
-                  </div>
-                  <div onclick="handleFilterByCategory('sci-fi', 'Sci-Fi')">
-                    Sci-Fi
-                  </div>
-                  <div onclick="handleFilterByCategory('thriller', 'Thriller')">
-                    Thriller
-                  </div>
-                  <div onclick="handleFilterByCategory('war', 'War')">War</div>
-                </div>
-              </div>
-              <!-- <div class="dropdown">
-                <input
-                  type="text"
-                  class="textBox"
-                  placeholder="Filter Genre"
-                  readonly
-                />
-                <div class="option" id="all">
-                  <div data-option="all">All Genre</div>
-                  <div data-option="action">Action</div>
-                  <div data-option="adventure">Adventure</div>
-                  <div data-option="animation">Animation</div>
-                  <div data-option="biography">Biography</div>
-                  <div data-option="comedy">Comedy</div>
-                  <div data-option="crime">Crime</div>
-                  <div data-option="drama">Drama</div>
-                  <div data-option="documentary">Documentary</div>
-                  <div data-option="fantasy">Fantasy</div>
-                  <div data-option="horror">Horror</div>
-                  <div data-option="romance">Romance</div>
-                  <div data-option="sci-fi">Sci-Fi</div>
-                  <div data-option="thriller">Thriller</div>
-                  <div data-option="war">War</div>
-                </div>
-              </div> -->
-
-              <!-- filter tahun  -->
-              <div class="dropdown filter-year" style="margin-left: 15px">
-                <input
-                  type="text"
-                  class="textBox"
-                  id="filter-year"
-                  placeholder="Filter Year"
-                  readonly
-                />
-                <div class="option" id="all">
-                  <div onclick="handleFilterByCategory('2022', 'filter-year')">
-                    2022
-                  </div>
-                  <div onclick="handleFilterByCategory('2021', 'filter-year')">
-                    2021
-                  </div>
-                  <div onclick="handleFilterByCategory('2020', 'filter-year')">
-                    2020
-                  </div>
-                  <div onclick="handleFilterByCategory('2019', 'filter-year' )">
-                    2019
-                  </div>
-                  <div onclick="handleFilterByCategory('2018', 'filter-year' )">
-                    2018
-                  </div>
-                  <div onclick="handleFilterByCategory('2017', 'filter-year' )">
-                    2017
-                  </div>
-                  <div onclick="handleFilterByCategory('2016', 'filter-year' )">
-                    2016
-                  </div>
-                  <div onclick="handleFilterByCategory('2015', 'filter-year' )">
-                    2015
-                  </div>
-                  <div onclick="handleFilterByCategory('2014', 'filter-year' )">
-                    2014
-                  </div>
-                  <div onclick="handleFilterByCategory('2013', 'filter-year' )">
-                    2013
-                  </div>
-                  <div onclick="handleFilterByCategory('2012', 'filter-year' )">
-                    2012
-                  </div>
-                  <div onclick="handleFilterByCategory('2011', 'filter-year' )">
-                    2011
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <!--
-          - movies grid
-        -->
-          <div class="movies-grid">
-            <div
-              id="movie-grid"
-              class="movie-grid"
-              style="
-                display: flex !important;
-                flex-wrap: wrap !important;
-                justify-content: space-around !important;
-                align-items: flex-start !important;
-                overflow: hidden !important;
-                text-overflow: ellipsis !important;
-                gap: 10px !important;
-              "
-              id="search-results"
-            ></div>
-            <div class="movie-grid" id="movie-grid"></div>
-            <div
-              id="movie-grid"
-              class="movie-grid"
-              style="
-                display: flex !important;
-                flex-wrap: wrap !important;
-                justify-content: space-around !important;
-                align-items: flex-start !important;
-                overflow: hidden !important;
-                text-overflow: ellipsis !important;
-                gap: 10px !important;
-              "
-            ></div>
-          </div>
-        </section>
-      </main>
-      <button onclick="topFunction()" id="back-to-top-btn" title="Go to top">
-        Top
-      </button>
-      <footer></footer>
+      <label for="year-filter"></label>
+      <select id="year-filter">
+        <option value="all">All Years</option>
+        <option value="2023">2023</option>
+        <option value="2022">2022</option>
+        <option value="2021">2021</option>
+        <option value="2020">2020</option>
+        <option value="2019">2019</option>
+        <option value="2018">2018</option>
+        <option value="2017">2017</option>
+        <option value="2016">2016</option>
+        <option value="2015">2015</option>
+        <option value="2014">2014</option>
+        <option value="2013">2013</option>
+        <option value="2012">2012</option>
+        <option value="2011">2011</option>
+        <option value="2010">2010</option>
+        <option value="2009">2009</option>
+        <option value="2008">2008</option>
+        <option value="2007">2007</option>
+        <option value="2006">2006</option>
+        <option value="2005">2005</option>
+        <option value="2003">2003</option>
+        <option value="2001">2001</option>
+        <option value="1994">1994</option>
+        <!-- Add more years as needed -->
+      </select>
     </div>
 
-    <!-- <script src="./assets/page/2023.js"></script> -->
-    <!-- <script src="./assets/js/main.js"></script> -->
-    <script src="./assets/js/lst.js"></script>
-    <script src="./assets/js/scpt.js"></script>
+    <!-- Elemen HTML untuk menampilkan data terakhir -->
+    <div id="latestMovie">
+      <div
+        style="
+          display: inline-block;
+          position: absolute;
+          width: 100%;
+          height: 100%;
+        "
+      >
+        <ul class="slider autoplay" id="movieSlider"></ul>
+      </div>
+    </div>
+    <!-- <div class="batas">
+      <div class="carou">
+        <ul class="slider autoplay" id="movieSlider"></ul>
+      </div>
+    </div> -->
 
+    <main
+      style="
+        white-space: nowrap !important;
+        overflow: hidden !important;
+        text-overflow: ellipsis !important;
+      "
+    >
+      <div
+        style="
+          white-space: nowrap !important;
+          overflow: hidden !important;
+          text-overflow: ellipsis !important;
+        "
+        class="container"
+      >
+        <div
+          style="
+            white-space: nowrap !important;
+            overflow: hidden !important;
+            text-overflow: ellipsis !important;
+          "
+          id="movie-container"
+          class="movie-grid movie-container"
+        >
+          <!-- Movie cards will be appended here -->
+        </div>
+      </div>
+      <button id="scrollToTop" class="scroll-to-top">
+        <ion-icon name="arrow-up-outline"></ion-icon>
+      </button>
+    </main>
+
+    <script type="module" src="./assets/js/movie.js"></script>
+    <script type="module" src="./assets/js/script.js"></script>
+    <script type="module" src="./assets/js/crsl.js"></script>
     <script
       type="module"
       src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"
@@ -305,30 +298,14 @@
       src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"
     ></script>
     <script>
-      // Get the button element
-      var mybutton = document.getElementById("back-to-top-btn");
+      document.addEventListener("DOMContentLoaded", function () {
+        const hamburgerMenu = document.querySelector(".hamburger-menu");
+        const mainNav = document.querySelector(".main-nav");
 
-      // When the user scrolls down 20px from the top of the document, show the button
-      window.onscroll = function () {
-        scrollFunction();
-      };
-
-      function scrollFunction() {
-        if (
-          document.body.scrollTop > 20 ||
-          document.documentElement.scrollTop > 20
-        ) {
-          mybutton.style.display = "block";
-        } else {
-          mybutton.style.display = "none";
-        }
-      }
-
-      // When the user clicks on the button, scroll to the top of the document
-      function topFunction() {
-        document.body.scrollTop = 0; // For Safari
-        document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
-      }
+        hamburgerMenu.addEventListener("click", function () {
+          mainNav.classList.toggle("show");
+        });
+      });
     </script>
   </body>
 </html>

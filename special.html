@@ -11,8 +11,8 @@
       type="image/x-icon"
     />
     <title>Special Page</title>
-    <link rel="stylesheet" href="./movie-gpt/assets/css/main.css" />
-    <link rel="stylesheet" href="./movie-gpt/assets/css/filter.css" />
+    <link rel="stylesheet" href="./assets/css/main.css" />
+    <link rel="stylesheet" href="./assets/css/filter.css" />
     <style>
       header {
         color: white;
@@ -95,6 +95,7 @@
         padding: 20px;
         display: flex;
         overflow-x: auto; /* Add this line to enable horizontal scrolling if there are more than 6 films */
+        margin-bottom: 20px;
       }
 
       h2 {
@@ -128,6 +129,15 @@
           width: calc(50% - 20px);
         }
       }
+
+      .ghibli-section {
+        margin-bottom: 20px;
+      }
+
+      .movie-card {
+        height: 70px;
+        /* Add other styles as needed */
+      }
     </style>
   </head>
   <body>
@@ -160,21 +170,25 @@
       <div class="hamburger-menu">&#9776;</div>
     </header>
 
-    <section class="film-section" id="ghibli">
+    <section class="film-section ghibli-section" id="ghibli">
       <h2>Ghibli</h2>
       <div class="film-container" id="ghibli-container"></div>
-      <p class="more">More</p>
+      <a class="more" href="./ghibli.html">More</a>
     </section>
 
-    <section class="film-section" id="marvel">
+    <section class="film-cards" id="film-cards">
+      <!-- Movie cards go here -->
+    </section>
+
+    <section class="film-section marvel-section" id="marvel">
       <h2>Marvel</h2>
       <div class="film-container" id="marvel-container"></div>
-      <p class="more">More</p>
+      <a class="more" href="#">More</a>
     </section>
 
-    <script type="module" src="./movie-gpt/assets/js/spcl.js"></script>
-    <script type="module" src="./movie-gpt/assets/js/ghibli.js"></script>
-    <script type="module" src="./movie-gpt/assets/js/marvel.js"></script>
+    <!-- <script type="module" src="./assets/js/spcl.js"></script> -->
+    <script type="module" src="./assets/js/ghibli.js"></script>
+    <script type="module" src="./assets/js/marvel.js"></script>
     <script
       type="module"
       src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"
@@ -211,6 +225,186 @@
       // Populate Ghibli and Marvel sections with movie data
       populateFilmSection("ghibli", ghibliFilms);
       populateFilmSection("marvel", marvelFilms); */
+      // Function to create a film card using the provided movie data
+      function createMovieCard(movie) {
+        const card = document.createElement("div");
+        card.classList.add("film-card");
+
+        // Create the poster image
+        const poster = document.createElement("img");
+        poster.classList.add("poster");
+        poster.src = movie.poster;
+        card.appendChild(poster);
+
+        // Create the year overlay with icon
+        const yearOverlay = document.createElement("div");
+        yearOverlay.classList.add("overlay-year");
+        yearOverlay.innerHTML = `
+     <ion-icon name="calendar-outline"></ion-icon>
+     ${movie.year}
+   `;
+        card.appendChild(yearOverlay);
+
+        // Create the rating overlay with icon
+        const ratingOverlay = document.createElement("div");
+        ratingOverlay.classList.add("overlay-rating");
+        ratingOverlay.innerHTML = `
+     <ion-icon name="star-outline"></ion-icon>
+     ${movie.rating}
+   `;
+        card.appendChild(ratingOverlay);
+
+        // Create the movie title
+        const title = document.createElement("h3");
+        title.textContent = movie.title;
+        title.classList.add("ellipsis");
+        card.appendChild(title);
+
+        // Create the movie details
+        const details = document.createElement("div");
+        details.classList.add("movie-details");
+        details.innerHTML = `
+     <p class="ellipsis">${movie.genre}</p>
+   `;
+        card.appendChild(details);
+
+        // Create the detail button
+        const detailButton = document.createElement("a");
+        detailButton.href = `./movie-gpt/detail.html?title=${encodeURIComponent(
+          movie.title
+        )}`;
+        detailButton.textContent = "Details";
+        detailButton.setAttribute("data-movie-title", movie.title); // Use movie title as data attribute
+        detailButton.classList.add("btn-detail");
+        card.appendChild(detailButton);
+
+        return card;
+      }
+
+      // Function to populate a film section with movie data
+      function populateFilmSection(sectionId, movies) {
+        const container = document.getElementById(`${sectionId}-container`);
+        movies.forEach((movie) => {
+          const card = createMovieCard(movie);
+          container.appendChild(card);
+        });
+      }
+
+      // Mock data for Ghibli and Marvel films
+      const ghibliFilms = [
+        {
+          title: "The Boy and the Heron",
+          year: 2023,
+          rating: 7.6,
+          genre: "Animation/Adventure/Drama",
+          genres: ["animation", "adventure", "drama"],
+          country: "Japan",
+          countrys: ["japan"],
+          poster:
+            "https://drive.google.com/uc?export=view&id=1Sy0m93DPt2hW5qYMXizJZ0avotJz7BuQ",
+          href: "./movie-gpt/detail.html",
+          embed: "https://www.youtube.com/embed/t5khm-VjEu4",
+          synopsis:
+            "A young boy named Mahito yearning for his mother ventures into a world shared by the living and the dead. There, death comes to an end, and life finds a new beginning. A semi-autobiographical fantasy from the mind of Hayao Miyazaki.",
+          duration: "2h 4m",
+        },
+        {
+          title: "Earwig and the Witch",
+          year: 2020,
+          rating: 4.8,
+          genre: "Animation/Adventure/Family",
+          genres: ["animation", "adventure", "family"],
+          country: "Japan",
+          countrys: ["japan"],
+          poster:
+            "https://drive.google.com/uc?export=view&id=1IpbpgqvC740impQxFFGLCi7T6ZJqhnI1",
+          href: "/movie-gpt/detail.html",
+          embed: "https://www.youtube.com/embed/_PfhotgXEeQ",
+          synopsis:
+            "An orphan girl, Earwig, is adopted by a witch and comes home to a spooky house filled with mystery and magic.",
+          duration: "1h 22m",
+        },
+        {
+          title: "The Red Turtle",
+          year: 2016,
+          rating: 7.5,
+          genre: "Animation/Drama/Family",
+          genres: ["animation", "drama", "family"],
+          country: "Japan",
+          countrys: ["japan"],
+          poster:
+            "https://drive.google.com/uc?export=view&id=1Hc_CfZoB8iC2SneMN0RrTOi-AIHpR3DH",
+          href: "./movie-gpt/detail.html",
+          embed: "https://www.youtube.com/embed/4lwrzNqEUOM",
+          synopsis:
+            "A man is shipwrecked on a deserted island and encounters a big red turtle, which changes his life.",
+          duration: "1h 20m",
+        },
+        {
+          title: "When Marnie Was There",
+          year: 2014,
+          rating: 7.6,
+          genre: "Animation/Drama/Family",
+          genres: ["animation", "drama", "family"],
+          country: "Japan",
+          countrys: ["japan"],
+          poster:
+            "https://drive.google.com/uc?export=view&id=1G0RpuM9B05ZKUAQH08CBJ04waFessS8i",
+          href: "./movie-gpt/detail.html",
+          embed: "https://www.youtube.com/embed/jjmrxqcQdYg",
+          synopsis:
+            "Anna, a shy 12-year-old girl, is sent to spend time with her aunt and uncle who live in the countryside, where she meets Marnie. The two become best friends. But Anna gradually discovers that Marnie is not quite who she appears to be.",
+          duration: "1h 43m",
+        },
+        {
+          title: "The Tale of The Princess Kaguya",
+          year: 2013,
+          rating: 8.0,
+          genre: "Animation/Drama/Family",
+          genres: ["animation", "drama", "family"],
+          country: "Japan",
+          countrys: ["japan"],
+          poster:
+            "https://drive.google.com/uc?export=view&id=1L7afE-XkBX69Ua3YDbsWqvbeVWMcu43L",
+          href: "./movie-gpt/detail.html",
+          embed: "https://www.youtube.com/embed/W71mtorCZDw",
+          synopsis:
+            "Kaguya is a beautiful young woman coveted by five nobles. To try to avoid marrying a stranger she doesn't love, she sends her suitors on seemingly impossible tasks. But she will have to face her fate and punishment for her choices.",
+          duration: "2h 17m",
+        },
+        {
+          title: "The Wind Rises",
+          year: 2013,
+          rating: 7.7,
+          genre: "Animation/Biography/Drama",
+          genres: ["animation", "biography", "drama"],
+          country: "Japan",
+          countrys: ["japan"],
+          poster:
+            "https://drive.google.com/uc?export=view&id=1uOEedqKWHfRI963v4H3i-OvFv8RdAWFN",
+          href: "./movie-gpt/detail.html",
+          embed: "https://www.youtube.com/embed/PhHoCnRg1Yw",
+          synopsis:
+            "A look at the life of Jiro Horikoshi, the man who designed Japanese fighter planes during World War II.",
+          duration: "2h 6m",
+        },
+        // Add more movie data as needed
+      ];
+
+      const marvelFilms = [
+        {
+          title: "Film A",
+          year: 2023,
+          rating: 9.0,
+          genre: "Action/Adventure",
+          poster: "path/to/posterA.jpg",
+        },
+        // Add more movie data as needed
+      ];
+
+      // Populate Ghibli and Marvel sections with movie data
+      populateFilmSection("ghibli", ghibliFilms);
+      populateFilmSection("marvel", marvelFilms);
     </script>
   </body>
 </html>
