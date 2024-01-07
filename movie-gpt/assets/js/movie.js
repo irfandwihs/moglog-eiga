@@ -406,6 +406,22 @@ const movies = [
     duration: "2h 4m",
   },
   {
+    title: "Hell Camp: Teen Nightmare",
+    year: 2023,
+    rating: 6.0,
+    genre: "Documentary",
+    genres: ["documentary"],
+    country: "USA",
+    countrys: ["usa"],
+    poster:
+      "https://drive.google.com/uc?export=view&id=1ZRQujj6JJ270Ay3RLFEdhDPV54P_VFsa",
+    href: "./movie-gpt/detail.html",
+    embed: "https://www.youtube.com/embed/f6GuNxVvapM",
+    synopsis:
+      "Out-of-control teens across America were sent to a therapy camp in the harsh Utah desert. The conditions were brutal, but the staff were even worse.",
+    duration: "1h 30m",
+  },
+  {
     title: "Hello Ghost",
     year: 2023,
     rating: 6.3,
@@ -1180,6 +1196,22 @@ const movies = [
     duration: "1h 40m",
   },
   {
+    title: "Suzzanna : Malam Jum'at Kliwon",
+    year: 2023,
+    rating: 5.7,
+    genre: "Drama/Fantasy/Horror",
+    genres: ["drama", "fantasy", "horror"],
+    country: "Indonesia",
+    countrys: ["indonesia"],
+    poster:
+      "https://drive.google.com/uc?export=view&id=1sykoTj02oQbTe79wQuSuPa_B1_K28Z0i",
+    href: "/movie-gpt/detail.html",
+    embed: "https://www.youtube.com/embed/W3OiJi8UyUk",
+    synopsis:
+      "After a shaman casts a curse on her, a woman is killed by dark sorcery and resurrected as a wrathful spirit who seeks to reunite with her newborn baby.",
+    duration: "2h 10m",
+  },
+  {
     title: "Talk To Me",
     year: 2023,
     rating: 7.3,
@@ -1193,6 +1225,22 @@ const movies = [
     synopsis:
       "When a group of friends discover how to conjure spirits using an embalmed hand, they become hooked on the new thrill, until one of them goes too far and unleashes terrifying supernatural forces.",
     duration: "1h 34m",
+  },
+  {
+    title: "Taeter Burger",
+    year: 2023,
+    rating: 5.4,
+    genre: "Action/Sci-Fi",
+    genres: ["action", "scifi"],
+    country: "USA",
+    countrys: ["usa"],
+    poster:
+      "https://drive.google.com/uc?export=view&id=1mPUbJ9swO3SFr8wP29VskBrYaEardX2Y",
+    href: "./movie-gpt/detail.html",
+    embed: "https://www.youtube.com/embed/r8IJU9st950",
+    synopsis:
+      "Year 2161: one android and three employees of a human-meat fast food chain, must fight an army of terrorist created mutants",
+    duration: "1h 15m",
   },
   {
     title: "Teenage Mutant Ninja Turtles: Mutant Mayhem",
