@@ -165,6 +165,22 @@ const movies = [
     duration: "2h 11m",
   },
   {
+    title: "Chicken Run: Dawn of the Nugget",
+    year: 2023,
+    rating: 6.4,
+    genre: "Animation/Adventure/Comedy",
+    genres: ["animation", "adventure", "comedy"],
+    country: "USA",
+    countrys: ["usa"],
+    poster:
+      "https://m.media-amazon.com/images/M/MV5BMzNhZTkyMWItMTAwZS00ZGJkLTlkMTctNjc5ZDdkMDNmMmE1XkEyXkFqcGdeQXVyMTA5ODEyNTc5._V1_.jpg",
+    href: "./movie-gpt/detail.html",
+    embed: "https://www.youtube.com/embed/_-Kz67kea8Q",
+    synopsis:
+      "Having pulled off an escape from Tweedy's farm, Ginger has found a peaceful island sanctuary for the whole flock. But back on the mainland the whole of chicken-kind faces a new threat, and Ginger and her team decide to break in.",
+    duration: "1h 41m",
+  },
+  {
     title: "Clock",
     year: 2023,
     rating: 5.0,
@@ -768,6 +784,22 @@ const movies = [
     duration: "2h 46m",
   },
   {
+    title: "Monster",
+    year: 2023,
+    rating: 5.8,
+    genre: "Drama/Thriller",
+    genres: ["drama", "thriller"],
+    country: "Japan",
+    countrys: ["japan"],
+    poster:
+      "https://m.media-amazon.com/images/M/MV5BNDA3NTQ1YWItZDg4Ny00ZDYxLWJmZDYtODY4MTcwYWFlMDYwXkEyXkFqcGdeQXVyMDc5ODIzMw@@._V1_.jpg",
+    href: "./movie-gpt/detail.html",
+    embed: "https://www.youtube.com/embed/cOpWDxxiwoE",
+    synopsis:
+      "A mother demands answers from teacher when her son begins acting strangely.",
+    duration: "2h 1m",
+  },
+  {
     title: "Moscow Mission",
     year: 2023,
     rating: 5.8,
@@ -1166,6 +1198,22 @@ const movies = [
     duration: "2h 4m",
   },
   {
+    title: "Space Kids",
+    year: 2023,
+    rating: 5.5,
+    genre: "Animation",
+    genres: ["animation"],
+    country: "USA",
+    countrys: ["usa"],
+    poster:
+      "https://m.media-amazon.com/images/M/MV5BYTZlOTQzMWYtZGFkZS00ZjU3LTlmNzgtOGIwZjY2YjVjZTE0XkEyXkFqcGdeQXVyMTE4NTI5NTA@._V1_.jpg",
+    href: "./movie-gpt/detail.html",
+    embed: "https://www.youtube.com/embed/dDMZNtGAbl4",
+    synopsis:
+      "A planet is converted into a desert wasteland because its precious plant, containing essential energy, was destroyed. Three kids believe that hope still exists and face all odds to find the last remaining plant.",
+    duration: "1h 16m",
+  },
+  {
     title: "SpongeBob SquarePants Presents the Tidal Zone",
     year: 2023,
     rating: 5.0,
@@ -1271,6 +1319,38 @@ const movies = [
     synopsis:
       "The story of how one of the world's most popular video games found its way to players around the globe. Businessman Henk Rogers and Tetris inventor Alexey Pajitnov join forces in the USSR, risking it all to bring Tetris to the masses.",
     duration: "1h 58m",
+  },
+  {
+    title: "The Abandoned",
+    year: 2023,
+    rating: 6.4,
+    genre: "Crime/Mystery/Thriller",
+    genres: ["crime", "mystery", "thriller"],
+    country: "Taiwan",
+    countrys: ["taiwan"],
+    poster:
+      "https://m.media-amazon.com/images/M/MV5BNzY2NDAwMDItYTgxMS00NGZkLTkxODktMmQ1NDZmMjVjOTBlXkEyXkFqcGdeQXVyNTg5NjQxMjc@._V1_.jpg",
+    href: "./movie-gpt/detail.html",
+    embed: "https://www.youtube.com/embed/GAJ9T7qBThc",
+    synopsis:
+      "When a mysterious corpse is found in a river, a distressed police officer delves into a string of grisly murders as danger quickly approaches.",
+    duration: "1h 44m",
+  },
+  {
+    title: "The Baker",
+    year: 2023,
+    rating: 5.8,
+    genre: "Action/Crime/Drama",
+    genres: ["action", "crime", "drama"],
+    country: "USA",
+    countrys: ["usa"],
+    poster:
+      "https://m.media-amazon.com/images/M/MV5BZmQyMWMyYWUtNDFjNC00MmI4LWEwYzgtMDE5ZjJmYmY0MmQ0XkEyXkFqcGdeQXVyNTE0NDY2Ng@@._V1_.jpg",
+    href: "./movie-gpt/detail.html",
+    embed: "https://www.youtube.com/embed/LjTAWiC6axA",
+    synopsis:
+      "An elderly baker must do everything he can to protect his granddaughter from gangsters.",
+    duration: "1h 40m",
   },
   {
     title: "The Blackening",
@@ -1574,6 +1654,22 @@ const movies = [
     synopsis:
       "Exploring how one man's brilliance, hubris and relentless drive changed the nature of war forever.",
     duration: "1h 27m",
+  },
+  {
+    title: "Toxic Parents",
+    year: 2023,
+    rating: 6.3,
+    genre: "Drama/Mystery",
+    genres: ["drama", "mystery"],
+    country: "Korea",
+    countrys: ["korea"],
+    poster:
+      "https://m.media-amazon.com/images/M/MV5BNjY2NGM0ZWUtMTE3ZC00YmVjLThhNzktMjg5YjU5NzkxYTU4XkEyXkFqcGdeQXVyNjI4NDY5ODM@._V1_.jpg",
+    href: "./movie-gpt/detail.html",
+    embed: "https://www.youtube.com/embed/axPKkVYkyS8",
+    synopsis:
+      "A student's death at a campsite prompts questions. Detectives find the mother's actions impacted her daughter as she suspects others close to the girl. The film explores uncovering the complex tragedy.",
+    duration: "1h 44m",
   },
   {
     title: "Transformers: Rise of the Beasts",
@@ -2661,7 +2757,8 @@ const movies = [
     genres: ["animation", "adventure", "comedy"],
     country: "USA",
     countrys: ["usa"],
-    poster: "https://iili.io/HZbnuVt.md.webp",
+    poster:
+      "https://m.media-amazon.com/images/M/MV5BOTA1YWEyNTYtN2EzNC00YWM3LThmOWUtY2I3YTA0YjkyZmZjXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg",
     href: "./movie-gpt/detail.html",
     embed: "https://www.youtube.com/embed/0giW36Fb69c",
     synopsis:
@@ -2742,6 +2839,22 @@ const movies = [
     synopsis:
       "The residents of a lonely gulch in inland California bear witness to an uncanny and chilling discovery.",
     duration: "2h 10m",
+  },
+  {
+    title: "Northspur",
+    year: 2022,
+    rating: 4.9,
+    genre: "Action/Drama/Thriller",
+    genres: ["action", "drama", "thriller"],
+    country: "USA",
+    countrys: ["usa"],
+    poster:
+      "https://m.media-amazon.com/images/M/MV5BZDhkNGE1M2MtNzM1Yi00NDgzLThhMGQtZGQzOGY5NDlhMjZhXkEyXkFqcGdeQXVyMjI3MjYzMjA@._V1_.jpg",
+    href: "./movie-gpt/detail.html",
+    embed: "https://www.youtube.com/embed/jtHqv7WqiCs",
+    synopsis:
+      "In a violent, post-pandemic world, a peace-loving man is forced on a desperate journey to find life-saving drugs for his wife - but to get them he must first help an ornery old man defend his cabin against all-comers.",
+    duration: "1h 40m",
   },
   {
     title: "Old People",
