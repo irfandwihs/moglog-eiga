@@ -644,19 +644,36 @@ const moviess = [
     duration: "1h 30m",
   },
   {
-    title: "The Innocents",
-    year: 2021,
-    rating: 7.0,
-    genre: "Drama/Fantasy/Horror",
-    genres: ["drama", "fantasy", "horror"],
-    country: "Norwegia",
-    countrys: ["norwegia"],
-    poster: "https://iili.io/HyKVy5G.md.webp",
+    title: "Anonymous",
+    year: 2011,
+    rating: 6.8,
+    genre: "Drama/Thriller",
+    genres: ["drama", "thriller"],
+    country: "USA",
+    countrys: ["usa"],
+    poster:
+      "https://m.media-amazon.com/images/M/MV5BMjAxOTA5MTMxOV5BMl5BanBnXkFtZTcwNDI4MzU0NQ@@._V1_.jpg",
     href: "./movie-gpt/detail.html",
-    embed: "https://www.youtube.com/embed/DU3BR_9WMgI",
+    embed: "https://www.youtube.com/embed/uBmnkk0QW3Q",
     synopsis:
-      "During the bright Nordic summer, a group of children reveal their dark and mysterious powers when the adults aren't looking. In this original and gripping supernatural thriller, playtime takes a dangerous turn.",
-    duration: "1h 57m",
+      "The theory that it was in fact Edward De Vere, Earl of Oxford, who penned Shakespeare's plays. Set against the backdrop of the succession of Queen Elizabeth I and the Essex rebellion against her.",
+    duration: "2h 9m",
+  },
+  {
+    title: "The King",
+    year: 2019,
+    rating: 7.3,
+    genre: "Biography/Drama/History",
+    genres: ["biography", "drama", "history"],
+    country: "Inggris",
+    countrys: ["inggris"],
+    poster:
+      "https://m.media-amazon.com/images/M/MV5BMWZkNzNlMzMtMjM5ZS00MWYzLWFmMmUtMjE1ODM3NjBlODA5XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    href: "./movie-gpt/detail.html",
+    embed: "https://www.youtube.com/embed/svVykTznk9Q",
+    synopsis:
+      "Hal, wayward prince and heir to the English throne, is crowned King Henry V after his tyrannical father dies. Now the young king must navigate palace politics, the war his father left behind, and the emotional strings of his past life.",
+    duration: "2h 20m",
   },
 
   // Add more movies as desired

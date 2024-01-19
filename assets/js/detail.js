@@ -25,7 +25,7 @@ function displayMovieDetail(movie) {
         />
       </div>
       <div class="navbar">
-        <div class="home"><a href="https://pernahnontonfilm.netlify.app/gpt.html" style="text-decoration: none; color: #767d94;">Home</a></div>
+        <div class="home"><a href="https://pernahnontonfilm.netlify.app/index.html" style="text-decoration: none; color: #767d94;">Home</a></div>
       </div>
       <div class="trailer">
         <div class="rectangle-2">
@@ -40,7 +40,7 @@ function displayMovieDetail(movie) {
         </div>
       </div>
       <div class="title">
-        <div class="movie-gpt"><a href="https://pernahnontonfilm.netlify.app/gpt.html" style="text-decoration: none; color: #abdceb;">MovieGPT</a></div>
+        <div class="movie-gpt"><a href="https://pernahnontonfilm.netlify.app/index.html" style="text-decoration: none; color: #abdceb;">MovieGPT</a></div>
         <div style="color: #abdceb;">/</div>
         <div class="detail-page">Detail Page</div>
         <div class="black-berry">${movie.title}</div>

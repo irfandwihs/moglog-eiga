@@ -1,5 +1,37 @@
 const movies = [
   {
+    title: "Lift",
+    year: 2024,
+    rating: 5.4,
+    genre: "Action/Comedy/Crime",
+    genres: ["action", "comedy", "crime"],
+    country: "USA",
+    countrys: ["usa"],
+    poster:
+      "https://m.media-amazon.com/images/M/MV5BNTBlNmEwNzQtZTc5MC00YmVjLTk5NjgtMmM0NDFmZjJkZjYzXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_.jpg",
+    href: "/movie-gpt/detail.html",
+    embed: "https://www.youtube.com/embed/m2L-Sa_6MU0",
+    synopsis:
+      "Follows a master thief and his Interpol Agent ex-girlfriend who team up to steal $500 million in gold bullion being transported on an A380 passenger flight.",
+    duration: "1h 46m",
+  },
+  {
+    title: "Race for Glory: Audi vs. Lancia",
+    year: 2024,
+    rating: 5.7,
+    genre: "Biography/Drama/Sport",
+    genres: ["biography", "drama", "sport"],
+    country: "USA",
+    countrys: ["usa"],
+    poster:
+      "https://m.media-amazon.com/images/M/MV5BYzljZTI3YTgtNjJlMC00Zjg2LWE4YWItYzkxNGY0YzJkZTAxXkEyXkFqcGdeQXVyMTE3MjczNDc4._V1_.jpg",
+    href: "/movie-gpt/detail.html",
+    embed: "https://www.youtube.com/embed/EDjImq6gI1A",
+    synopsis:
+      "Inspired by true events that occurred during the fierce rivalry between Germany (Audi) and Italy (Lancia) at the 1983 Rally World Championships.",
+    duration: "1h 48m",
+  },
+  {
     title: "65",
     year: 2023,
     rating: 5.4,
@@ -5297,6 +5329,22 @@ const movies = [
     synopsis:
       "After a remote diamond mine collapses in far northern Canada, a 'big-rig' ice road driver must lead an impossible rescue mission over a frozen lake to save the trapped miners.",
     duration: "1h 49m",
+  },
+  {
+    title: "The Innocents",
+    year: 2021,
+    rating: 7.0,
+    genre: "Drama/Fantasy/Horror",
+    genres: ["drama", "fantasy", "horror"],
+    country: "Norwegia",
+    countrys: ["norwegia"],
+    poster:
+      "https://m.media-amazon.com/images/M/MV5BNDgwNGFmMDMtNGQzMC00Mjc2LWFhNzItYWIxMGJlM2Q2MzZlXkEyXkFqcGdeQXVyODA0MjgyNzM@._V1_.jpg",
+    href: "./movie-gpt/detail.html",
+    embed: "https://www.youtube.com/embed/DU3BR_9WMgI",
+    synopsis:
+      "During the bright Nordic summer, a group of children reveal their dark and mysterious powers when the adults aren't looking. In this original and gripping supernatural thriller, playtime takes a dangerous turn.",
+    duration: "1h 57m",
   },
   {
     title: "The Journey",
@@ -11208,6 +11256,7 @@ const movies = [
       "An orphan girl, Earwig, is adopted by a witch and comes home to a spooky house filled with mystery and magic.",
     duration: "1h 22m",
   },
+
   // Add more movies as desired
 ];
 
